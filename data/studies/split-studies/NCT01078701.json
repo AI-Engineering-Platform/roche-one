@@ -1,0 +1,234 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01078701",
+      "orgStudyIdInfo": {
+        "id": "GHB-CS07"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "EudraCT 2009-015902-20",
+          "type": "OTHER",
+          "domain": "EMEA"
+        }
+      ],
+      "organization": {
+        "fullName": "AVIR Green Hills Biotechnology AG",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Dose Finding Study of Single Dose GHB11L1 in Healthy Adults",
+      "officialTitle": "Randomised, Double-blind, Placebo-controlled, Phase IIa Dose Finding Study of Single Dose GHB11L1 in Healthy Adults",
+      "acronym": "GHB-CS07"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2011-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2009-12"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2010-05",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2010-05",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2010-03-01",
+      "studyFirstSubmitQcDate": "2010-03-01",
+      "studyFirstPostDateStruct": {
+        "date": "2010-03-02",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2011-01-04",
+      "lastUpdatePostDateStruct": {
+        "date": "2011-01-05",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "oldNameTitle": "Thomas Muster PhD, CEO/CSO",
+        "oldOrganization": "AVIR Green Hills Biotechnology AG"
+      },
+      "leadSponsor": {
+        "name": "AVIR Green Hills Biotechnology AG",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this phase IIa trial is to evaluate the immunogenicity of a single dose of GHB11L1 administered by liquid nasal spray for vaccination against influenza A (H1N1) virus.\n\nThis study is also performed to assess safety, tolerability and pharmacokinetics (shedding) of a single dose of GHB11L1 administered by liquid nasal spray.",
+      "detailedDescription": "GHB11L1 intends to provide a novel vaccination for influenza virus infection. 48 healthy volunteers will be included in this phase IIa study investigating three dose levels. 16 subjects will be randomised at a ratio of 3:1 for GHB11L1 or placebo.\n\nHealthy male volunteers, 18-50 years of age and seronegative with respect to the applied virus antigens (antibody titers \\<1:10 detected) will be randomised.\n\nGHB11L1 will be administered once on day 1. Follow-up visits will be performed on days 2, 8 and 29."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Influenza, Human"
+      ],
+      "keywords": [
+        "live attenuated flu vaccines",
+        "Influenza A (H1N1)",
+        "intranasal application",
+        "replication-deficient influenza virus"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 49,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "GHB11L1",
+          "type": "EXPERIMENTAL",
+          "description": "Dose levels: 6.0 log10 TCID50/volunteer, 6.5 log10 TCID50/volunteer and 7.0 log10 TCID50/volunteer",
+          "interventionNames": [
+            "Biological: GHB11L1"
+          ]
+        },
+        {
+          "label": "SPGN buffer",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "SPGN buffer administration by liquid nasal spray",
+          "interventionNames": [
+            "Biological: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "GHB11L1",
+          "description": "GHB11L1 administration by liquid nasal spray at doses of 6.0 log10, 6.5 log10 and 7.0 log10 TCID50/volunteer",
+          "armGroupLabels": [
+            "GHB11L1"
+          ],
+          "otherNames": [
+            "A/Brisbane/59/07(H1N1)-like delNS1 virus reassortant"
+          ]
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Placebo",
+          "description": "SPGN buffer",
+          "armGroupLabels": [
+            "SPGN buffer"
+          ],
+          "otherNames": [
+            "SPGN buffer"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Local and systemic immune response",
+          "timeFrame": "From baseline to day 29 (end of study)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Clinical signs and symptoms, laboratory tests Pharmacokinetics: qualitative assessment of viral recovery (shedding) in nasal mucosal samples.",
+          "timeFrame": "From written informed consent to 30 days after end of study"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Healthy male volunteers, 18-50 years\n* Seronegative for H1N1 (Influenza A/Brisbane/59/07 antibody titres \\<1:10 detected in haemagglutination inhibition assay)\n* Written informed consent to participate in this study\n\nExclusion Criteria:\n\n* Acute febrile illness (\\>37.0°C)\n* Signs of acute or chronic upper or lower tract respiratory illnesses (sneezing, cough, tonsillitis, otitis etc.)\n* History of severe atopy\n* Seasonal influenza vaccination in 2007/2008 and/or later seasons and/or pandemic influenza vaccination at any time\n* Known increased tendency of nose bleeding\n* Volunteers with clinically relevant abnormal paranasal anatomy\n* Volunteers with clinically relevant abnormal laboratory values\n* Simultaneous treatment with immunosuppressive drugs incl. Corticosteroids (≥2 weeks) within 4 weeks prior to study medication application\n* Clinically relevant history of renal, hepatic, GI, cardiovascular, haematological, skin, endocrine, neurological or immunological diseases\n* History of leukaemia or cancer\n* HIV or Hepatitis B or C seropositivity\n* Volunteers who underwent rhino or sinus surgery, or surgery of another traumatic injury of the nose within 30 days prior to application of study medication\n* Volunteers who have received antiviral drugs, treatment with immunoglobulins or blood transfusions, or an investigational drug within four weeks prior to study medication application\n* Volunteers who have received anti-inflammatory drugs 2 days prior to study medication application\n* Volunteers who are not likely to cope with the requirements of the study or with a significant physical or mental condition that may interfere with the completion of the study",
+      "healthyVolunteers": true,
+      "sex": "MALE",
+      "minimumAge": "18 Years",
+      "maximumAge": "50 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Volker Wacheck, MD",
+          "affiliation": "Medical University Vienna",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Medical University Vienna, Department of Clinical Pharmacology",
+          "city": "Vienna",
+          "zip": "A-1090",
+          "country": "Austria",
+          "geoPoint": {
+            "lat": 48.20849,
+            "lon": 16.37208
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D007251",
+          "term": "Influenza, Human"
+        },
+        {
+          "id": "D009976",
+          "term": "Orthomyxoviridae Infections"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012141",
+          "term": "Respiratory Tract Infections"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D012327",
+          "term": "RNA Virus Infections"
+        },
+        {
+          "id": "D014777",
+          "term": "Virus Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

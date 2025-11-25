@@ -1,0 +1,400 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00866957",
+      "orgStudyIdInfo": {
+        "id": "STU8344 1530-004"
+      },
+      "organization": {
+        "fullName": "Northwestern University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Human Liver Explants for HIF-1 Alpha Analysis/Comparison (HIF HCC)",
+      "officialTitle": "Human Liver Explants for HIF-1 Alpha- Analysis/Comparison"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-11",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2006-02"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2019-07",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2019-07",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2009-03-19",
+      "studyFirstSubmitQcDate": "2009-03-19",
+      "studyFirstPostDateStruct": {
+        "date": "2009-03-23",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2023-11-16",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-11-18",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Laura Kulik",
+        "investigatorTitle": "Associate Professor of Medicine, Division of Hepatology",
+        "investigatorAffiliation": "Northwestern University"
+      },
+      "leadSponsor": {
+        "name": "Northwestern University",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Northwestern University Feinberg School of Medicine",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of the study is to compare levels of HIF-1 α (Hypoxia Inducing Factor 1-alpha) in patients who have been treated with various types of liver cancer treatments.",
+      "detailedDescription": "In the currently ongoing retrospective aspect of the study, we will obtain pathologic tumor explant specimens from the tumor explant population from 8/1/1994 to 12/31/2005. We will prepare 5-10 slides from each tumor explant block and measure HIF-1α using immunohistochemical staining. We will also be performing a retrospective chart review for specific data points which we believe are needed to assist us in our analysis of the histopathologic specimens.\n\nIn addition, we will be looking at data in the United Network for Organ Sharing (UNOS) database: www.unos.org, which will allow us to develop a more thorough and robust analysis of the subject's experience with liver cancer. This is a public, mandatory reporting vehicle that the government mandates all transplant centers to report to. Even if the subject was transplanted at Northwestern, and moved, accessing UNOS data will allow us to see what the morbidity/mortality for that patient is.\n\nSecondly, we will start enrolling subjects in a prospective fashion. Those that either have been treated, those currently undergoing treatment, or those newly diagnosed. From these subjects we will obtain informed consent to; a) look at the medical records (current, future and retrospective data), b) collect blood specimens for future analysis and correlation with their explant slide data, c) allow us to follow these subjects indefinitely to obtain ongoing outcomes data, morbidity and mortality information."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Liver Cancer"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITH_DNA",
+        "description": "Both, samples with DNA and without: serum, plasma, genomic samples, \\& liver biopsy specimens"
+      },
+      "enrollmentInfo": {
+        "count": 180,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Patients with liver cancer",
+          "description": "Patients diagnosed with liver cancer",
+          "interventionNames": [
+            "Procedure: Blood draw"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Blood draw",
+          "description": "A two-time blood draw: one prior to cancer treatment, the second after cancer treatment. Total amount of blood approximately 8 teaspoons (40mL).",
+          "armGroupLabels": [
+            "Patients with liver cancer"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "HIF-1alpha bio-marker",
+          "description": "The primary objective is to compare levels of HIF-1alpha expression in HCC tumor explants which have received: 1) no pre-explant embolization; 2) pre-explant Transcatheter arterial chemoembolization (TACE); 3) pre-explant Y90 radio-embolization; 4) pre-explant radiofrequency ablation, or 5) a combination of pre-explant therapies.",
+          "timeFrame": "December 2015"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Understand biological behavior of the tumors",
+          "description": "Collect blood specimens on those subjects that have had hepatocellular carcinoma, or those currently being treated for it with any of the above mentioned treatments to screen for biomarkers.",
+          "timeFrame": "December 2015"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults, any gender ≥ to 18 years of age\n* Previous, or current diagnosis of hepatocellular carcinoma (clinical or biopsy proven)\n* Resection for hepatoma and/or transplant\n* Patients with diagnosis of hepatocellular carcinoma from 8/1/94 thru 12/31/05 (retrospective) with biopsy, explant and/or liver transplantation here at Northwestern Memorial Hospital (NMH).\n* Patients previously diagnosed or, recently diagnosed with liver cancer that were treated, currently are being treated our will potentially undergo treatment for the disease.\n\nExclusion Criteria:\n\n* Any subject outside of the above inclusion criteria",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Subject must have hepatocellular carcinoma, or had hepatocellular carcinoma",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Laura Kulik, MD",
+          "affiliation": "Northwestern University, Northwestern Memorial Hospital, Northwestern Medical Faculty Foundation",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Northwestern Memorial Hospital",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60611",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "12505281",
+          "type": "BACKGROUND",
+          "citation": "Kew MC. Epidemiology of hepatocellular carcinoma. Toxicology. 2002 Dec 27;181-182:35-8. doi: 10.1016/s0300-483x(02)00251-2."
+        },
+        {
+          "pmid": "12354833",
+          "type": "BACKGROUND",
+          "citation": "Di Bisceglie AM. Epidemiology and clinical presentation of hepatocellular carcinoma. J Vasc Interv Radiol. 2002 Sep;13(9 Pt 2):S169-71. doi: 10.1016/s1051-0443(07)61783-7."
+        },
+        {
+          "pmid": "14623619",
+          "type": "BACKGROUND",
+          "citation": "El-Serag HB, Davila JA, Petersen NJ, McGlynn KA. The continuing increase in the incidence of hepatocellular carcinoma in the United States: an update. Ann Intern Med. 2003 Nov 18;139(10):817-23. doi: 10.7326/0003-4819-139-10-200311180-00009."
+        },
+        {
+          "pmid": "11218920",
+          "type": "BACKGROUND",
+          "citation": "Macdonald GA. Pathogenesis of hepatocellular carcinoma. Clin Liver Dis. 2001 Feb;5(1):69-85. doi: 10.1016/s1089-3261(05)70154-9."
+        },
+        {
+          "pmid": "8611095",
+          "type": "BACKGROUND",
+          "citation": "Marcos-Alvarez A, Jenkins RL, Washburn WK, Lewis WD, Stuart KE, Gordon FD, Kane RA, Clouse ME. Multimodality treatment of hepatocellular carcinoma in a hepatobiliary specialty center. Arch Surg. 1996 Mar;131(3):292-8. doi: 10.1001/archsurg.1996.01430150070014."
+        },
+        {
+          "pmid": "1377657",
+          "type": "BACKGROUND",
+          "citation": "Okada S, Okazaki N, Nose H, Yoshimori M, Aoki K. Prognostic factors in patients with hepatocellular carcinoma receiving systemic chemotherapy. Hepatology. 1992 Jul;16(1):112-7. doi: 10.1002/hep.1840160119."
+        },
+        {
+          "pmid": "8394736",
+          "type": "BACKGROUND",
+          "citation": "Colleoni M, Bajetta E, Nelli P, Boni L, Bochicchio AM, Nole F, Buzzoni R, Celio L, Mazzaferro V, Bonfanti G, et al. Prognostic factors in patients affected by hepatocellular carcinoma treated with systemic chemotherapy: the experience of the National Cancer Institute of Milan. Ann Oncol. 1993 Jun;4(6):489-93. doi: 10.1093/oxfordjournals.annonc.a058560."
+        },
+        {
+          "pmid": "12357305",
+          "type": "BACKGROUND",
+          "citation": "Boucher E, Corbinais S, Brissot P, Boudjema K, Raoul JL. Treatment of hepatocellular carcinoma (HCC) with systemic chemotherapy combining epirubicin, cisplatinum and infusional 5-fluorouracil (ECF regimen). Cancer Chemother Pharmacol. 2002 Oct;50(4):305-8. doi: 10.1007/s00280-002-0503-x. Epub 2002 Aug 7."
+        },
+        {
+          "pmid": "10613728",
+          "type": "BACKGROUND",
+          "citation": "Llovet JM, Sala M, Castells L, Suarez Y, Vilana R, Bianchi L, Ayuso C, Vargas V, Rodes J, Bruix J. Randomized controlled trial of interferon treatment for advanced hepatocellular carcinoma. Hepatology. 2000 Jan;31(1):54-8. doi: 10.1002/hep.510310111."
+        },
+        {
+          "pmid": "12395333",
+          "type": "BACKGROUND",
+          "citation": "Chow PK, Tai BC, Tan CK, Machin D, Win KM, Johnson PJ, Soo KC; Asian-Pacific Hepatocellular Carcinoma Trials Group. High-dose tamoxifen in the treatment of inoperable hepatocellular carcinoma: A multicenter randomized controlled trial. Hepatology. 2002 Nov;36(5):1221-6. doi: 10.1053/jhep.2002.36824."
+        },
+        {
+          "pmid": "2839280",
+          "type": "BACKGROUND",
+          "citation": "Lai CL, Wu PC, Chan GC, Lok AS, Lin HJ. Doxorubicin versus no antitumor therapy in inoperable hepatocellular carcinoma. A prospective randomized trial. Cancer. 1988 Aug 1;62(3):479-83. doi: 10.1002/1097-0142(19880801)62:33.0.co;2-l."
+        },
+        {
+          "pmid": "8134557",
+          "type": "BACKGROUND",
+          "citation": "Bartolozzi C, Lencioni R, Caramella D, Falaschi F, Cioni R, DiCoscio G. Hepatocellular carcinoma: CT and MR features after transcatheter arterial embolization and percutaneous ethanol injection. Radiology. 1994 Apr;191(1):123-8. doi: 10.1148/radiology.191.1.8134557."
+        },
+        {
+          "pmid": "12902882",
+          "type": "BACKGROUND",
+          "citation": "Geschwind JF, Ramsey DE, Choti MA, Thuluvath PJ, Huncharek MS. Chemoembolization of hepatocellular carcinoma: results of a metaanalysis. Am J Clin Oncol. 2003 Aug;26(4):344-9. doi: 10.1097/01.COC.0000020588.20717.BB."
+        },
+        {
+          "pmid": "15508083",
+          "type": "BACKGROUND",
+          "citation": "Bruix J, Sala M, Llovet JM. Chemoembolization for hepatocellular carcinoma. Gastroenterology. 2004 Nov;127(5 Suppl 1):S179-88. doi: 10.1053/j.gastro.2004.09.032."
+        },
+        {
+          "pmid": "15342393",
+          "type": "BACKGROUND",
+          "citation": "Serganova I, Doubrovin M, Vider J, Ponomarev V, Soghomonyan S, Beresten T, Ageyeva L, Serganov A, Cai S, Balatoni J, Blasberg R, Gelovani J. Molecular imaging of temporal dynamics and spatial heterogeneity of hypoxia-inducible factor-1 signal transduction activity in tumors in living mice. Cancer Res. 2004 Sep 1;64(17):6101-8. doi: 10.1158/0008-5472.CAN-04-0842."
+        },
+        {
+          "pmid": "12296651",
+          "type": "BACKGROUND",
+          "citation": "Jensen RL, Soleau S, Bhayani MK, Christiansen D. Expression of hypoxia inducible factor-1 alpha and correlation with preoperative embolization of meningiomas. J Neurosurg. 2002 Sep;97(3):658-67. doi: 10.3171/jns.2002.97.3.0658."
+        },
+        {
+          "pmid": "15786555",
+          "type": "BACKGROUND",
+          "citation": "Huang GW, Yang LY, Lu WQ. Expression of hypoxia-inducible factor 1alpha and vascular endothelial growth factor in hepatocellular carcinoma: Impact on neovascularization and survival. World J Gastroenterol. 2005 Mar 21;11(11):1705-8. doi: 10.3748/wjg.v11.i11.1705."
+        },
+        {
+          "pmid": "12540794",
+          "type": "BACKGROUND",
+          "citation": "Llovet JM, Bruix J. Systematic review of randomized trials for unresectable hepatocellular carcinoma: Chemoembolization improves survival. Hepatology. 2003 Feb;37(2):429-42. doi: 10.1053/jhep.2003.50047."
+        },
+        {
+          "pmid": "11981766",
+          "type": "BACKGROUND",
+          "citation": "Lo CM, Ngan H, Tso WK, Liu CL, Lam CM, Poon RT, Fan ST, Wong J. Randomized controlled trial of transarterial lipiodol chemoembolization for unresectable hepatocellular carcinoma. Hepatology. 2002 May;35(5):1164-71. doi: 10.1053/jhep.2002.33156."
+        },
+        {
+          "pmid": "1281041",
+          "type": "BACKGROUND",
+          "citation": "Kawai S, Okamura J, Ogawa M, Ohashi Y, Tani M, Inoue J, Kawarada Y, Kusano M, Kubo Y, Kuroda C, et al. Prospective and randomized clinical trial for the treatment of hepatocellular carcinoma--a comparison of lipiodol-transcatheter arterial embolization with and without adriamycin (first cooperative study). The Cooperative Study Group for Liver Cancer Treatment of Japan. Cancer Chemother Pharmacol. 1992;31 Suppl:S1-6. doi: 10.1007/BF00687096."
+        },
+        {
+          "pmid": "9124201",
+          "type": "BACKGROUND",
+          "citation": "Ikeda K, Saitoh S, Suzuki Y, Koida I, Tsubota A, Kobayashi M, Arase Y, Chayama K, Murashima N, Kumada H. A prospective randomized administration of 5'-deoxy-5-fluorouridine as adjuvant chemotherapy for hepatocellular carcinoma treated with transcatheter arterial chemoembolization. Am J Clin Oncol. 1997 Apr;20(2):202-8. doi: 10.1097/00000421-199704000-00021."
+        },
+        {
+          "pmid": "12354841",
+          "type": "BACKGROUND",
+          "citation": "Ahmed M, Goldberg SN. Thermal ablation therapy for hepatocellular carcinoma. J Vasc Interv Radiol. 2002 Sep;13(9 Pt 2):S231-44. doi: 10.1016/s1051-0443(07)61791-6."
+        },
+        {
+          "pmid": "12354842",
+          "type": "BACKGROUND",
+          "citation": "Clark TW, Soulen MC. Chemical ablation of hepatocellular carcinoma. J Vasc Interv Radiol. 2002 Sep;13(9 Pt 2):S245-52. doi: 10.1016/s1051-0443(07)61792-8."
+        },
+        {
+          "pmid": "10829040",
+          "type": "BACKGROUND",
+          "citation": "Dawson LA, McGinn CJ, Normolle D, Ten Haken RK, Walker S, Ensminger W, Lawrence TS. Escalated focal liver radiation and concurrent hepatic artery fluorodeoxyuridine for unresectable intrahepatic malignancies. J Clin Oncol. 2000 Jun;18(11):2210-8. doi: 10.1200/JCO.2000.18.11.2210."
+        },
+        {
+          "pmid": "12354840",
+          "type": "BACKGROUND",
+          "citation": "Salem R, Thurston KG, Carr BI, Goin JE, Geschwind JF. Yttrium-90 microspheres: radiation therapy for unresectable liver cancer. J Vasc Interv Radiol. 2002 Sep;13(9 Pt 2):S223-9. doi: 10.1016/s1051-0443(07)61790-4."
+        },
+        {
+          "pmid": "799908",
+          "type": "BACKGROUND",
+          "citation": "Folkman J. Tumor angiogenesis: a possible control point in tumor growth. Ann Intern Med. 1975 Jan;82(1):96-100. doi: 10.7326/0003-4819-82-1-96. No abstract available."
+        },
+        {
+          "pmid": "10605934",
+          "type": "BACKGROUND",
+          "citation": "Semenza GL. Expression of hypoxia-inducible factor 1: mechanisms and consequences. Biochem Pharmacol. 2000 Jan 1;59(1):47-53. doi: 10.1016/s0006-2952(99)00292-0."
+        },
+        {
+          "pmid": "10861440",
+          "type": "BACKGROUND",
+          "citation": "Zagzag D, Zhong H, Scalzitti JM, Laughner E, Simons JW, Semenza GL. Expression of hypoxia-inducible factor 1alpha in brain tumors: association with angiogenesis, invasion, and progression. Cancer. 2000 Jun 1;88(11):2606-18."
+        },
+        {
+          "pmid": "14678768",
+          "type": "BACKGROUND",
+          "citation": "Mu D, Jiang X, Sheldon RA, Fox CK, Hamrick SE, Vexler ZS, Ferriero DM. Regulation of hypoxia-inducible factor 1alpha and induction of vascular endothelial growth factor in a rat neonatal stroke model. Neurobiol Dis. 2003 Dec;14(3):524-34. doi: 10.1016/j.nbd.2003.08.020."
+        },
+        {
+          "pmid": "8387214",
+          "type": "BACKGROUND",
+          "citation": "Wang GL, Semenza GL. General involvement of hypoxia-inducible factor 1 in transcriptional response to hypoxia. Proc Natl Acad Sci U S A. 1993 May 1;90(9):4304-8. doi: 10.1073/pnas.90.9.4304."
+        },
+        {
+          "pmid": "9223322",
+          "type": "BACKGROUND",
+          "citation": "Maxwell PH, Dachs GU, Gleadle JM, Nicholls LG, Harris AL, Stratford IJ, Hankinson O, Pugh CW, Ratcliffe PJ. Hypoxia-inducible factor-1 modulates gene expression in solid tumors and influences both angiogenesis and tumor growth. Proc Natl Acad Sci U S A. 1997 Jul 22;94(15):8104-9. doi: 10.1073/pnas.94.15.8104."
+        },
+        {
+          "pmid": "10582706",
+          "type": "BACKGROUND",
+          "citation": "Zhong H, De Marzo AM, Laughner E, Lim M, Hilton DA, Zagzag D, Buechler P, Isaacs WB, Semenza GL, Simons JW. Overexpression of hypoxia-inducible factor 1alpha in common human cancers and their metastases. Cancer Res. 1999 Nov 15;59(22):5830-5."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D008113",
+          "term": "Liver Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D004067",
+          "term": "Digestive System Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D008107",
+          "term": "Liver Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001800",
+          "term": "Blood Specimen Collection"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013048",
+          "term": "Specimen Handling"
+        },
+        {
+          "id": "D019411",
+          "term": "Clinical Laboratory Techniques"
+        },
+        {
+          "id": "D019937",
+          "term": "Diagnostic Techniques and Procedures"
+        },
+        {
+          "id": "D003933",
+          "term": "Diagnosis"
+        },
+        {
+          "id": "D011677",
+          "term": "Punctures"
+        },
+        {
+          "id": "D013514",
+          "term": "Surgical Procedures, Operative"
+        },
+        {
+          "id": "D008919",
+          "term": "Investigative Techniques"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,363 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03742401",
+      "orgStudyIdInfo": {
+        "id": "HIFU-Surg-FA"
+      },
+      "organization": {
+        "fullName": "Theraclion",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Treatment of Breast Fibroadenoma With High Intensity Focused Ultrasound (HIFU)",
+      "officialTitle": "Treatment of Breast Fibroadenoma With High Intensity Focused Ultrasound (HIFU) vs Surgery: A Prospective Randomized Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2019-12",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Changes to the HIFU-SURG-FA study protocol, a number of centers have decided not to continue the study, including our national coordinating center.",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2018-06-11",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2019-04-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2019-04-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2018-11-12",
+      "studyFirstSubmitQcDate": "2018-11-14",
+      "studyFirstPostDateStruct": {
+        "date": "2018-11-15",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-03-11",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-03-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Theraclion",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a multi-center, crossover study with cluster randomization and a planned accrual of 300 patients with diagnosed breast fibroadenoma (One fibroadenoma treated per patient). This is a trial based prospective cost consequence study. Costs will be estimated from the viewpoint of the healthcare system and from the patient's perspective",
+      "detailedDescription": "Fibroadenomas are well-circumscribed benign tumors, easily distinguishable from adjacent normal breast tissue on ultrasound images.\n\nThe goal of this protocol is to compare HIFU and surgery in terms of cost, safety, and clinical effectiveness for the treatment of nonmalignant breast tumors.\n\nFibroadenomas appear to be an ideal target for evaluation of ultrasound guided HIFU treatment. However, not all the FA are suitable for surgical treatment and in many cases surveillance associated or not with hormonal medication may be sufficient for limiting the symptoms at the degree compatible with a good quality of life for the patients. In addition, from the fraction of the patients for which ablation is a genuine medical need due to the severity of the pathology (size, symptoms, disturbed daily activity with possible psychological impact), only a part of them are suitable for undergoing the HIFU treatment.\n\nTherefore, all the patients to be included in this study have an initial indication of surgical resection of the adenoma. Unlike the patients presenting FA and suitable for medication and surveillance, the cases for which surgery is an indication are symptomatic (significant pain, discomfort, anxiety) and/or are presenting a growth observed during their surveillance with ultrasound examination. In addition, all the eligible patients will have to comply with the technical limitations of the HIFU method in terms of lump size, subcutaneous depth, presence of calcifications and other contraindications like presence of breast implants or under areolar location. Knowing that after the age of 45 years the lumps are in many institutions reserved exclusively for surgery in order to eliminate all suspicion of malignancy, the upper age limit is fixed at 45. Further limitations as established by the American Society of Breast Surgeons for potential candidates of percutaneous excision will be added as inclusion criteria for all patients (the lesion must be sonographically visible, the diagnosis of FA must be confirmed histologically, lesions should be less than 4cm in largest diameter)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Breast Fibroadenoma"
+      ],
+      "keywords": [
+        "Breast Fibroadenoma"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "CROSSOVER",
+        "interventionModelDescription": "This is a multicentrer, crossover study with cluster randomization. In the cross over design, 1/2 of the centers are randomized to start the trial with HIFU and the other 1/2 with surgery. In the cluster randomized crossover (CXRO), all participating cluster receive both the intervention and control in a sequence determined at random",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 2,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Surgery",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Surgery",
+          "interventionNames": [
+            "Procedure: Surgery"
+          ]
+        },
+        {
+          "label": "HIFU (Echopulse)",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "HIFU (Echopulse)",
+          "interventionNames": [
+            "Device: HIFU (Echopulse)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Surgery",
+          "description": "Traditional open excisional surgery",
+          "armGroupLabels": [
+            "Surgery"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "HIFU (Echopulse)",
+          "description": "High intensity focused ultrasound (HIFU) non invasive intervention",
+          "armGroupLabels": [
+            "HIFU (Echopulse)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Evaluation of the treatment of breast fibroadenoma by HIFU compared to surgery assessing the total induced cost in both study arms",
+          "description": "Difference in cost between the HIFU procedure and conventional surgery",
+          "timeFrame": "From day of treatment (Day0) to 18 months after treatment"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Evaluation of the clinical effectiveness in both arms : Pain level assessment",
+          "description": "Visual analog scale",
+          "timeFrame": "From 1 day after treatment (Day1) to 18 months after treatment"
+        },
+        {
+          "measure": "Evaluation of the clinical effectiveness in both arms: Anxiety level assessment",
+          "description": "Visual analog scale",
+          "timeFrame": "From 1 day after treatment (Day1) to 18 months after treatment"
+        },
+        {
+          "measure": "Evaluation of the clinical effectiveness in both arms: Volume assessment",
+          "description": "Ultrasound measurement",
+          "timeFrame": "From 1 day after treatment (Day1) to 18 months after treatment"
+        },
+        {
+          "measure": "Number of cases needing corrective surgery in case of lack of effectiveness of the primary HIFU treatment.",
+          "description": "Rate of corrective surgical procedure after non effective HIFU procedure up to 18 months",
+          "timeFrame": "From 1 day after treatment (Day1) to 18 months after treatment"
+        },
+        {
+          "measure": "Safety of the procedures in both arms: Number of and severity of adverse events in both arms",
+          "description": "Number of and severity of adverse events in both arms",
+          "timeFrame": "From day of treatment (Day0) to 18 months after treatment"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients 18 to 45 years old with at least one diagnosed breast fibroadenoma\n* Diagnosis of fibroadenoma must be based on:\n\n  * clinical examination\n  * ultrasound image alone for patients Under 35 years old. For women older than 35 years, a mammogram will be performed in addition to ultrasound. the BI-RADS score of this mammogram must be less than 3. In all cases where an uncertainly exists, the patient will not be included.\n  * histological confirmation after core needle biopsy by two independant readers (biopsy must be performed at least two weeks before therapy unless a micro biopsy has been already done less than 3 months before inclusion visit and histopathology slices are available)\n* the requirements for the distance from the skin and the following régions of the fibroadenoma are:\n\n  * depth anterior edge \\< 19.4mm\n  * nodule thickness \\> 7.3 mm\n  * depth of posterior edge \\> 12.5 mm\n  * depth to rib cage \\> 10mm\n* patient's fibroadenoma size is greater to equal to 0.3 cc (measured by ultrasound on the day of the procedure)\n* Lesions should be less than 20 mL\n* The lesion must be sonographically visible\n* Lesions presented during previous surveillance a minimum 20% increase volume AND/OR\n* Patient are presenting a pain level \\>= 3 as meaured on the VAS during the last 30 days AND/OR\n* Patient are presenting a anxiety level \\>= 3 as meaured on the VAS during the last 30 days before selection visit\n* Fibroadenoma is palpable\n* Patient candidate for sugery\n* Patient has signed a written informed consent\n* Patient with a social security coverage\n\nExclusion Criteria:\n\n* Patient is pregnant or lactating\n* Patient with history of laser or radiotherapy in the targeted breast\n* Core biopsy diagnosis suggestive of cytosarcoma phyllodes tumor or other malignancy\n* Patient with breast implant in the targeted breast\n* Patient with predominantly liquid nodule\n* Macro-calcifications in pre-focal HIFU path\n* Nipple and or areola in pre-focal HIFU path\n* Patient's fibroadenoma not clearly visible on the ultrasound images (in B-mode) at the inclusion visit\n* Scars or moles before the focal point of the HIFU\n* Patient participating in another clinical trial involving an investigational drug, or device",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "minimumAge": "18 Years",
+      "maximumAge": "45 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Richard Villet, PI",
+          "affiliation": "Groupe Hospitaliler Diaconesses",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Hopital Européen",
+          "city": "Marseille",
+          "zip": "13003",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.29695,
+            "lon": 5.38107
+          }
+        },
+        {
+          "facility": "CHU de Montpellier",
+          "city": "Montpellier",
+          "zip": "34925",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.61093,
+            "lon": 3.87635
+          }
+        },
+        {
+          "facility": "Polyclinique Majorelle",
+          "city": "Nancy",
+          "zip": "54000",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.68439,
+            "lon": 6.18496
+          }
+        },
+        {
+          "facility": "Polyclinique de l'Atlantique",
+          "city": "Nantes",
+          "zip": "44819",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.21725,
+            "lon": -1.55336
+          }
+        },
+        {
+          "facility": "American Hospital of Paris",
+          "city": "Neuilly-sur-Seine",
+          "zip": "92200",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.8846,
+            "lon": 2.26965
+          }
+        },
+        {
+          "facility": "Hopital Saint Louis",
+          "city": "Paris",
+          "zip": "75010",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Groupe Hospitaliler Diaconesses",
+          "city": "Paris",
+          "zip": "75012",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Hopital Pitié-salpêtrière",
+          "city": "Paris",
+          "zip": "75651",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Hopital TENON",
+          "city": "Paris",
+          "zip": "75970",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Clinique Mutualiste LA SAGESSE",
+          "city": "Rennes",
+          "zip": "35043",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.11109,
+            "lon": -1.67431
+          }
+        },
+        {
+          "facility": "CHU Strasbourg",
+          "city": "Strasbourg",
+          "zip": "67091",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.58392,
+            "lon": 7.74553
+          }
+        },
+        {
+          "facility": "Centre Hospitalier",
+          "city": "Valenciennes",
+          "zip": "59300",
+          "country": "France",
+          "geoPoint": {
+            "lat": 50.35909,
+            "lon": 3.52506
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D018226",
+          "term": "Fibroadenoma"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D018225",
+          "term": "Neoplasms, Fibroepithelial"
+        },
+        {
+          "id": "D018218",
+          "term": "Neoplasms, Fibrous Tissue"
+        },
+        {
+          "id": "D009372",
+          "term": "Neoplasms, Connective Tissue"
+        },
+        {
+          "id": "D018204",
+          "term": "Neoplasms, Connective and Soft Tissue"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D009375",
+          "term": "Neoplasms, Glandular and Epithelial"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D013514",
+          "term": "Surgical Procedures, Operative"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,215 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05784077",
+      "orgStudyIdInfo": {
+        "id": "09C020"
+      },
+      "organization": {
+        "fullName": "Istituto Auxologico Italiano",
+        "class": "OTHER"
+      },
+      "briefTitle": "PRevalence of Obstructive Sleep apnoEa and Reduction of Promoters in AF",
+      "officialTitle": "Prevalenza Delle Apnee Notturne e Riduzione Dei Fattori Promotori Nella Fibrillazione Atriale",
+      "acronym": "PROSERPin-AF"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-03",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-01-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2022-12-31",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-01-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-03-13",
+      "studyFirstSubmitQcDate": "2023-03-13",
+      "studyFirstPostDateStruct": {
+        "date": "2023-03-24",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-03-13",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-03-24",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Istituto Auxologico Italiano",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study aims to identify how many patients who have atrial fibrillation, also have sleep apnoea. This is important because sleep apnoea can be a trigger to atrial fibrillation and it can be corrected with a simple intervention. Therefore it is important to understand its prevalence (how many patients with atrial fibrillation are affected by it). Also, obesity and sleep disorders are often associated, therefore the evolution of atrial fibrillation is studied in patients who also have obesity and have lost weight compared with patients who did not loose any weight or are not obese. As medications or therapy are not changed, this is an observational study."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Atrial Fibrillation",
+        "Osa Syndrome"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 343,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Polysomnography",
+          "description": "Study of the sleep pattern"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Lifestyle counselling",
+          "description": "Weight loss counselling"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in prevalence of obstructive sleep apnoea in patients with atrial fibrillation",
+          "description": "Change in prevalence of obstructive sleep apnoea from baseline to 3 years",
+          "timeFrame": "Baseline and at 3, 6, 12, 24 and 36 months"
+        },
+        {
+          "measure": "Percentage of men and women with obstructive sleep apnoea in patients with atrial fibrillation",
+          "description": "Percentage of men and women with obstructive sleep apnoea in patients with atrial fibrillation",
+          "timeFrame": "Baseline"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in body weight",
+          "description": "Change in body weight from baseline to 3 years",
+          "timeFrame": "Baseline and at 3, 6, 12, 24 and 36 months"
+        },
+        {
+          "measure": "Change in incidence of atrial fibrillation recurrencies",
+          "description": "Change in incidence of atrial fibrillation recurrencies from baseline to 3 years",
+          "timeFrame": "Baseline and at 3, 6, 12, 24 and 36 months"
+        },
+        {
+          "measure": "Change in quality of life",
+          "description": "Change in quality of life from baseline to 3 years",
+          "timeFrame": "Baseline and at 3, 6, 12, 24 and 36 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria primary outcome:\n\n* 1 episode of atrial fibrillation in the previous year\n\nInclusion Criteria secondary outcome:\n\n* BMI \\> o = 27Kg/m2\n* AHI \\>30 o con 15\\<AHI\\<30 associated with other symptoms (sleeplessness, uncontrolled hypertension and cerebral events)\n\nExclusion Criteria:\n\n* Ejection Fraction \\<50%\n* HFpEF not related to atrial fibrillation.\n* coronary artery disease\n* valvular cardiomyopathy\n* patient already in treatment for sleep apnoea\n* hyperthyroidism",
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "patients between 18 and 75 years of age, male and female, who come to the study centre between January 2019 and January 2023 with a diagnosis of atrial fibrillation and a recurrence (or first episode) in the previous year and who can undergo polysomnography",
+      "samplingMethod": "PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Istituto Auxologico Italiano",
+          "city": "Milan",
+          "zip": "20145",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.46427,
+            "lon": 9.18951
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001281",
+          "term": "Atrial Fibrillation"
+        },
+        {
+          "id": "C535586",
+          "term": "Carnevale syndrome"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001145",
+          "term": "Arrhythmias, Cardiac"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D017286",
+          "term": "Polysomnography"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D008991",
+          "term": "Monitoring, Physiologic"
+        },
+        {
+          "id": "D019937",
+          "term": "Diagnostic Techniques and Procedures"
+        },
+        {
+          "id": "D003933",
+          "term": "Diagnosis"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

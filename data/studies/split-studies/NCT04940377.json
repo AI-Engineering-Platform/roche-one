@@ -1,0 +1,150 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04940377",
+      "orgStudyIdInfo": {
+        "id": "60861"
+      },
+      "organization": {
+        "fullName": "Rigshospitalet, Denmark",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effect of the Genotype on Postoperative DVT",
+      "officialTitle": "Postoperative Venous Thromboembolism Risk in 140,831 Surgical Patients - a Genetic Association Cohort Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-06-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2021-03-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2021-06-01",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-06-17",
+      "studyFirstSubmitQcDate": "2021-06-17",
+      "studyFirstPostDateStruct": {
+        "date": "2021-06-25",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2021-06-25",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-06-30",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Martin Sillesen",
+        "investigatorTitle": "Assoc. Prof.",
+        "investigatorAffiliation": "Rigshospitalet, Denmark"
+      },
+      "leadSponsor": {
+        "name": "Rigshospitalet, Denmark",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Postoperative Venous Thromboembolism Events (VTE) constitute a major source of morbidity and mortality after surgery. The aim of this study was to investigate whether commonly occurring Single Nucleotide Polymorphisms (SNPs) are associated with VTE in the surgical setting.",
+      "detailedDescription": "Data extracted from the participants in the UK Biobank collaborative study. Two cohorts will be examined:\n\n1. Surgical cohort, consisting of all patients with a registered surgical procedure in the UK biobank repository\n2. Validation cohort, consisting of all non-surgical patients in the UK biobank repository.\n\nA GWAS approach will be used to associated commonly occurring single nucleotide polymorphisms (SNPs) with a postoperative venous thromboembolic event (VTE) within 30 days of a surgical procedure in the surgical cohort.\n\nFindings from the surgical GWAS step will be replicated in the Validation cohort in order to assess whether the same SNPs drive both surgical and non-surgical VTE risk.\n\nA final GWAS model will be fielded, correction for confounders including sex, age, smoking, obesity and open/minimal invasive surgery (surgical discovery GWAS only)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Venous Thromboembolism"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": true,
+      "targetDuration": "10 Years",
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "OTHER"
+      },
+      "enrollmentInfo": {
+        "count": 502505,
+        "type": "ACTUAL"
+      }
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Postoperative VTE event",
+          "timeFrame": "30 days of a surgical procedure"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n\\- All patients included in the UK biobank repository\n\nExclusion criteria:\n\n\\- None",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Healthy volunteers followed by the UK biobank consortium",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Rigshospitalet",
+          "city": "Copenhagen",
+          "country": "Denmark",
+          "geoPoint": {
+            "lat": 55.67594,
+            "lon": 12.56553
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D054556",
+          "term": "Venous Thromboembolism"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013923",
+          "term": "Thromboembolism"
+        },
+        {
+          "id": "D016769",
+          "term": "Embolism and Thrombosis"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

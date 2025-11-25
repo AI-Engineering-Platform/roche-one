@@ -1,0 +1,244 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03526601",
+      "orgStudyIdInfo": {
+        "id": "SBMS001"
+      },
+      "organization": {
+        "fullName": "General Hospital Murska Sobota",
+        "class": "OTHER"
+      },
+      "briefTitle": "Screening Of Adult urBan pOpulation To diAgnose Heart Failure",
+      "officialTitle": "Screening Of Adult urBan pOpulation To diAgnose Heart Failure",
+      "acronym": "SOBOTA-HF"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2018-05",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2017-05-10",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2018-06-30",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2018-09-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2018-05-04",
+      "studyFirstSubmitQcDate": "2018-05-04",
+      "studyFirstPostDateStruct": {
+        "date": "2018-05-16",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2018-05-04",
+      "lastUpdatePostDateStruct": {
+        "date": "2018-05-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Mitja Lainscak",
+        "investigatorTitle": "Professor of Internal Medicine",
+        "investigatorAffiliation": "General Hospital Murska Sobota"
+      },
+      "leadSponsor": {
+        "name": "General Hospital Murska Sobota",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Roche Pharma AG",
+          "class": "INDUSTRY"
+        },
+        {
+          "name": "Slovenian Research Agency",
+          "class": "OTHER"
+        },
+        {
+          "name": "Murska Sobota Municipiality",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Community Health Center Murska Sobota",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Screening Of adult urBan pOpulation To diAgnose Heart Failure (SOBOTA-HF) is a cross-sectional prevalence study in a representative sample of Murska Sobota residents aged 55 years or more. Individuals will be invited to participate in a screening with NT-proBNP. All subjects with NT-proBNP ≥ 125 pg/mL will be invited for a diagnostic visit that will include history and physical examination, electrocardiogram, echocardiography, ankle brachial index, pulmonary function tests, body composition measurement, physical performance tests and questionnaires. To validate the screening procedure, a control group (NT-proBNP \\< 125 pg/mL) will undergo same diagnostic evaluation. An external center will validate echodardiography exams and the HF diagnosis will be adjudicated within an independent HF expert panel. Overall and age specific HF prevalence will be calculated in individuals ≥ 55 years and extrapolated to the whole population."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Heart Failure"
+      ],
+      "keywords": [
+        "heart failure",
+        "prevalence"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": true,
+      "targetDuration": "5 Years",
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "CROSS_SECTIONAL"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITH_DNA",
+        "description": "whole blood"
+      },
+      "enrollmentInfo": {
+        "count": 2861,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "NT-proBNP, echocardiography",
+          "description": "screening"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "heart failure diagnosis as per 2016 ESC guidelines",
+          "timeFrame": "at diagnostic visit"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* age \\>55\n* living in Murska Sobota\n* part of representative sample as selected by Statistical Office of the Republic of Slovenia\n\nExclusion Criteria:\n\nNONE.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "55 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "60% of Murska Sobota residents aged 55 years or more",
+      "samplingMethod": "PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Mitja Lainscak, MD, PhD",
+          "role": "CONTACT",
+          "phone": "+386 2 5123 733",
+          "email": "mitja.lainscak@guest.arnes.si"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Mitja Lainscak, MD, PhD",
+          "affiliation": "General Hospital Murska Sobota",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "General Hospital Murska Sobota",
+          "status": "RECRUITING",
+          "city": "Murska Sobota",
+          "zip": "SI-9000",
+          "country": "Slovenia",
+          "contacts": [
+            {
+              "name": "Mitja Lainscak, MD, PhD",
+              "role": "CONTACT",
+              "phone": "+386 2 5123 733",
+              "email": "mitja.lainscak@guest.arnes.si"
+            }
+          ],
+          "geoPoint": {
+            "lat": 46.66264,
+            "lon": 16.16643
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006333",
+          "term": "Heart Failure"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D004452",
+          "term": "Echocardiography"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D057791",
+          "term": "Cardiac Imaging Techniques"
+        },
+        {
+          "id": "D003952",
+          "term": "Diagnostic Imaging"
+        },
+        {
+          "id": "D019937",
+          "term": "Diagnostic Techniques and Procedures"
+        },
+        {
+          "id": "D003933",
+          "term": "Diagnosis"
+        },
+        {
+          "id": "D014463",
+          "term": "Ultrasonography"
+        },
+        {
+          "id": "D006334",
+          "term": "Heart Function Tests"
+        },
+        {
+          "id": "D003935",
+          "term": "Diagnostic Techniques, Cardiovascular"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,204 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02046057",
+      "orgStudyIdInfo": {
+        "id": "5140020"
+      },
+      "organization": {
+        "fullName": "Loma Linda University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Evaluation of Needle Core Biopsy of Axillary Sentinel Lymph Node in Breast Cancer",
+      "officialTitle": "Evaluation of Needle Core Biopsy of Axillary Sentinel Lymph Node in Breast Cancer",
+      "acronym": "ENCASe"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2014-02-12",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-08-13",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-08-13",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2014-01-22",
+      "studyFirstSubmitQcDate": "2014-01-23",
+      "studyFirstPostDateStruct": {
+        "date": "2014-01-27",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2024-10-15",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-10-17",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Loma Linda University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of the study is to determine if it is possible to identify and perform a needle biopsy of the sentinel lymph node. The investigators hope to identify breast cancer cells in the lymph nodes under the arm without making an operation necessary.\n\nThe rationale for this study is that for patients without enlarged lymph nodes under the arm, sentinel lymph node biopsy is the standard way of determining if breast cancer has spread to the lymph nodes under the arm. While the complications from a sentinel lymph node dissection are less than that of a complete axillary lymph node dissection, sentinel lymph node dissection still carries small risks of arm swelling, decreased movement, fluid collections, nerve injury, and pain. Furthermore, the majority of sentinel lymph nodes do not contain cancer. The investigators hope to develop a method to find cancer in the axillary lymph nodes and avoid the complications of an operation.",
+      "detailedDescription": "In patients already scheduled to undergo sentinel lymph node dissection in the operating room, the investigators will first perform an axillary ultrasound guided core needle biopsy percutaneously. Patients will have already undergone prior injection of radioisotope and blue dye and as a standard procedure or the sentinel lymph node dissection. After induction of anesthesia, the investigators will identify the location of the sentinel node with a gamma probe to identify the \"pre-incision hot spot.\" Axillary ultrasound will then be used to identify the location of the lymph node and a percutaneous core needle biopsy of the targeted lymph node will be performed. The core biopsy specimen will be evaluated for the presence of blue staining and radioisotope uptake intraoperatively. The core biopsy specimen will then will be sent for pathologic analysis. The percutaneous biopsy should take about 10 minutes of additional operating room time. The operation will then proceed as planned with dissection and removal of the remaining sentinel node(s). Core samples and sentinel lymph nodes will be evaluated in a similar fashion per existing sentinel node protocol."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "keywords": [
+        "Sentinel Lymph Node",
+        "Ultrasound Guided Needle Core Biopsy"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "DIAGNOSTIC",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 25,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "PNB of SLN",
+          "type": "EXPERIMENTAL",
+          "description": "Percutaneous core biopsy of sentinel node prior to standard sentinel node dissection",
+          "interventionNames": [
+            "Procedure: PNB of SLN"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "PNB of SLN",
+          "description": "Percutaneous biopsy of sentinel node",
+          "armGroupLabels": [
+            "PNB of SLN"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Accuracy of axillary ultrasound guided percutaneous needle biopsy of sentinel node",
+          "description": "False positive and false negative rates of ultrasound guided needle biopsy of sentinel node will be determined by comparison of results with gold standard of open surgical sentinel node dissection.",
+          "timeFrame": "2 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients eligible for sentinel node dissection\n* Invasive ductal or invasive lobular carcinoma\n* Ductal carcinoma in situ undergoing total mastectomy\n* Clinically node-negative\n* 18-100 years\n\nExclusion Criteria:\n\n* Inflammatory breast cancer\n* Pregnant or lactating\n* Preoperative chemotherapy\n* Prior axillary ultrasound guided core needle biopsy",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "minimumAge": "18 Years",
+      "maximumAge": "100 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Sharon S Lum, MD,FACS",
+          "affiliation": "Loma Linda University Medical Center",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Loma Linda University Medical Center",
+          "city": "Loma Linda",
+          "state": "California",
+          "zip": "92350",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.04835,
+            "lon": -117.26115
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "27334213",
+          "type": "DERIVED",
+          "citation": "Pairawan SS, Cora C, Olaya W, Deisch J, Garberoglio R, Solomon N, Senthil M, Garberoglio C, Lum SS. Percutaneous Sentinel Node Biopsy in Breast Cancer: Results of a Phase 1 Study. Ann Surg Oncol. 2016 Oct;23(10):3330-6. doi: 10.1245/s10434-016-5320-2. Epub 2016 Jun 22."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001943",
+          "term": "Breast Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D001941",
+          "term": "Breast Diseases"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

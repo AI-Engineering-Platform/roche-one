@@ -1,0 +1,439 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05260177",
+      "orgStudyIdInfo": {
+        "id": "ASIII"
+      },
+      "organization": {
+        "fullName": "Zealand University Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Study on the Effect of 40 Hz Non-Invasive Light Therapy System",
+      "officialTitle": "ALZLIGHT Stage III - Study on the Effect of 40 Hz Non-Invasive Light Therapy System"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-01",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-09-20",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-05-30",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-12-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2022-01-26",
+      "studyFirstSubmitQcDate": "2022-02-18",
+      "studyFirstPostDateStruct": {
+        "date": "2022-03-02",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-01-23",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-01-24",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Zealand University Hospital",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "OptoCeutics",
+          "class": "INDUSTRY"
+        },
+        {
+          "name": "University of Copenhagen",
+          "class": "OTHER"
+        },
+        {
+          "name": "Technical University of Denmark",
+          "class": "OTHER"
+        },
+        {
+          "name": "Göteborg University",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The ALZLIGHT STAGE III Study is a continuation of the ALZLIGHT Pilot - Study on Safety, Feasibility and Neural Activation of Non-Invasive Light Therapy System. As with the first two stages, this study will examine whether entrainment of 40 Hz neural oscillation by novel 40 Hz Invisible Spectral Flicker is a potential therapy for Alzheimer's Disease. In order to examine this, 62 patients with mild to moderate Alzheimer's Disease will be recruited. The patients will be exposed to the Non-Invasive Light Therapy System for 1 hour a day for 6 months. The effect will be measured by a combination of electroencephalography, cognitive testing, functional magnetic resonance imaging, magnetic resonance spectroscopy and actigraphy.",
+      "detailedDescription": "Recent studies in mouse models of Alzhimer's Disease (AD) have shown that exposure to 40 Hz stroboscopic light therapy for one hour a day, resulted in slowing disease progression and lead to multiple neuroprotective effects such as cognition and memory recovery, and even scavenged both tau and Aβ protein species. Hence, the 40 Hz stroboscopic light therapy has a considerable potential for treatment of humans.\n\nThis study will utilize a novel way of masked light by alternating the spectral composition of a white light, rendering the flicker invisible to the conscience perception, while still entraining 40 Hz oscillations in the brain.\n\nIn the study, 62 patients with probable mild to moderate AD will be exposed to either invisible spectral flickering light through the Light Therapy System (LTS) (active setting) or continuous non-flickering white light (sham setting) for 1 hour each day. The sham setting is a high quality sham intervention as subjects will be blinded to the setting, both appear as white light.\n\nThe study will last 8½ months for each participant and consist of 3 periods: Enrollment period of 1 month, an intervention period of 6 months, and a 1½ month post-interventional follow-up period.\n\nIn order to test whether the LTS intervention is a potential treatment for AD, cognition will be measured by neuropsychological tests at baseline and at follow-ups. To get a better understanding of the potential effects, markers of efficacy based on MRI, MRS, EEG and blood samples will be tested.\n\nThe results from this study will increase the understanding of the impact of gamma oscillations in the human brain, and how it can be utilized as a novel and important tool for the treatment of neurodegenerative diseases."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Alzheimer's Disease"
+      ],
+      "keywords": [
+        "Gamma Entrainment",
+        "40 Hz",
+        "Invisible Spectral Flicker",
+        "LED",
+        "Light Therapy",
+        "Brain Stimulation",
+        "Gamma Oscillations",
+        "Gamma Induction"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "A parallel-group randomized (1:1), double-blinded, placebo-controlled, clinical trial",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "maskingDescription": "Double-blinded",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 62,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Active",
+          "type": "EXPERIMENTAL",
+          "description": "Exposure to LTS device set to 40 Hz invisible spectral flicker for 1 hour a day for consecutive days",
+          "interventionNames": [
+            "Device: Light Therapy System (LTS): Active Setting"
+          ]
+        },
+        {
+          "label": "Sham",
+          "type": "SHAM_COMPARATOR",
+          "description": "Exposure to LTS device set to continuous color matched white light for 1 hour a day for consecutive days",
+          "interventionNames": [
+            "Device: Light Therapy System (LTS): Sham Setting"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Light Therapy System (LTS): Active Setting",
+          "description": "Exposure for 1 hour á day for consecutive days",
+          "armGroupLabels": [
+            "Active"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "Light Therapy System (LTS): Sham Setting",
+          "description": "Exposure for 1 hour á day for consecutive days",
+          "armGroupLabels": [
+            "Sham"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Gamma oscillations assessment",
+          "description": "Determine the total gamma power at 40 Hz, with no concomitant LTS device stimulation, assess changes in the gamma power at 40 Hz.",
+          "timeFrame": "Change from Baseline to 6 months and 7.5 months"
+        },
+        {
+          "measure": "Induction of 40 Hz Gamma oscillations",
+          "description": "Estimate the change in electrical field patterns by EEG SSVEP, assess the difference between placebo and treatment for power spectral density signal to noise ratio at baseline measured by EEG SSVEP",
+          "timeFrame": "Change from Baseline to 6 months and 7.5 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Cognition and memory assessment",
+          "description": "Assess changes in cognition measured by the Alzheimer's Disease Assessment Scale -Cognitive Subscale plus Executive Functioning and Functional Ability (ADAS Cog plus EF \\& FA). The score ranges from 0 to 135. A higher score reflects greater cognitive impairment.",
+          "timeFrame": "Change from Baseline to 6 months and 7.5 months"
+        },
+        {
+          "measure": "Cognition and memory assessment",
+          "description": "Assess changes in cognition measured by the Alzheimer's Disease Cooperative Study - Activities of Daily Living Inventory (ADCS-ADL). The score ranges from 0 to 78. A higher score reflects a better outcome.",
+          "timeFrame": "Change from Baseline to 6 months and 7.5 months"
+        },
+        {
+          "measure": "Cognition and memory assessment",
+          "description": "Assess changes in cognition measured by the Montreal Cognitive Assessment (MoCA). The score ranges from 0 to 30. A higher score reflects a better outcome.",
+          "timeFrame": "Change from Baseline to 6 months and 7.5 months"
+        },
+        {
+          "measure": "Connectivity measures",
+          "description": "rs-fMRI Connectivity: Estimate the temporal correlation between cortical regions, assess changes in correlation between cortical regions from baseline to 6 months and 7.5 months",
+          "timeFrame": "Change from Baseline to 6 months and 7.5 months"
+        },
+        {
+          "measure": "Connectivity measures",
+          "description": "EEG Connectivity: Estimate the temporal correlation between cortical regions, assess changes in correlation between cortical regions from baseline to 6 months and 7.5 months",
+          "timeFrame": "Change from Baseline to 6 months and 7.5 months"
+        },
+        {
+          "measure": "MR Spectroscopy",
+          "description": "MR Spectroscopy biomarkers: Assess changes from baseline to 6 months and 7.5 months",
+          "timeFrame": "Change from Baseline to 6 months and 7.5 months"
+        },
+        {
+          "measure": "Sleep Quality",
+          "description": "Assess changes from baseline to 6 months and 7.5 months of total sleep time in minutes, measured by actigraphy data and self-reported sleeping patterns (self-reported sleep quality scores based on patient's subjective report alone are often inaccurate).\n\nUnit: total sleep time in minutes",
+          "timeFrame": "Change from Baseline to 6 months and 7.5 months"
+        },
+        {
+          "measure": "Sleep Quality",
+          "description": "Assess changes from baseline to 6 months and 7.5 months of wakefulness after sleep onset, measured in minutes of wakefulness after a patient has fallen asleep based on actigraphy data.\n\nUnit: total time of wakefulness in minutes",
+          "timeFrame": "Change from Baseline to 6 months and 7.5 months"
+        },
+        {
+          "measure": "Biomarkers of Alzheimer's Disease",
+          "description": "Assess changes in biomarkers of Alzheimer's Disease in blood sampled from the participants from baseline to 6 months and 7.5 months. Markers of AD will be measured via ultrasensitive assays using fluid-based biomarkers such as plasma levels associated with amyloid pathology (plasma Aβ42/40 ratio), tau (plasma P-tau181 and P-tau231), neurodegeneration (plasma neurofilament light), and astrocytic function (glial fibrillary acidic protein).",
+          "timeFrame": "Change from Baseline to 6 months and 7.5 months"
+        },
+        {
+          "measure": "Safety Assessment",
+          "description": "Estimate the safety of the LTS therapy, assess device- and procedure-related adverse events (DR/PR-AEs) including serious AEs (SAEs) occuring at any time during the trial",
+          "timeFrame": "9 months"
+        },
+        {
+          "measure": "Feasibility assessment",
+          "description": "Investigate whether participants can meet the requirements of sitting in front of the LTS device for 1 hour per day. The feasibility of the LTS intervention will be measured by the amount of time (in minutes) of correct device use per day and through a self-report of usage via a compliance/feasibility questionnaire (structured interview on participant's self-reported usage and perception of the LTS device).\n\nUnit: minutes per day of usage",
+          "timeFrame": "Baseline to 6 months"
+        },
+        {
+          "measure": "Compliance assessment",
+          "description": "Investigate the tolerability of the LTS intervention through questionnaires (structured interviews) measured by the number of protocol breaches in total, i.e., not complying with one hour of light stimulation per day during the intervention period, and qualitative assessment based on the compliance/feasibility questionnaire (structured interview on participant's self-reported usage and perception of the LTS device).\n\nUnit: number of total protocol breaches",
+          "timeFrame": "Baseline to 6 months"
+        },
+        {
+          "measure": "MRI Atrophy assessment",
+          "description": "Assess changes from baseline to 6 months and 7.5 months of global atrophy (ventricular volume and hippocampal volume) using advanced MR techniques on structural MRI data, i.e., including but not limited to voxel-based analysis.",
+          "timeFrame": "Change from Baseline to 6 months and 7.5 months"
+        },
+        {
+          "measure": "MRI perfusion assessment",
+          "description": "Assess MRI perfusion: Changes from baseline to 6 months and 7.5 months.",
+          "timeFrame": "Change from Baseline to 6 months and 7.5 months"
+        },
+        {
+          "measure": "EEG: Spectral feature assessment",
+          "description": "Assess spectral features via rs-EEG Fourier power.",
+          "timeFrame": "Change from Baseline to 6 months and 7.5 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult competent person, able to understand the nature of the study and give written informed consent.\n* Diagnosed with probable mild to moderate AD based on NIA-AA diagnostic criteria.\n* Age \\> 55 years. Females must be post-menopausal.\n* Fluent in Danish.\n* \\> 8 years of normal school education\n* Pass a color-blindness test (Ishihara color test)\n* Have visual and auditory capabilities, and language skills necessary for neuropsychological testing.\n* Participants must have a designated caregiver, who is available to the participant and can provide the necessary assistance with using the LTS device and the Actigraph wearable at home and assist with clinical visits and other practical issues\n\nExclusion Criteria:\n\n* Profound visual impairment (visual acuity \\> 0.5) provided correction with spectacles, if needed\n* Significant abnormalities related to important parts of the brain, e.g., the visual system, prefrontal cortex, or hippocampus, or relevant lesions detected by pre-trial imaging.\n* Prior history of significant diseases related to the visual system or the brain.\n* Medication: Use of any antiepileptic drugs, neuromodulating drugs or high dose of sedatives will be excluded.\n* Prior history of substance abuse within the past 2 years.\n* Any significant systemic illness or unstable medical condition, which could lead to difficulty complying with the protocol (at the discretion of the PI)",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "55 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Peter Høgh, MD, Phd",
+          "role": "CONTACT",
+          "phone": "47322809",
+          "email": "phh@regionsjaelland.dk"
+        },
+        {
+          "name": "Maibritt Horning, MSc",
+          "role": "CONTACT",
+          "phone": "+45 81949649",
+          "email": "maibho@regionsjaelland.dk"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Maibritt Horning, MSc",
+          "affiliation": "Zealand University Hospital, Department of Neurology",
+          "role": "STUDY_CHAIR"
+        },
+        {
+          "name": "Mikkel Pejstrup Agger, MD",
+          "affiliation": "Zealand Univeristy Hospital, Department of Neurology",
+          "role": "STUDY_CHAIR"
+        },
+        {
+          "name": "Peter Høgh, MD, Phd",
+          "affiliation": "Zealand Univeristy Hospital, Department of Neurology",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Zealand University Hospital",
+          "status": "RECRUITING",
+          "city": "Roskilde",
+          "zip": "4000",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Peter Høgh, MD, Phd",
+              "role": "CONTACT",
+              "phone": "47322809",
+              "email": "phh@regionsjaelland.dk"
+            },
+            {
+              "name": "Maibritt Horning, MSc",
+              "role": "CONTACT",
+              "phone": "+4581949649",
+              "email": "maibho@regionsjaelland.dk"
+            },
+            {
+              "name": "Peter Høgh, MD, Phd",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Maibritt Horning, MSc",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Mikkel Pejstrup Agger, MD",
+              "role": "SUB_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 55.64152,
+            "lon": 12.08035
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "22091642",
+          "type": "BACKGROUND",
+          "citation": "Kasteleijn-Nolst Trenite D, Rubboli G, Hirsch E, Martins da Silva A, Seri S, Wilkins A, Parra J, Covanis A, Elia M, Capovilla G, Stephani U, Harding G. Methodology of photic stimulation revisited: updated European algorithm for visual stimulation in the EEG laboratory. Epilepsia. 2012 Jan;53(1):16-24. doi: 10.1111/j.1528-1167.2011.03319.x. Epub 2011 Nov 16."
+        },
+        {
+          "pmid": "11355381",
+          "type": "BACKGROUND",
+          "citation": "Herrmann CS. Human EEG responses to 1-100 Hz flicker: resonance phenomena in visual cortex and their potential correlation to cognitive phenomena. Exp Brain Res. 2001 Apr;137(3-4):346-53. doi: 10.1007/s002210100682."
+        },
+        {
+          "pmid": "30879788",
+          "type": "BACKGROUND",
+          "citation": "Martorell AJ, Paulson AL, Suk HJ, Abdurrob F, Drummond GT, Guan W, Young JZ, Kim DN, Kritskiy O, Barker SJ, Mangena V, Prince SM, Brown EN, Chung K, Boyden ES, Singer AC, Tsai LH. Multi-sensory Gamma Stimulation Ameliorates Alzheimer's-Associated Pathology and Improves Cognition. Cell. 2019 Apr 4;177(2):256-271.e22. doi: 10.1016/j.cell.2019.02.014. Epub 2019 Mar 14."
+        },
+        {
+          "pmid": "27929004",
+          "type": "BACKGROUND",
+          "citation": "Iaccarino HF, Singer AC, Martorell AJ, Rudenko A, Gao F, Gillingham TZ, Mathys H, Seo J, Kritskiy O, Abdurrob F, Adaikkan C, Canter RG, Rueda R, Brown EN, Boyden ES, Tsai LH. Gamma frequency entrainment attenuates amyloid load and modifies microglia. Nature. 2016 Dec 7;540(7632):230-235. doi: 10.1038/nature20587."
+        },
+        {
+          "pmid": "31836315",
+          "type": "BACKGROUND",
+          "citation": "Adaikkan C, Tsai LH. Gamma Entrainment: Impact on Neurocircuits, Glia, and Therapeutic Opportunities. Trends Neurosci. 2020 Jan;43(1):24-41. doi: 10.1016/j.tins.2019.11.001. Epub 2019 Dec 10."
+        },
+        {
+          "pmid": "31076275",
+          "type": "BACKGROUND",
+          "citation": "Adaikkan C, Middleton SJ, Marco A, Pao PC, Mathys H, Kim DN, Gao F, Young JZ, Suk HJ, Boyden ES, McHugh TJ, Tsai LH. Gamma Entrainment Binds Higher-Order Brain Regions and Offers Neuroprotection. Neuron. 2019 Jun 5;102(5):929-943.e8. doi: 10.1016/j.neuron.2019.04.011. Epub 2019 May 7."
+        },
+        {
+          "pmid": "34021943",
+          "type": "BACKGROUND",
+          "citation": "Alawode DOT, Heslegrave AJ, Ashton NJ, Karikari TK, Simren J, Montoliu-Gaya L, Pannee J, O Connor A, Weston PSJ, Lantero-Rodriguez J, Keshavan A, Snellman A, Gobom J, Paterson RW, Schott JM, Blennow K, Fox NC, Zetterberg H. Transitioning from cerebrospinal fluid to blood tests to facilitate diagnosis and disease monitoring in Alzheimer's disease. J Intern Med. 2021 Sep;290(3):583-601. doi: 10.1111/joim.13332. Epub 2021 Jun 26."
+        },
+        {
+          "pmid": "34661615",
+          "type": "BACKGROUND",
+          "citation": "Benedet AL, Mila-Aloma M, Vrillon A, Ashton NJ, Pascoal TA, Lussier F, Karikari TK, Hourregue C, Cognat E, Dumurgier J, Stevenson J, Rahmouni N, Pallen V, Poltronetti NM, Salvado G, Shekari M, Operto G, Gispert JD, Minguillon C, Fauria K, Kollmorgen G, Suridjan I, Zimmer ER, Zetterberg H, Molinuevo JL, Paquet C, Rosa-Neto P, Blennow K, Suarez-Calvet M; Translational Biomarkers in Aging and Dementia (TRIAD) study, Alzheimer's and Families (ALFA) study, and BioCogBank Paris Lariboisiere cohort. Differences Between Plasma and Cerebrospinal Fluid Glial Fibrillary Acidic Protein Levels Across the Alzheimer Disease Continuum. JAMA Neurol. 2021 Dec 1;78(12):1471-1483. doi: 10.1001/jamaneurol.2021.3671."
+        },
+        {
+          "pmid": "37901795",
+          "type": "DERIVED",
+          "citation": "Agger MP, Horning M, Carstensen MS, Danielsen ER, Baandrup AO, Nguyen M, Hogh P, Miskowiak K, Petersen PM, Madsen KH, Kjaer TW. Study on the effect of 40 Hz non-invasive light therapy system. A protocol for a randomized, double-blinded, placebo-controlled clinical trial. Front Aging Neurosci. 2023 Oct 12;15:1250626. doi: 10.3389/fnagi.2023.1250626. eCollection 2023."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "Carstensen M et al. 40 Hz invisible spectral flicker and its potential use in Alzheimer's light therapy treatment. Proc. SPIE 11221, Mechanisms of Photobiomodulation Therapy XV, 112210L (11 March 2020)",
+          "url": "https://doi.org/10.1117/12.2544338"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000544",
+          "term": "Alzheimer Disease"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003704",
+          "term": "Dementia"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D024801",
+          "term": "Tauopathies"
+        },
+        {
+          "id": "D019636",
+          "term": "Neurodegenerative Diseases"
+        },
+        {
+          "id": "D019965",
+          "term": "Neurocognitive Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

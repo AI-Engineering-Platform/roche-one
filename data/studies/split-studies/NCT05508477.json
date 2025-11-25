@@ -1,0 +1,681 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05508477",
+      "orgStudyIdInfo": {
+        "id": "UNAIR-MP-INAKTIF-III-01"
+      },
+      "organization": {
+        "fullName": "Dr. Soetomo General Hospital",
+        "class": "OTHER_GOV"
+      },
+      "briefTitle": "UNAIR Inactivated COVID-19 Vaccine Phase III (Immunobridging Study)",
+      "officialTitle": "A Multicenter, Randomized, Double Blind, Controlled, Phase III Clinical Trial (Immunobridging Study) of Vaksin Merah Putih - UA SARS-CoV-2 (Vero Cell Inactivated) in Healthy Population Aged 18 Years and Above"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2022-06",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-06-28",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-03-28",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2023-05-28",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2022-08-18",
+      "studyFirstSubmitQcDate": "2022-08-18",
+      "studyFirstPostDateStruct": {
+        "date": "2022-08-19",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2022-08-24",
+      "lastUpdatePostDateStruct": {
+        "date": "2022-08-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Dr. Soetomo General Hospital",
+        "class": "OTHER_GOV"
+      },
+      "collaborators": [
+        {
+          "name": "Indonesia-MoH",
+          "class": "OTHER_GOV"
+        },
+        {
+          "name": "Universitas Airlangga",
+          "class": "OTHER"
+        },
+        {
+          "name": "Bioxis Pharmaceuticalls",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study is a multicenter, randomized, double blind, controlled, phase III clinical trial (Immunobridging Study) to evaluate the immunogenicity and safety of Vaksin Merah Putih - UA SARS-CoV-2 (Vero Cell Inactivated) in healthy populations aged 18 years and above. Vaksin Merah Putih - UA SARS-CoV-2 (Vero Cell Inactivated) is an inactivated vaccine made of SARS-CoV-2 virus isolated from a patient in Surabaya, composed with aluminium hydroxy gel, tween 80, and L-histidine, and this study will be the first phase III in human.",
+      "detailedDescription": "This is a double blind randomized controlled trial - immunobridging study. There will be 2 groups in the study. One adult group (18 year-old and above) with 5 µg dose, and 1 control group using CoronaVac Bio Farma. Both vaccines will be administered with 2-dose schedule, intramuscularly. All cohorts will be followed for 6 months.\n\nThis study will have two interim and one full analysis The main focus is immunogenicity and safety or reactogenicity issues. Data Safety Monitoring Board will be commissioned for this study to evaluate safety data over the study period and to review any events that meet a specific study pausing rule or any other safety issue that may arise. They will review the blinded 7 and 28 days safety data following the first dose of vaccine, and then the 7 and 28 days after the second dose. The immunogenicity data will be evaluated until 6 months after the second dose"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "COVID-19 Pandemic",
+        "COVID-19 Vaccines"
+      ],
+      "keywords": [
+        "Inactivated COVID-19 Vaccine",
+        "Immunogenicity",
+        "Safety",
+        "COVID-19",
+        "Indonesia",
+        "Immunobridging study"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "There will be 2 groups in the study. One adult group (18 year-old and above) with 5 µg dose, and 1 control group using CoronaVac Bio Farma. The UNAIR vaccine group will consist of 3 sub group based on different lot. Both vaccines will be administered with 2-dose schedule, intramuscularly. All cohorts will be followed for 6 months.",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "maskingDescription": "In this clinical trial, the experimental vaccine and the control vaccine will have different packages. In order to maintain the blinding process, the unblinded team will be appointed to place the vaccine in the syringe. The other team members will later inject the vaccines according to the random group that has been selected. The injection team do not know what kind of vaccine is in the syringe.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 4005,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Vaksin Merah Putih - UA SARS-CoV-2 (Vero Cell Inactivated) 5 µg",
+          "type": "EXPERIMENTAL",
+          "description": "Study product are provided in the form of liquid in vial single dose (0.5 ml). The vaccine will be given twice with 28 days interval.",
+          "interventionNames": [
+            "Biological: Vaksin Merah Putih - UA SARS-CoV-2 (Vero Cell Inactivated) 5 µg"
+          ]
+        },
+        {
+          "label": "CoronaVac Biofarma COVID-19 Vaccine",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Control vaccine is CoronaVac Bio Farma vaccine, supplied by Ministry of Health of Indonesia, in the form of two doses vial. The vaccine will be given twice with 28 days interval.",
+          "interventionNames": [
+            "Biological: CoronaVac Biofarma COVID-19 Vaccine"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Vaksin Merah Putih - UA SARS-CoV-2 (Vero Cell Inactivated) 5 µg",
+          "description": "Vaksin Merah Putih - UA SARS-CoV-2 (Vero Cell Inactivated) contains purified S protein of SARS-CoV-2 - Dose: 5 µg, aluminium hydroxide gel, 10 mM L-Histidine buffer, 0.005%, Tween Polysorbate 80, and 0.9% Sodium chloride. Vaccine will be prepared in vial (1 ml per vial). One vial will be used for one injection only. The vial should be shaken well before injection.",
+          "armGroupLabels": [
+            "Vaksin Merah Putih - UA SARS-CoV-2 (Vero Cell Inactivated) 5 µg"
+          ]
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "CoronaVac Biofarma COVID-19 Vaccine",
+          "description": "Control vaccine in this study is existing CoronaVac-BioFarma inactivated COVID-19 vaccine which has been used widely in Indonesia",
+          "armGroupLabels": [
+            "CoronaVac Biofarma COVID-19 Vaccine"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "The Humoral Immunogenicity Profile",
+          "description": "The level of SARS-CoV-2 neutralizing and non neutralizing antibody among participants",
+          "timeFrame": "28 days after the second vaccination"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "The Safety Profile",
+          "description": "Evaluate number of adverse events occur among participants",
+          "timeFrame": "Within 30 minutes, 24 hours, 7 and 28 days following each dose and 3 and 6 months after the second doses of vaccination"
+        },
+        {
+          "measure": "The Humoral Immunogenicity Profile",
+          "description": "The level of SARS-CoV-2 neutralizing and non neutralizing antibody among participants",
+          "timeFrame": "3 and 6 months following the second vaccination"
+        },
+        {
+          "measure": "The Cellular Immunogenicity Profile",
+          "description": "Evaluate Th1 and Th2 immune responses including CD4+/CD8+. IL-2, IL-4, TNF alpha, IFN gamma, and other markers after stimulation of PBMC with SARS-CoV-2 protein peptides and Interferon gamma release assay (IGRA) to assess the production of IFN-γ from stimulated CD4+ and CD8+ with antigen peptides specific to SARS-CoV-2 among participants",
+          "timeFrame": "3 and 6 months after the second vaccination"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Lot to Lot Consistency",
+          "description": "The comparison for safety and immunogenicity aspects (humoral and cellular) among 3 vaccine lots used in this trial",
+          "timeFrame": "28 days, 3 and 6 months after the second injection for immunogenicity profile, and 30 minutes, 24 hours, 7 and 28 days after each vaccination, and then 3 and 6 months after the second injection for safety aspects."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Healthy adults and elderly, males and females, 18 years of age and above. Healthy status will be determined by the investigator based on medical history, clinical laboratory results, vital sign measurements, and physical examination at screening.\n2. Subjects have been informed properly regarding the study and signed the informed consent form.\n3. Subject will commit to comply with the instructions of the investigator and the schedule of the trial\n4. Participants agree not to donate bone marrow, blood, and blood products from the first study vaccine administration until 3 months after receiving the last dose of study vaccine.\n5. Participants must be willing to provide verifiable identification, has means to be contacted and to contact the investigator during the study.\n\nExclusion Criteria:\n\n1. Subjects concomitantly enrolled or scheduled to be enrolled in another vaccine trial.\n2. Evolving mild, moderate, and severe illness, especially infectious diseases or fever (axillary temperature 37.5 degree Celcius or more) concurrent or within 7 days prior to first study vaccination. This includes respiratory or constitutional symptoms consistent with SARS-CoV-2 (cough, sore throat, difficulty in breathing, etc)\n3. Known history of allergy to any component of the vaccines.\n4. History of uncontrolled coagulopathy or blood disorders contraindicating intramuscular injection.\n5. Any autoimmune or immunodeficiency disease/condition\n6. Subjects who have received in the previous 4 weeks a treatment likely to alter the immune response (intravenous immunoglobulin, blood derived products, long term corticosteroid - more than 2 weeks, and so on), OR anticipation of the need for immunosuppressive treatment within 6 months after last vaccination. The use of topical or nasal steroid will be permitted.\n7. Unstable chronic disease, inclusive of uncontrolled hypertension, congestive heart failure, chronic obstructive pulmonary disease, asthma, chronic urticaria, diabetes requiring use of medicine. The final decision regarding this condition will be decided by the attending field clinicians or investigator.\n8. Any abnormality or chronic disease which according to the investigator might interfere with the assessment of the trial objectives.\n9. Individuals who previously receive any vaccines against Covid-19.\n10. Subjects already immunized with any vaccine within 4 weeks prior and expect to receive other vaccines within 60 days following the first dose.\n11. Individuals who have a previously ascertained Covid-19 in the period of 1 month (for mild, moderate, or asymptomatic people) or 3 months (for severe Covid-19) before the first recruit of this study, or in a close contact in the last 14 days with confirmed case of Covid-19.\n12. Positive test for SARS-CoV-2 (Antigen test or, if necessary, PCR test) at screening prior to first vaccination. Testing may be repeated during the screening period if exposure to positive confirmed case of SARS-CoV-2 is suspected, at the discretion of investigator.\n13. Alcohol or substance abuse\n14. HIV patients.\n15. Malignancy patients within 2 years prior to first study vaccination.\n16. Any neurological disease or history of significant neurological disorder such as meningitis, encephalitis, Guillain-Barre Syndrome, multiple sclerosis, etc\n17. Vital sign abnormalities and clinical laboratory abnormalities as decided by the investigators. Vital sign measurements and clinical laboratory testing may be repeated before the final decision.\n18. Women who are pregnant or who plan to become pregnant during the study.\n19. Participant has major psychiatric problem or illness\n20. Participant cannot communicate reliably with the investigator\n21. Participant has contraindication to intramuscular injection and blood draws, such as bleeding disorders or phobia.\n22. Participant had major surgery within 12 weeks before vaccination which will not be fully recovered, or has major surgery planned during the time participant is expected to participate in the study or within 6 months after the last dose of study vaccine administration.\n23. Any condition that in the opinion of the investigators would pose a health risk to the subject if enrolled or could interfere with the evaluation of the vaccine or interpretation of the study results\n24. Study team members.\n25. Subject planning to move from the study area before the end of study period.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Dominicus Husada, MD",
+          "role": "CONTACT",
+          "phone": "‭+6281232266377‬",
+          "email": "dominicushusada@yahoo.com"
+        },
+        {
+          "name": "Damayanti Tinduh, MD",
+          "role": "CONTACT",
+          "phone": "+6281703293335‬",
+          "email": "damayanti.tinduh@fk.unair.ac.id"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Dominicus Husada, MD",
+          "affiliation": "Dr. Soetomo General Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Dr. Soebandi General Hospital",
+          "status": "RECRUITING",
+          "city": "Jember",
+          "state": "East Java",
+          "zip": "68111",
+          "country": "Indonesia",
+          "contacts": [
+            {
+              "name": "Retna D Puspita, MD",
+              "role": "CONTACT",
+              "phone": "+62813-3118-0432"
+            }
+          ],
+          "geoPoint": {
+            "lat": -8.17211,
+            "lon": 113.69953
+          }
+        },
+        {
+          "facility": "Jember Paru Hospital",
+          "status": "RECRUITING",
+          "city": "Jember",
+          "state": "East Java",
+          "zip": "68118",
+          "country": "Indonesia",
+          "contacts": [
+            {
+              "name": "Sigit K Jati, MD",
+              "role": "CONTACT",
+              "phone": "+6281233843628"
+            }
+          ],
+          "geoPoint": {
+            "lat": -8.17211,
+            "lon": 113.69953
+          }
+        },
+        {
+          "facility": "Dr. Saiful Anwar General Hospital",
+          "status": "RECRUITING",
+          "city": "Malang",
+          "state": "East Java",
+          "zip": "65112",
+          "country": "Indonesia",
+          "contacts": [
+            {
+              "name": "Cesarius S Wahono, MD",
+              "role": "CONTACT",
+              "phone": "+6281344110967"
+            }
+          ],
+          "geoPoint": {
+            "lat": -7.9797,
+            "lon": 112.6304
+          }
+        },
+        {
+          "facility": "Airlangga University Hospital",
+          "status": "RECRUITING",
+          "city": "Surabaya",
+          "state": "East Java",
+          "zip": "60115",
+          "country": "Indonesia",
+          "contacts": [
+            {
+              "name": "Brian E Rahman, MD",
+              "role": "CONTACT",
+              "phone": "+628123005886"
+            }
+          ],
+          "geoPoint": {
+            "lat": -7.24917,
+            "lon": 112.75083
+          }
+        },
+        {
+          "facility": "Dr. Soetomo General Hospital",
+          "status": "RECRUITING",
+          "city": "Surabaya",
+          "state": "East Java",
+          "zip": "67161",
+          "country": "Indonesia",
+          "contacts": [
+            {
+              "name": "Dominicus Husada, MD",
+              "role": "CONTACT",
+              "phone": "‭+6281232266377‬",
+              "email": "dominicushusada@yahoo.com"
+            },
+            {
+              "name": "Damayanti Tinduh, MD",
+              "role": "CONTACT",
+              "phone": "‭+6281703293335‬",
+              "email": "damayanti.tinduh@fk.unair.ac.id"
+            },
+            {
+              "name": "Dominicus Husada, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Damayanti Tinduh, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Gatot Soegiarto, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Leny Kartina, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Aryati Aryati, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Jusak Nugraha, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Munawaroh Fitriah, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Maria I Lusida, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Eko B Khoendori, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Neneng D Kurniati, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Fierly Hayati, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Budi Utomo, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Novira Widajanti, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Yudi H Oktaviono, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Deasy Fetarayani, MD",
+              "role": "SUB_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": -7.24917,
+            "lon": 112.75083
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "33686059",
+          "type": "BACKGROUND",
+          "citation": "Wang C, Wang Z, Wang G, Lau JY, Zhang K, Li W. COVID-19 in early 2021: current status and looking forward. Signal Transduct Target Ther. 2021 Mar 8;6(1):114. doi: 10.1038/s41392-021-00527-1."
+        },
+        {
+          "pmid": "32619759",
+          "type": "BACKGROUND",
+          "citation": "Noh JY, Song JY, Yoon JG, Seong H, Cheong HJ, Kim WJ. Safe hospital preparedness in the era of COVID-19: The Swiss cheese model. Int J Infect Dis. 2020 Sep;98:294-296. doi: 10.1016/j.ijid.2020.06.094. Epub 2020 Jun 30."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "New York Vaccine Tracker. Downloaded from https://www.nytimes.com/interactive/2020/science/coronavirus-vaccinetracker.html. Accessed 11 April 2022"
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Badan POM Republik Indonesia. Dowloaded from https://www.pom.go.id/new/view/more/pers/605/Pastikan-Keamanan-danMutu-Vaksin---Badan-POM-Kawal-Uji-Klinik-Vaksin-Merah-Putih.html. Accessed 11 October 2021."
+        },
+        {
+          "pmid": "33767468",
+          "type": "BACKGROUND",
+          "citation": "Irwin A. What it will take to vaccinate the world against COVID-19. Nature. 2021 Apr;592(7853):176-178. doi: 10.1038/d41586-021-00727-3. No abstract available."
+        },
+        {
+          "pmid": "33323376",
+          "type": "BACKGROUND",
+          "citation": "So AD, Woo J. Reserving coronavirus disease 2019 vaccines for global access: cross sectional analysis. BMJ. 2020 Dec 15;371:m4750. doi: 10.1136/bmj.m4750."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Worldometer coronavirus cases. Downloaded from https://www.worldometers.info/coronavirus/. Accessed 11 October 2021"
+        },
+        {
+          "pmid": "33296901",
+          "type": "BACKGROUND",
+          "citation": "Biswas M, Rahaman S, Biswas TK, Haque Z, Ibrahim B. Association of Sex, Age, and Comorbidities with Mortality in COVID-19 Patients: A Systematic Review and Meta-Analysis. Intervirology. 2020 Dec 9:1-12. doi: 10.1159/000512592. Online ahead of print."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Satuan Tugas Penanganan Covid-19. Downloaded from https://covid19.go.id/petasebaran. Accessed 11 October 2021"
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Cirrincione L, Plescia F, Ledda C, Rapisarda V, Martorana D, Moldovan RE, Theodoridou K, Cannizzaro E. COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace. Sustainability 2020; 12: 3603"
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Bloomberg. Downloaded from https://www.bloomberg.com/graphics/covidresilience-ranking/. Accessed 11 October 2021"
+        },
+        {
+          "pmid": "33301246",
+          "type": "BACKGROUND",
+          "citation": "Polack FP, Thomas SJ, Kitchin N, Absalon J, Gurtman A, Lockhart S, Perez JL, Perez Marc G, Moreira ED, Zerbini C, Bailey R, Swanson KA, Roychoudhury S, Koury K, Li P, Kalina WV, Cooper D, Frenck RW Jr, Hammitt LL, Tureci O, Nell H, Schaefer A, Unal S, Tresnan DB, Mather S, Dormitzer PR, Sahin U, Jansen KU, Gruber WC; C4591001 Clinical Trial Group. Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine. N Engl J Med. 2020 Dec 31;383(27):2603-2615. doi: 10.1056/NEJMoa2034577. Epub 2020 Dec 10."
+        },
+        {
+          "pmid": "33378609",
+          "type": "BACKGROUND",
+          "citation": "Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R, Diemert D, Spector SA, Rouphael N, Creech CB, McGettigan J, Khetan S, Segall N, Solis J, Brosz A, Fierro C, Schwartz H, Neuzil K, Corey L, Gilbert P, Janes H, Follmann D, Marovich M, Mascola J, Polakowski L, Ledgerwood J, Graham BS, Bennett H, Pajon R, Knightly C, Leav B, Deng W, Zhou H, Han S, Ivarsson M, Miller J, Zaks T; COVE Study Group. Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine. N Engl J Med. 2021 Feb 4;384(5):403-416. doi: 10.1056/NEJMoa2035389. Epub 2020 Dec 30."
+        },
+        {
+          "pmid": "33306989",
+          "type": "BACKGROUND",
+          "citation": "Voysey M, Clemens SAC, Madhi SA, Weckx LY, Folegatti PM, Aley PK, Angus B, Baillie VL, Barnabas SL, Bhorat QE, Bibi S, Briner C, Cicconi P, Collins AM, Colin-Jones R, Cutland CL, Darton TC, Dheda K, Duncan CJA, Emary KRW, Ewer KJ, Fairlie L, Faust SN, Feng S, Ferreira DM, Finn A, Goodman AL, Green CM, Green CA, Heath PT, Hill C, Hill H, Hirsch I, Hodgson SHC, Izu A, Jackson S, Jenkin D, Joe CCD, Kerridge S, Koen A, Kwatra G, Lazarus R, Lawrie AM, Lelliott A, Libri V, Lillie PJ, Mallory R, Mendes AVA, Milan EP, Minassian AM, McGregor A, Morrison H, Mujadidi YF, Nana A, O'Reilly PJ, Padayachee SD, Pittella A, Plested E, Pollock KM, Ramasamy MN, Rhead S, Schwarzbold AV, Singh N, Smith A, Song R, Snape MD, Sprinz E, Sutherland RK, Tarrant R, Thomson EC, Torok ME, Toshner M, Turner DPJ, Vekemans J, Villafana TL, Watson MEE, Williams CJ, Douglas AD, Hill AVS, Lambe T, Gilbert SC, Pollard AJ; Oxford COVID Vaccine Trial Group. Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK. Lancet. 2021 Jan 9;397(10269):99-111. doi: 10.1016/S0140-6736(20)32661-1. Epub 2020 Dec 8."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Our world in Data. Downloaded from https://ourworldindata.org/covidvaccinations. Accessed 11 April 2022."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "CNN. Downloaded from https://edition.cnn.com/2021/04/03/health/uscoronavirus-saturday/index.html. Accessed 11 October 2021."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "World Health Organization. Downloaded from https://www.who.int/newsroom/feature-stories/detail/vaccine-efficacy-effectiveness-and-protection. Accessed 11 October 2021"
+        },
+        {
+          "pmid": "33059771",
+          "type": "BACKGROUND",
+          "citation": "Palacios R, Patino EG, de Oliveira Piorelli R, Conde MTRP, Batista AP, Zeng G, Xin Q, Kallas EG, Flores J, Ockenhouse CF, Gast C. Double-Blind, Randomized, Placebo-Controlled Phase III Clinical Trial to Evaluate the Efficacy and Safety of treating Healthcare Professionals with the Adsorbed COVID-19 (Inactivated) Vaccine Manufactured by Sinovac - PROFISCOV: A structured summary of a study protocol for a randomised controlled trial. Trials. 2020 Oct 15;21(1):853. doi: 10.1186/s13063-020-04775-4."
+        },
+        {
+          "pmid": "34246358",
+          "type": "BACKGROUND",
+          "citation": "Tanriover MD, Doganay HL, Akova M, Guner HR, Azap A, Akhan S, Kose S, Erdinc FS, Akalin EH, Tabak OF, Pullukcu H, Batum O, Simsek Yavuz S, Turhan O, Yildirmak MT, Koksal I, Tasova Y, Korten V, Yilmaz G, Celen MK, Altin S, Celik I, Bayindir Y, Karaoglan I, Yilmaz A, Ozkul A, Gur H, Unal S; CoronaVac Study Group. Efficacy and safety of an inactivated whole-virion SARS-CoV-2 vaccine (CoronaVac): interim results of a double-blind, randomised, placebo-controlled, phase 3 trial in Turkey. Lancet. 2021 Jul 17;398(10296):213-222. doi: 10.1016/S0140-6736(21)01429-X. Epub 2021 Jul 8."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Reuters. Downloaded from https://www.reuters.com/business/healthcarepharmaceuticals/indonesia-study-finds-chinas-sinovac-covid-19-vaccine-effectivemedical-staff-2021-05-12/. Accessed 11 October 2021"
+        },
+        {
+          "pmid": "34037666",
+          "type": "BACKGROUND",
+          "citation": "Al Kaabi N, Zhang Y, Xia S, Yang Y, Al Qahtani MM, Abdulrazzaq N, Al Nusair M, Hassany M, Jawad JS, Abdalla J, Hussein SE, Al Mazrouei SK, Al Karam M, Li X, Yang X, Wang W, Lai B, Chen W, Huang S, Wang Q, Yang T, Liu Y, Ma R, Hussain ZM, Khan T, Saifuddin Fasihuddin M, You W, Xie Z, Zhao Y, Jiang Z, Zhao G, Zhang Y, Mahmoud S, ElTantawy I, Xiao P, Koshy A, Zaher WA, Wang H, Duan K, Pan A, Yang X. Effect of 2 Inactivated SARS-CoV-2 Vaccines on Symptomatic COVID-19 Infection in Adults: A Randomized Clinical Trial. JAMA. 2021 Jul 6;326(1):35-45. doi: 10.1001/jama.2021.8565."
+        },
+        {
+          "pmid": "33619260",
+          "type": "BACKGROUND",
+          "citation": "Kyriakidis NC, Lopez-Cortes A, Gonzalez EV, Grimaldos AB, Prado EO. SARS-CoV-2 vaccines strategies: a comprehensive review of phase 3 candidates. NPJ Vaccines. 2021 Feb 22;6(1):28. doi: 10.1038/s41541-021-00292-w."
+        },
+        {
+          "pmid": "34354082",
+          "type": "BACKGROUND",
+          "citation": "Mendonca SA, Lorincz R, Boucher P, Curiel DT. Adenoviral vector vaccine platforms in the SARS-CoV-2 pandemic. NPJ Vaccines. 2021 Aug 5;6(1):97. doi: 10.1038/s41541-021-00356-x."
+        },
+        {
+          "pmid": "33232211",
+          "type": "BACKGROUND",
+          "citation": "Yadav T, Srivastava N, Mishra G, Dhama K, Kumar S, Puri B, Saxena SK. Recombinant vaccines for COVID-19. Hum Vaccin Immunother. 2020 Dec 1;16(12):2905-2912. doi: 10.1080/21645515.2020.1820808. Epub 2020 Nov 24."
+        },
+        {
+          "pmid": "33353987",
+          "type": "BACKGROUND",
+          "citation": "Pollard AJ, Bijker EM. A guide to vaccinology: from basic principles to new developments. Nat Rev Immunol. 2021 Feb;21(2):83-100. doi: 10.1038/s41577-020-00479-7. Epub 2020 Dec 22."
+        },
+        {
+          "pmid": "33846611",
+          "type": "BACKGROUND",
+          "citation": "Excler JL, Saville M, Berkley S, Kim JH. Vaccine development for emerging infectious diseases. Nat Med. 2021 Apr;27(4):591-600. doi: 10.1038/s41591-021-01301-0. Epub 2021 Apr 12."
+        },
+        {
+          "pmid": "21340319",
+          "type": "BACKGROUND",
+          "citation": "Bhattacharya S, Dasgupta R. Smallpox and polio eradication in India: comparative histories and lessons for contemporary policy. Cien Saude Colet. 2011 Feb;16(2):433-44. doi: 10.1590/s1413-81232011000200007."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "CNN Indonesia. Downloaded from https://www.cnnindonesia.com/ekonomi/20210615172504-92-654688/bio-farmayakin-ri-bisa-dapat-400-juta-dosis-vaksin-tahun-ini. Accessed 111 Ocotber 2021."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Suara.com. Downloaded from https://www.suara.com/bisnis/2020/11/06/151502/ini-6-lembaga-yangkembangkan-vaksin-merah-putih. Accessed 11 October 2021."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "World Health Organization. Considerations of evaluation of Covid-19 vaccines. Revised. Version of 30 March 2022. Geneva: WHO, 2021"
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Wang K, Jia Z, Bao L, et al. A subset of Memory B-derived antibody repertoire from 3-dose vaccinees is ultrapotent against diverse and highly transmissible SARS-CoV-2 variants, including Omicron. BioRXiv 2021; doi: https://doi.org/10.1101/2021.12.24.474084;"
+        },
+        {
+          "pmid": "34233097",
+          "type": "BACKGROUND",
+          "citation": "Jara A, Undurraga EA, Gonzalez C, Paredes F, Fontecilla T, Jara G, Pizarro A, Acevedo J, Leo K, Leon F, Sans C, Leighton P, Suarez P, Garcia-Escorza H, Araos R. Effectiveness of an Inactivated SARS-CoV-2 Vaccine in Chile. N Engl J Med. 2021 Sep 2;385(10):875-884. doi: 10.1056/NEJMoa2107715. Epub 2021 Jul 7."
+        },
+        {
+          "pmid": "35060174",
+          "type": "BACKGROUND",
+          "citation": "Fonseca MHG, de Souza TFG, de Carvalho Araujo FM, de Andrade LOM. Dynamics of antibody response to CoronaVac vaccine. J Med Virol. 2022 May;94(5):2139-2148. doi: 10.1002/jmv.27604. Epub 2022 Jan 28."
+        },
+        {
+          "pmid": "34511939",
+          "type": "BACKGROUND",
+          "citation": "Mascellino MT, Di Timoteo F, De Angelis M, Oliva A. Overview of the Main Anti-SARS-CoV-2 Vaccines: Mechanism of Action, Efficacy and Safety. Infect Drug Resist. 2021 Aug 31;14:3459-3476. doi: 10.2147/IDR.S315727. eCollection 2021."
+        },
+        {
+          "pmid": "33429880",
+          "type": "BACKGROUND",
+          "citation": "Prubeta BM. Current State of the First COVID-19 Vaccines. Vaccines (Basel). 2021 Jan 8;9(1):30. doi: 10.3390/vaccines9010030."
+        },
+        {
+          "pmid": "34650240",
+          "type": "BACKGROUND",
+          "citation": "Mallapaty S. China's COVID vaccines have been crucial - now immunity is waning. Nature. 2021 Oct;598(7881):398-399. doi: 10.1038/d41586-021-02796-w. No abstract available."
+        },
+        {
+          "pmid": "34620531",
+          "type": "BACKGROUND",
+          "citation": "Fadlyana E, Rusmil K, Tarigan R, Rahmadi AR, Prodjosoewojo S, Sofiatin Y, Khrisna CV, Sari RM, Setyaningsih L, Surachman F, Bachtiar NS, Sukandar H, Megantara I, Murad C, Pangesti KNA, Setiawaty V, Sudigdoadi S, Hu Y, Gao Q, Kartasasmita CB. A phase III, observer-blind, randomized, placebo-controlled study of the efficacy, safety, and immunogenicity of SARS-CoV-2 inactivated vaccine in healthy adults aged 18-59 years: An interim analysis in Indonesia. Vaccine. 2021 Oct 22;39(44):6520-6528. doi: 10.1016/j.vaccine.2021.09.052. Epub 2021 Sep 24."
+        },
+        {
+          "pmid": "34839992",
+          "type": "BACKGROUND",
+          "citation": "Dinc HO, Saltoglu N, Can G, Balkan II, Budak B, Ozbey D, Caglar B, Karaali R, Mete B, Tuyji Tok Y, Ersoy Y, Ahmet Kuskucu M, Midilli K, Ergin S, Kocazeybek BS. Inactive SARS-CoV-2 vaccine generates high antibody responses in healthcare workers with and without prior infection. Vaccine. 2022 Jan 3;40(1):52-58. doi: 10.1016/j.vaccine.2021.11.051. Epub 2021 Nov 22."
+        },
+        {
+          "pmid": "35018966",
+          "type": "BACKGROUND",
+          "citation": "Guzel EC, Celikkol A, Erdal B, Sedef N. Immunogenicity after CoronaVac vaccination. Rev Assoc Med Bras (1992). 2021 Oct;67(10):1403-1408. doi: 10.1590/1806-9282.20210389."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Palacios R, Batista AP, Albuquerque, et al. Efficacy and Safety of a COVID-19 Inactivated Vaccine in Healthcare Professionals in Brazil: The PROFISCOV Study. SSRN 2021"
+        },
+        {
+          "pmid": "35173705",
+          "type": "BACKGROUND",
+          "citation": "Escobar A, Reyes-Lopez FE, Acevedo ML, Alonso-Palomares L, Valiente-Echeverria F, Soto-Rifo R, Portillo H, Gatica J, Flores I, Nova-Lamperti E, Barrera-Avalos C, Bono MR, Vargas L, Simon V, Leiva-Salcedo E, Vial C, Hormazabal J, Cortes LJ, Valdes D, Sandino AM, Imarai M, Acuna-Castillo C. Evaluation of the Immune Response Induced by CoronaVac 28-Day Schedule Vaccination in a Healthy Population Group. Front Immunol. 2022 Jan 31;12:766278. doi: 10.3389/fimmu.2021.766278. eCollection 2021."
+        },
+        {
+          "pmid": "34386791",
+          "type": "BACKGROUND",
+          "citation": "Hitchings MDT, Ranzani OT, Torres MSS, de Oliveira SB, Almiron M, Said R, Borg R, Schulz WL, de Oliveira RD, da Silva PV, de Castro DB, Sampaio VS, de Albuquerque BC, Ramos TCA, Fraxe SHH, da Costa CF, Naveca FG, Siqueira AM, de Araujo WN, Andrews JR, Cummings DAT, Ko AI, Croda J. Effectiveness of CoronaVac among healthcare workers in the setting of high SARS-CoV-2 Gamma variant transmission in Manaus, Brazil: A test-negative case-control study. Lancet Reg Health Am. 2021 Sep;1:100025. doi: 10.1016/j.lana.2021.100025. Epub 2021 Jul 25."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "De Faria E, Guedes AR, Oliveira MS, et al. Performance of vaccination with CoronaVac in a cohort of healthcare workers (HCW) - preliminary report. MedRXiv 2021; https://doi.org/10.1101/2021.04.12.21255308"
+        },
+        {
+          "pmid": "34417194",
+          "type": "BACKGROUND",
+          "citation": "Ranzani OT, Hitchings MDT, Dorion M, D'Agostini TL, de Paula RC, de Paula OFP, Villela EFM, Torres MSS, de Oliveira SB, Schulz W, Almiron M, Said R, de Oliveira RD, Vieira da Silva P, de Araujo WN, Gorinchteyn JC, Andrews JR, Cummings DAT, Ko AI, Croda J. Effectiveness of the CoronaVac vaccine in older adults during a gamma variant associated epidemic of covid-19 in Brazil: test negative case-control study. BMJ. 2021 Aug 20;374:n2015. doi: 10.1136/bmj.n2015."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Soto JA, Melo-Gozales F, Gutierrez-Vera C, et al. An inactivated SARS-CoV-2 vaccine is safe and induces humoral and cellular immunity against virus variants in healthy children and adolescents in Chile. MedRXiv 2021; https://doi.org/10.1101/2022.02.15.22270973;"
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Schultz BM, Melo-Gonzales, Duarte LF, et al. A booster dose of an inactivated SARS-1 CoV-2 vaccine increases neutralizing antibodies and T cells that recognize Delta and Omicron variants of concern. MedRXiv 2021; https://doi.org/10.1101/2021.11.16.21266350"
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Joko Widodo gets first Sinovac vaccine shot as Indonesia starts mass Covid-19 inoculations. South China Morning Post. Accessed 3 June 2022. Downloaded at: https://www.scmp.com/video/coronavirus/3117548/joko-widodo-gets-first-sinovacvaccine-shot-indonesia-starts-mass-covid"
+        },
+        {
+          "pmid": "35248996",
+          "type": "BACKGROUND",
+          "citation": "Peng Q, Zhou R, Wang Y, Zhao M, Liu N, Li S, Huang H, Yang D, Au KK, Wang H, Man K, Yuen KY, Chen Z. Waning immune responses against SARS-CoV-2 variants of concern among vaccinees in Hong Kong. EBioMedicine. 2022 Mar;77:103904. doi: 10.1016/j.ebiom.2022.103904. Epub 2022 Mar 3."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000086382",
+          "term": "COVID-19"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011024",
+          "term": "Pneumonia, Viral"
+        },
+        {
+          "id": "D011014",
+          "term": "Pneumonia"
+        },
+        {
+          "id": "D012141",
+          "term": "Respiratory Tract Infections"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D014777",
+          "term": "Virus Diseases"
+        },
+        {
+          "id": "D018352",
+          "term": "Coronavirus Infections"
+        },
+        {
+          "id": "D003333",
+          "term": "Coronaviridae Infections"
+        },
+        {
+          "id": "D030341",
+          "term": "Nidovirales Infections"
+        },
+        {
+          "id": "D012327",
+          "term": "RNA Virus Infections"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000723276",
+          "term": "vaksin merah putih - UA SARS-CoV-2 COVID-19 vaccine"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

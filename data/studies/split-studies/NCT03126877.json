@@ -1,0 +1,288 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03126877",
+      "orgStudyIdInfo": {
+        "id": "R2017-001"
+      },
+      "organization": {
+        "fullName": "Whitten Laser Eye",
+        "class": "OTHER"
+      },
+      "briefTitle": "A Prospective Study to Evaluate the Raindrop Near Vision Inlay in Presbyopic Patients With Treatments to Optimize the Ocular Surface Before Implantation",
+      "officialTitle": "A Prospective Study to Evaluate the Raindrop Near Vision Inlay in Presbyopic Patients With Treatments to Optimize the Ocular Surface Before Implantation"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2017-07",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2017-04-10",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2020-09",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2020-12",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2017-04-18",
+      "studyFirstSubmitQcDate": "2017-04-18",
+      "studyFirstPostDateStruct": {
+        "date": "2017-04-25",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2017-07-11",
+      "lastUpdatePostDateStruct": {
+        "date": "2017-07-14",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Whitten Laser Eye",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": true,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The objective of this study is to evaluate the Raindrop® Near Vision Inlay for the improvement of near vision in presbyopic patients with treatments to optimize the ocular surface before corneal inlay surgery.",
+      "detailedDescription": "The surgical procedure includes a low dose, short duration mitomycin C (MMC) treatment on the exposed stromal bed of the non-dominant eye, before the unilateral implantation of the corneal inlay. This treatment is at a concentration of 0.2 mg/mL (0.02%) applied for 10 to 30 seconds on the stromal bed as well as the stromal side of the corneal flap or pocket. In the third month after surgical procedure, a one-drop a day of low dose steroid (initiated in the second month postoperative) will be continued for the duration of the 24-month follow-up period to maintain corneal health. Only a portion of patients will receive treatments to optimize the ocular surface preoperatively, and their clinical outcomes will be statistically compared against the portion not receiving the preoperative optimization."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Presbyopia"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "The study will be a prospective, single-center open label clinical trial where a maximum of 40 (20 with optimized ocular surface and 20 without) consecutive non-dominant eyes are implanted with the Raindrop Near Vision Inlay.",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 40,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Optimized Ocular Surface",
+          "type": "EXPERIMENTAL",
+          "description": "For patients enrolled into the treatment group for preoperative optimization of the ocular surface, utilize the LipiFlow® vectored thermal pulsating eyepieces (Activators) to gently apply heat and massage, thus evacuating the Meibomian glands. Omega-3 vitamin supplements should also be provided, initiated and dosed according to standard clinical practice, to maximize ocular surface health.",
+          "interventionNames": [
+            "Drug: Mitomycin C",
+            "Device: Raindrop Near Vision Inlay"
+          ]
+        },
+        {
+          "label": "Non-Optimized Ocular Surface",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Patients enrolled into the non-treatment group will not be optimized preoperatively for ocular surface health. No LipiFlow® Activators and no Omega-3 vitamin supplements will be provided, initiated, nor dosed.",
+          "interventionNames": [
+            "Drug: Mitomycin C",
+            "Device: Raindrop Near Vision Inlay"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Mitomycin C",
+          "description": "The surgical procedure includes a low dose, short duration mitomycin C (MMC) treatment on the exposed stromal bed of the non-dominant eye, before the unilateral implantation of the corneal inlay. This treatment is at a concentration of 0.2 mg/mL (0.02%) applied for 10 to 30 seconds on the stromal bed as well as the stromal side of the corneal flap or pocket.",
+          "armGroupLabels": [
+            "Non-Optimized Ocular Surface",
+            "Optimized Ocular Surface"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "Raindrop Near Vision Inlay",
+          "description": "The surgical procedure includes the unilateral implantation of the Raindrop Near Vision Inlay in the non-dominante eye for the improvement of uncorrected near vision.",
+          "armGroupLabels": [
+            "Non-Optimized Ocular Surface",
+            "Optimized Ocular Surface"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Uncorrected Visual Acuity",
+          "description": "After the inlay procedure, patients will attain functional near visual acuity in the inlay eye and functional distance acuity binocularly.",
+          "timeFrame": "24 Months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Incidence of Corneal Reaction",
+          "description": "Patients treated with low dose, short duration MMC intraoperatively, then an extended low dose steroid regimen will have minimal levels of corneal reaction.",
+          "timeFrame": "24 Months"
+        },
+        {
+          "measure": "Ocular Surface Health (Preoperative Optimization)",
+          "description": "Patients with treatments to optimize the ocular surface before corneal inlay surgery will maintain a healthy tear breakup time and normal OSDI questionnaire responses.",
+          "timeFrame": "24 Months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "1.1 Inclusion Criteria:\n\n1.1.1 Patients require a near reading add from +1.5 to +2.5 D in the non-dominant eye.\n\n1.1.2 Patients have a photopic pupil size of at least 3.0 mm in the non-dominant eye.\n\n1.1.3 Patients have a corneal thickness greater than or equal to 500 microns in the non-dominant eye.\n\n1.1.4 Patients have corrected distance and near visual acuity of 20/25 or better in each eye.\n\n1.1.5 Patients have distance corrected near visual acuity of 20/40 or worse in each eye.\n\n1.1.6 Patients are willing and able to sign and understand a written Informed Consent Form prior to any study-specific procedures.\n\n1.1.7 Patients are willing and able to return for scheduled follow-up examinations for 24 months after the corneal inlay surgery.\n\n1.2 Exclusion Criteria\n\n1.2.1 Patients with prior ocular surgery. 1.2.2 Patients with clinically significant dry eye (i.e., significant diffuse punctate staining with fluorescein and a tear breakup time less than 8 s) in either eye.\n\n1.2.3 Patients with a planned corneal residual bed thickness that is less than 300 microns (corneal thickness - (intended ablation depth + intended flap thickness)).\n\n1.2.4 Patients with macular pathology based on dilated fundus exam and/or optical coherence tomography (OCT) image.\n\n1.2.5 Patients who would be co-managed by an ophthalmologist or optometrist who has not been trained by ReVision Optics.\n\n1.2.6 Patients with ocular pathology or disease (including pupil pathology such as fixated pupils) that might confound the outcome or increase the risk of adverse event.\n\n1.2.7 Patients taking systemic or topical medications that might confound the outcome or increase the risk of adverse event. Patients taking isotretinoin or amiodarone hydrochloride and any other medication that affects the tear film or accommodation, including but not limited to, mydriatic, cycloplegic and mitotic agents, tricyclic, phenothiazines, benzodiazepines, and first generation antihistamines.\n\n1.2.8 Patients with known sensitivity to any planned study medications. 1.2.9 Patients with residual, recurrent, active or uncontrolled eyelid disease. 1.2.10 Patients with significant corneal asymmetry or irregular topography. 1.2.11 Patients with clinically significant anterior segment pathology. 1.2.12 Patients with any corneal abnormality, including but not limited to, slit lamp findings for corneal staining Grade 3 or higher, recurrent corneal erosion or severe basement membrane disease, and pterygium extending onto the cornea.\n\n1.2.13 Patients with ophthalmoscopic/topographic signs of keratoconus or those who are keratoconus suspect.\n\n1.2.14 Patients with history of Herpes zoster or Herpes simplex keratitis. 1.2.15 Patients with any progressive retinal disease or subjects with a history or evidence of retinal vascular occlusion and/or hypercoagulability, because of the risks associated with high pressures during suction application.\n\n1.2.16 Patients with known history of steroid-responsive intraocular pressure increases, glaucoma, preoperative IOP \\> 21 mm Hg, or are otherwise suspected of having glaucoma.\n\n1.2.17 Patients with amblyopia or strabismus or those who are at risk for developing strabismus postoperatively as determined by corneal light reflex and cover-uncover testing.\n\n1.2.18 Patients with diabetic retinopathy, collagen, vascular, diagnosed autoimmune disease (e.g., lupus, rheumatoid arthritis, fibromylagia), immunodeficiency (e.g., HIV), connective tissue disease, or clinically significant atopic syndrome such as allergies or asthma.\n\n1.2.19 Patients on chronic systemic corticosteroid or other immunosuppressive therapy that may affect wound healing.\n\n1.2.20 Patients with any type of active cancer (ophthalmic or non-ophthalmic). 1.2.21 Patients with uncontrolled infections of any kind. 1.2.22 Patients who are pregnant, lactating, of child-bearing potential and not practicing a medically approved method of birth control, or planning to become pregnant during the course of the trial, and patients with other conditions associated with fluctuation of hormones that could lead to refractive changes.\n\n1.2.23 Patients who actively participate in contact sports (i.e., boxing, martial arts) where impacts to the face and eye are a normal occurrence.\n\nPatients participating in any other ophthalmic or non-ophthalmic drug/device clinical trials during the time of this clinical investigation.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "41 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Shilpa D Rose, MD",
+          "role": "CONTACT",
+          "phone": "(301) 461-4372",
+          "email": "shilpadrose@gmail.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Shilpa D Rose, MD",
+          "affiliation": "Whitten Laser Eye",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Whitten Laser Eye",
+          "status": "RECRUITING",
+          "city": "Washington D.C.",
+          "state": "District of Columbia",
+          "zip": "20016",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Shilpa D Rose, MD",
+              "role": "CONTACT",
+              "phone": "301-461-4372",
+              "email": "shilpadrose@gmail.com"
+            },
+            {
+              "name": "Shilpa D Rose, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Mark E Whitten, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 38.89511,
+            "lon": -77.03637
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D011305",
+          "term": "Presbyopia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012030",
+          "term": "Refractive Errors"
+        },
+        {
+          "id": "D005128",
+          "term": "Eye Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016685",
+          "term": "Mitomycin"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D008937",
+          "term": "Mitomycins"
+        },
+        {
+          "id": "D045563",
+          "term": "Indolequinones"
+        },
+        {
+          "id": "D011809",
+          "term": "Quinones"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D001389",
+          "term": "Azirines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D007211",
+          "term": "Indoles"
+        },
+        {
+          "id": "D006574",
+          "term": "Heterocyclic Compounds, 2-Ring"
+        },
+        {
+          "id": "D000072471",
+          "term": "Heterocyclic Compounds, Fused-Ring"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

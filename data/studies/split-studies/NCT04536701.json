@@ -1,0 +1,1785 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04536701",
+      "orgStudyIdInfo": {
+        "id": "2019B0406"
+      },
+      "organization": {
+        "fullName": "Ohio State University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Learning and Improving Alzheimer's Patient-Caregiver Relationships Via Smart Healthcare Technology",
+      "officialTitle": "Collaborative Research: Learning and Improving Alzheimer's Patient-Caregiver Relationships Via Smart Healthcare Technology"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-04",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-02-19",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-12-31",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-12-31",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-08-19",
+      "studyFirstSubmitQcDate": "2020-08-28",
+      "studyFirstPostDateStruct": {
+        "date": "2020-09-03",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-11-14",
+      "resultsFirstSubmitQcDate": "2025-04-30",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-05-06",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-30",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-05-06",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Karen Rose",
+        "investigatorTitle": "Professor",
+        "investigatorAffiliation": "Ohio State University"
+      },
+      "leadSponsor": {
+        "name": "Ohio State University",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "University of Virginia",
+          "class": "OTHER"
+        },
+        {
+          "name": "The University of Tennessee, Knoxville",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions at the right moments aims at helping improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers. The technical solution consists of a core set of statistical learning based techniques for automated generation of specialized modules required by in-home dementia patient care. There are three main technical components in the solution. The first obtains textual content and prosody from voice and uses advanced machine learning techniques to create classification models. This approach not only monitors patients' behavior, but also caregivers', and infers the underlying dynamics of their interactions, such as changes in mood and stress. The second is the automated creation of classifiers and inference modules tailored to the particular patients and dementia conditions (such as different stages of dementia). The third is an adaptive recommendation system that closes the loop of an in-home behavior monitoring system.",
+      "detailedDescription": "The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers. The technical solution consists of a core set of statistical learning based techniques for automated generation of specialized modules required by in-home dementia patient care. There are three main technical components in the solution. - The first obtains textual content and prosody from voice and uses advanced machine learning techniques to create classification models. This approach not only monitors patients' behavior, but also caregivers', and infers the underlying dynamics of their interactions, such as changes in mood and stress. - The second is the automated creation of classifiers and inference modules tailored to the particular patients and dementia conditions (such as different stages of dementia). - The third is an adaptive recommendation system that closes the loop of an in-home behavior monitoring system."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Alzheimer Disease",
+        "Caregiver Stress Syndrome"
+      ],
+      "keywords": [
+        "Alzheimer Disease",
+        "Dementia",
+        "Caregiving",
+        "Smart Health Technology"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "interventionModelDescription": "Longitudinal descriptive",
+        "primaryPurpose": "OTHER",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 22,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Dementia/Caregiver Dyad",
+          "type": "EXPERIMENTAL",
+          "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.",
+          "interventionNames": [
+            "Behavioral: Mood Monitoring and Behavioral Recommendation System"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Mood Monitoring and Behavioral Recommendation System",
+          "description": "The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers.",
+          "armGroupLabels": [
+            "Dementia/Caregiver Dyad"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Depression Anxiety Stress Scale (DASS)",
+          "description": "The DASS is a set of three self-report scales designed to measure the negative emotional states of depression, anxiety and stress in 3 subscales of 14 items each. The scores of each subscale range from 0-42. These subscales are scored by the addition of the total item scores. Total score is obtained by summing all subscores. Total minimum score: 0; Total maximum score: 126; A higher score indicates higher levels of emotional distress, depression, anxiety and stress.\n\nTotal: Normal - 0-32; Mild - 33-39; Moderate - 40-49; Severe - 50-57; Extremely severe - 58+\n\nDepression: Normal - 0-9; Mild -10-12; Moderate -13-20; Severe - 21-27; Extremely severe - 28-42\n\nAnxiety: Normal - 0-6; Mild - 7-9; Moderate -10-14; Severe -15-19; Extremely severe - 20-42\n\nStress: Normal - 0-10; Mild - 11-18; Moderate -19-26; Severe - 27-34; Extremely severe - 35-42",
+          "timeFrame": "Baseline, 4 months"
+        },
+        {
+          "measure": "Revised Memory and Behavior Problems Checklist (RMBPC)",
+          "description": "RMBPC 24-item, caregiver-report of observable behavioral problems in dementia patients AND the caregiver's stress reactions to these disturbances. It provides a total score and 3 subscale scores (memory, depression, and disruptive behaviors) and scores for caregiver reactions.\n\nScore ranges - Frequency: Total 0-96; Disruptive 0-32; Depressive 0-36; Memory 0-24. Sum items with scores of 0 to 4 on subscales and total. If question score is 9, exclude it from the sum and item count. Sum items for each subscale, compute the mean item score for each subscale by dividing by the number of items included in the sum.\n\nScore ranges - Reaction Total 1-96; Disruptive 1-36; Depressive 1-36; Memory 1-24. Include only items with frequency scores of 1 to 4 in the reaction scoring. Compute the mean reaction score by summing reaction scores of these items and then dividing by the number of items included in the sum. A higher score indicates worse outcomes.",
+          "timeFrame": "Baseline, 4 months"
+        },
+        {
+          "measure": "Change in Caregiver Emotional Reactivity",
+          "description": "The 16-item, Difficulties in Emotion Regulation Scale (DERS-16) will be used to measure caregivers' ability to regulate emotions at baseline and end of study. The scale used is the brief version of a theoretically-driven, valid, and reliable self-report tool used to measure difficulties with emotion regulation. The brief version will be more easily administered with the study population and has been shown to be valid and reliable \\[41\\]. Minimum score: 16; Maximum score: 80. A higher score indicates higher levels of caregiver emotional reactivity.",
+          "timeFrame": "Baseline, 4 months"
+        },
+        {
+          "measure": "Five Facet Mindfulness Questionnaire",
+          "description": "Five Facet Mindfulness Questionnaire 39-item to measure capacity for five different domains of mindfulness practice at baseline and end of study. The five facets include non-reactivity to the inner experience, non-judgment of the inner experience, acting with awareness, observing, and describing internal states. All items are scored with a scale of 1-5. Some items are marked to be reverse scored. All items are scored and summed then divided by the total in each category by the number of items in that category to get an average category score. Each category is summed to calculate the Total then divided by the number of items to get an average item score for each subscale. A higher score indicates higher levels of caregiver capacity for mindfulness practices and better outcomes.\n\nScore ranges: Total 1-5; Observing 1-5; Describing 1- 5; Acting with Awareness 1-5; Non-judging 1-5; Nonreactivity 1-5",
+          "timeFrame": "Baseline, 4 months"
+        },
+        {
+          "measure": "Change in Caregiver Strain",
+          "description": "Modified Caregiver Strain Index (MCSI): It is a 13-item self-report measure that examines both subjective and objective elements of caregiver strain. The MCSI showed excellent inter-item and test-retest reliability and was correlated in expected directions with relevant criteria \\[32\\]. It has excellent reliability and validity, displays adequate clinical sensitivity, has an established cut-off for determining functional/dysfunctional systems, and has been used successfully on a variety of mental health outcomes \\[28\\]. We will use a practice tracking worksheet to assess how much the caregivers practice the exercises over the course of the study. Minimum score: 0; Maximum score: 26. High scores indicates higher caregiver strain.",
+          "timeFrame": "Baseline, 4 months"
+        },
+        {
+          "measure": "Family Assessment Device (FAD)",
+          "description": "The FAD is a self-report measure that is given as a set of seven subscales measuring a different dimension of family function. Scores for each dimension (problem solving, communication, roles, affective responsiveness, affective involvement, behavior control, and general functioning) are calculated separately as the mean of the items in that subscale. Scored by summing the endorsed responses (1-4) for each subscale (negatively worded statements are reversed) and dividing by the number of items in each scale. A higher score indicates greater levels of family functioning on all subscales\n\nScore Ranges: Total 1-4; Problem Solving 1-5; Communication 1-4; Roles 1-4; Affective Responsiveness 1-6; Affective Involvement 1-7; Behavior Control 1-4; General Functioning 1-4",
+          "timeFrame": "Baseline, 4 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria for persons with dementia:\n\n* Females and males\n* Age 60-90 years\n* Physician documentation of dementia: Alzheimer's disease, vascular, mixed or unspecified type\n* Community-dwelling (living in the home)\n* Fluent in English\n\nInclusion criteria for family caregivers:\n\n* Age 21 years or older\n* Informal, unpaid caregiver who resides with the care recipient\n* Fluent in English\n* Functioning home Wifi\n* Scoring above a 3 on the Revised Memory and Behavior Problems Checklist, a clinical cut-off point used to determine caregiver stress.\n\nExclusion Criteria for persons with dementia:\n\n* Presence of acute illness as this could lead to delirium\n* Alcohol abuse or dependence within the past 2 years (DSM-IV criteria)\n* History of significant psychiatric illness (e.g., schizophrenia).",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "21 Years",
+      "maximumAge": "99 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Karen M Rose, PhD",
+          "affiliation": "Ohio State University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "The Ohio State University",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43210",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "40566925",
+          "type": "DERIVED",
+          "citation": "Ko E, Rose KM, Gordon KC, Kim S, Gao Y, Wang P, Wijayasingha L, Wang H, Stankovic JA, Wright KD. Feasibility and Acceptability of the Smarthealth Intervention for Dementia Caregivers. A Qualitative Analysis of a Single-Group Pilot Study. J Adv Nurs. 2025 Jun 26. doi: 10.1111/jan.70007. Online ahead of print."
+        },
+        {
+          "pmid": "33576064",
+          "type": "DERIVED",
+          "citation": "Rose KM, Coop Gordon K, Schlegel EC, Mccall M, Gao Y, Ma M, Lenger KA, Ko E, Wright KD, Wang H, Stankovic J. Smarthealth technology study protocol to improve relationships between older adults with dementia and family caregivers. J Adv Nurs. 2021 May;77(5):2519-2529. doi: 10.1111/jan.14714. Epub 2021 Feb 11."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "11 participant dyads (total of 22 participants) completed baseline data collection. 1 dyad withdrew from the study after completing baseline data collection, but did not complete the intervention.\n\nWhile all participants were part of a dyad, only caregiver participants completed surveys and are included in the baseline characteristics data and outcome measures. Baseline Characteristics were not collected for patient participants.",
+      "recruitmentDetails": "Participants were recruited from a Memory Care Clinic at a large Midwestern academic institution, through social media and self-referral from January 2021 through December 2023.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Dementia/Caregiver Dyad",
+          "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Baseline",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "22"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "22"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "4 Weeks Post Baseline",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Caregiver participants only are included in the Baseline Characteristics. Baseline Characteristics were not collected for dementia patient participants.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Dementia/Caregiver Dyad",
+          "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "11"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60.09",
+                      "spread": "13.52"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Education Level - Above High School",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Employed outside of home",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Married",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Veteran Status",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Caregiving hours/day",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "hours/day",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "21.18",
+                      "spread": "6.37"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Caregiver duration",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "months",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "34.82",
+                      "spread": "20.26"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Depression Anxiety Stress Scale (DASS)",
+          "description": "The DASS is a set of three self-report scales designed to measure the negative emotional states of depression, anxiety and stress in 3 subscales of 14 items each. The scores of each subscale range from 0-42. These subscales are scored by the addition of the total item scores. Total score is obtained by summing all subscores. Total minimum score: 0; Total maximum score: 126; A higher score indicates higher levels of emotional distress, depression, anxiety and stress.\n\nTotal: Normal - 0-32; Mild - 33-39; Moderate - 40-49; Severe - 50-57; Extremely severe - 58+\n\nDepression: Normal - 0-9; Mild -10-12; Moderate -13-20; Severe - 21-27; Extremely severe - 28-42\n\nAnxiety: Normal - 0-6; Mild - 7-9; Moderate -10-14; Severe -15-19; Extremely severe - 20-42\n\nStress: Normal - 0-10; Mild - 11-18; Moderate -19-26; Severe - 27-34; Extremely severe - 35-42",
+          "populationDescription": "There was 1 participant who did not complete the study.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline, 4 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Baseline - Dementia/Caregiver Dyad",
+              "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers."
+            },
+            {
+              "id": "OG001",
+              "title": "4 Months Post Baseline - Dementia/Caregiver Dyad",
+              "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Total",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "26.27",
+                      "spread": "16.46"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "29.10",
+                      "spread": "30.29"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "DASS-Depressive mood",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8.09",
+                      "spread": "5.39"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10",
+                      "spread": "10.35"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "DASS-Anxiety",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6",
+                      "spread": "5.25"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.5",
+                      "spread": "9.23"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "DASS-Stress",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12.18",
+                      "spread": "7.31"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "12.6",
+                      "spread": "11.74"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Total DASS score reported.",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.444",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Depressive Mood DASS score reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.8378",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Anxiety DASS score reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.4087",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Stress DASS score reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.4124",
+              "statisticalMethod": "t-test, 2 sided"
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Revised Memory and Behavior Problems Checklist (RMBPC)",
+          "description": "RMBPC 24-item, caregiver-report of observable behavioral problems in dementia patients AND the caregiver's stress reactions to these disturbances. It provides a total score and 3 subscale scores (memory, depression, and disruptive behaviors) and scores for caregiver reactions.\n\nScore ranges - Frequency: Total 0-96; Disruptive 0-32; Depressive 0-36; Memory 0-24. Sum items with scores of 0 to 4 on subscales and total. If question score is 9, exclude it from the sum and item count. Sum items for each subscale, compute the mean item score for each subscale by dividing by the number of items included in the sum.\n\nScore ranges - Reaction Total 1-96; Disruptive 1-36; Depressive 1-36; Memory 1-24. Include only items with frequency scores of 1 to 4 in the reaction scoring. Compute the mean reaction score by summing reaction scores of these items and then dividing by the number of items included in the sum. A higher score indicates worse outcomes.",
+          "populationDescription": "There was 1 participant who did not complete the study.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline, 4 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Baseline - Dementia/Caregiver Dyad",
+              "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers."
+            },
+            {
+              "id": "OG001",
+              "title": "4 Months Post Baseline - Dementia/Caregiver Dyad",
+              "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Frequency of Symptoms Total",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13.27",
+                      "spread": "4.22"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10.9",
+                      "spread": "5.47"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Frequency of Disruptive Symptoms",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.82",
+                      "spread": "2.60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.4",
+                      "spread": "2.95"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Frequency of Depressive Symptoms",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.09",
+                      "spread": "2.59"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.1",
+                      "spread": "2.38"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Frequency of Memory Symptoms",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6.36",
+                      "spread": "0.92"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.4",
+                      "spread": "0.84"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Reaction to Symptoms Total",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "26.82",
+                      "spread": "17.35"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "19.6",
+                      "spread": "21.90"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Reaction to Disruptive Symptoms",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.45",
+                      "spread": "7.50"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5.5",
+                      "spread": "7.53"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Reaction to Depressive Symptoms",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7.27",
+                      "spread": "8.26"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5",
+                      "spread": "8.41"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Reaction to Memory Symptoms",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10.09",
+                      "spread": "6.00"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9.1",
+                      "spread": "7.19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Total RMBPC frequency reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0508",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Frequency of disruptive symptoms on RMBP reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.026",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Frequency of depressive symptoms on RMBPC reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.1861",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Frequency of memory symptoms on RMBPC reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.9535",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "RMBPC reaction total is reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0411",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "RMBPC reaction disruptive symptoms is reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0058",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "RMBPC reaction depressive symptoms is reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.2527",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "RMBPC reaction memory symptoms",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.3542",
+              "statisticalMethod": "t-test, 2 sided"
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Change in Caregiver Emotional Reactivity",
+          "description": "The 16-item, Difficulties in Emotion Regulation Scale (DERS-16) will be used to measure caregivers' ability to regulate emotions at baseline and end of study. The scale used is the brief version of a theoretically-driven, valid, and reliable self-report tool used to measure difficulties with emotion regulation. The brief version will be more easily administered with the study population and has been shown to be valid and reliable \\[41\\]. Minimum score: 16; Maximum score: 80. A higher score indicates higher levels of caregiver emotional reactivity.",
+          "populationDescription": "There was 1 participant who did not complete the study.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline, 4 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Baseline - Dementia/Caregiver Dyad",
+              "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers."
+            },
+            {
+              "id": "OG001",
+              "title": "4 Months Post Baseline - Dementia/Caregiver Dyad",
+              "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "30.55",
+                      "spread": "11.85"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "34.3",
+                      "spread": "15.70"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.3857",
+              "statisticalMethod": "t-test, 2 sided"
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Five Facet Mindfulness Questionnaire",
+          "description": "Five Facet Mindfulness Questionnaire 39-item to measure capacity for five different domains of mindfulness practice at baseline and end of study. The five facets include non-reactivity to the inner experience, non-judgment of the inner experience, acting with awareness, observing, and describing internal states. All items are scored with a scale of 1-5. Some items are marked to be reverse scored. All items are scored and summed then divided by the total in each category by the number of items in that category to get an average category score. Each category is summed to calculate the Total then divided by the number of items to get an average item score for each subscale. A higher score indicates higher levels of caregiver capacity for mindfulness practices and better outcomes.\n\nScore ranges: Total 1-5; Observing 1-5; Describing 1- 5; Acting with Awareness 1-5; Non-judging 1-5; Nonreactivity 1-5",
+          "populationDescription": "There was 1 participant who did not complete the study",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline, 4 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Baseline - Dementia/Caregiver Dyad",
+              "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers."
+            },
+            {
+              "id": "OG001",
+              "title": "4 Months Post Baseline - Dementia/Caregiver Dyad",
+              "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Total",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.48",
+                      "spread": "0.58"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.44",
+                      "spread": "0.49"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Observing",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.43",
+                      "spread": "0.93"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.44",
+                      "spread": "0.96"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Describing",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.83",
+                      "spread": "0.56"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.71",
+                      "spread": "0.61"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Acting with Awareness",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.17",
+                      "spread": "0.90"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.23",
+                      "spread": "1.14"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Non-judging",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.55",
+                      "spread": "0.91"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.58",
+                      "spread": "0.98"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Nonreactivity",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.42",
+                      "spread": "0.84"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.21",
+                      "spread": "0.77"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Five Facet Mindfulness Questionnaire (FFMQ) total reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.7213",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "FFMQ Observing reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.6075",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "FFMQ Describing reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.4136",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "FFMQ Acting with Awareness reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.8378",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "FFMQ Nonjudging reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.7193",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "FFMQ Nonreactivity reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.4145",
+              "statisticalMethod": "t-test, 2 sided"
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Change in Caregiver Strain",
+          "description": "Modified Caregiver Strain Index (MCSI): It is a 13-item self-report measure that examines both subjective and objective elements of caregiver strain. The MCSI showed excellent inter-item and test-retest reliability and was correlated in expected directions with relevant criteria \\[32\\]. It has excellent reliability and validity, displays adequate clinical sensitivity, has an established cut-off for determining functional/dysfunctional systems, and has been used successfully on a variety of mental health outcomes \\[28\\]. We will use a practice tracking worksheet to assess how much the caregivers practice the exercises over the course of the study. Minimum score: 0; Maximum score: 26. High scores indicates higher caregiver strain.",
+          "populationDescription": "There was 1 participant who did not complete the study.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline, 4 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Baseline - Dementia/Caregiver Dyad",
+              "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers."
+            },
+            {
+              "id": "OG001",
+              "title": "4 Months Post Baseline - Dementia/Caregiver Dyad",
+              "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14.18",
+                      "spread": "5.58"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "15.1",
+                      "spread": "6.84"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.5368",
+              "statisticalMethod": "t-test, 2 sided"
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Family Assessment Device (FAD)",
+          "description": "The FAD is a self-report measure that is given as a set of seven subscales measuring a different dimension of family function. Scores for each dimension (problem solving, communication, roles, affective responsiveness, affective involvement, behavior control, and general functioning) are calculated separately as the mean of the items in that subscale. Scored by summing the endorsed responses (1-4) for each subscale (negatively worded statements are reversed) and dividing by the number of items in each scale. A higher score indicates greater levels of family functioning on all subscales\n\nScore Ranges: Total 1-4; Problem Solving 1-5; Communication 1-4; Roles 1-4; Affective Responsiveness 1-6; Affective Involvement 1-7; Behavior Control 1-4; General Functioning 1-4",
+          "populationDescription": "There was 1 participant who did not complete the study",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline, 4 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Baseline - Dementia/Caregiver Dyad",
+              "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers."
+            },
+            {
+              "id": "OG001",
+              "title": "4 Months Post Baseline - Dementia/Caregiver Dyad",
+              "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "FAD Total",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.13",
+                      "spread": "0.46"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.20",
+                      "spread": "0.59"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "FAD Problem Solving",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.15",
+                      "spread": "0.49"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.32",
+                      "spread": "0.73"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "FAD Communication",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.29",
+                      "spread": "0.56"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.23",
+                      "spread": "0.49"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "FAD Roles",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.29",
+                      "spread": "0.40"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.35",
+                      "spread": "0.72"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "FAD Affective Responsiveness",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.27",
+                      "spread": "0.62"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.35",
+                      "spread": "0.76"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "FAD Affective Involvement",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.08",
+                      "spread": "0.43"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.20",
+                      "spread": "0.59"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "FAD Behavior Control",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.82",
+                      "spread": "0.49"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.91",
+                      "spread": "0.52"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "FAD General Functioning",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.05",
+                      "spread": "0.72"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.07",
+                      "spread": "0.77"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "FAD Total reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.2845",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "FAD Problem Solving is reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.1386",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "FAD Communication is reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.7551",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "FAD Roles is reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.7213",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "FAD Affective Responsiveness is reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.3233",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "FAD Affective Involvement is reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.2832",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "FAD Behavior Control is reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.6831",
+              "statisticalMethod": "t-test, 2 sided"
+            },
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "FAD General Functioning is reported",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.6075",
+              "statisticalMethod": "t-test, 2 sided"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Adverse events data was collected for the 4 months each participant dyad was actively enrolled in the study.",
+      "description": "All adverse events were reported to staff by participants. Adverse events definition concurs with the ClinicalTrials.gov definition.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Dementia/Caregiver Dyad",
+          "description": "All dementia/caregiver dyads will have in-home acoustic monitoring to classify mood and will be provided mindfulness-based stress reduction recommendations via a smart phone.\n\nMood Monitoring and Behavioral Recommendation System: The purpose of this project is to develop a monitoring, modeling, and interactive recommendation solution (for caregivers) for in-home dementia patient care that focuses on caregiver-patient relationships. This includes monitoring for mood and stress and analyzing the significance of monitoring those attributes to dementia patient care and subsequent behavior dynamics between the patient and caregiver. In addition, novel and adaptive behavioral suggestions will be provided to family caregivers via text messages on project Smart phones at the right moments aimed to help improve familial interactions related to caregiving, which over time should ameliorate the stressful effects of the patient's illness and reduce strain on caregivers.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 22,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 22,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 22
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "GT60",
+        "restrictiveAgreement": true
+      },
+      "pointOfContact": {
+        "title": "Dr. Karen Rose",
+        "organization": "Ohio State University",
+        "email": "rose.1482@osu.edu",
+        "phone": "614-292-4844"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "noSap": true,
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2022-03-04",
+          "uploadDate": "2025-01-03T13:56",
+          "filename": "Prot_000.pdf",
+          "size": 384639
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2022-02-17",
+          "uploadDate": "2024-08-21T16:49",
+          "filename": "ICF_001.pdf",
+          "size": 216395
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000544",
+          "term": "Alzheimer Disease"
+        },
+        {
+          "id": "D003704",
+          "term": "Dementia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D024801",
+          "term": "Tauopathies"
+        },
+        {
+          "id": "D019636",
+          "term": "Neurodegenerative Diseases"
+        },
+        {
+          "id": "D019965",
+          "term": "Neurocognitive Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

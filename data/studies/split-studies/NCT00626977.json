@@ -1,0 +1,282 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00626977",
+      "orgStudyIdInfo": {
+        "id": "upeclin/HC/FMB-Unesp-07"
+      },
+      "organization": {
+        "fullName": "UPECLIN HC FM Botucatu Unesp",
+        "class": "OTHER"
+      },
+      "briefTitle": "Labor Analgesia With Ropivacaine and Clonidine",
+      "officialTitle": "Labor Analgesia With Ropivacaine Added to Clonidine. A Randomized Clinical Trial",
+      "acronym": "LA"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2008-02",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2000-05"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2000-05",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2001-12",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2008-02-20",
+      "studyFirstSubmitQcDate": "2008-02-28",
+      "studyFirstPostDateStruct": {
+        "date": "2008-02-29",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2015-07-07",
+      "lastUpdatePostDateStruct": {
+        "date": "2015-07-08",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Yara Marcondes Machado Castiglia",
+        "investigatorTitle": "MD PhD",
+        "investigatorAffiliation": "UPECLIN HC FM Botucatu Unesp"
+      },
+      "leadSponsor": {
+        "name": "UPECLIN HC FM Botucatu Unesp",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Faculdade de Medicina de Botucatu, UNESP, Botucatu, Brasil",
+          "class": "OTHER"
+        },
+        {
+          "name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior.",
+          "class": "OTHER_GOV"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The aim of the present study was to examine, for pain relief during labor, the efficacy of two pharmacological approaches - the 0.125% ropivacaine alone and the 0.0625% ropivacaine added to 75 ug clonidine, both by epidural administration. The effect of the drugs on mother and newborn was also determined."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Labor Pain"
+      ],
+      "keywords": [
+        "Analgesia",
+        "Obstetrical",
+        "Anesthesia",
+        "Epidural",
+        "Newborn",
+        "Anesthetics, local",
+        "Clonidine",
+        "Pregnant women",
+        "Infant, newborn"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 32,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "R",
+          "description": "R group:15 mL of 0.125% ropivacaine (18.75 mg)",
+          "interventionNames": [
+            "Drug: ropivacaine"
+          ]
+        },
+        {
+          "label": "RC",
+          "description": "RC group:0.0625% ropivacaine (9.375 mg) plus 75 ug clonidine",
+          "interventionNames": [
+            "Drug: ropivacaine and clonidine"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ropivacaine",
+          "description": "15 ml of ropivacaine 0.125% peridural once",
+          "armGroupLabels": [
+            "R"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "ropivacaine and clonidine",
+          "description": "15 ml of ropivacaine 0.0625% plus 75 mcg clonidine",
+          "armGroupLabels": [
+            "RC"
+          ]
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Singleton healthy\n* Full-term pregnancy\n* American Society of Anesthesiologists physical status I or II\n\nExclusion Criteria:\n\n* Patients who had received opioids\n* History of hypersensitivity to local anesthetic or to clonidine\n* Fetus showed signs of possible intrauterine suffering\n* Fetus showed signs of possible neurological deficit",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Women having requested epidural analgesia for labor and hers newborns",
+      "samplingMethod": "PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Giane Nakamura, MD PHd",
+          "affiliation": "College Study of Medicine",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "College of Medicine of Botucatu",
+          "city": "Botucatu",
+          "state": "São Paulo",
+          "zip": "18618970",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -22.88583,
+            "lon": -48.445
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "18553032",
+          "type": "DERIVED",
+          "citation": "Nakamura G, Ganem EM, Modolo NS, Rugolo LM, Castiglia YM. Labor analgesia with ropivacaine added to clonidine: a randomized clinical trial. Sao Paulo Med J. 2008 Mar 6;126(2):102-6. doi: 10.1590/s1516-31802008000200007."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D048949",
+          "term": "Labor Pain"
+        },
+        {
+          "id": "D000377",
+          "term": "Agnosia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010146",
+          "term": "Pain"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D010468",
+          "term": "Perceptual Disorders"
+        },
+        {
+          "id": "D019954",
+          "term": "Neurobehavioral Manifestations"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000077212",
+          "term": "Ropivacaine"
+        },
+        {
+          "id": "D003000",
+          "term": "Clonidine"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000813",
+          "term": "Anilides"
+        },
+        {
+          "id": "D000577",
+          "term": "Amides"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D000814",
+          "term": "Aniline Compounds"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D048288",
+          "term": "Imidazolines"
+        },
+        {
+          "id": "D007093",
+          "term": "Imidazoles"
+        },
+        {
+          "id": "D001393",
+          "term": "Azoles"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

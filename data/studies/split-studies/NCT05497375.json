@@ -1,0 +1,358 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05497375",
+      "orgStudyIdInfo": {
+        "id": "muhittincalim3"
+      },
+      "organization": {
+        "fullName": "Bezmialem Vakif University",
+        "class": "OTHER"
+      },
+      "briefTitle": "EtCO2 Level to Control Intraoperative Bleeding and Improve the Quality of Surgical Field Vision in Septorhinoplasty",
+      "officialTitle": "An Ideal End-tidal Carbon Dioxide Level to Control Intraoperative Bleeding and Improve the Quality of Surgical Field Vision in Septorhinoplasty Operations Under General Anesthesia: a Prospective Clinical Study",
+      "acronym": "EtCO2"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-02",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-08-20",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2022-11-15",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2022-11-15",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-08-08",
+      "studyFirstSubmitQcDate": "2022-08-09",
+      "studyFirstPostDateStruct": {
+        "date": "2022-08-11",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-02-03",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-02-06",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Muhittin Calim",
+        "investigatorTitle": "Principal Investigator",
+        "investigatorAffiliation": "Bezmialem Vakif University"
+      },
+      "leadSponsor": {
+        "name": "Bezmialem Vakif University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "It is unknown whether different end-tidal carbon dioxide pressure levels have a clinically significant effect on bleeding and surgical field quality in septorhinoplasty, especially during controlled hypotension. Therefore, it was aimed to investigate the effect of ventilation strategy with controlled hypocapnia on intraoperative bleeding and surgical field quality for commonly practiced in septorhinoplasty.",
+      "detailedDescription": "Septorhinoplasty is one of the most common esthetic surgeries in the world. The septorhinoplasty is accompanied by insignificant bleeding on the surgical field. Excessive bleeding compromises the surgical field quality and makes more difficult the septorhinoplasty. It is very important to control and minimize excessive bleeding in surgical field by different approaches of anesthesia management. Successful approaches to reduce the excessive bleeding are; controlled hypotension by keeping the mean arterial pressure in the range of 60-70 mmHg, the reverse Trendelenburg position of the patient, administration of adrenaline (injection prior to surgery or packing soaked during surgery), and administration of tranexamic acid, which are applicable methods in many clinical centers.\n\nCardiac output may vary depending on the autonomic nervous system. The dominance of parasympathetic system effect may cause vasodilation, decrease in blood pressure and cardiac output. This vasodilation may increase bleeding during septorhinoplasty and worsen the surgical field quality. Anesthesia management may provide a clear view for the surgeon and an improved surgical field quality. The effect of carbon dioxide on vascular reactivity deserves an extra attention in septorhinoplasty required bleeding control. The intensity of bleeding in septorhinoplasty is mainly affected by mean arterial pressure and heart rate. At the same time, blood flow can be affected directly by carbon dioxide on the smooth muscular tonus of the arterioles.\n\nAfter all, it is unknown whether different carbon dioxide pressure levels have a clinically significant effect on bleeding and surgical field quality in septorhinoplasty, especially during controlled hypotension. Therefore, it was aimed to investigate the effect of ventilation strategy with controlled hypocapnia on intraoperative bleeding and surgical field quality for commonly practiced in septorhinoplasty."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Anesthesia",
+        "Carbon Dioxide",
+        "Surgical Blood Loss"
+      ],
+      "keywords": [
+        "Anesthesia management",
+        "Ent-tidal carbon dioxide",
+        "Bleeding",
+        "Quality of surgical field"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "PARTICIPANT"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 70,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Group Hypocapnia",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "End-tidal carbon dioxide level will be 30±2 mmHg in the capnography, and the respiratory rate will be 14-20/minutes in the hypocapnia group.",
+          "interventionNames": [
+            "Diagnostic Test: The amount of intraoperative bleeding",
+            "Diagnostic Test: Quality of the intraoperative surgical field",
+            "Diagnostic Test: Surgeon Satisfaction",
+            "Diagnostic Test: Heart rate",
+            "Diagnostic Test: Mean arterial pressure",
+            "Diagnostic Test: Peripheral oxygen saturation"
+          ]
+        },
+        {
+          "label": "Group Hypercapnia",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "End-tidal carbon dioxide level will be 40±2 mmHg in the capnography, and the respiratory rate will be 10-14/minutes in the hypercapnia group.",
+          "interventionNames": [
+            "Diagnostic Test: The amount of intraoperative bleeding",
+            "Diagnostic Test: Quality of the intraoperative surgical field",
+            "Diagnostic Test: Surgeon Satisfaction",
+            "Diagnostic Test: Heart rate",
+            "Diagnostic Test: Mean arterial pressure",
+            "Diagnostic Test: Peripheral oxygen saturation"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "The amount of intraoperative bleeding",
+          "description": "Total amount of intraoperative bleeding will be calculated in milliliters after the end of surgery.",
+          "armGroupLabels": [
+            "Group Hypercapnia",
+            "Group Hypocapnia"
+          ],
+          "otherNames": [
+            "Intraoperative bleeding"
+          ]
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Quality of the intraoperative surgical field",
+          "description": "Quality of the intraoperative surgical field will be measured on a grade of 0-10 (0-1. no bleeding, 2-3. mild bleeding, 4-5. Mild to moderate bleeding, 6-7. moderate bleeding, 8-9. moderate to severe bleeding, 10. Severe bleeding)",
+          "armGroupLabels": [
+            "Group Hypercapnia",
+            "Group Hypocapnia"
+          ],
+          "otherNames": [
+            "Quality of the surgical field"
+          ]
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Surgeon Satisfaction",
+          "description": "Surgeon Satisfaction will be measured on a grade of 0-5 (1= very bad, 2= bad, 3= moderate, 4= good, 5= very good).",
+          "armGroupLabels": [
+            "Group Hypercapnia",
+            "Group Hypocapnia"
+          ]
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Heart rate",
+          "description": "From beginning of Anesthesia induction to the end of anesthesia (during perioperative period)",
+          "armGroupLabels": [
+            "Group Hypercapnia",
+            "Group Hypocapnia"
+          ]
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Mean arterial pressure",
+          "description": "From beginning of Anesthesia induction to the end of anesthesia (during perioperative period)",
+          "armGroupLabels": [
+            "Group Hypercapnia",
+            "Group Hypocapnia"
+          ]
+        },
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Peripheral oxygen saturation",
+          "description": "From beginning of Anesthesia induction to the end of anesthesia (during perioperative period)",
+          "armGroupLabels": [
+            "Group Hypercapnia",
+            "Group Hypocapnia"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Total amount of intraoperative bleeding",
+          "description": "Total amount of intraoperative bleeding will be calculated in milliliters after the end of surgery.",
+          "timeFrame": "From beginning of surgery to end of surgery"
+        },
+        {
+          "measure": "Quality of the intraoperative surgical field",
+          "description": "Quality of the intraoperative surgical field will be measured on a grade of 0-10 (0-1. no bleeding, 2-3. mild bleeding, 4-5. Mild to moderate bleeding, 6-7. moderate bleeding, 8-9. moderate to severe bleeding, 10. Severe bleeding)",
+          "timeFrame": "Quality of the intraoperative surgical field will be performed to surgeon 30 minutes after the procedure"
+        },
+        {
+          "measure": "Surgeon Satisfaction",
+          "description": "Surgeon Satisfaction will be measured on a grade of 0-5 (1= very bad, 2= bad, 3= moderate, 4= good, 5= very good).",
+          "timeFrame": "Surgeon Satisfaction will be performed to surgeon 30 minutes after the procedure"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Heart rate",
+          "description": "Heart rate is measured as beats/minute on the anesthesia monitor",
+          "timeFrame": "From beginning of Anesthesia induction to the end of anesthesia (during perioperative period)"
+        },
+        {
+          "measure": "Mean arterial pressure",
+          "description": "Mean arterial pressure is measured as mmHg on the anesthesia monitor",
+          "timeFrame": "From beginning of Anesthesia induction to the end of anesthesia (during perioperative period)"
+        },
+        {
+          "measure": "Peripheral oxygen saturation",
+          "description": "Peripheral oxygen saturation is measured as percentage (%) on the anesthesia monitor",
+          "timeFrame": "From beginning of Anesthesia induction to the end of anesthesia (during perioperative period)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* American Society of Anesthesiologists scores 1-3\n* 18-65 years\n\nExclusion Criteria:\n\n* American Society of Anesthesiologists scores IV,\n* Under the age of 18,\n* Over the age of 65,\n* Using anticoagulant and antiplatelet drugs,\n* Previous underwent septorhinoplasty operation,\n* Obstetric conditions,\n* Cardiovascular and pulmonary disease,\n* Uncontrolled cerebrovascular disease,\n* Allergic history to propofol, fentanyl, rocuronium, paracetamol, ibuprofen and tramadol,\n* Refused written informed consent",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Muhittin Calim, MD",
+          "affiliation": "Bezmialem Vakif University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Muhittin Calim",
+          "city": "Istanbul",
+          "state": "Fatih",
+          "zip": "34093",
+          "country": "Turkey (Türkiye)",
+          "geoPoint": {
+            "lat": 41.01384,
+            "lon": 28.94966
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "26674898",
+          "type": "BACKGROUND",
+          "citation": "Eftekharian HR, Rajabzadeh Z. The Efficacy of Preoperative Oral Tranexamic Acid on Intraoperative Bleeding During Rhinoplasty. J Craniofac Surg. 2016 Jan;27(1):97-100. doi: 10.1097/SCS.0000000000002273."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016063",
+          "term": "Blood Loss, Surgical"
+        },
+        {
+          "id": "D006470",
+          "term": "Hemorrhage"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D007431",
+          "term": "Intraoperative Complications"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006339",
+          "term": "Heart Rate"
+        },
+        {
+          "id": "D062186",
+          "term": "Arterial Pressure"
+        },
+        {
+          "id": "D000089382",
+          "term": "Oxygen Saturation"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D055986",
+          "term": "Vital Signs"
+        },
+        {
+          "id": "D010808",
+          "term": "Physical Examination"
+        },
+        {
+          "id": "D019937",
+          "term": "Diagnostic Techniques and Procedures"
+        },
+        {
+          "id": "D003933",
+          "term": "Diagnosis"
+        },
+        {
+          "id": "D006439",
+          "term": "Hemodynamics"
+        },
+        {
+          "id": "D002320",
+          "term": "Cardiovascular Physiological Phenomena"
+        },
+        {
+          "id": "D002943",
+          "term": "Circulatory and Respiratory Physiological Phenomena"
+        },
+        {
+          "id": "D001794",
+          "term": "Blood Pressure"
+        },
+        {
+          "id": "D008660",
+          "term": "Metabolism"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

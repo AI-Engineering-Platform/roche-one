@@ -1,0 +1,212 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06090201",
+      "orgStudyIdInfo": {
+        "id": "2022_0601"
+      },
+      "organization": {
+        "fullName": "University Hospital, Lille",
+        "class": "OTHER"
+      },
+      "briefTitle": "Severe Congenital Hemostatic Defects, Cerebral MIcrobleeds and COGnition",
+      "officialTitle": "Cerebral Microbleeds in Severe Congenital Hemostatic Defects: Prevalence and Impact on Cognition",
+      "acronym": "HEMICOG"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-10",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-11",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-05",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-08",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-10-05",
+      "studyFirstSubmitQcDate": "2023-10-18",
+      "studyFirstPostDateStruct": {
+        "date": "2023-10-19",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-10-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-10-19",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University Hospital, Lille",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Cerebral microbleeds (CMBs) are haemosiderin deposits, resulting from the leakage of erythrocytes from small cerebral vessels, which can be detected noninvasively using susceptibility-sensitive magnetic resonance imaging (MRI) techniques. CMBs are commonly observed in daily practice: their prevalence range from five percent in healthy individuals over 65 years old to 50% in patients with a history of stroke. CMBs are associated with intracerebral hemorrhage (ICH) and also cognitive impairment and dementia.\n\nThe pathophysiology of CMBs is thought to primarily involve damage to brain microvasculature but the exact underlying cascade of events, including a potential role for haemostasis, has yet to be elucidated. Haemostatic defects (congenital or acquired) may contribute to an increased number and importance of CMBs. Congenital bleeding disorders such as haemophilia or von Willebrand disease (vWD), populations at high risk of ICH, are unique conditions that may give us further insights into a potential role of haemostatic defects in the pathophysiology of CMBs. CMBs might be the missing link between severe haemostatic defects, ICH risk and cognitive function.\n\nWe hypothesized that severe congenital haemostatic defects could contribute to an increased prevalence and number of CMBs, with an impact on cognition in adulthood."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cerebral Microbleeds, Congenital Haemophilia, Congenital Von Willebrand Disease"
+      ],
+      "keywords": [
+        "Cerebral microbleeds (CMBs)",
+        "Congenital haemophilia",
+        "Congenital von Willebrand disease (vWd)",
+        "Cerebral small vessel disease (SVD)",
+        "Cognition",
+        "Magnetic resonance imaging (MRI)"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "CROSS_SECTIONAL"
+      },
+      "enrollmentInfo": {
+        "count": 200,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "3-Tesla brain MRI and a comprehensive neuropsychological assessment",
+          "description": "Patients with a moderate to severe form of congenital haemophilia A or B or a severe form of von Willebrand disease will be consecutively recruited in the study during a routine follow-up visit at the Haemostasis and Transfusion Department of the Lille University Hospital."
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "The rate of patients with at least one CMB on 3-Tesla brain MRI (using specific sequences dedicated to the detection of CMBs).",
+          "timeFrame": "Within 3 Months after inclusion"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number and anatomical location (deep/lobar) of CMBs on 3-Tesla brain MRI",
+          "timeFrame": "Within 3 Months after inclusion"
+        },
+        {
+          "measure": "Multi-domain cognitive performances assessed by standardized scales as follows",
+          "description": "\\- MoCA",
+          "timeFrame": "Within 3 Months after inclusion"
+        },
+        {
+          "measure": "Multi-domain cognitive performances assessed by standardized scales as follows",
+          "description": "Memory: The free and cued selective reminding test (FCSRT, French version) ; The Wechsler digit span task will be used to examine verbal short term and working memory.",
+          "timeFrame": "Within 3 Months after inclusion"
+        },
+        {
+          "measure": "Multi-domain cognitive performances assessed by standardized scales as follows",
+          "description": "\\- Processing speed and attention: digit symbol coding subtest of WAIS 4; the Continuous Performance Test (third edition, CPT3).",
+          "timeFrame": "Within 3 Months after inclusion"
+        },
+        {
+          "measure": "Multi-domain cognitive performances assessed by standardized scales as follows",
+          "description": "\\- Executive function: The categorical and literal fluency test and the Trail-Making Test (TMT).",
+          "timeFrame": "Within 3 Months after inclusion"
+        },
+        {
+          "measure": "Multi-domain cognitive performances assessed by standardized scales as follows",
+          "description": "\\- Social cognition: MINI-SEA)",
+          "timeFrame": "Within 3 Months after inclusion"
+        },
+        {
+          "measure": "Multi-domain cognitive performances assessed by standardized scales as follows",
+          "description": "\\- Depression: CES-D",
+          "timeFrame": "Within 3 Months after inclusion"
+        },
+        {
+          "measure": "Multi-domain cognitive performances assessed by standardized scales as follows",
+          "description": "\\- Anxiety: HAM-A",
+          "timeFrame": "Within 3 Months after inclusion"
+        },
+        {
+          "measure": "Multi-domain cognitive performances assessed by standardized scales as follows",
+          "description": "\\- Fatigue: The Chalder Fatigue Scale",
+          "timeFrame": "Within 3 Months after inclusion"
+        },
+        {
+          "measure": "Multi-domain cognitive performances assessed by standardized scales as follows",
+          "description": "\\- Sleepiness and the impact of sleep disorders: The Epworth Sleepiness Scale",
+          "timeFrame": "Within 3 Months after inclusion"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female, older than 18 years old, no upper age limit\n* Adult patients with a severe congenital haemostatic defect\n\n  * Severe or moderate congenital haemophilia A (or B) defined as \\<5 IU/dL (\\<5%) endogenous FVIII (FIX) activity at screening\n  * Severe von Willebrand disease defined as VWF: Act ≤15IU/dL (\\<15%) at screening\n* Ability of the participant to provide signed and dated informed consent\n\nExclusion Criteria:\n\n* Contraindication for brain MRI\n* HIV infection to avoid a bias towards severe multifactorial neurological complications\n* Other known coagulation disorder(s) in addition to haemophilia or von Willebrand disease\n* Lack of informed consent",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Participation in this study (with the delivery of an information note) will be offered to all eligible patients during a follow-up visit related to haemophilia or Von Willebrand Disease within the Haemostasis-Transfusion Department of the Lille University Hospital.",
+      "samplingMethod": "PROBABILITY_SAMPLE"
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D059345",
+          "term": "Cerebral Small Vessel Diseases"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

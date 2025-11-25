@@ -1,0 +1,245 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03739177",
+      "orgStudyIdInfo": {
+        "id": "002"
+      },
+      "organization": {
+        "fullName": "Animated Dynamics, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Onco4D(TM) Biodynamic Chemotherapy Selection for Bladder Cancer Patients",
+      "officialTitle": "Feasibility Study of Motility Contrast Tomography for Predicting Therapeutic Response"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-01",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2017-06-22",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2020-06-30",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2020-06-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2018-11-08",
+      "studyFirstSubmitQcDate": "2018-11-09",
+      "studyFirstPostDateStruct": {
+        "date": "2018-11-13",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-01-09",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-01-13",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Animated Dynamics, Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Millions of cancer patients every year receive chemotherapy with only a 20-60% probability of pathological response, while most experience adverse side effects that lower quality of life without prolonging it. Reliable identification of ineffective therapies can eliminate needless human suffering while increasing overall probability of positive response to treatment. Chemotherapy resistance profiling entails testing whether a patient exhibits strong resistance to a therapy prior to its final selection by the oncologist. However, there are no effective methods for quickly assessing patient chemotherapy resistance. Patient Derived Xenograft (PDX) models have replaced older Chemotherapy Sensitivity and Resistance Assays (CSRAs) to some degree, but both technologies suffer from long testing times, high cost, and/or low accuracy.\n\nMotility Contrast Tomography (MCT) has recently emerged as a technology that measures the biodynamic response of intact tumor biopsies to applied therapeutics by using Doppler detection of infrared light scattered from intracellular motions inside living tissue. Several small scale animal, xenograft, and human studies have shown this phenotypic profiling technique to be highly accurate in prediction of response and resistance to chemotherapy. This project will be the first human trial of biodynamic phenotyping to predict chemotherapy response among bladder cancer patients. Specifically, the study cohort will include patients selected for neoadjuvant chemotherapy treatment, because this setting offers the opportunity for near-term outcome measurement at the time of post-chemo surgery. Pre-therapy fresh tumor specimens will be imaged using MCT, and the resulting bio-dynamic signatures will be compared to confirmed pathological response at the time of surgery. Observation of a high predictive value will provide the basis for expanded clinical trials and prompt commercialization of a biodynamic chemotherapy selection assay for bladder and other cancer patients.",
+      "detailedDescription": "STUDY RATIONALE: The demonstrated ability of MCT to accurately assess tumor xenografts may establish it as a reliable technique for patient tumor stratification based on predicted response to therapy, which could enable a treatment selection based on the personal needs of an individual patient. This study is designed to assess MCT as an assay for predicting chemosensitivity to treatment with chemotherapy agents routinely used in the neoadjuvant and adjuvant treatment of bladder cancer. If positive, the results of this study will provide the basis for expanded clinical trials and use of MCT in therapy selection.\n\nBACKGROUND: Live cell imaging has become the standard for high-content analysis and drug discovery applications. The most common assays on live cells include viability, proliferation and cytotoxicity assays as cellular physiology and function are measured responding to applied perturbations of xenobiotics. Cellular and tissue viability assays are typically measured using exogenous vital dyes as biomarkers of membrane integrity or cellular metabolic activity. However, dyes are invasive, potentially toxic, and often require fixing of the tissue or permeabilization of the membranes. Furthermore, the common format of high content analysis and flow cytometry requires isolated cells, or cells distributed on flat hard surfaces. Isolated cells lack many of the biologically-relevant intercellular connections and communications that are hallmarks of healthy tissue, and flattened cells on plates have pathological shapes and anisotropic cellular adhesions.\n\nDiscovery of technology that can predict response to cancer therapy is an urgent priority. While many technologies exist to evaluate early response to drugs ex vivo, the need to perform viability, cytotoxicity and proliferation assays in three-dimensional tissue or culture has become increasingly urgent, as drug response in 2D is often not the same as drug response in biologically-relevant three dimensional culture. This is in part because genomic profiles are not preserved in monolayer cultures. There have been several studies that have tracked the expression of genes associated with cell survival, proliferation, differentiation and resistance to therapy that are expressed differently in 2D cultures relative to three-dimensional culture. For example, cell lines of epithelial ovarian cancer, hepatocellular carcinoma, or colon cancer display expression profiles more like those from tumor tissues when measured in three-dimensional culture, but not when grown in 2D. In addition, the three-dimensional environment of 3D culture presents different pharmacokinetics than 2D monolayer culture and produce differences in cancer drug sensitivities. Finally, most current technologies rely on destructive end-point assessment, preventing meaningful longitudinal observation of therapy response over time.\n\nOne of the main challenges to migrating drug-response assays to the third and fourth dimensions has been to find a means to extract vital information from deep (up to a millimeter) inside living tissue. Tissue is translucent and light can propagate diffusively many centimeters. Furthermore, the dynamic motions of living cells cause dynamic light scattering that produces phase fluctuations on the scattered light fields that can be measured as dynamic speckle in diffusely reflected light from tissue. This is the basis of diffusing wave spectroscopy (DWS) and diffusion correlation spectroscopy (DCS), but these techniques lack depth resolution. A powerful tool in the characterization of light propagation in tissues is the use of interferometry. Interferometric detection is the underlying process in optical coherence tomography (OCT), which is a point-scanning technique that suppresses speckle, although speckle decorrelation in OCT data can provide similar information as provided by DCS. This has been used to measure intracellular rheology and to find dynamic signatures of apoptosis. Transport also can be detected at cellular resolution using phase contrast microscopy, but this approach cannot be used in thick tissues.\n\nDr. Nolte and colleagues have developed volumetrically-resolved tissue dynamic imaging that uses the advantages of depth selectivity from low-coherence interferometry, combined with high speckle contrast in broad-illumination digital holography. The technique is called Motility Contrast Tomography (MCT) and uses low-coherence digital holography to penetrate up to 1 millimeter into living tissue to measure speckle dynamics from light scattering from dynamic motion in living cells. It was previously applied as a cytotoxicity assay to study the efficacy of anti-mitotic drugs. In essence, the technology works by profiling the 'movement' of cellular organelles. Specific changes in organelle motion are detectable very early in cells undergoing response to chemotherapy treatment, and may be usable as an early predictor of chemotherapy response.\n\nMCT is based on optical coherence imaging (OCI). OCI is a full-field short-coherence holography that collects backscattered speckle. With the help of coherence gating, OCI can optically section tissue up to 1 mm deep. MCT specifically uses intracellular motion as the endogenous contrast to characterize submicron subcellular motion inside three-dimensional living tissue.\n\nEX VIVO CANCER CHEMOSENSITIVITY ANALYSIS MCT was previously applied to study the efficacy of anti-mitotic drugs using multicellular tumor spheroids. When applying MCT to tumor xenografts, it is also capable of showing a significantly different response between two cell lines under cisplatin. After applying the drug, the normalized standard deviation (NSD) value of the platinum-sensitive cell line (A2780) drops from 0.7 to 0.1 in 8 hours. In contrast, the NSD value of the platinum-resistant cell line (A2780-CP70) remains nearly constant (0.81 to 0.80) 9 hours after applying drug. The NSD value of normal mouse tissue attached to the tumor xenograft decreases only a little (0.6 to 0.52) compared with A2780.\n\nIn a further study in a veterinary clinical setting, MCT has been used to predict patient outcome for canine non-Hodgkin's lymphoma. Canine non-Hodgkin's lymphomas are initially characterized by tumoral infiltration of peripheral lymph nodes. Canine non-Hodgkin's lymphomas are diverse in their clinical aggressiveness and response to chemotherapy. The only current biomarker for chemoresponsiveness is tumor cell immunophenotype (i.e. T-cell vs. B-cell origin), but chemoresponsiveness varies tremendously within immunophenotype, which reduces the clinical utility of this biomarker. In our study, we used MCT to measure the heterogeneous response of canine lymphoma biopsies to the standard-of-care doxorubicin. The biodynamic signatures of doxorubicin responsivity ex vivo were correlated with canine patient outcome. These studies have demonstrated, for the first time, the utility of label-free intracellular biodynamic markers to predict therapeutic efficacy for cancer treatment in dogs.\n\nSPECIFIC AIMS The primary study objective is to examine the feasibility of using MCT as a chemosensitivity assay among bladder cancer patients receiving neoadjuvant chemotherapy by comparing MCT patterns consistent with chemotherapy response or resistance ex-vivo to confirmed response or resistance to chemotherapy as measured by Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 criteria.\n\nPRIMARY ENDPOINT: Objective pathological response measured at the time of surgery."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Bladder Cancer"
+      ],
+      "keywords": [
+        "Neoadjuvant Chemotherapy, Muscle Invasive Bladder Cancer"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 150,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "Onco4D Biodynamic Chemotherapy Selection Assay",
+          "description": "The Onco4D Biodynamic Chemotherapy Selection Assay uses Motility Contrast Tomography (MCT) to measure ex-vivo fresh tumor biopsy response when challenged by an array of chemotherapeutic agents. A machine learning algorithm uses the MCT datastream to predict in vivo tumor response or non response to chemotherapy."
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Objective pathological response measured at the time of cystectomy.",
+          "description": "The study will be considered successful, if a majority of specimens yield interpretable MCT results, and if MCT signatures are identified which demonstrate a high statistical correlation to confirmed patient response.",
+          "timeFrame": "Cystectomy is generally expected to occur 12-16 weeks after biopsy is obtained from a TURBT procedure."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "INCLUSION CRITERIA: To be eligible for the study, participants must meet the following criteria:\n\n1. Ability to understand and willingness to sign an informed consent and authorization for release of tissue not required for pathologic diagnosis to be used for research purposes\n2. ≥ 18 years old at time of consent\n3. Patients undergoing a TURBT procedure due to diagnose muscle invasive bladder cancer\n\nEXCLUSION CRITERIA: To be eligible for the study, participants must not be or have any of the following:\n\n1. Women who are pregnant or breastfeeding\n2. Known tumor genetics or other factors, which in the treating physician's professional judgement, make the patient an unlikely candidate to receive chemotherapy (either neoadjuvantly or adjuvantly)",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Patients of all races and ethnic groups are eligible for this study. Patients will be recruited from participating sites after interpretation of imaging or other factors indicative of bladder cancer, but prior to performance of a TURBT procedure per routine care guidelines.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Travis A Morgan, MBA",
+          "role": "CONTACT",
+          "phone": "800-963-3313",
+          "phoneExt": "702",
+          "email": "tmorgan@anidyn.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Travis A Morgan, MBA",
+          "affiliation": "Animated Dynamics, Inc.",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Animated Dynamics, Inc.",
+          "status": "RECRUITING",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46241",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Travis A Morgan",
+              "role": "CONTACT",
+              "phone": "800-963-3313",
+              "phoneExt": "702",
+              "email": "tmorgan@anidyn.com"
+            },
+            {
+              "name": "Ran An, Ph.D.",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "36522279",
+          "type": "DERIVED",
+          "citation": "Laviana AA, Schiftan EG, Mashni JW, Large MC, Kaimakliotis HZ, Nolte DD, Turek JJ, An R, Morgan TA, Chang SS. Biodynamic prediction of neoadjuvant chemotherapy response: Results from a prospective multicenter study of predictive accuracy among muscle-invasive bladder cancer patients. Urol Oncol. 2023 Jun;41(6):295.e9-295.e17. doi: 10.1016/j.urolonc.2022.11.017. Epub 2022 Dec 13."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2017-03-01",
+          "uploadDate": "2018-11-08T11:00",
+          "filename": "Prot_000.pdf",
+          "size": 632406
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001749",
+          "term": "Urinary Bladder Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014571",
+          "term": "Urologic Neoplasms"
+        },
+        {
+          "id": "D014565",
+          "term": "Urogenital Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D001745",
+          "term": "Urinary Bladder Diseases"
+        },
+        {
+          "id": "D014570",
+          "term": "Urologic Diseases"
+        },
+        {
+          "id": "D052801",
+          "term": "Male Urogenital Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

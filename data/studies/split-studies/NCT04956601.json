@@ -1,0 +1,248 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04956601",
+      "orgStudyIdInfo": {
+        "id": "ECART001"
+      },
+      "organization": {
+        "fullName": "Peking University Third Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Adjuvant Radiotherapy in Patients With Early Endometrial Cancer",
+      "officialTitle": "A Multicenter, Randomized, Controlled Trial of Adjuvant Radiotherapy in Patients With Early Endometrial Cancer Based on Moderate Risk Molecules Classification"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-07",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-07",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-08",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2029-08",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2021-07-02",
+      "studyFirstSubmitQcDate": "2021-07-02",
+      "studyFirstPostDateStruct": {
+        "date": "2021-07-09",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2021-07-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-07-09",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Junjie Wang",
+        "investigatorTitle": "Peking University Third Hospital",
+        "investigatorAffiliation": "Peking University Third Hospital"
+      },
+      "leadSponsor": {
+        "name": "Peking University Third Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "To compare the effect of vaginal brachytherapy as adjuvant treatment after operation when compared to pelvic external beam radiotherapy in patients with early endometrial cancer based on moderate risk molecules classification.",
+      "detailedDescription": "After being informed the study and potential risk，all patients giving written informed consent will be undergo a 1-week screening period determine eligibility for study entry. At week 0, patients who meet the eligibility will be randomized in a 1:1 ratio to vaginal brachytherapy or pelvic external beam radiotherapy. After treatment, patients were followed up regularly."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Endometrial Cancer",
+        "Pathology",
+        "Radiotherapy"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 480,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "VBT",
+          "type": "EXPERIMENTAL",
+          "description": "CT image guided high-dose-rate vaginal brachytherapy, 30Gy/6f, 2f/w.",
+          "interventionNames": [
+            "Radiation: vaginal brachytherapy/pelvic external beam radiotherapy"
+          ]
+        },
+        {
+          "label": "EBRT",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Pelvic external beam radiotherapy，IMRT/VAMT，IGRT suggested，DT 45Gy/25f.",
+          "interventionNames": [
+            "Radiation: vaginal brachytherapy/pelvic external beam radiotherapy"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "RADIATION",
+          "name": "vaginal brachytherapy/pelvic external beam radiotherapy",
+          "description": "high-dose-rate vaginal brachytherapy; pelvic external beam radiotherapy",
+          "armGroupLabels": [
+            "EBRT",
+            "VBT"
+          ],
+          "otherNames": [
+            "Pelvic external beam radiotherapy"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "DFS",
+          "description": "disease-free survival from being received treatment",
+          "timeFrame": "5-year"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Failure mode",
+          "description": "vaginal recurrences; pelvic recurrence; distant metastases",
+          "timeFrame": "5-year"
+        },
+        {
+          "measure": "OS",
+          "description": "Overall survival from being received treatment",
+          "timeFrame": "5-year"
+        },
+        {
+          "measure": "Toxicities",
+          "description": "from being received treatment",
+          "timeFrame": "5-year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Endometrial adenocarcinoma is confirmed by pathology, and the molecular types were microsatellite instability type and low copy type;\n2. Stage IA and grade 3 or stage IB (FIGO 2009), without substantial lymph-vascular space invasion;\n3. Surgery must have included a hysterectomy and bilateral adnexectomy. Pelvic lymph node sampling and para-aortic lymph node sampling are optional;\n4. ECOG score is 0-2;\n5. The interval time between surgery and radiotherapy is no more than 8 weeks;\n6. The routine blood examination was normal;\n7. Compliance is good and informed consent is voluntarily signed.\n\nExclusion Criteria:\n\n1. The patients receive chemotherapy;\n2. History of previous malignant disease;\n3. Previous diagnosis of Crohn's disease or ulcerative colitis.",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Junjie Wang",
+          "role": "CONTACT",
+          "phone": "861082265920",
+          "email": "junjiewang_edu@sina.cn"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Peking University 3rd Hospital",
+          "city": "Beijing",
+          "state": "Beijng",
+          "zip": "100191",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016889",
+          "term": "Endometrial Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014594",
+          "term": "Uterine Neoplasms"
+        },
+        {
+          "id": "D005833",
+          "term": "Genital Neoplasms, Female"
+        },
+        {
+          "id": "D014565",
+          "term": "Urogenital Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D014591",
+          "term": "Uterine Diseases"
+        },
+        {
+          "id": "D005831",
+          "term": "Genital Diseases, Female"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D000091662",
+          "term": "Genital Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

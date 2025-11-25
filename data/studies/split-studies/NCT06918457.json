@@ -1,0 +1,130 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06918457",
+      "orgStudyIdInfo": {
+        "id": "2024-03-278-K01"
+      },
+      "organization": {
+        "fullName": "Kunming Children's Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "A Clinical Trial With a Self-controlled, Multicenter, Pediatric EEG Intelligent Analysis System to Assist in Diagnosis",
+      "officialTitle": "A Clinical Trial With a Self-controlled, Multicenter, Pediatric EEG Intelligent Analysis System to Assist in Diagnosis"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-03",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-06-03",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-06-01",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-07-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2025-03-27",
+      "studyFirstSubmitQcDate": "2025-04-06",
+      "studyFirstPostDateStruct": {
+        "date": "2025-04-09",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-06",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-04-09",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Xiaomei Liu",
+        "investigatorTitle": "Professor",
+        "investigatorAffiliation": "Kunming Children's Hospital"
+      },
+      "leadSponsor": {
+        "name": "Kunming Children's Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "A diagnostic accuracy study on Artificial intelligence EEG analysis system assisted doctors to diagnose pediatric epilepsy."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Pediatric Epilepsy"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 1000,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "DIAGNOSTIC_TEST",
+          "name": "AI EEG analysis system",
+          "description": "The first stage, physicians independently diagnose pediatric epilepsy with EEG; the second stage, Artificial intelligence EEG analysis system assisted physicians to diagnose pediatric epilepsy"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "To evaluate the coincidence rate between doctors' independent diagnosis and the diagnosis recommended by the AI system.",
+          "description": "The reference standard is the EGG interpreted by 3 clinicians who had attended the uniformly training program and had more than 5 years of experience in diagnosing epilepsy in children.",
+          "timeFrame": "Within 48 hours after the completion of EEG monitoring"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "To evaluate the diagnostic efficiency of clinicians at two-stage",
+          "description": "The time taken by physicians to interpret EEG independently and with the aid of AI was measured.",
+          "timeFrame": "Immediately after the end of EEG interpretation"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\< 18 years old\n* Children with suspected epilepsy\n\nExclusion Criteria:\n\n* During EEG monitoring, the patients had other serious neurological diseases and mental diseases concurrently\n* Used medication that affect EEG data within 3 weeks, such as sedatives and anti-epileptic medications\n* Substandard data quality, such as data lack of key records, electrode connection discontinuity, insufficient recording time, or the presence of serious artifacts\n* Incomplete or missing data\n* Equipment or operational abnormalities, data for which EEG monitoring has not been performed continuously",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "maximumAge": "18 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT"
+      ],
+      "studyPopulation": "children aged \\< 18 years old with suspected epilepsy who need EEG examination",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    }
+  },
+  "hasResults": false
+}

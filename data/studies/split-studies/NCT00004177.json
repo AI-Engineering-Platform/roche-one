@@ -1,0 +1,393 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00004177",
+      "orgStudyIdInfo": {
+        "id": "CDR0000067299"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "R03CA077146",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R03CA077146"
+        },
+        {
+          "id": "CMMI-C-039A-98"
+        },
+        {
+          "id": "NCI-H99-0044"
+        },
+        {
+          "id": "NCI-V99-1570"
+        }
+      ],
+      "organization": {
+        "fullName": "Garden State Cancer Center at the Center for Molecular Medicine and Immunology",
+        "class": "OTHER"
+      },
+      "briefTitle": "Radiolabeled Monoclonal Antibody Plus Peripheral Stem Cell Transplantation in Treating Patients With Refractory or Recurrent Ovarian Epithelial Cancer",
+      "officialTitle": "Phase I/II Radioimmunotherapy With High-Dose 90Y-Labeled Humanized MN-14 in Advanced Ovarian Cancer Using Autologous Peripheral Blood Stem Cell Rescue (PBSCR) to Control Myelotoxicity"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2011-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "1999-08"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2002-05",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2000-01-21",
+      "studyFirstSubmitQcDate": "2004-04-15",
+      "studyFirstPostDateStruct": {
+        "date": "2004-04-16",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2011-06-21",
+      "lastUpdatePostDateStruct": {
+        "date": "2011-06-22",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "oldNameTitle": "Robert M Sharkey",
+        "oldOrganization": "GSCC"
+      },
+      "leadSponsor": {
+        "name": "Garden State Cancer Center at the Center for Molecular Medicine and Immunology",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Cancer Institute (NCI)",
+          "class": "NIH"
+        }
+      ]
+    },
+    "descriptionModule": {
+      "briefSummary": "RATIONALE: Radiolabeled monoclonal antibodies can locate tumor cells and either kill them or deliver tumor-killing substances to them without harming normal cells. Peripheral stem cell transplantation may be able to replace immune cells that were destroyed by therapy used to kill tumor cells.\n\nPURPOSE: Phase I/II trial to study the effectiveness of radiolabeled monoclonal antibody plus peripheral stem cell transplantation in treating patients who have refractory or recurrent ovarian epithelial cancer.",
+      "detailedDescription": "OBJECTIVES: I. Determine the normal organ and tumor dosimetry with yttrium Y 90 monoclonal antibody MN-14 using indium In 111 monoclonal antibody MN-14 as pretherapy in patients with advanced ovarian epithelial cancer. II. Evaluate the extent and duration of antitumor response in these patients on this regimen.\n\nOUTLINE: This is a dose escalation study of yttrium Y 90 monoclonal antibody MN-14 (90Y hMN-14). Patients receive filgrastim (G-CSF) subcutaneously (SQ) on days -17 to -13, followed by leukapheresis on days -14 to -12. If an adequate number of CD34+ cells are not harvested, bone marrow is also collected. Patients receive pretherapy targeting consisting of indium In 111 monoclonal antibody MN-14 over 30 minutes on day -7. At least 1 confirmed tumor site must be targeted. Patients receive 90Y hMN-14 IV over 30-45 minutes on day 0. PBSC is reinfused within 7 to 14 days after 90 hMN-14 administration. Patients receive G-CSF SQ or IV until blood counts recover. Cohorts of 3-6 patients receive escalating doses of 90Y hMN-14 until the maximum tolerated dose (MTD) is determined. The MTD is defined as either the dose at which no more than 1 of 6 patients experiences dose limiting toxicity or the threshold radiation doses to lungs, kidney, and liver are reached. Patients are followed weekly for 1 month, every 2 weeks for 2 months, monthly for 3 months, every 3 months for 2 years, and then every 6 months for 5 years.\n\nPROJECTED ACCRUAL: Approximately 48-51 patients will be accrued for this study within 5 years."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Ovarian Cancer"
+      ],
+      "keywords": [
+        "recurrent ovarian epithelial cancer"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 15,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "filgrastim",
+          "description": "as prescribed by physician"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "peripheral blood stem cell transplantation",
+          "description": "1-2 weeks from treatment"
+        },
+        {
+          "type": "RADIATION",
+          "name": "indium In 111 monoclonal antibody MN-14",
+          "description": "intravenous infusion over 30 min; single dose"
+        },
+        {
+          "type": "RADIATION",
+          "name": "yttrium Y 90 monoclonal antibody MN-14",
+          "description": "intravenous infusion over 30 min; single dose"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "maximum tolerated dose",
+          "timeFrame": "12 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "DISEASE CHARACTERISTICS: Histologically or cytologically refractory or recurrent ovarian epithelial cancer Resistant to platinum or taxane containing chemotherapy within past 6 months Autologous peripheral blood stem cells (PBSC) or bone marrow available At least 1 measurable site confirmed by CT targeted pretherapy indium In 111 monoclonal antibody MN-14 imaging No bone marrow involvement\n\nPATIENT CHARACTERISTICS: Age: 18 to 80 Performance status: Karnofsky 70-100% ECOG 0-2 Life expectancy: At least 3 months Hematopoietic: WBC at least 3,000/mm3 Granulocyte count at least 1,500/mm3 Platelet count at least 100,000/mm3 Hepatic: Bilirubin no greater than 2.0 mg/dL SGOT less than 2.0 times upper limit of normal (ULN) Renal: Creatinine less than 1.5 times ULN Creatinine clearance at least 50 mL/min Cardiovascular: LVEF at least 50% by MUGA Pulmonary: FVC, FEV1, and DLCO at least 70% of predicted Other: Not pregnant Fertile patients must use effective contraception during and for 3 months after study No AIDS-related illness No concurrent significant medical complications that would preclude compliance No severe anorexia, nausea, or vomiting No history of allergy or antibodies to 90Y hMN-14\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: No prior imaging studies with murine monoclonal antibodies showing reactivity with yttrium Y 90 monoclonal antibody MN-14 (90Y hMN-14) Chemotherapy: At least 4 weeks since prior chemotherapy and recovered Endocrine therapy: Not specified Radiotherapy: At least 4 weeks since prior radiotherapy to index lesion and recovered No prior radiotherapy to greater than 25% of red marrow No prior radiotherapy to maximum tolerated levels for any critical organ (e.g., lung, liver, or kidney) Surgery: At least 4 weeks since prior major surgery Other: No concurrent antiretroviral medication",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Jack D. Burton, MD",
+          "affiliation": "Garden State Cancer Center at the Center for Molecular Medicine and Immunology",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Garden State Cancer Center",
+          "city": "Belleville",
+          "state": "New Jersey",
+          "zip": "07103",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.79371,
+            "lon": -74.15014
+          }
+        },
+        {
+          "facility": "St. Joseph's Hospital and Medical Center",
+          "city": "Paterson",
+          "state": "New Jersey",
+          "zip": "07503",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.91677,
+            "lon": -74.17181
+          }
+        },
+        {
+          "facility": "University of Pennsylvania Cancer Center",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95238,
+            "lon": -75.16362
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D010051",
+          "term": "Ovarian Neoplasms"
+        },
+        {
+          "id": "D000077216",
+          "term": "Carcinoma, Ovarian Epithelial"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D004701",
+          "term": "Endocrine Gland Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D010049",
+          "term": "Ovarian Diseases"
+        },
+        {
+          "id": "D000291",
+          "term": "Adnexal Diseases"
+        },
+        {
+          "id": "D005831",
+          "term": "Genital Diseases, Female"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D005833",
+          "term": "Genital Neoplasms, Female"
+        },
+        {
+          "id": "D014565",
+          "term": "Urogenital Neoplasms"
+        },
+        {
+          "id": "D000091662",
+          "term": "Genital Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D006058",
+          "term": "Gonadal Disorders"
+        },
+        {
+          "id": "D002277",
+          "term": "Carcinoma"
+        },
+        {
+          "id": "D009375",
+          "term": "Neoplasms, Glandular and Epithelial"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000069585",
+          "term": "Filgrastim"
+        },
+        {
+          "id": "D036102",
+          "term": "Peripheral Blood Stem Cell Transplantation"
+        },
+        {
+          "id": "D007204",
+          "term": "Indium"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D016179",
+          "term": "Granulocyte Colony-Stimulating Factor"
+        },
+        {
+          "id": "D003115",
+          "term": "Colony-Stimulating Factors"
+        },
+        {
+          "id": "D006023",
+          "term": "Glycoproteins"
+        },
+        {
+          "id": "D006001",
+          "term": "Glycoconjugates"
+        },
+        {
+          "id": "D002241",
+          "term": "Carbohydrates"
+        },
+        {
+          "id": "D016298",
+          "term": "Hematopoietic Cell Growth Factors"
+        },
+        {
+          "id": "D016207",
+          "term": "Cytokines"
+        },
+        {
+          "id": "D036341",
+          "term": "Intercellular Signaling Peptides and Proteins"
+        },
+        {
+          "id": "D010455",
+          "term": "Peptides"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D001685",
+          "term": "Biological Factors"
+        },
+        {
+          "id": "D018380",
+          "term": "Hematopoietic Stem Cell Transplantation"
+        },
+        {
+          "id": "D033581",
+          "term": "Stem Cell Transplantation"
+        },
+        {
+          "id": "D017690",
+          "term": "Cell Transplantation"
+        },
+        {
+          "id": "D064987",
+          "term": "Cell- and Tissue-Based Therapy"
+        },
+        {
+          "id": "D001691",
+          "term": "Biological Therapy"
+        },
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        },
+        {
+          "id": "D014180",
+          "term": "Transplantation"
+        },
+        {
+          "id": "D013514",
+          "term": "Surgical Procedures, Operative"
+        },
+        {
+          "id": "D019216",
+          "term": "Metals, Heavy"
+        },
+        {
+          "id": "D004602",
+          "term": "Elements"
+        },
+        {
+          "id": "D007287",
+          "term": "Inorganic Chemicals"
+        },
+        {
+          "id": "D008670",
+          "term": "Metals"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

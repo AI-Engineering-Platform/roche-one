@@ -1,0 +1,297 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02302612",
+      "orgStudyIdInfo": {
+        "id": "CN-13-1672-H"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "R01HL117939",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R01HL117939"
+        }
+      ],
+      "organization": {
+        "fullName": "Kaiser Permanente",
+        "class": "OTHER"
+      },
+      "briefTitle": "The CREATE Wellness Study",
+      "officialTitle": "Multi-Component Behavioral Intervention for Complex Patients With CVD Risk. The Changing Results: Engage and Activate to Enhance Wellness (CREATE Wellness) Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2018-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2015-01"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2018-09-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2018-09-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2014-11-21",
+      "studyFirstSubmitQcDate": "2014-11-24",
+      "studyFirstPostDateStruct": {
+        "date": "2014-11-27",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2018-10-15",
+      "lastUpdatePostDateStruct": {
+        "date": "2018-10-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Kaiser Permanente",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Heart, Lung, and Blood Institute (NHLBI)",
+          "class": "NIH"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Cardiovascular disease (CVD) is the leading cause of death in the U.S. Efforts to improve CVD risk factors often fall short in complex patients with multiple co-morbid conditions, a growing, expensive, and high-risk segment of the U.S. population. The investigators are testing a multi-component behavioral intervention designed to help complex patients with CVD and other concurrent chronic conditions to become more effective agents of their own care.",
+      "detailedDescription": "Cardiovascular disease (CVD) is the leading cause of death in the U.S. Despite the availability of evidence-based guidelines and efficacious therapies, however, many patients do not achieve the full benefit of CVD risk reduction. In particular, complex patients (defined as those patients who do not respond to current disease management approaches) with multiple concurrent chronic conditions represent a key segment of the population that would benefit from new approaches to care. In response to PA-12-024: Behavioral Interventions to Address Multiple Chronic Conditions in Primary Care, which seeks \"practical interventions…to modify behaviors using a common approach\" among patients with multiple co-morbidities, the investigators are testing an integrated behavioral intervention designed to improve a core set of chronic disease self-management skills and to overcome common barriers to care engagement encountered by this increasingly important segment of the U.S. adult primary care population. This randomized trial will be conducted within Kaiser Permanente Northern California (KPNC), an integrated care delivery system serving over 3.2 million members, including patients insured through Medicare and state Medicaid programs. The investigators will evaluate the intervention in 3 KPNC primary care practices by enrolling 576 complex patients who have persistently (≥ 2 years) uncontrolled CVD risk factors (e.g. hypertension, hyperlipidemia, diabetes) despite being enrolled in a CVD disease management program. This behavioral intervention is designed to activate and engage patients, identify potentially hidden barriers to care such as alcohol misuse or sub-clinical depression, and to develop individualized care plans that are designed to catalyze more effective primary care management. Randomization will be at the patient-level. The investigators will examine the impact of the intervention on clinical outcomes (control of systolic blood pressure, HbA1c (if with diabetes), statin treatment rates) after 12 months and patient-reported outcomes (patient activation, medication adherence, and mental health status) after 6 months. By focusing on core health skills and care barriers, this patient-focused intervention seeks to enable complex patients to become more effective agents of their own care and to thereby achieve similar clinical benefits as less complex patients."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes",
+        "Heart Disease",
+        "Hypertension",
+        "Dyslipidemia"
+      ],
+      "keywords": [
+        "chronic conditions",
+        "complex patients",
+        "engagement",
+        "activation"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "SUPPORTIVE_CARE",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 647,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "CREATE Wellness",
+          "type": "EXPERIMENTAL",
+          "description": "Patients allocated to the intervention arm will receive three group sessions with between visit contacts designed to increase activation and engagement with their care plans. They will also continue to be enrolled in the KP PHASE disease management program.",
+          "interventionNames": [
+            "Behavioral: CREATE Wellness"
+          ]
+        },
+        {
+          "label": "Usual Care Control",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Patients allocated to the control arm will continue to receive usual care, including disease management within the KP PHASE program.",
+          "interventionNames": [
+            "Other: Usual Care Control"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "CREATE Wellness",
+          "description": "Patients allocated to the intervention arm will receive three group sessions with between visit contacts designed to increase activation and engagement with their care plans. They will also continue to be enrolled in the KP PHASE program",
+          "armGroupLabels": [
+            "CREATE Wellness"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Usual Care Control",
+          "description": "Patients allocated to the control arm will continue to receive usual care, including disease management within the KP PHASE program.",
+          "armGroupLabels": [
+            "Usual Care Control"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Composite CVD Goal",
+          "description": "We will compare the proportion of patients in the two study arms who achieve all three clinical goals of the PHASE disease management program (blood pressure control, HbA1c control (if applicable), and statin prescription) 12 months after enrollment. Risk factor control is defined according to the PHASE disease management program protocol.",
+          "timeFrame": "12-months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Perceived efficacy in patient-physician interactions (PEPPI) - 10 items",
+          "description": "We will compare proportion of patients with improvement between baseline and follow-up PEPPI 10-item survey scores between study arms",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Effective Consumer Scale (EC-17)",
+          "description": "We will compare proportion of patients with improvement between baseline and follow-up EC-17 scores between study arms",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Patient Activation Measure (PAM) - 13 items",
+          "description": "We will compare proportion of patients with improvement between baseline and follow-up PAM scores between study arms",
+          "timeFrame": "6 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Kaiser Permanente Northern California members enrolled in the PHASE disease management program and not meeting all goals of care for the preceding 2 years.\n\nExclusion Criteria:\n\n* Schizophrenia or personality disorder\n* Unable to communicate in English\n* Unwilling to participate in group-based in-person program\n* Pregnant\n* Terminal or debilitating illness",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "40 Years",
+      "maximumAge": "85 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Richard W Grant, MD MPH",
+          "affiliation": "Division of Research, KPNC",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Kaiser Permanente San Jose Sabrina Wood, BA (510) 891-3551 Sabrina.B.Wood@kp.org",
+          "city": "San Jose",
+          "state": "California",
+          "zip": "95119",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.33939,
+            "lon": -121.89496
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "31787053",
+          "type": "DERIVED",
+          "citation": "Iturralde E, Sterling SA, Uratsu CS, Mishra P, Ross TB, Grant RW. Changing Results-Engage and Activate to Enhance Wellness: A Randomized Clinical Trial to Improve Cardiovascular Risk Management. J Am Heart Assoc. 2019 Dec 3;8(23):e014021. doi: 10.1161/JAHA.119.014021. Epub 2019 Nov 30."
+        },
+        {
+          "pmid": "30939290",
+          "type": "DERIVED",
+          "citation": "Torres DX, Lu WY, Uratsu CS, Sterling SA, Grant RW. Knowing How to Ask Good Questions: Comparing Latinos and Non-Latino Whites Enrolled in a Cardiovascular Disease Prevention Study. Perm J. 2019;23:18-258. doi: 10.7812/TPP/18-258."
+        },
+        {
+          "pmid": "29696203",
+          "type": "DERIVED",
+          "citation": "Miller-Rosales C, Sterling SA, Wood SB, Ross T, Makki M, Zamudio C, Kane IM, Richardson MC, Samayoa C, Charvat-Aguilar N, Lu WY, Vo M, Whelan K, Uratsu CS, Grant RW. CREATE Wellness: A multi-component behavioral intervention for patients not responding to traditional Cardiovascular disease management. Contemp Clin Trials Commun. 2017 Oct 4;8:140-146. doi: 10.1016/j.conctc.2017.10.001. eCollection 2017 Dec."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D006973",
+          "term": "Hypertension"
+        },
+        {
+          "id": "D050171",
+          "term": "Dyslipidemias"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D052439",
+          "term": "Lipid Metabolism Disorders"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

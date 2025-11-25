@@ -1,0 +1,195 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00076401",
+      "orgStudyIdInfo": {
+        "id": "PCYC-0216"
+      },
+      "organization": {
+        "fullName": "Pharmacyclics LLC.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study of Motexafin Gadolinium for the Treatment of Chronic Lymphocytic Leukemia (CLL)",
+      "officialTitle": "Phase II Trial of Motexafin Gadolinium (MGd) in Patients With Relapsed or Refractory Chronic Lymphocytic Leukemia (CLL)"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2014-06",
+      "overallStatus": "TERMINATED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "studyFirstSubmitDate": "2004-01-21",
+      "studyFirstSubmitQcDate": "2004-01-23",
+      "studyFirstPostDateStruct": {
+        "date": "2004-01-26",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2014-06-25",
+      "lastUpdatePostDateStruct": {
+        "date": "2014-06-26",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Pharmacyclics LLC.",
+        "class": "INDUSTRY"
+      }
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to determine if the drug motexafin gadolinium will be an effective treatment for patients who have chronic lymphocytic leukemia (CLL) that has come back after treatment or that has stopped responding to treatment."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Leukemia",
+        "Leukemia, Lymphocytic, Chronic"
+      ],
+      "keywords": [
+        "CLL",
+        "chronic lymphocytic leukemia",
+        "relapsed chronic lymphocytic leukemia",
+        "refractory chronic lymphocytic leukemia",
+        "Leukemia",
+        "Motexafin gadolinium",
+        "Chronic leukemia",
+        "Lymphocytic leukemia, chronic"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 27
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Motexafin gadolinium"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* At least 18 years old\n* Refractory or relapsed CLL\n* ECOG performance status score of 0, 1, or 2\n* Each patient must sign a study-specific informed consent form\n\nExclusion Criteria:\n\nLaboratory values of:\n\n* Platelet count \\<30,000/uL\n* AST or ALT \\>2 x the upper limit of normal (ULN)\n* Total bilirubin \\>2 x ULN\n* Creatinine \\>2.0 mg/dL\n* Chemotherapy, radiation therapy, immunotherapy, systemic corticosteroids, or systemic biologic anticancer therapy within 21 days before beginning study treatment\n* Women who are pregnant or lactating",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Ohio State University Medical Center",
+          "city": "Columbus",
+          "state": "Ohio",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D007938",
+          "term": "Leukemia"
+        },
+        {
+          "id": "D015451",
+          "term": "Leukemia, Lymphocytic, Chronic, B-Cell"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D015448",
+          "term": "Leukemia, B-Cell"
+        },
+        {
+          "id": "D007945",
+          "term": "Leukemia, Lymphoid"
+        },
+        {
+          "id": "D008232",
+          "term": "Lymphoproliferative Disorders"
+        },
+        {
+          "id": "D008206",
+          "term": "Lymphatic Diseases"
+        },
+        {
+          "id": "D007160",
+          "term": "Immunoproliferative Disorders"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C437683",
+          "term": "motexafin gadolinium"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

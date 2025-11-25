@@ -1,0 +1,176 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01516801",
+      "orgStudyIdInfo": {
+        "id": "10-0603"
+      },
+      "organization": {
+        "fullName": "University of Colorado, Denver",
+        "class": "OTHER"
+      },
+      "briefTitle": "A Pragmatic Trial of the Effect of a Mailed Patient Flyer About Prostate Specific Antigen (PSA) Testing Prior to an Annual Exam",
+      "officialTitle": "A Pragmatic Randomized Trial of the Effect of a Mailed Patient Flyer About PSA Testing Prior to an Annual Exam"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2012-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2009-10"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2010-08",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2010-08",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2012-01-10",
+      "studyFirstSubmitQcDate": "2012-01-24",
+      "studyFirstPostDateStruct": {
+        "date": "2012-01-25",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2012-01-24",
+      "lastUpdatePostDateStruct": {
+        "date": "2012-01-25",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Colorado, Denver",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "1. Does a one-page American College of Physicians educational flyer about the pros and cons of prostate cancer screening sent to men within two weeks of their scheduled annual health examinations in a general medicine clinic result in a different rate of prostate cancer screening than among men who were not sent the flyer?\n2. Do patients find the flyer useful and understandable?\n\nContext: The use of prostate specific antigen (PSA) screening for prostate cancer is controversial because of a lack of evidence that such screening saves lives when applied within a population and because such testing can lead to invasive downstream biopsies and aggressive treatment that is associated with a high risk of permanent side effects (e.g. impotence, incontinence). Almost all professional societies (American Cancer Society, American Urologic Association, American College of Physicians, United States Preventive Services Task Force) advocate that patients receive education and complete an informed decision-making discussion with their medical providers about the pros and cons of the PSA test, as well as their personal preferences, before proceeding with this test. Unfortunately, despite these recommendations, there is seldom sufficient time during clinic visits to achieve this goal."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Prostate Cancer Screening"
+      ],
+      "keywords": [
+        "Prostate Cancer Screening",
+        "Pragmatic Trial",
+        "Health Literacy"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "SCREENING",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 303,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "PSA flyer",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Other: PSA flyer"
+          ]
+        },
+        {
+          "label": "Control",
+          "type": "NO_INTERVENTION"
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "PSA flyer",
+          "description": "A mailed low-literacy informational patient flyer about the PSA test",
+          "armGroupLabels": [
+            "PSA flyer"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Rate of PSA testing",
+          "description": "Rate of PSA testing will be determined by reviewing the chart of enrolled patients within two weeks of their annual physical",
+          "timeFrame": "At the time of the annual exam (within two weeks of their annual physical)"
+        },
+        {
+          "measure": "Rate of documented PSA discussions",
+          "description": "Rate of documented PSA discussions will be determined through chart review within two weeks of the annual physical.",
+          "timeFrame": "At the time of the annual exam (within two weeks of their annual physical)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Flyer acceptability",
+          "description": "The acceptability of the flyer will be assessed through a follow-up phone interview of patients who had received the flyer.",
+          "timeFrame": "Within two weeks of the annual exam"
+        },
+        {
+          "measure": "Perceived participation",
+          "description": "Perceived participation will be assessed in a follow-up phone interview within two weeks of the annual physical using validated measures of particiption in decision making.",
+          "timeFrame": "Within two weeks"
+        },
+        {
+          "measure": "Prostate Cancer Screening knowledge",
+          "description": "Prostate cancer screening knowledge will be assessed using 5 knowledge questions surrounding PSA testing during a follow-up interview 2 weeks after the annual physical",
+          "timeFrame": "Within two weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Men age 50-74 who were cared for in a general internal medicine clinic\n* had scheduled an annual health exam\n* had not had a PSA test within the previous year\n\nExclusion Criteria:\n\n* active cancer diagnosis\n* history of prostate cancer\n* need for PSA surveillance",
+      "healthyVolunteers": false,
+      "sex": "MALE",
+      "minimumAge": "50 Years",
+      "maximumAge": "74 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "University of Colorado Hospital",
+          "city": "Aurora",
+          "state": "Colorado",
+          "zip": "80045",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.72943,
+            "lon": -104.83192
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,358 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04738812",
+      "orgStudyIdInfo": {
+        "id": "ANRS 12424 DATURA"
+      },
+      "organization": {
+        "fullName": "ANRS, Emerging Infectious Diseases",
+        "class": "OTHER_GOV"
+      },
+      "briefTitle": "Determination of Adequate Tuberculosis Regimen in Patients Hospitalized With HIV-associated Severe Immune Suppression",
+      "officialTitle": "ANRS 12424: Determination of Adequate Tuberculosis Regimen in Adults and Adolescents Hospitalized With HIV-associated Severe Immune Suppression (CD4 ≤ 100 Cells/µL): the DATURA Trial.",
+      "acronym": "DATURA"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-04",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-04-21",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-12-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2025-12-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2021-02-01",
+      "studyFirstSubmitQcDate": "2021-02-01",
+      "studyFirstPostDateStruct": {
+        "date": "2021-02-04",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-02-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-02-20",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "ANRS, Emerging Infectious Diseases",
+        "class": "OTHER_GOV"
+      },
+      "collaborators": [
+        {
+          "name": "European Union",
+          "class": "OTHER"
+        },
+        {
+          "name": "European and Developing Countries Clinical Trials Partnership (EDCTP)",
+          "class": "OTHER_GOV"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "DATURA trial is a phase III, multicenter, two-arm, open-label, randomized superiority trial to compare the efficacy and the safety of an intensified tuberculosis (TB) regimen versus standard TB treatment in HIV-infected adults and adolescents hospitalized for TB with CD4 ≤ 100 cells/μL over 48 weeks:\n\n* Intensified TB treatment regimen: increased doses of rifampicin and isoniazid together with standard-dose of pyrazinamide and ethambutol for 8 weeks in addition to prednisone for 6 weeks and albendazole for 3 days\n* WHO standard TB treatment regimen.\n\nThe continuation phase of TB treatment will be identical in the two arms: 4 months of rifampicin and isoniazid at standard doses.",
+      "detailedDescription": "Settings: 5 African (Cameroon, Guinea, Uganda, Zambia, Mozambique) and 1 South-East Asian (Cambodia) countries.\n\nSample size : 1330 patients (665 in each arm). Follow-up : 48 weeks after entry in the trial (TB treatment initiation).\n\nAll participants will initiate antiretroviral therapy (ART) 2 weeks after starting TB treatment. In each country, the chosen ART regimen will be the same in both arms. According to the first-line regimen recommended in each country, the ART combination will be TDF/3TC/EFV 600 mg, or TDF/3TC + double-dose DTG.\n\nThe primary objective is to estimate the impact of an intensified initial phase of TB treatment on mortality at 48 weeks among HIV-infected adults and adolescents hospitalized for TB with CD4 ≤ 100 cells/μL in comparison with standard TB treatment.\n\nThe secondary objectives are to estimate the impact of an intensified initial phase of TB treatment, in comparison with the standard TB regimen, on:\n\n* Mortality at weeks 8 and 24\n* Adverse events, including\n\n  * All grade 3 and 4 events\n  * Selected grade 2 events of interest\n  * Drug-related adverse events\n  * AIDS-defining illnesses\n  * Paradoxical TB-associated immune reconstitution inflammatory syndrome (IRIS)\n* TB treatment success\n* TB recurrence\n* ART response in terms of virological success and immunological response\n* Adherence to TB treatment and ART\n* Peak plasma concentrations of rifampicin and isoniazid (and its N-acetyl-metabolite) at day 3, day 7 and week 2\n* Plasma concentrations of efavirenz and dolutegravir at week 4 (i.e. 2 weeks after the onset of ART).\n\nA pharmacokinetic sub-study of rifampicin and isoniazid will be carried out in 72 voluntary patients (6 patients/arm/country) at the second week of the main study."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Tuberculosis",
+        "HIV-1-infection",
+        "Immuno-Deficiency"
+      ],
+      "keywords": [
+        "Tuberculosis",
+        "HIV-1",
+        "Mortality",
+        "Immuno-deficiency",
+        "Isoniazid",
+        "Rifampicin"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "DATURA trial is a phase III, multicenter, two-arm, open-label, randomized superiority trial.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 1330,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Intensified TB treatment",
+          "type": "EXPERIMENTAL",
+          "description": "* Increased doses of rifampicin (R) to 35±5 mg/kg daily and isoniazid (H) 10±2 mg/kg daily together with standard-dose of pyrazinamide (Z) 20-30 mg/kg daily + ethambutol (E) 15-20 mg/kg daily for 8 weeks (initial phase of TB treatment).\n* Prednisone 40 to 80 mg once a day (OD) according to weight bands for 2 weeks, followed by 20 to 40 mg OD according to weight bands for 2 weeks, then 10 to 20 mg OD according to weight bands for the last 2 weeks (total duration: 6 weeks). Because of the corticosteroid treatment, albendazole 400 mg OD will be given to participants for 3 days.\n* Continuation phase: 16 weeks of RH.",
+          "interventionNames": [
+            "Drug: Intensified TB treatment (initial phase)"
+          ]
+        },
+        {
+          "label": "WHO standard TB treatment",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "* Standard-dose of R 8-12 mg/kg daily + H 4-6 mg/kg daily + Z 20-30 mg/kg daily + E 15-20 mg/kg daily for 8 weeks.\n* Continuation phase: 16 weeks of RH.",
+          "interventionNames": [
+            "Drug: WHO standard TB treatment (initial phase)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Intensified TB treatment (initial phase)",
+          "description": "8 weeks of RHEZ with high dose of rifampicin (R) and isoniazid (H). Fixed dose combination (FDC) of RHZE with the addition of FDC of RH and single caps of R.\n\n6 weeks of prednisone with tapering doses. 3 days of albendazole 400 mg.",
+          "armGroupLabels": [
+            "Intensified TB treatment"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "WHO standard TB treatment (initial phase)",
+          "description": "8 weeks of RHEZ with FDC.",
+          "armGroupLabels": [
+            "WHO standard TB treatment"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Rate of all causes death",
+          "description": "Number of deaths between the inclusion visit and week 48, divided by the total person-years of follow-up until week 48",
+          "timeFrame": "Up to 48 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Rate of all causes death",
+          "description": "Death for any cause at week 8 will be calculated as the number of deaths between the inclusion visit and week 24, divided by the total person-years of follow-up during the same period",
+          "timeFrame": "Up to 8 weeks"
+        },
+        {
+          "measure": "Rate of all causes death",
+          "description": "Death for any cause at week 24 will be calculated as the number of deaths between the inclusion visit and week 24, divided by the total person-years of follow-up during the same period",
+          "timeFrame": "Up to 24 weeks"
+        },
+        {
+          "measure": "Rate of adverse events",
+          "description": "Number of serious adverse events, all grade 3-4 adverse events (using the DAIDS tables), and any grade 2 adverse events of interest (e.g., hepatotoxicity, rash, peripheral neuropathy, thrombocytopenia, neuropsychiatric disorders), between the inclusion visit and week 48, divided by the total person-years of follow-up during that period",
+          "timeFrame": "Up to 48 weeks"
+        },
+        {
+          "measure": "Rate of AIDS-defining illnesses",
+          "description": "Number of AIDS-defining illnesses according to the WHO clinical staging table",
+          "timeFrame": "Up to 48 weeks"
+        },
+        {
+          "measure": "Rate of paradoxical TB-associated IRIS",
+          "description": "Number of paradoxical TB-associated IRIS according to the definition of the international network for the study of HIV-associated (INSHI) consensus case definition",
+          "timeFrame": "Up to 14 weeks"
+        },
+        {
+          "measure": "Rate of TB treatment success",
+          "description": "The percentage of patients with TB success will be calculated as the number of patients who are cured or who have completed TB treatment, as defined by WHO, divided by the total number of randomized patients",
+          "timeFrame": "Up to 24 weeks"
+        },
+        {
+          "measure": "Rate of TB recurrence",
+          "description": "The number of patients with TB recurrence divided by the total number of randomized patients with TB treatment success at week 24",
+          "timeFrame": "Up to 48 weeks"
+        },
+        {
+          "measure": "Rate of virological success",
+          "description": "The percentage will be calculated as the number of patients with HIV RNA \\<50 copies/mL divided by the total number of randomized patients.",
+          "timeFrame": "Week 24"
+        },
+        {
+          "measure": "Rate of virological success",
+          "description": "The percentage will be calculated as the number of patients with HIV RNA \\<50 copies/mL divided by the total number of randomized patients.",
+          "timeFrame": "Week 48"
+        },
+        {
+          "measure": "Adherence to TB and ART treatment",
+          "description": "The proportion of days with perfect adherence divided by the total number of days of treatment",
+          "timeFrame": "up to 24 weeks"
+        },
+        {
+          "measure": "Immunological response",
+          "description": "The mean CD4 cell count gain (with 95% confidence interval) will be calculated as the difference of CD4 cell count between pre-inclusion and week 48",
+          "timeFrame": "Up to 48 weeks"
+        },
+        {
+          "measure": "Plasma concentrations of rifampicin and isoniazid",
+          "description": "Determined 2 hours after the TB drugs intake at day 3, day 7 and week 2 in a subset of 20 patients per arm per country",
+          "timeFrame": "Up to 2 weeks"
+        },
+        {
+          "measure": "Plasma concentrations of efavirenz and dolutegravir",
+          "description": "Determined 12 hours after the drugs intake at week 4 (i.e. 2 weeks after the onset of ART) in a subset of 60 patients per arm for efavirenz and 60 patients per arm for dolutegravir",
+          "timeFrame": "Week 4"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "INCLUSION CRITERIA\n\n* Patient (and legally designed representative of minor patient) able to correctly understand the trial and to sign the informed consent\n* Aged ≥ 15 years\n* Confirmed HIV-1 infection as documented at any time prior to trial entry per national HIV testing procedures\n* CD4 count ≤ 100 cells/μL\n* Hospitalized for a newly diagnosed TB, defined by:\n\n  * Any positive Xpert® MTB/RIF specimen (sputum, urine, pus, other),\n  * Or a positive urine lipoarabinomannan (LAM) test,\n  * Or an abnormal chest X-ray compatible with active TB\n\nEXCLUSION CRITERA\n\n* Initiation of TB drugs for more than 7 days\n* History of TB treatment during the last 6 months\n* Central neurological symptoms, including but not restrictive to TB meningitis\n* Suspected TB pericarditis\n* Documented Mycobacterium tuberculosis strain resistant to rifampicin using rapid molecular testing (Xpert® MTB/RIF)\n* Any concomitant medication or known hypersensitivity contraindicating any component of the TB treatment\n* HIV-2 co-infection\n* Current treatment with ART containing protease inhibitors\n* Any contraindication to efavirenz and dolutegravir\n* Severe associated diseases requiring corticosteroids or for which corticosteroids are contra-indicated\n* Impaired hepatic function with ALT (SGPT) \\> 5 times the upper limit of normal (ULN) value\n* Creatinine clearance \\< 30 mL/min/1.73m2 (according to either the MDRD or the CKD-EPI formula)\n* Pregnancy or breastfeeding",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "15 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "BLANC François-Xavier, MD, PhD",
+          "affiliation": "University Hospital of Nantes, France",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "LAUREILLARD Didier, MD",
+          "affiliation": "University Hospital of Nimes, France",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "National Center for HIV/AIDS, Dermatology and STD (NCHADS)",
+          "city": "Phnom Penh",
+          "country": "Cambodia",
+          "geoPoint": {
+            "lat": 11.56245,
+            "lon": 104.91601
+          }
+        },
+        {
+          "facility": "Jamot Hospital",
+          "city": "Yaoundé",
+          "country": "Cameroon",
+          "geoPoint": {
+            "lat": 3.86667,
+            "lon": 11.51667
+          }
+        },
+        {
+          "facility": "Ignace Deen Hospital",
+          "city": "Conakry",
+          "country": "Guinea",
+          "geoPoint": {
+            "lat": 9.53795,
+            "lon": -13.67729
+          }
+        },
+        {
+          "facility": "MACHAVA Hospital",
+          "city": "Maputo",
+          "country": "Mozambique",
+          "geoPoint": {
+            "lat": -25.96553,
+            "lon": 32.58322
+          }
+        },
+        {
+          "facility": "Mbarara Regional Referral hospital",
+          "city": "Mbarara",
+          "country": "Uganda",
+          "geoPoint": {
+            "lat": -0.60467,
+            "lon": 30.64851
+          }
+        },
+        {
+          "facility": "University Teaching Hospital",
+          "city": "Lusaka",
+          "country": "Zambia",
+          "geoPoint": {
+            "lat": -15.40669,
+            "lon": 28.28713
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "All coded IPD will be available upon researchers request.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP",
+        "ICF"
+      ],
+      "timeFrame": "Data will be available after the princeps paper has been published and for at least 2 years.",
+      "accessCriteria": "After the analysis and publication of the trial results, a clear process for data access will be developed with the sponsor to ensure transparency and accountability of data requestors."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28",
+      "removedCountries": [
+        "Vietnam"
+      ]
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D014376",
+          "term": "Tuberculosis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009164",
+          "term": "Mycobacterium Infections"
+        },
+        {
+          "id": "D000193",
+          "term": "Actinomycetales Infections"
+        },
+        {
+          "id": "D016908",
+          "term": "Gram-Positive Bacterial Infections"
+        },
+        {
+          "id": "D001424",
+          "term": "Bacterial Infections"
+        },
+        {
+          "id": "D001423",
+          "term": "Bacterial Infections and Mycoses"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

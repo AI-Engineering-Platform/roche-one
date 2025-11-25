@@ -1,0 +1,167 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06578377",
+      "orgStudyIdInfo": {
+        "id": "MofidCH"
+      },
+      "organization": {
+        "fullName": "Mofid Children Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "The Epidemiology of Acute Respiratory Distress Among Children, A Retrospective Cross-Sectional Study",
+      "officialTitle": "The Epidemiology of Acute Respiratory Distress Among Children, A Retrospective Cross-Sectional Study From Iran"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-08",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2018-10-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2019-04-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2019-12-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-08-26",
+      "studyFirstSubmitQcDate": "2024-08-27",
+      "studyFirstPostDateStruct": {
+        "date": "2024-08-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-08-27",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-08-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Mahdis Bayat",
+        "investigatorTitle": "Dr",
+        "investigatorAffiliation": "Mofid Children Hospital"
+      },
+      "leadSponsor": {
+        "name": "Mofid Children Hospital",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Dr Fatemeh Shojaeian, Dr seyed mohamadsadegh mousavi-kiasary, Dr Samira Sayyah",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "l Respiratory distress is still a major concern in pediatric medicine. l In this study we evaluated the symptoms and causes of respiratory distress among children in a tertiary hospital.\n\nl We found that tachypnea is the most common symptom and asthma is the most common cause of respiratory distress in children."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Acute Respiratory Distress"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "CASE_CROSSOVER",
+        "timePerspective": "RETROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 154,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "descriptive study",
+          "description": "It is a descriptive study"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "The most common symptom",
+          "timeFrame": "six months"
+        },
+        {
+          "measure": "The most common cause of respiratory distress",
+          "timeFrame": "six months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* patients older than one month\n* signs or symptoms of respiratory distress, including tachypnea, bradypnea, cyanosis, respiratory muscle retraction, nasal flaring, tachycardia, and bradycardia\n\nExclusion Criteria:\n\n* Patients older than 18 years old\n* apnea\n* known cardiac diseases",
+      "sex": "ALL",
+      "minimumAge": "1 Month",
+      "maximumAge": "18 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT"
+      ],
+      "studyPopulation": "From a total of 186 patients who visited the emergency room of Mofid Children's Hospital during the period of the study, 154 included in the study",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Mahdis Bayat",
+          "city": "Tehran",
+          "zip": "1766884349",
+          "country": "Iran",
+          "geoPoint": {
+            "lat": 35.69439,
+            "lon": 51.42151
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-10-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D055371",
+          "term": "Acute Lung Injury"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D055370",
+          "term": "Lung Injury"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}
