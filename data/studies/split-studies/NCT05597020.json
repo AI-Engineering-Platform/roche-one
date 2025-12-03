@@ -1,0 +1,1254 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05597020",
+      "orgStudyIdInfo": {
+        "id": "ID-078A401"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2022-501246-30-00",
+          "type": "OTHER",
+          "domain": "EU CT Number"
+        }
+      ],
+      "organization": {
+        "fullName": "Idorsia Pharmaceuticals Ltd.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Find Out if Daridorexant is Safe and Efficacious in Patients With Insomnia and Comorbid Nocturia",
+      "officialTitle": "A Multi-center, Double-blind, Randomized, Placebo-controlled, 2-way Cross-over Post Approval Study to Investigate the Efficacy of Daridorexant in Subjects With Insomnia and Comorbid Nocturia"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-04",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-02-16",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-04-12",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-04-18",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-10-25",
+      "studyFirstSubmitQcDate": "2022-10-25",
+      "studyFirstPostDateStruct": {
+        "date": "2022-10-27",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-04-01",
+      "resultsFirstSubmitQcDate": "2025-04-01",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-04-18",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-01",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-04-18",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Idorsia Pharmaceuticals Ltd.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "A study to find out if daridorexant is safe and efficacious in patients with insomnia and comorbid nocturia"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Insomnia Disorder",
+        "Nocturia"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "CROSSOVER",
+        "interventionModelDescription": "This is a multi-center, double-blind, randomized, placebo-controlled, 2-way cross-over post-approval study.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 60,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "50 mg daridorexant",
+          "type": "EXPERIMENTAL",
+          "description": "Daridorexant will be taken orally, once daily in the evening within approximately 30 min before going to bed.",
+          "interventionNames": [
+            "Drug: Daridorexant"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Matching placebo will be taken orally, once daily in the evening within approximately 30 min before going to bed.",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Daridorexant",
+          "description": "Daridorexant is available as oral film-coated tablets at a strength of 50 mg.",
+          "armGroupLabels": [
+            "50 mg daridorexant"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Placebo matching daridorexant is provided as identical-looking oral tablets, formulated with the same inactive ingredients (excipients) as the active tablets.",
+          "armGroupLabels": [
+            "Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change From Baseline to Week 4 in sTST",
+          "description": "Subjective total sleep time (sTST) is the total sleep time reported by the subject in the sleep diary questionnaire. A positive change from baseline indicates an increase in sTST.\n\nBaseline is the mean value based on the subject's sleep diary entries for sTST on the 7 days preceding randomization.\n\nWeek 4 is the mean value based on the subject's sleep diary entries for sTST on study days 23-29 of each treatment period, regardless of premature treatment discontinuations (treatment policy strategy).",
+          "timeFrame": "From baseline to Week 4 per treatment period."
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Change From Baseline to Week 4 in Number of Nocturnal Voids Assessed Using a Voiding Diary",
+          "description": "The number of nocturnal voids is the total of all nocturnal voids reported by the subject in the voiding diary.\n\nBaseline is the mean value based on subject's voiding diary entries for number of nocturnal voids across 3 nights during the screening period.\n\nWeek 4 is the mean value based on subject's voiding diary entries for number of nocturnal voids across the 3 nights immediately preceding the Week 4 visit of each treatment period, regardless of premature treatment discontinuations (treatment policy strategy).",
+          "timeFrame": "From baseline to Week 4 per treatment period."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed and dated informed consent form (ICF) prior to any study-mandated procedure.\n* Male or female subjects ≥ 55 years old at the time of signing the ICF.\n* Insomnia complaints for at least 3 months prior to Visit 1.\n* Insomnia Severity Index© (ISI©) score ≥ 13 at Visit 1.\n* Nocturia severity: on average ≥ 3 nocturnal voids per night reported by the subjects for at least 1 month prior to Visit 1.\n* Ability to communicate well with the investigator, to understand the study requirements and judged by the investigator to be alert and oriented to person, place, time, and situation.\n\nExclusion Criteria:\n\n* Woman of childbearing potential, pregnant or plans to become pregnant.\n* Planned travel across ≥ 3 time zones during study.\n* Life time history of suicidality assessed via Columbia Suicide Severity Rating Scale© (C-SSRS©).\n* Regular caffeine consumption after 4 pm.\n* Unable to refrain from smoking during the night.\n* Known and documented diagnosis of narcolepsy, periodic limb movement disorder, moderate to severe obstructive sleep apnea, restless legs syndrome, circadian rhythm sleep-wake disorder, or rapid eye movement (REM) sleep behavior disorder.\n* Known and documented diagnosis of Type 1 diabetes mellitus, uncontrolled Type 2 diabetes mellitus, central or nephrogenic diabetes insipidus, and primary/secondary polydipsia.\n* Known and documented nocturia linked to urinary tract infection, neoplasms of bladder, prostate or urethral cancer, bladder or urethral calculi, or neurogenic voiding dysfunction within the last 6 months prior to Visit 1.\n* Any known factor or disease that might interfere with treatment compliance, study conduct, or interpretation of the results, such as drug or alcohol dependence or psychiatric disease.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "55 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Clinical Trials",
+          "affiliation": "Idorsia Pharmaceuticals Ltd.",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Quantum Clinical Trials",
+          "city": "Miami Beach",
+          "state": "Florida",
+          "zip": "33140",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.79065,
+            "lon": -80.13005
+          }
+        },
+        {
+          "facility": "Clinical Research Center of Florida",
+          "city": "Pompano Beach",
+          "state": "Florida",
+          "zip": "33060",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.23786,
+            "lon": -80.12477
+          }
+        },
+        {
+          "facility": "Encore Medical Research of Weston",
+          "city": "Weston",
+          "state": "Florida",
+          "zip": "33331",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.10037,
+            "lon": -80.39977
+          }
+        },
+        {
+          "facility": "Ochsner LSU Health Shreveport-Regional Urology",
+          "city": "Shreveport",
+          "state": "Louisiana",
+          "zip": "71106",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.52515,
+            "lon": -93.75018
+          }
+        },
+        {
+          "facility": "Accellacare Research of Cary",
+          "city": "Cary",
+          "state": "North Carolina",
+          "zip": "27518",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.79154,
+            "lon": -78.78112
+          }
+        },
+        {
+          "facility": "Praxisklinik am Franziskushospital - Urologisches Zentrum Euregio",
+          "city": "Aachen",
+          "zip": "52064",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.77664,
+            "lon": 6.08342
+          }
+        },
+        {
+          "facility": "ASR Advanced Sleep Research GmBH",
+          "city": "Berlin",
+          "zip": "10117",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "SOMNIBENE Institut für Medizinische Forschung und Schlafmedizin Schwerin GmbH",
+          "city": "Schwerin",
+          "zip": "19053",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.62937,
+            "lon": 11.41316
+          }
+        },
+        {
+          "facility": "Complejo Hospitalario Universitario A Coruña",
+          "city": "A Coruña",
+          "zip": "15006",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 43.37135,
+            "lon": -8.396
+          }
+        },
+        {
+          "facility": "Hospital del Mar",
+          "city": "Barcelona",
+          "zip": "08003",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "UROCLINICA Barcelona",
+          "city": "Barcelona",
+          "zip": "08006",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hospital Universitario Puerta del Mar (HUPM)",
+          "city": "Cadiz",
+          "zip": "11009",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 36.52672,
+            "lon": -6.2891
+          }
+        },
+        {
+          "facility": "Hospital Universitario Fundación Jiménez Díaz",
+          "city": "Madrid",
+          "zip": "28040",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Universitario La Paz",
+          "city": "Madrid",
+          "zip": "28046",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Universitario Central de Asturias",
+          "city": "Oviedo",
+          "zip": "33011",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 43.36029,
+            "lon": -5.84476
+          }
+        },
+        {
+          "facility": "Hospitalario Universitario de Canarias",
+          "city": "San Cristóbal de La Laguna",
+          "zip": "38320",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 28.4853,
+            "lon": -16.32014
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "This study included a screening period of 14-21 days. Subjects who met the inclusion criteria and none of the exclusion criteria were eligible to be enrolled in the study and randomized to one of the two treatment sequences.",
+      "recruitmentDetails": "16 sites in 3 countries (USA, Spain and Germany) screened 149 subjects, and 9 sites enrolled (i.e., randomized) at least one subject. Screening started on 18 January 2023 (first subject first visit) and the first subject was enrolled on 16 February 2023.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Daridorexant 50 mg, Then Placebo",
+          "description": "Subjects first received a daridorexant 50 mg film-coated tablet once daily in the evening within approximately 30 min before going to bed, for 29 (± 2) days.\n\nAfter a washout period of 14 to 21 days, they then received a placebo film-coated tablet (matching daridorexant 50 mg) once daily in the evening within approximately 30 min before going to bed, for 29 (± 2) days."
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo, Then Daridorexant 50 mg",
+          "description": "Subjects first received a placebo film-coated tablet (matching daridorexant 50 mg) once daily in the evening within approximately 30 min before going to bed, for 29 (± 2) days.\n\nAfter a washout period of 14 to 21 days, they then received a daridorexant 50 mg film-coated tablet once daily in the evening within approximately 30 min before going to bed, for 29 (± 2) days."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Treatment Period I",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "30"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "30"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "30"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "30"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Washout",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "30"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "30"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "28"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "30"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Forbidden medication",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Treatment Period II",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "28"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "30"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "26"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "29"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Advice from primary care physician",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Subject lost investigational product",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Private reasons",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Daridorexant 50 mg, Then Placebo",
+          "description": "Subjects first received a daridorexant 50 mg film-coated tablet once daily in the evening within approximately 30 min before going to bed, for 29 (± 2) days.\n\nAfter a washout period of 14 to 21 days, they then received a placebo film-coated tablet (matching daridorexant 50 mg) once daily in the evening within approximately 30 min before going to bed, for 29 (± 2) days."
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo, Then Daridorexant 50 mg",
+          "description": "Subjects first received a placebo film-coated tablet (matching daridorexant 50 mg) once daily in the evening within approximately 30 min before going to bed, for 29 (± 2) days.\n\nAfter a washout period of 14 to 21 days, they then received a daridorexant 50 mg film-coated tablet once daily in the evening within approximately 30 min before going to bed, for 29 (± 2) days."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "30"
+            },
+            {
+              "groupId": "BG001",
+              "value": "30"
+            },
+            {
+              "groupId": "BG002",
+              "value": "60"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "FULL_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "63",
+                      "lowerLimit": "55",
+                      "upperLimit": "81"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "63",
+                      "lowerLimit": "55",
+                      "upperLimit": "80"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "63",
+                      "lowerLimit": "55",
+                      "upperLimit": "81"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "29"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "31"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "42"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "42"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Germany",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Spain",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subjective total sleep time (sTST)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "minutes",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "367.20",
+                      "spread": "58.60"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "353.17",
+                      "spread": "54.85"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "360.31",
+                      "spread": "56.72"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of nocturnal voids",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Number of nocturnal voids",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3.74",
+                      "spread": "1.05"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3.52",
+                      "spread": "0.89"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3.63",
+                      "spread": "0.97"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change From Baseline to Week 4 in sTST",
+          "description": "Subjective total sleep time (sTST) is the total sleep time reported by the subject in the sleep diary questionnaire. A positive change from baseline indicates an increase in sTST.\n\nBaseline is the mean value based on the subject's sleep diary entries for sTST on the 7 days preceding randomization.\n\nWeek 4 is the mean value based on the subject's sleep diary entries for sTST on study days 23-29 of each treatment period, regardless of premature treatment discontinuations (treatment policy strategy).",
+          "populationDescription": "The analysis included all randomized subjects who received at least one dose of study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "minutes",
+          "timeFrame": "From baseline to Week 4 per treatment period.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Daridorexant 50 mg",
+              "description": "Subjects received a daridorexant 50 mg film-coated tablet once daily in the evening within approximately 30 min before going to bed, for 29 (± 2) days, in either crossover treatment period."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Subjects received a placebo film-coated tablet (matching daridorexant 50 mg) once daily in the evening within approximately 30 min before going to bed, for 29 (± 2) days, in either crossover treatment period."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "60"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "56.6",
+                      "lowerLimit": "46.0",
+                      "upperLimit": "67.2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "35.7",
+                      "lowerLimit": "25.0",
+                      "upperLimit": "46.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.002",
+              "statisticalMethod": "Mixed Models Analysis",
+              "statisticalComment": "Treatment, period, week within period, and interaction of treatment and week were factors; baseline sTST assessment was covariate.",
+              "paramType": "Least Square mean difference vs placebo",
+              "paramValue": "20.9",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "8.0",
+              "ciUpperLimit": "33.7"
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Change From Baseline to Week 4 in Number of Nocturnal Voids Assessed Using a Voiding Diary",
+          "description": "The number of nocturnal voids is the total of all nocturnal voids reported by the subject in the voiding diary.\n\nBaseline is the mean value based on subject's voiding diary entries for number of nocturnal voids across 3 nights during the screening period.\n\nWeek 4 is the mean value based on subject's voiding diary entries for number of nocturnal voids across the 3 nights immediately preceding the Week 4 visit of each treatment period, regardless of premature treatment discontinuations (treatment policy strategy).",
+          "populationDescription": "The analysis included all randomized subjects who received at least one dose of study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "number of nocturnal voids",
+          "timeFrame": "From baseline to Week 4 per treatment period.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Daridorexant 50 mg",
+              "description": "Subjects received a daridorexant 50 mg film-coated tablet once daily in the evening within approximately 30 min before going to bed, for 29 (± 2) days, in either crossover treatment period."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Subjects received a placebo film-coated tablet (matching daridorexant 50 mg) once daily in the evening within approximately 30 min before going to bed, for 29 (± 2) days, in either crossover treatment period."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "60"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.6",
+                      "spread": "1.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-1.3",
+                      "spread": "1.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Treatment-emergent adverse events from the 29-day (± 2 days) treatment periods are reported. Adverse events were considered treatment-emergent if the date of onset or worsening was from the first intake of study treatment up to 5 days after the end of study treatment.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Daridorexant 50 mg",
+          "description": "Subjects received a daridorexant 50 mg film-coated tablet once daily in the evening within approximately 30 min before going to bed, for 29 (± 2) days, in either crossover treatment period.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 60,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 60,
+          "otherNumAffected": 6,
+          "otherNumAtRisk": 60
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo",
+          "description": "Subjects received a placebo film-coated tablet (matching daridorexant 50 mg) once daily in the evening within approximately 30 min before going to bed, for 29 (± 2) days, in either crossover treatment period.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 58,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 58,
+          "otherNumAffected": 2,
+          "otherNumAtRisk": 58
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Dry mouth",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA version 27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 60
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Fatigue",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA version 27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 60
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 58
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "Any study-related publication written independently by investigators must be submitted to the sponsor for review at least 60 days prior to submission for publication or presentation at a congress. Upon review, the sponsor may provide comments, and may also request alterations and/or deletions for the sole purpose of protecting its confidential information and/or patent rights. Neither the institution nor the investigator is permitted to write a publication during such a review period."
+      },
+      "pointOfContact": {
+        "title": "Idorsia Clinical Trial Information",
+        "organization": "Idorsia Pharmaceuticals Ltd",
+        "email": "idorsiaclinicaltrials@idorsia.com",
+        "phone": "+1 856 661 3721"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-09-04",
+          "uploadDate": "2025-04-01T11:55",
+          "filename": "Prot_000.pdf",
+          "size": 5259539
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-05-30",
+          "uploadDate": "2025-04-01T11:56",
+          "filename": "SAP_001.pdf",
+          "size": 2893436
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D007319",
+          "term": "Sleep Initiation and Maintenance Disorders"
+        },
+        {
+          "id": "D053158",
+          "term": "Nocturia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D020919",
+          "term": "Sleep Disorders, Intrinsic"
+        },
+        {
+          "id": "D020920",
+          "term": "Dyssomnias"
+        },
+        {
+          "id": "D012893",
+          "term": "Sleep Wake Disorders"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        },
+        {
+          "id": "D059411",
+          "term": "Lower Urinary Tract Symptoms"
+        },
+        {
+          "id": "D020924",
+          "term": "Urological Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000634383",
+          "term": "daridorexant"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

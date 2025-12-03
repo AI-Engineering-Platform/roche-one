@@ -1,0 +1,1362 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05807074",
+      "orgStudyIdInfo": {
+        "id": "228012"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "NCI-2023-02817",
+          "type": "REGISTRY",
+          "domain": "NCI Clinical Trials Reporting Program (CTRP)"
+        }
+      ],
+      "organization": {
+        "fullName": "University of California, San Francisco",
+        "class": "OTHER"
+      },
+      "briefTitle": "Impact of Topical Tranexamic Acid in Breast Reconstruction",
+      "officialTitle": "The Impact of Tranexamic Acid in Reducing Hematoma and Seroma Formation in Reconstructive Post-oncologic Breast Surgery"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-08",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Slow Accrual",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-04-20",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-11-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-11-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-03-29",
+      "studyFirstSubmitQcDate": "2023-03-29",
+      "studyFirstPostDateStruct": {
+        "date": "2023-04-10",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-07-18",
+      "resultsFirstSubmitQcDate": "2025-09-05",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-09-29",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-09-05",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-29",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of California, San Francisco",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Improvement in bleeding and bruising has been described by using both intravenous and topical off-label applications of Tranexamic Acid (TXA) in many surgical fields. This trial tests how well applying tranexamic acid (TXA) to the surface of the surgical site (topically) works to reduce post-operative bleeding (hematomas) and fluid collections (seromas) in women undergoing surgery to remove both breasts (bilateral mastectomy) immediately followed by surgery to rebuild the breast (reconstruction). The formation of hematomas and seromas, a common post-mastectomy complication, can interfere with breast reconstruction and increase the risk of infection and wound healing and can potentially delay cancer treatments. TXA is a synthetic molecule that pushes the body's clotting cascade toward clot formation to improve blood clotting. Applying TXA topically to the surgical site before closing the incision may prevent hematoma and seroma formation in post-mastectomy breast reconstruction patients.\n\nParticipants will be recruited from patients undergoing bilateral mastectomy at University of California, San Francisco.",
+      "detailedDescription": "PRIMARY OUTCOMES:\n\nI. To investigate whether topical tranexamic acid may impact rates of seroma, hematoma, severe bruising, and drain output in the post-mastectomy reconstructive population.\n\nII. To evaluate the impact of TXA on seroma rates compared to control.\n\nSECONDARY OUTCOMES:\n\nI. To evaluate the impact of TXA on patient and provider rating of bruising, comparing the TXA side to the control side.\n\nII. To evaluate the impact of TXA on total drain output in the first post operative day.\n\nIII. To evaluate the impact of TXA on total drain duration.\n\nOUTLINE:\n\nParticipants will only be treated intra-operatively at the time of surgery with topical TXA to one breast pocket. Each participant will serve as own internal control, with one side receiving saline and the other TXA. Participants in this study will be assessed at their regularly scheduled visits up to one year post-operatively."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "keywords": [
+        "Breast Reconstruction",
+        "Mastectomy"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "SUPPORTIVE_CARE",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 23,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "All participants",
+          "type": "EXPERIMENTAL",
+          "description": "Each participant will have one breast pocket exposed to TXA and the other to saline only prior to closure. During surgery and prior to wound closure, the wound surface will be moistened on one side with 20 cc of dilute TXA 25mg/ml solution, and the contralateral with 20cc of saline.",
+          "interventionNames": [
+            "Drug: Tranexamic Acid",
+            "Other: Saline"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tranexamic Acid",
+          "description": "Applied intraoperatively",
+          "armGroupLabels": [
+            "All participants"
+          ],
+          "otherNames": [
+            "TXA",
+            "Lysteda"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Saline",
+          "description": "Applied intraoperatively",
+          "armGroupLabels": [
+            "All participants"
+          ],
+          "otherNames": [
+            "Saline solution",
+            "Sodium Chloride 0.9%"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Breast Pockets That Develop a Hematoma",
+          "description": "Presence of hematoma in the surgical area within a 30-day period from time of treatment application in the operating room will be reported.",
+          "timeFrame": "Up to 1 month"
+        },
+        {
+          "measure": "Number of Breast Pockets That Develop a Seroma",
+          "description": "Presence of seroma in the surgical area within 3-month period from time of treatment application in the operating room will be reported.",
+          "timeFrame": "Up to 3 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Breast Pockets That Developed Ecchymosis",
+          "description": "Ecchymosis will be measured separately for the right and left breast pocket at each post operative visit and documented. The observer will be blinded to the laterality of TXA. Both participant and provider will be asked to rank which side, the right or left side, has worse bruising. The frequency of ecchymosis for the right and left side will be reported descriptively.",
+          "timeFrame": "Up to 1 year"
+        },
+        {
+          "measure": "Median Total Drain Output",
+          "description": "Total drain output over the life of the drain from drain placement in the operating room to discharge on post-operation day 1. Drains will be removed per standard practice at our institution which is when they have produced \\< 30 cubic centimeters (cc) per day for at least 3 days.",
+          "timeFrame": "Approximately 1 month"
+        },
+        {
+          "measure": "Median Total Drain Duration",
+          "description": "The median time of total drain duration from drain placement in the operating room to removal of the drain will be reported descriptively for the saline only and TXA treated breast.",
+          "timeFrame": "Approximately 1 month"
+        },
+        {
+          "measure": "Number of Participants Requiring Reoperation After Completion of Bilateral Mastectomy",
+          "description": "The number of participants requiring an additional operation related to the bilateral mastectomy will be reported.",
+          "timeFrame": "Up to 1 year"
+        },
+        {
+          "measure": "Proportion of Participants With Reported Infection in Surgical Area Post-mastectomy",
+          "description": "The proportion of participants with demonstrated infection in surgical area related to the bilateral mastectomy will be reported.",
+          "timeFrame": "Up to 1 year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologically confirmed breast malignancy OR increased risk for breast cancer\n2. Age \\>= 18 years\n3. Scheduled to undergo bilateral mastectomy with plastic surgery closure or reconstruction\n4. Ability to understand a written informed consent document, and the willingness to sign it\n5. At least 4 weeks post-completion of chemotherapy or radiation therapy\n\nExclusion Criteria:\n\n1. Any significant medical condition or laboratory abnormalities, which places the subject at unacceptable risk if she were to participate in the study\n2. Any history of thromboembolic disease\n3. Current anticoagulant use\n4. Current use of chlorpromazine due to label contraindication\n5. Current use of any prothrombotic medical products due to label contraindication\n6. Documented or reported allergic reaction to tranexamic acid\n7. Male participants",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Merisa Piper, MD",
+          "affiliation": "University of California, San Francisco",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of California, San Francisco",
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.77493,
+            "lon": -122.41942
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "All participants received the same intervention to the same breast pocket during bilateral mastectomy surgery before the study was closed prematurely to enrollment.",
+      "typeUnitsAnalyzed": "breast pocket",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "All Participants",
+          "description": "Each participant received 20cc of dilute Tranexamic Acid (TXA) 25mg/ml solution in the pocket of the right breast during surgery and before wound closure and simultaneously administered 20 cubic centimeters (cc) of saline to the left breast pocket during surgery and before wound closure."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "comment": "All participants were administered Tranexamic Acid (TXA) to the right breast",
+                  "numSubjects": "23",
+                  "numUnits": "46"
+                }
+              ]
+            },
+            {
+              "type": "Received TXA (Right Side)",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "23",
+                  "numUnits": "23"
+                }
+              ]
+            },
+            {
+              "type": "Received Saline (Left Side)",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "23",
+                  "numUnits": "23"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "23",
+                  "numUnits": "46"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "All Participants",
+          "description": "Each participant received 20cc of dilute Tranexamic Acid (TXA) 25mg/ml solution in the pocket of the right breast during surgery and before wound closure and simultaneously administered 20 cubic centimeters (cc) of saline to the left breast pocket during surgery and before wound closure."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "23"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "20-29 years old",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "30-39 years old",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "40-49 years old",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "50-59 years old",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "22"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Breast Pockets That Develop a Hematoma",
+          "description": "Presence of hematoma in the surgical area within a 30-day period from time of treatment application in the operating room will be reported.",
+          "populationDescription": "A total of 23 breast pockets received TXA, and a total of 23 breast pockets received saline for a total of 46 breast pockets",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "breast pocket",
+          "timeFrame": "Up to 1 month",
+          "typeUnitsAnalyzed": "breast pockets",
+          "denomUnitsSelected": "breast pockets",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "All Participants",
+              "description": "Each participant received 20cc of dilute Tranexamic Acid (TXA) 25mg/ml solution in the pocket of the right breast during surgery and before wound closure and simultaneously administered 20 cubic centimeters (cc) of saline to the left breast pocket during surgery and before wound closure."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "23"
+                }
+              ]
+            },
+            {
+              "units": "breast pockets",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "TXA Breast Pocket",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "units": "breast pockets",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Saline Breast Pocket",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "units": "breast pockets",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Breast Pockets That Develop a Seroma",
+          "description": "Presence of seroma in the surgical area within 3-month period from time of treatment application in the operating room will be reported.",
+          "populationDescription": "A total of 23 breast pockets received TXA, and a total of 23 breast pockets received saline for a total of 46 breast pockets",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "breast pocket",
+          "timeFrame": "Up to 3 months",
+          "typeUnitsAnalyzed": "breast pockets",
+          "denomUnitsSelected": "breast pockets",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "All Participants",
+              "description": "Each participant received 20cc of dilute Tranexamic Acid (TXA) 25mg/ml solution in the pocket of the right breast during surgery and before wound closure and simultaneously administered 20 cubic centimeters (cc) of saline to the left breast pocket during surgery and before wound closure."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "23"
+                }
+              ]
+            },
+            {
+              "units": "breast pockets",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "TXA Breast Pocket",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "units": "breast pockets",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Saline Breast Pocket",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "units": "breast pockets",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Breast Pockets That Developed Ecchymosis",
+          "description": "Ecchymosis will be measured separately for the right and left breast pocket at each post operative visit and documented. The observer will be blinded to the laterality of TXA. Both participant and provider will be asked to rank which side, the right or left side, has worse bruising. The frequency of ecchymosis for the right and left side will be reported descriptively.",
+          "populationDescription": "A total of 23 breast pockets received TXA, and a total of 23 breast pockets received saline for a total of 46 breast pockets",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "breast pockets",
+          "timeFrame": "Up to 1 year",
+          "typeUnitsAnalyzed": "breast pockets",
+          "denomUnitsSelected": "breast pockets",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "All Participants",
+              "description": "Each participant received 20cc of dilute Tranexamic Acid (TXA) 25mg/ml solution in the pocket of the right breast during surgery and before wound closure and simultaneously administered 20 cubic centimeters (cc) of saline to the left breast pocket during surgery and before wound closure."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "23"
+                }
+              ]
+            },
+            {
+              "units": "breast pockets",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "TXA Breast Pocket",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "units": "breast pockets",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Saline Breast Pocket",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "units": "breast pockets",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Median Total Drain Output",
+          "description": "Total drain output over the life of the drain from drain placement in the operating room to discharge on post-operation day 1. Drains will be removed per standard practice at our institution which is when they have produced \\< 30 cubic centimeters (cc) per day for at least 3 days.",
+          "populationDescription": "A total of 23 breast pockets received TXA, and a total of 23 breast pockets received saline for a total of 46 breast pockets",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "cubic centimeter (cc) per day",
+          "timeFrame": "Approximately 1 month",
+          "typeUnitsAnalyzed": "breast pockets",
+          "denomUnitsSelected": "breast pockets",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "All Participants",
+              "description": "Each participant received 20cc of dilute Tranexamic Acid (TXA) 25mg/ml solution in the pocket of the right breast during surgery and before wound closure and simultaneously administered 20 cubic centimeters (cc) of saline to the left breast pocket during surgery and before wound closure."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "23"
+                }
+              ]
+            },
+            {
+              "units": "breast pockets",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "TXA Breast Pocket",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "units": "breast pockets",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "95",
+                      "lowerLimit": "35",
+                      "upperLimit": "293"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Saline Breast Pocket",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "units": "breast pockets",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "90",
+                      "lowerLimit": "25",
+                      "upperLimit": "291"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Median Total Drain Duration",
+          "description": "The median time of total drain duration from drain placement in the operating room to removal of the drain will be reported descriptively for the saline only and TXA treated breast.",
+          "populationDescription": "A total of 23 breast pockets received TXA, and a total of 23 breast pockets received saline for a total of 46 breast pockets",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "days",
+          "timeFrame": "Approximately 1 month",
+          "typeUnitsAnalyzed": "breast pocket",
+          "denomUnitsSelected": "breast pocket",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "All Participants",
+              "description": "Each participant received 20cc of dilute Tranexamic Acid (TXA) 25mg/ml solution in the pocket of the right breast during surgery and before wound closure and simultaneously administered 20 cubic centimeters (cc) of saline to the left breast pocket during surgery and before wound closure."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "23"
+                }
+              ]
+            },
+            {
+              "units": "breast pocket",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "TXA Breast Pocket",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "units": "breast pocket",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14",
+                      "lowerLimit": "8",
+                      "upperLimit": "32"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Saline Breast Pocket",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "units": "breast pocket",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14",
+                      "lowerLimit": "8",
+                      "upperLimit": "32"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Requiring Reoperation After Completion of Bilateral Mastectomy",
+          "description": "The number of participants requiring an additional operation related to the bilateral mastectomy will be reported.",
+          "populationDescription": "It was pre-specified to assess reoperation in participants without regard to treatment, therefore data for TXA and Saline are combined in this outcome measure",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "All Participants",
+              "description": "Each participant received 20cc of dilute Tranexamic Acid (TXA) 25mg/ml solution in the pocket of the right breast during surgery and before wound closure and simultaneously administered 20 cubic centimeters (cc) of saline to the left breast pocket during surgery and before wound closure."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "23"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Participants With Reported Infection in Surgical Area Post-mastectomy",
+          "description": "The proportion of participants with demonstrated infection in surgical area related to the bilateral mastectomy will be reported.",
+          "populationDescription": "It was pre-specified to assess occurrence of post-surgical infection in participants regardless of breast pocket, therefore data for the TXA and Saline breast pockets are combined in this outcome measure",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "proportion of participants",
+          "timeFrame": "Up to 1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "All Participants",
+              "description": "Each participant received 20cc of dilute Tranexamic Acid (TXA) 25mg/ml solution in the pocket of the right breast during surgery and before wound closure and simultaneously administered 20 cubic centimeters (cc) of saline to the left breast pocket during surgery and before wound closure."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "23"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.26"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Up to 1 year",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Tranexamic Acid (TXA) (Right Side Breast Pocket)",
+          "description": "Each participant received 20cc of dilute Tranexamic Acid (TXA) 25mg/ml solution in the pocket of the right breast during surgery and before wound closure and simultaneously administered 20 cubic centimeters (cc) of saline to the left breast pocket during surgery and before wound closure.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 23,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 23,
+          "otherNumAffected": 3,
+          "otherNumAtRisk": 23
+        },
+        {
+          "id": "EG001",
+          "title": "Saline (Left Side Breast Pocket)",
+          "description": "Each participant received 20cc of dilute Tranexamic Acid (TXA) 25mg/ml solution in the pocket of the right breast during surgery and before wound closure and simultaneously administered 20 cubic centimeters (cc) of saline to the left breast pocket during surgery and before wound closure.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 23,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 23,
+          "otherNumAffected": 3,
+          "otherNumAtRisk": 23
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Breast Infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "3 participants (4 of 6 breasts) had infections in the TXA-treated breast, and 3 participants (4 of 6 breasts) had infections in the saline-treated breast",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 3,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 3,
+              "numAtRisk": 23
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "Study closed to enrollment earlier than expected due to slow accrual. As a result, all participants received the same intervention."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Dr. Merisa Piper, MD",
+        "organization": "University of California, San Francisco",
+        "email": "Merisa.Piper@ucsf.edu",
+        "phone": "(415) 353-4320"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-01-26",
+          "uploadDate": "2025-07-16T20:01",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 311295
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-08-06",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001943",
+          "term": "Breast Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D001941",
+          "term": "Breast Diseases"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D014148",
+          "term": "Tranexamic Acid"
+        },
+        {
+          "id": "D012965",
+          "term": "Sodium Chloride"
+        },
+        {
+          "id": "D000077330",
+          "term": "Saline Solution"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003509",
+          "term": "Cyclohexanecarboxylic Acids"
+        },
+        {
+          "id": "D000146",
+          "term": "Acids, Carbocyclic"
+        },
+        {
+          "id": "D002264",
+          "term": "Carboxylic Acids"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D002712",
+          "term": "Chlorides"
+        },
+        {
+          "id": "D006851",
+          "term": "Hydrochloric Acid"
+        },
+        {
+          "id": "D017606",
+          "term": "Chlorine Compounds"
+        },
+        {
+          "id": "D007287",
+          "term": "Inorganic Chemicals"
+        },
+        {
+          "id": "D017670",
+          "term": "Sodium Compounds"
+        },
+        {
+          "id": "D000077324",
+          "term": "Crystalloid Solutions"
+        },
+        {
+          "id": "D007552",
+          "term": "Isotonic Solutions"
+        },
+        {
+          "id": "D012996",
+          "term": "Solutions"
+        },
+        {
+          "id": "D004364",
+          "term": "Pharmaceutical Preparations"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

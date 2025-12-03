@@ -1,0 +1,695 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06415305",
+      "orgStudyIdInfo": {
+        "id": "WINSCO - 2023"
+      },
+      "organization": {
+        "fullName": "Sun Pharmaceutical Industries Limited",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study Evaluating the Efficacy and Safety of Clascoterone Cream 1% in Skin of Color Patients With Acne",
+      "officialTitle": "The Efficacy and Safety of Winlevi in Skin of Color Patients With Acne"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-04",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-09-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-04-17",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-01-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-05-10",
+      "studyFirstSubmitQcDate": "2024-05-10",
+      "studyFirstPostDateStruct": {
+        "date": "2024-05-16",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-04-16",
+      "resultsFirstSubmitQcDate": "2025-04-16",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-05-07",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-16",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-05-07",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Sun Pharmaceutical Industries Limited",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Acne vulgaris is the most common skin disease in patients with skin of color and second most common in Caucasian population. The global prevalence is thought to be as high as 60-80% in individuals 12-25 years of age. However, it is not limited to only teenagers but also to adults, especially adult females. The pathogenesis of acne is multifactorial. Genetics may also play a role. The treatment pathway should be directed to different pathogenic factors including, excessive sebum production, hyper keratinization, P. acnes, and inflammation.\n\nData is limited for skin of color patients in Phase III registration trials. Data is limited because there are few studies that focus on patients with skin of color. Therefore, a unique study dedicated to patients with skin of color in a real-world setting will be welcome to add further evidence to phase III data."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Acne Vulgaris"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 10,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Winlevi (clascoterone) 1% cream",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: Winlevi (clascoterone) 1% cream"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Winlevi (clascoterone) 1% cream",
+          "description": "Dosed twice daily (BID)",
+          "armGroupLabels": [
+            "Winlevi (clascoterone) 1% cream"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "The Primary Endpoint of This Study is the Percent of Patients Who Achieved Clear (0) or Almost Clear (1) on IGA Scale at Week 16",
+          "timeFrame": "Week 16"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Percent of Total Lesion Reduction at Week 16 Compared to Baseline",
+          "description": "The data reports the average percent reduction in total lesion count form Baseline to Week 16",
+          "timeFrame": "Week 16"
+        },
+        {
+          "measure": "Percent of Inflammatory Lesion Reduction at Week 16 Compared to Baseline",
+          "description": "The data reported represents the average percent reduction in inflammatory lesion count form Baseline to Week 16",
+          "timeFrame": "Week 16"
+        },
+        {
+          "measure": "Percent of Non-inflammatory Lesion Reduction at Week 16 Compared to Baseline",
+          "description": "The average percent reduction in non-inflammatory lesion count form Baseline to Week 16",
+          "timeFrame": "Week 16"
+        },
+        {
+          "measure": "Tolerability Measures of Erythema Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Lower score represents absence of erythema and higher score represents severe condition.",
+          "timeFrame": "Week 52"
+        },
+        {
+          "measure": "Tolerability Measures of Dryness Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Lower score represents absence of dryness and higher score represents severe condition.",
+          "timeFrame": "Week 52"
+        },
+        {
+          "measure": "Tolerability Measures of Peeling Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Score 0 represents absence of peeling and Score 4 represents 'Extensive peeling'.",
+          "timeFrame": "Week 52"
+        },
+        {
+          "measure": "Assessment of Skin Oiliness Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Score 0 represents absence of Oiliness and Score 4 represents severe condition.",
+          "timeFrame": "Week 52"
+        },
+        {
+          "measure": "Tolerability Measures of Pruritus Based on 6-point Severity Scale",
+          "description": "The score in the scale ranges from 0-5. Lower score represents absence of discomfort and higher score represents severe condition.",
+          "timeFrame": "Week 52"
+        },
+        {
+          "measure": "Tolerability Measures of Burning/Stinging Based on 6-point Severity Scale",
+          "description": "The score in the scale ranges from 0-5. Lower score represents absence of discomfort and higher score represents severe condition.",
+          "timeFrame": "Week 52"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\ni. Outpatient, male or female subjects of any race (Fitzpatrick skin types IV, V, VI), and at least 12 years of age or older. Female subjects of childbearing potential must have a negative urine pregnancy test result at Baseline (test must have a sensitivity of at least 25mIU/ml for human chorionic gonadotropin) and practice a reliable method of contraception throughout the study:\n\nA female is considered of childbearing potential unless she is:\n\n* postmenopausal for at least 12 months prior to study drug administration;\n* without a uterus and/or both ovaries; or\n* has been surgically sterile for at least 6 months prior to study drug administration.\n\nReliable methods of contraception are:\n\n* hormonal methods or intrauterine device in use \\> 90 days prior to study drug administration;\n* barrier methods plus spermicide in use at least 14 days prior to study drug administration; or\n* vasectomized partner (vasectomy must be performed 3 months prior to first study drug administration or in the alternative a zero sperm count will suffice)\n\n\\[Exception: Female subjects of childbearing potential who are not sexually active will not be required to practice a reliable method of contraception. These subjects may be enrolled at the Investigator's discretion if they are counseled to remain sexually inactive during the study and understand the possible risks in getting pregnant during the study.\\] ii. Facial acne IGA score of 3 or 4. iii. Able to understand the requirements of the study and sign Informed Consent/HIPAA Authorization forms. Subjects under the legal age of consent in the state where the study is conducted must also have the written, informed consent of a parent or legal guardian.\n\nExclusion Criteria:\n\ni. Female subjects who are pregnant (positive urine pregnancy test), breast-feeding, or who are of childbearing potential and not practicing a reliable method of birth control.\n\nii. Allergy or sensitivity to any component of the test medications (Section 5.2).\n\niii. Subjects who have not complied with the proper wash-out periods for prohibited medications (Supplement I).\n\niv. Medical condition that, in the opinion of the Investigator, contraindicates the subject's participation in the clinical study.\n\nv. Skin disease/disorder that might interfere with the diagnosis or evaluation of acne vulgaris vi. Evidence of recent alcohol or drug abuse. vii. History of poor cooperation, non-compliance with medical treatment, or unreliability.\n\nviii. Exposure to an investigational drug study within 30 days of the Baseline Visit.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "12 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Skin Sciences, PLLC",
+          "city": "Louisville",
+          "state": "Kentucky",
+          "zip": "40217",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.25424,
+            "lon": -85.75941
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Winlevi (Clascoterone) 1% Cream",
+          "description": "Winlevi (clascoterone) 1% cream: Dosed twice daily (BID)"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "9"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Winlevi (Clascoterone) 1% Cream",
+          "description": "Winlevi (clascoterone) 1% cream: Dosed twice daily (BID)"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "9"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "24",
+                      "spread": "9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Hispanic",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Black",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "The Primary Endpoint of This Study is the Percent of Patients Who Achieved Clear (0) or Almost Clear (1) on IGA Scale at Week 16",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Winlevi (Clascoterone) 1% Cream",
+              "description": "Winlevi (clascoterone) 1% cream: Dosed twice daily (BID)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "78"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.008",
+              "statisticalMethod": "Wilcoxon signed rank tests"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percent of Total Lesion Reduction at Week 16 Compared to Baseline",
+          "description": "The data reports the average percent reduction in total lesion count form Baseline to Week 16",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Mean % reduction in total lesion count",
+          "timeFrame": "Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Winlevi (Clascoterone) 1% Cream",
+              "description": "Winlevi (clascoterone) 1% cream: Dosed twice daily (BID)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "90.9",
+                      "spread": "10.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.009",
+              "statisticalMethod": "Wilcoxon signed rank tests"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percent of Inflammatory Lesion Reduction at Week 16 Compared to Baseline",
+          "description": "The data reported represents the average percent reduction in inflammatory lesion count form Baseline to Week 16",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mean % reduction in inflamm lesion count",
+          "timeFrame": "Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Winlevi (Clascoterone) 1% Cream",
+              "description": "Winlevi (clascoterone) 1% cream: Dosed twice daily (BID)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "91.8",
+                      "spread": "11.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.008",
+              "statisticalMethod": "Wilcoxon signed rank tests"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percent of Non-inflammatory Lesion Reduction at Week 16 Compared to Baseline",
+          "description": "The average percent reduction in non-inflammatory lesion count form Baseline to Week 16",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mean % reduction in non-inflamm lesion",
+          "timeFrame": "Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Winlevi (Clascoterone) 1% Cream",
+              "description": "Winlevi (clascoterone) 1% cream: Dosed twice daily (BID)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "90.9",
+                      "spread": "11.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.009",
+              "statisticalMethod": "Wilcoxon signed rank tests"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Tolerability Measures of Erythema Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Lower score represents absence of erythema and higher score represents severe condition.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Week 52",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Tolerability Measures of Dryness Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Lower score represents absence of dryness and higher score represents severe condition.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Week 52",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Tolerability Measures of Peeling Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Score 0 represents absence of peeling and Score 4 represents 'Extensive peeling'.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Week 52",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Assessment of Skin Oiliness Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Score 0 represents absence of Oiliness and Score 4 represents severe condition.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Week 52",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Tolerability Measures of Pruritus Based on 6-point Severity Scale",
+          "description": "The score in the scale ranges from 0-5. Lower score represents absence of discomfort and higher score represents severe condition.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Week 52",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Tolerability Measures of Burning/Stinging Based on 6-point Severity Scale",
+          "description": "The score in the scale ranges from 0-5. Lower score represents absence of discomfort and higher score represents severe condition.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Week 52",
+          "denomUnitsSelected": "Participants"
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "16 Weeks",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Winlevi (Clascoterone) 1% Cream",
+          "description": "Winlevi (clascoterone) 1% cream: Dosed twice daily (BID)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 9,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 9,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 9
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "GT60",
+        "restrictiveAgreement": true
+      },
+      "pointOfContact": {
+        "title": "Head-Regulatory Affairs",
+        "organization": "Sun Pharmaceutical Industries Limited",
+        "email": "Clinical.Trial@sunpharma.com",
+        "phone": "2266455645",
+        "phoneExt": "5689"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-12-07",
+          "uploadDate": "2025-04-11T04:17",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 1137285
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000152",
+          "term": "Acne Vulgaris"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017486",
+          "term": "Acneiform Eruptions"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D012625",
+          "term": "Sebaceous Gland Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C496269",
+          "term": "Clascoterone"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,1420 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04665375",
+      "orgStudyIdInfo": {
+        "id": "20-5228"
+      },
+      "organization": {
+        "fullName": "University Health Network, Toronto",
+        "class": "OTHER"
+      },
+      "briefTitle": "Can INSTI-associated Weight Gain be Halted or Reversed With a Switch to Doravirine/Lamivudine/Tenofovir DF?",
+      "officialTitle": "Can the Weight Gain Associated With Use of Integrase Strand Inhibitors be Halted or Reversed With a Switch to Doravirine/Lamivudine/Tenofovir DF in Patients Living With HIV? (DeLiTE)",
+      "acronym": "DeLiTE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-05",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "enrollment futility",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-04-26",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-03-31",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-03-31",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-11-24",
+      "studyFirstSubmitQcDate": "2020-12-10",
+      "studyFirstPostDateStruct": {
+        "date": "2020-12-11",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-05-09",
+      "resultsFirstSubmitQcDate": "2025-07-15",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-07-16",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-07-15",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-07-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University Health Network, Toronto",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Merck Canada Inc.",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Weight gain with the integrase inhibitors and tenofovir alafenamide has been observed in observational cohorts and randomized controlled clinical trials. Although some risk factors have been identified, the cause is unknown and it remains to be determined if the changes are reversible. The weight gain is of concern to persons living with HIV. This pilot intervention study is designed to provide preliminary data on whether switching patients with weight gain on an INSTI-based regimen to a combination of doravirine/tenofovir disoproxil fumarate/lamivudine (DOR/3TC/TDF, an NNRTI-based regimen) for one year can slow down or even reverse weight gain. These data will then be used to inform the design and sample size of a larger switch study.",
+      "detailedDescription": "Background and Importance: Lifelong antiretroviral treatment (ART) is recommended for all people living with HIV (PLWH) primarily with integrase strand inhibitor (INSTI)-based regimens. While weight gain following ART initiation was previously considered \"return to health\", recent studies have raised concerns of weight gain and increasing obesity in PLWH, most notably with INSTIs and possibly with tenofovir alafenamide (TAF), a preferred nucleoside backbone agent. The weight gain may be progressive and may increase cardiovascular risk. A critical unanswered question is whether weight gain and metabolic effects are permanent or reversible. This data is crucial to optimize ART therapy and health of PLWH.\n\nGoal/Research Aims: No therapeutic alternatives are substantiated for ART-associated weight gain. Doravirine/lamivudine/tenofovir DF (DOR/3TC/TDF) is an attractive option to explore as it does not include an INSTI or TAF, is a well tolerated once daily single tablet, minimal drug interactions and has not been associated with significant weight gain to date. The investigators hypothesize that switching from an INSTI regimen to DOR/3TC/TDF will slow or reverse weight gain while maintaining viral suppression. Before embarking on a large randomized controlled study (RCT), the investigators propose this pilot study to determine the feasibility and acceptability and to obtain estimate measures of weight change to inform its design and sample size.\n\nMethods: Open-label, exploratory pilot switch study. Patients who are virally suppressed on an INSTI regimen for \\>1 year, without ART resistance, and have experienced significant weight gain will be approached to switch to DOR/3TC/TDF for 48 weeks. Weight, adherence, viral load, CD4, and other relevant labs will be measured every 3 months. A DXA body scan and body image questionnaires will be completed at baseline and 12 months. The anticipated sample size is 25 with an aim to recruit 50% male, 50% female.\n\nThe primary objective is to determine what proportion of clinic patients meet eligibility criteria, agree to participate, and complete the study. The secondary objective is to estimate the distribution of various weight-related outcomes while on DOR/3TC/TDF compared to previous INSTI regimens. Exploratory outcomes will address metabolic changes and body image impact."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Hiv",
+        "Weight Gain"
+      ],
+      "keywords": [
+        "weight gain",
+        "HIV",
+        "doravirine",
+        "integrase inhibitor",
+        "tenofovir alafenamide",
+        "tenofovir disoproxil fumarate"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "interventionModelDescription": "Pilot intervention study",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 4,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "DOR/3TC/TDF",
+          "type": "EXPERIMENTAL",
+          "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)",
+          "interventionNames": [
+            "Drug: DOR/3TC/TDF"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "DOR/3TC/TDF",
+          "description": "switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year",
+          "armGroupLabels": [
+            "DOR/3TC/TDF"
+          ],
+          "otherNames": [
+            "Delstrigo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Identify Number of Active Clinic Patients Who Completed the Study Protocol.",
+          "description": "The primary objective was to determine how many clinic patients with ≥10% weight gain on an INSTI would complete the study (48 weeks).",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Identify Reasons for Study Ineligibility Among Clinic Patients on INSTI-containing Regimen Who Have Experienced Weight Gain.",
+          "description": "Descriptive data. Reasons for study ineligibility (i.e., not meeting inclusion criteria or presence of one or more exclusion criteria) will be recorded by the study coordinator.",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Identify Reasons for Study Refusal Among Clinic Patients on INSTI-containing Regimen Who Have Experienced Weight Gain.",
+          "description": "Descriptive data. Clinic patients who refuse to participate in the study will be asked an open-ended question by the study coordinator about main reason(s) for declining. Responses will be grouped by the following categories: fear of side effects, distrust of researchers, general concerns about research design, interference in everyday life or changes in routine, and social discrimination.",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Identify Factors Associated With Early Study Discontinuation.",
+          "description": "Factors will include age, gender, race, CD4 count, HIV viral load, prior enrollment in a study, history of injection drug use, and use of antidepressants.",
+          "timeFrame": "1 year"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "To Determine the Change in Absolute Weight From Baseline to One Year Following the Switch to DOR/TDF/3TC.",
+          "description": "Absolute weight (kg) at one year minus weight at baseline (kg).",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Number of Participants Who Experienced a Change in Weight After a Switch to DOR/TDF/3TC at 1 Year",
+          "description": "To determine the number of participants who experienced either an increase, decrease or no change in weight (weight at 1 year vs. weight at baseline) following the switch to DOR/TDF/3TC.",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Change in Waist Circumference From Baseline to One Year Following the Switch to DOR/TDF/3TC.",
+          "description": "Change in waist circumference (value at 1 year minus value at baseline) will be reported. Waist circumference to be measured using a landmark just above the uppermost lateral border of the right ilium (under the participant's clothing). Measurement will be recorded to the nearest tenth of a centimeter at the end of the participant's normal expiration.",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Number of Participants Who Experienced a Change in BMI Category After a Switch to DOR/TDF/3TC at One Year",
+          "description": "Number of participants with a change in BMI category (BMI category at one year compared to BMI category at baseline) following the switch to DOR/TDF/3TC.",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Number of Participants Who Maintain HIV RNA<50 Copies/mL After a Switch to DOR/TDF/3TC at 1 Year",
+          "description": "To determine the number of participants who maintain viral suppression (HIV RNA \\< 50 copies/ml using Abbott RealTime HIV-1 assay) at 1 year after a switch to DOR/TDF/3TC.",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Number of Patients With Treatment-related Adverse Events",
+          "description": "Adverse event parameters graded according to severity: Grade 1 (mild), Grade 2 (moderate), Grade 3 (severe), Grade 4 (potentially life-threatening), Grade 5 (death) as assessed by the US DHHS NIH/NIAID Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events, corrected version 2.1 (July 2017)",
+          "timeFrame": "1 year"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Loss of Percentage of Total Body Fat From Baseline to One Year",
+          "description": "loss of percentage of total body fat (difference at one year minus from baseline) following the switch from the INSTI-containing regimen to DOR/TDF/3TC according to DXA body scans.",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Change in Self-esteem Related to Body Image as Per the Body Image Questionnaire B-WISE at One Year Versus Baseline.",
+          "description": "The Body Weight, Image and Self-Esteem (B-WISE) questionnaire is a validated 12-item, self-administered questionnaire that assesses body image and self-esteem related to weight gain. It was selected to assess impact of weight gain/change in our study. B-WISE scores range between 12-36; higher scores are indicative of better psychosocial adjustment (12-20 = severe; 21-28 = moderate; 29-36 = mild). The change in total B-WISE scores (value at one year minus value at baseline) will be calculated.",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "To Determine the Change in Perceived Changes in Body Size as Per the FRAM Body Image Questionnaire",
+          "description": "The change in FRAM scores (value at one year minus baseline value) will be measured.",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Change in Fasting Glucose Values Following the Switch From the INSTI-containing Regimen to DOR/TDF/3TC",
+          "description": "The change in fasting blood glucose (value at one year minus baseline value) will be measured.",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "To Determine the Impact From Baseline to One Year Following the Switch From the INSTI-containing Regimen to DOR/TDF/3TC on Insulin Resistance (HOMA-IR).",
+          "description": "HOMA score: fasting plasma glucose (mmol/L) times fasting serum insulin (mU/L) divided by 22.5. A score of \\<3 indicates normal insulin resistance, a score between 3 and -5 indicates moderate insulin resistance, and a score \\>5 indicates severe insulin resistance.",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "To Determine the Impact From Baseline to One Year Following the Switch From the INSTI-containing Regimen to DOR/TDF/3TC on Lipid Values (Standard Lipid Panel).",
+          "description": "Standard lipid panel includes total cholesterol, HDL, LDL, triglycerides (all mmol/L) and total cholesterol:HDL ratio",
+          "timeFrame": "1 year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Documented HIV-1 infection by means of any one of the following:\n\nDocumentation of HIV diagnosis in the medical record by a licensed health care provider; OR HIV-1 RNA detection by a licensed HIV-1 RNA assay demonstrating \\>1000 RNA copies/mL; OR any licensed HIV screening antibody and/or HIV antibody/antigen combination assay confirmed by a second licensed HIV assay such as a HIV-1 Western blot confirmation or HIV rapid Multispot antibody differentiation assay.\n\n* On an Integrase Strand Transfer Inhibitor (INSTI) based regimen for at least 1 year and less than 5 years prior to screening\n* Significant weight gain since initiation of the INSTI-based regimen (\\>10% of baseline body weight)\n* Viral load of \\<200 copies/mL for \\> 6 consecutive months prior to screening (single viral blips \\<200 copies/mL accepted if re-suppressed)\n* Documentation of weight, glycemia, cholesterol, and blood pressure (BP) history within the last year.\n* Signed Informed Consent Form (Appendix B) and willing to comply with the protocol.\n* Using proper contraception if of child bearing age and potential.\n\nExclusion Criteria:\n\n* Pregnancy or desire to become pregnant within the next year\n* Failure to use adequate contraception during the study if of child-bearing potential.\n* Any underlying documented ART resistance to doravirine, tenofovir disoproxil fumarate, or lamivudine\n* Prior virologic failure\n* Concomitant drugs that interact with doravirine\n* Initiated on concomitant drugs known to cause weight gain within the last 6 months (i.e. antidepressants and antipsychotics)\n* Concomitant drugs known to cause nephrotoxicity\n* History of renal toxicity or renal events while on TDF therapy.\n* Creatinine clearance (CrCL) \\< 50 mL/min\n* Inability to read/understand English",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Sharon Walmsley",
+          "affiliation": "University Health Network, Toronto",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University Health Network",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G2C4",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "23072344",
+          "type": "BACKGROUND",
+          "citation": "Lakey W, Yang LY, Yancy W, Chow SC, Hicks C. Short communication: from wasting to obesity: initial antiretroviral therapy and weight gain in HIV-infected persons. AIDS Res Hum Retroviruses. 2013 Mar;29(3):435-40. doi: 10.1089/aid.2012.0234. Epub 2012 Nov 7."
+        },
+        {
+          "pmid": "30542325",
+          "type": "BACKGROUND",
+          "citation": "Kumar S, Samaras K. The Impact of Weight Gain During HIV Treatment on Risk of Pre-diabetes, Diabetes Mellitus, Cardiovascular Disease, and Mortality. Front Endocrinol (Lausanne). 2018 Nov 27;9:705. doi: 10.3389/fendo.2018.00705. eCollection 2018."
+        },
+        {
+          "pmid": "31339677",
+          "type": "BACKGROUND",
+          "citation": "Venter WDF, Moorhouse M, Sokhela S, Fairlie L, Mashabane N, Masenya M, Serenata C, Akpomiemie G, Qavi A, Chandiwana N, Norris S, Chersich M, Clayden P, Abrams E, Arulappan N, Vos A, McCann K, Simmons B, Hill A. Dolutegravir plus Two Different Prodrugs of Tenofovir to Treat HIV. N Engl J Med. 2019 Aug 29;381(9):803-815. doi: 10.1056/NEJMoa1902824. Epub 2019 Jul 24."
+        },
+        {
+          "pmid": "30456685",
+          "type": "BACKGROUND",
+          "citation": "Gomez M, Seybold U, Roider J, Harter G, Bogner JR. Correction to: A retrospective analysis of weight changes in HIV-positive patients switching from a tenofovir disoproxil fumarate (TDF)- to a tenofovir alafenamide fumarate (TAF)-containing treatment regimen in one German university hospital in 2015-2017. Infection. 2019 Feb;47(1):103-104. doi: 10.1007/s15010-018-1251-0."
+        },
+        {
+          "pmid": "22730929",
+          "type": "BACKGROUND",
+          "citation": "Reynes J, Trinh R, Pulido F, Soto-Malave R, Gathe J, Qaqish R, Tian M, Fredrick L, Podsadecki T, Norton M, Nilius A. Lopinavir/ritonavir combined with raltegravir or tenofovir/emtricitabine in antiretroviral-naive subjects: 96-week results of the PROGRESS study. AIDS Res Hum Retroviruses. 2013 Feb;29(2):256-65. doi: 10.1089/aid.2011.0275. Epub 2012 Aug 3."
+        },
+        {
+          "pmid": "21921224",
+          "type": "BACKGROUND",
+          "citation": "Rockstroh JK, Lennox JL, Dejesus E, Saag MS, Lazzarin A, Wan H, Walker ML, Xu X, Zhao J, Teppler H, Dinubile MJ, Rodgers AJ, Nguyen BY, Leavitt R, Sklar P; STARTMRK Investigators. Long-term treatment with raltegravir or efavirenz combined with tenofovir/emtricitabine for treatment-naive human immunodeficiency virus-1-infected patients: 156-week results from STARTMRK. Clin Infect Dis. 2011 Oct;53(8):807-16. doi: 10.1093/cid/cir510."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "McCann K, Moorhouse M, Sokhela S, Venter WD, Serenata C, Qavi A, et al. Changes in DXA-assessed body composition in TAF/FTC+DTG compared to TDF/FTC+DTG and TDF/FTC/EFV in the ADVANCE clinical trial. EACS, November 6-9, 2019, Basel, Switzerland."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Bedimo R, Li X, Adams-Huet B, Lake J, Taylor B, Kim D, et al. Differential BMI changes following PI- and INSTI-based ART initiation by sex and race. Conference on Retroviruses and Opportunistic Infections; 2019 Mar 4-7; Seattle, Washington"
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Rebeiro P, Jenkins C, Bian A, Lake J, Bourgi K, Horberg M, et al. The effect of initiating integrase inhibitor-based vs. non-nucleoside reverse transcriptase inhibitor-based antiretroviral therapy on progression to diabetes among North American persons in HIV care. IDWeek, October 2-6, 2019, Washington, DC. Abstract LB9."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Schafer J, Sassa K, O'Connor J, Shimada A, Keith S, DeSimone J. BMI and ASCVD risk score changes in virologically suppressed patients with HIV switching from TDF to TAF containing ART. IDWeek, October 2-6, 2019, Washington, DC. Abstract 979"
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Kerchberger AM, Sheth AN, Angert CD, Mehta CC, Summers NA, Ofotokun I, et al. Integrase Strand Transfer Inhibitors are Associated with Weight Gain in Women. CROI, March 4-7, 2019, Seattle, DC. Abstract 672."
+        },
+        {
+          "pmid": "30985556",
+          "type": "BACKGROUND",
+          "citation": "Johnson M, Kumar P, Molina JM, Rizzardini G, Cahn P, Bickel M, Mallolas J, Zhou Y, Morais C, Kumar S, Sklar P, Hanna GJ, Hwang C, Greaves W; DRIVE-SHIFT Study Group. Switching to Doravirine/Lamivudine/Tenofovir Disoproxil Fumarate (DOR/3TC/TDF) Maintains HIV-1 Virologic Suppression Through 48 Weeks: Results of the DRIVE-SHIFT Trial. J Acquir Immune Defic Syndr. 2019 Aug 1;81(4):463-472. doi: 10.1097/QAI.0000000000002056."
+        },
+        {
+          "pmid": "29682298",
+          "type": "BACKGROUND",
+          "citation": "Hill A, Hughes SL, Gotham D, Pozniak AL. Tenofovir alafenamide versus tenofovir disoproxil fumarate: is there a true difference in efficacy and safety? J Virus Erad. 2018 Apr 1;4(2):72-79. doi: 10.1016/S2055-6640(20)30248-X."
+        },
+        {
+          "pmid": "17395549",
+          "type": "BACKGROUND",
+          "citation": "Andersen JW, Fass R, van der Horst C. Factors associated with early study discontinuation in AACTG studies, DACS 200. Contemp Clin Trials. 2007 Sep;28(5):583-92. doi: 10.1016/j.cct.2007.02.002. Epub 2007 Feb 27."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Panel on Antiretroviral Guidelines for Adults and Adolescents. Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents with HIV. Department of Health and Human Services. Available at http://www.aidsinfo.nih.gov/ContentFiles/AdultandAdolescentGL.pdf. Accessed [October 30, 2019]."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "DOR/3TC/TDF",
+          "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "DOR/3TC/TDF",
+          "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "3"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "FULL_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "59",
+                      "lowerLimit": "51",
+                      "upperLimit": "70"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Canada",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Identify Number of Active Clinic Patients Who Completed the Study Protocol.",
+          "description": "The primary objective was to determine how many clinic patients with ≥10% weight gain on an INSTI would complete the study (48 weeks).",
+          "populationDescription": "Number of clinic patients who experienced ≥10% weight gain on an INSTI within the last 5 years.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "DOR/3TC/TDF",
+              "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "129"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Identify Reasons for Study Ineligibility Among Clinic Patients on INSTI-containing Regimen Who Have Experienced Weight Gain.",
+          "description": "Descriptive data. Reasons for study ineligibility (i.e., not meeting inclusion criteria or presence of one or more exclusion criteria) will be recorded by the study coordinator.",
+          "populationDescription": "Number of participants screened for the study.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "DOR/3TC/TDF",
+              "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "7"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "started semaglutide",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "did not meet weight gain threshold",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "greater than 5 years INSTI use",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Identify Reasons for Study Refusal Among Clinic Patients on INSTI-containing Regimen Who Have Experienced Weight Gain.",
+          "description": "Descriptive data. Clinic patients who refuse to participate in the study will be asked an open-ended question by the study coordinator about main reason(s) for declining. Responses will be grouped by the following categories: fear of side effects, distrust of researchers, general concerns about research design, interference in everyday life or changes in routine, and social discrimination.",
+          "populationDescription": "Number of individuals who refused screening/participation in the study.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "DOR/3TC/TDF",
+              "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "7"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Identify Factors Associated With Early Study Discontinuation.",
+          "description": "Factors will include age, gender, race, CD4 count, HIV viral load, prior enrollment in a study, history of injection drug use, and use of antidepressants.",
+          "populationDescription": "Participants who did not complete the study to week 48.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "DOR/3TC/TDF",
+              "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "study closed to futility",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "completed study to week 48",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "To Determine the Change in Absolute Weight From Baseline to One Year Following the Switch to DOR/TDF/3TC.",
+          "description": "Absolute weight (kg) at one year minus weight at baseline (kg).",
+          "populationDescription": "participants who completed study to week 48",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "kg",
+          "timeFrame": "1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "DOR/3TC/TDF",
+              "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.0",
+                      "lowerLimit": "0",
+                      "upperLimit": "7.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Who Experienced a Change in Weight After a Switch to DOR/TDF/3TC at 1 Year",
+          "description": "To determine the number of participants who experienced either an increase, decrease or no change in weight (weight at 1 year vs. weight at baseline) following the switch to DOR/TDF/3TC.",
+          "populationDescription": "participants who completed study to week 48",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "DOR/3TC/TDF",
+              "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "increased weight from baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "decreased weight from baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "no change in weight from baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Waist Circumference From Baseline to One Year Following the Switch to DOR/TDF/3TC.",
+          "description": "Change in waist circumference (value at 1 year minus value at baseline) will be reported. Waist circumference to be measured using a landmark just above the uppermost lateral border of the right ilium (under the participant's clothing). Measurement will be recorded to the nearest tenth of a centimeter at the end of the participant's normal expiration.",
+          "populationDescription": "participants who completed study to week 48",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "cm",
+          "timeFrame": "1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "DOR/3TC/TDF",
+              "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "participant 1",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "participant 2",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "participant 3",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Who Experienced a Change in BMI Category After a Switch to DOR/TDF/3TC at One Year",
+          "description": "Number of participants with a change in BMI category (BMI category at one year compared to BMI category at baseline) following the switch to DOR/TDF/3TC.",
+          "populationDescription": "participants who completed study to week 48",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "DOR/3TC/TDF",
+              "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "moved from obese to overweight BMI",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "no change in BMI category",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Who Maintain HIV RNA<50 Copies/mL After a Switch to DOR/TDF/3TC at 1 Year",
+          "description": "To determine the number of participants who maintain viral suppression (HIV RNA \\< 50 copies/ml using Abbott RealTime HIV-1 assay) at 1 year after a switch to DOR/TDF/3TC.",
+          "populationDescription": "participants who completed study to week 48",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "DOR/3TC/TDF",
+              "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients With Treatment-related Adverse Events",
+          "description": "Adverse event parameters graded according to severity: Grade 1 (mild), Grade 2 (moderate), Grade 3 (severe), Grade 4 (potentially life-threatening), Grade 5 (death) as assessed by the US DHHS NIH/NIAID Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events, corrected version 2.1 (July 2017)",
+          "populationDescription": "participants who completed study to week 48",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "DOR/3TC/TDF",
+              "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Loss of Percentage of Total Body Fat From Baseline to One Year",
+          "description": "loss of percentage of total body fat (difference at one year minus from baseline) following the switch from the INSTI-containing regimen to DOR/TDF/3TC according to DXA body scans.",
+          "populationDescription": "participants who completed study to week 48",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "percentage change in total body fat",
+          "timeFrame": "1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "DOR/3TC/TDF",
+              "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.9",
+                      "lowerLimit": "1.5",
+                      "upperLimit": "3.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Change in Self-esteem Related to Body Image as Per the Body Image Questionnaire B-WISE at One Year Versus Baseline.",
+          "description": "The Body Weight, Image and Self-Esteem (B-WISE) questionnaire is a validated 12-item, self-administered questionnaire that assesses body image and self-esteem related to weight gain. It was selected to assess impact of weight gain/change in our study. B-WISE scores range between 12-36; higher scores are indicative of better psychosocial adjustment (12-20 = severe; 21-28 = moderate; 29-36 = mild). The change in total B-WISE scores (value at one year minus value at baseline) will be calculated.",
+          "populationDescription": "participants who completed study to week 48",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "DOR/3TC/TDF",
+              "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5",
+                      "lowerLimit": "1",
+                      "upperLimit": "11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "To Determine the Change in Perceived Changes in Body Size as Per the FRAM Body Image Questionnaire",
+          "description": "The change in FRAM scores (value at one year minus baseline value) will be measured.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "1 year",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Change in Fasting Glucose Values Following the Switch From the INSTI-containing Regimen to DOR/TDF/3TC",
+          "description": "The change in fasting blood glucose (value at one year minus baseline value) will be measured.",
+          "populationDescription": "participants who completed study to week 48",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "mmol/L",
+          "timeFrame": "1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "DOR/3TC/TDF",
+              "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.6",
+                      "lowerLimit": "-1.8",
+                      "upperLimit": "-0.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "To Determine the Impact From Baseline to One Year Following the Switch From the INSTI-containing Regimen to DOR/TDF/3TC on Insulin Resistance (HOMA-IR).",
+          "description": "HOMA score: fasting plasma glucose (mmol/L) times fasting serum insulin (mU/L) divided by 22.5. A score of \\<3 indicates normal insulin resistance, a score between 3 and -5 indicates moderate insulin resistance, and a score \\>5 indicates severe insulin resistance.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "1 year",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "To Determine the Impact From Baseline to One Year Following the Switch From the INSTI-containing Regimen to DOR/TDF/3TC on Lipid Values (Standard Lipid Panel).",
+          "description": "Standard lipid panel includes total cholesterol, HDL, LDL, triglycerides (all mmol/L) and total cholesterol:HDL ratio",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "1 year",
+          "denomUnitsSelected": "Participants"
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "48 weeks",
+      "description": "Any AE/SAE that occurs between baseline and the time the participant departs the study at the end of the final follow-up visit will be captured and recorded in the source documentation. The intensity (severity) of each adverse/serious event will be graded according to the toxicity table and toxicity guidelines provided by the Division of AIDS (DAIDS) Table for Grading the Severity of Adult and Pediatric Adverse Events.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "DOR/3TC/TDF",
+          "description": "100mg of doravirine (DOR), 300mg of lamivudine (3TC), and 300mg of tenofovir disoproxil fumarate (TDF)\n\nDOR/3TC/TDF: switch antiretroviral regimen to doravirine/lamivudine/tenofovir disoproxil fumarate once daily for 1 year",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 3,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 3,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 3
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Sharon Walmsley",
+        "organization": "University Health Network",
+        "email": "sharon.walmsley@uhn.ca",
+        "phone": "416-340-5077"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2021-10-19",
+          "uploadDate": "2025-05-07T12:15",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 494921
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000163",
+          "term": "Acquired Immunodeficiency Syndrome"
+        },
+        {
+          "id": "D015430",
+          "term": "Weight Gain"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D015658",
+          "term": "HIV Infections"
+        },
+        {
+          "id": "D000086982",
+          "term": "Blood-Borne Infections"
+        },
+        {
+          "id": "D003141",
+          "term": "Communicable Diseases"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D015229",
+          "term": "Sexually Transmitted Diseases, Viral"
+        },
+        {
+          "id": "D012749",
+          "term": "Sexually Transmitted Diseases"
+        },
+        {
+          "id": "D016180",
+          "term": "Lentivirus Infections"
+        },
+        {
+          "id": "D012192",
+          "term": "Retroviridae Infections"
+        },
+        {
+          "id": "D012327",
+          "term": "RNA Virus Infections"
+        },
+        {
+          "id": "D014777",
+          "term": "Virus Diseases"
+        },
+        {
+          "id": "D012897",
+          "term": "Slow Virus Diseases"
+        },
+        {
+          "id": "D000091662",
+          "term": "Genital Diseases"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D007153",
+          "term": "Immunologic Deficiency Syndromes"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D001836",
+          "term": "Body Weight Changes"
+        },
+        {
+          "id": "D001835",
+          "term": "Body Weight"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

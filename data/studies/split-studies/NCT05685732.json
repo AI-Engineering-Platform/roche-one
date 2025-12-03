@@ -1,0 +1,1742 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05685732",
+      "orgStudyIdInfo": {
+        "id": "KP415.P01"
+      },
+      "organization": {
+        "fullName": "Corium, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "An Efficacy and Safety Study w/ Azstarys® in Children 4-12 Years of Age With ADHD",
+      "officialTitle": "A Multicenter, Dose-Optimized, Randomized, Double Blind, Efficacy and Safety Study With Azstarys® in Children 4 to 12 Years of Age With Attention Deficit/Hyperactivity Disorder",
+      "acronym": "KP415P01"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-05",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-03-22",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-05-02",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-05-02",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-12-13",
+      "studyFirstSubmitQcDate": "2023-01-05",
+      "studyFirstPostDateStruct": {
+        "date": "2023-01-17",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-04-03",
+      "resultsFirstSubmitQcDate": "2025-05-12",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-05-13",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-05-12",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-05-13",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Corium, Inc.",
+        "class": "INDUSTRY"
+      },
+      "collaborators": [
+        {
+          "name": "Premier Research",
+          "class": "OTHER"
+        },
+        {
+          "name": "Prometrika, LLC",
+          "class": "INDUSTRY"
+        },
+        {
+          "name": "Almac",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a multicenter, dose-optimized, randomized, double-blind, placebo controlled, efficacy and safety study with Azstarys® in children 4 to 12 years of age with attention-deficit/hyperactivity disorder (ADHD). Azstarys® contains dexmethylphenidate (d-MPH) and serdexmethylphenidate (SDX), a prodrug of d-MPH and is orally administered. The primary objective is to determine the efficacy of Azstarys® compared to placebo in treating children ages 4 to 12 years old with ADHD. The study will consist of two randomized and blinded treatment cohorts ages 4 to 5 years of age and 6 to 12 years of age. Randomization will be applied separately with a starting dose up-titration at different dose levels for each cohort. 130 and 100 subjects will be enrolled, respectively. Approximately 20 sites will participate.",
+      "detailedDescription": "* Screening Period (Visit 1) Subjects will undergo a screening period up to 30 days prior to entering the Treatment Period.\n* Double-Blind Treatment Period (Visit 2 through Visit 6, approx. 28 days) Eligible subjects will be randomized in a blinded fashion to Azstarys® or placebo at the start of the Treatment Period. Randomization will be applied separately in each cohort and stratified by gender.\n\n  * Cohort 1: Subjects 4 and 5 years (\\<6 years) will start at 13.1 mg/2.6 mg or matching placebo and may be titrated up or down to doses of 13.1 mg/2.6 mg, 26.1 mg/5.2 mg, or 39.2 mg/7.8 mg Azstarys® or matching placebo approximately each week through Visit 5 (Day 21)\n  * Cohort 2: Subjects 6-12 years (\\<13 years) will start at 39.2 mg/7.8 mg or matching placebo and may be titrated up or down to doses of 26.1 mg/5.2 mg, 39.2 mg/7.8 mg, or 52.3 mg/10.4 mg Azstarys® or matching placebo approximately each week through Visit 5 (Day 21) Subjects who participate in Cohort 1 and successfully complete the Treatment Period will have the option to participate in a 12-month open-label safety study with Azstarys®."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Attention Deficit/Hyperactivity Disorder"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "The primary endpoint is defined as the change in a subject's ADHD Rating Scale total score in the Efficacy Population at Visit 6 (Day 28) compared to baseline (ADHD-RS total score). The baseline (Visit 2) data will be obtained prior to the first administration of study drug.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "maskingDescription": "Study drug and matching placebo will be blinded during the Treatment Period. Neither the subject, the Investigator, nor the Sponsor will know the subject's treatment assignment.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 246,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Cohort 1: SDX/d-MPH in 4-5 year old",
+          "type": "EXPERIMENTAL",
+          "description": "13.1 mg/2.6 mg SDX/d-MPH, 26.1 mg/5.2 mg SDX/d-MPH, 39.2 mg/7.8 mg SDX/d-MPH",
+          "interventionNames": [
+            "Drug: Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)"
+          ]
+        },
+        {
+          "label": "Cohort 1: Placebo in 4-5 year old",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "matching placebo",
+          "interventionNames": [
+            "Other: placebo"
+          ]
+        },
+        {
+          "label": "Cohort 2: SDX/d-MPH in 6-12 year old",
+          "type": "EXPERIMENTAL",
+          "description": "26.1 mg/5.2 mg SDX/d-MPH, 39.2 mg/7.8 mg SDX/d-MPH, 52.3 mg/10.4 mg SDX/d-MPH",
+          "interventionNames": [
+            "Drug: Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)"
+          ]
+        },
+        {
+          "label": "Cohort 2: Placebo in 6-12 year old",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "matching placebo",
+          "interventionNames": [
+            "Other: placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)",
+          "description": "Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)",
+          "armGroupLabels": [
+            "Cohort 1: SDX/d-MPH in 4-5 year old",
+            "Cohort 2: SDX/d-MPH in 6-12 year old"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "placebo",
+          "description": "matching placebo",
+          "armGroupLabels": [
+            "Cohort 1: Placebo in 4-5 year old",
+            "Cohort 2: Placebo in 6-12 year old"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "A Comparison of the Change in Mean ADHD Rating Scale (ADHD-RS) Results From Baseline to End of Treatment Between Active and Placebo Treatments.",
+          "description": "The ADHD-RS is an 18-item scale based on Diagnostic and Statistical Manual of Mental Disorders criteria of ADHD that rates symptoms on a 4-point scale. Each item is scored using a combination of severity and frequency ratings from a range of 0 (reflecting no symptoms or a frequency of never or rarely) to 3 (reflecting severe symptoms or a frequency of very often), so that the total ADHD-RS scores range from 0 to 54. Scores will be obtained during a clinician-directed interview with the parent/guardian/caregiver at each visit.",
+          "timeFrame": "4 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "A Comparison of the Change in Mean Clinical Global Impressions-Severity (CGI-S) Results From Baseline to End of Treatment Between Active and Placebo Treatments.",
+          "description": "The CGI-S is a clinician-rated scale that evaluates the severity of ADHD symptoms in the study on a scale from 1 (not at all ill) to 7 (among the most severely ill).",
+          "timeFrame": "4 weeks"
+        },
+        {
+          "measure": "A Comparison of the Change in Mean Clinical Global Impressions-Improvement (CGI-I) Results From Visit 3 to End of Treatment Between Active and Placebo Treatments.",
+          "description": "The CGI-I is a clinician-rated scale that evaluates the improvement of ADHD symptoms in the study on a scale from 1 (very much improved) to 7 (very much worse).",
+          "timeFrame": "3 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. In Cohort 1, subjects must be at least 4 years old and less than 5 years and 10 months at Screening; in Cohort 2, subjects must be at least 6 years old and less than 12 years and 10 months at Screening.\n2. Subjects must have a body weight within the 5th and 95th percentile according to the gender-specific weight-for-age percentile charts from the Centers for Disease Control and Prevention (CDC). See calculator at https://www.infantchart.com/child/.\n3. Female subjects must agree, if they are of childbearing potential at Screening or when they become of childbearing potential during the study, to remain abstinent or agree to use an effective and medically acceptable form of birth control from the time of written or verbal assent to at least 14 days after the last dose of study drug. Childbearing potential is defined as follows: Girls under the age of 12 who have not had their first period will be considered \"not of child-bearing potential.\" Girls 12 years of age (including girls who will become 13 years during the study) will be considered \"of child-bearing potential,\" even if they have not yet had their first period. Irrespective of age, girls who have had their first period, will be considered \"of child-bearing potential.\"\n4. Subjects must be in general good health defined as the absence of any clinically relevant abnormalities as determined by the Investigator based on physical examinations, vital signs, electrocardiograms (ECGs), medical history, and clinical laboratory values (chemistry, hematology, urinalysis) at Screening. If any of the chemistry or hematology tests are not within the laboratory's reference range, then the subject can be included only if the Investigator determines the deviations to be not clinically relevant.\n5. At least one parent/legal guardian of the subject must voluntarily give written permission for him/her to participate in the study.\n6. Subjects in Cohort 2 must give written or verbal assent prior to study participation. For verbal assent, the procedure will be documented and signed by a witness. A parent or guardian may not be the witness for a child's verbal assent document.\n7. Subject must meet Diagnostic and Statistical Manual of Mental Disorders - Fifth Edition (DSM-5) criteria for a primary diagnosis of ADHD (combined, inattentive, or hyperactive/impulsive presentation) per clinical evaluation and confirmed by Mini-International Neuropsychiatric Interview for Children and Adolescents (MINI Kid).\n8. Subject has had ADHD symptoms present for at least 6 months prior to the Screening Visit.\n9. Subject must be able and willing to wash out current stimulant ADHD medications, including herbal medications, from 5 days prior to the start of the Treatment Period, and abstain from taking these to the end of Visit 6 or ET; and wash out non-stimulant ADHD medications from 14 days prior to the start of the Treatment Period, and abstain from taking these to the end of Visit 6.\n10. Subject must have a score of ≥4 (Moderately Ill) on the clinician-administered Clinical Global Impressions-Severity (CGI-S) scale. For subjects requiring washout of ADHD medications, this criterion refers to a score following washout.\n11. Subjects must have age and sex adjusted ratings of ≥90th percentile Total Score on the ADHD-Rating Scale (ADHD-RS) rated over the past 6 months (for 4- and 5-year old children, use Preschool Version of ADHD-RS-IV; for 6-12 years old children, use ADHD-RS-5).\n12. Subject functions at an age-appropriate level intellectually, as determined by the Investigator.\n13. Subject must have a systolic and diastolic blood pressure below the 95th percentile for age and gender according to the 2017 AAP guidelines (Flynn 2017) based on the average of 3 measurements 2-5 minutes apart.\n14. Subject, subject's parent/legal guardian, and caregiver (if applicable) must understand and be willing and able to comply with all study procedures and visit schedule.\n15. Subject, parent/legal guardian, and caregiver (if applicable) must be able to speak and understand English or Spanish and be able to communicate satisfactorily with the Investigator and study coordinator.\n\nExclusion Criteria:\n\n1. If female, must not be pregnant or breastfeeding, and if of childbearing potential, must have a negative urine pregnancy test at the start of the Screening Period. In addition, a positive pregnancy test before the last dose of study drug will result in early termination from the study.\n2. Subject with any clinically significant chronic medical condition that, in the judgment of the Investigator, may interfere with the participant's ability to participate in the study.\n3. Subject has any diagnosis of bipolar I or II disorder, major depressive disorder, conduct disorder, obsessive-compulsive disorder, any history of psychosis, autism spectrum disorder, disruptive mood dysregulation disorder (DMDD), intellectual disability, Tourette's Syndrome, confirmed genetic disorder with cognitive and/or behavioral disturbances. Subjects with oppositional defiant disorder (ODD) are permitted to enroll in the study as long as ODD is not the primary focus of treatment, and, in the opinion of the Investigator, the ODD is mild to moderate, and eligible subjects with ODD are appropriate and cooperative during Screening.\n4. Subject has generalized anxiety disorder or panic disorder that has been the primary focus of treatment at any time during the 12 months prior to Screening or that has required pharmacotherapy any time during the 6 months prior to Screening.\n5. Subject has evidence of any chronic disease of the central nervous system (CNS) such as tumors, inflammation, seizure disorder, depression, vascular disorder, potential CNS-related disorders that might occur in childhood (e.g., Duchenne Muscular dystrophy, myasthenia gravis, or other neurologic or serious neuromuscular disorders), or history of persistent neurological symptoms attributable to serious head injury.\n6. Subject taking anticonvulsants for seizure control or antidepressants currently or within the past 2 years before Screening are not eligible for study participation. A past history of febrile seizure or drug-induced seizure is allowed.\n7. Subject has a current (last month) psychiatric diagnosis other than specific phobia, motor skills disorders, ODD, sleep disorders, elimination disorders, adjustment disorders, learning disorders, or communication disorders. Subjects allowed to enroll with any of these DSM disorders will require written justification from the Investigator documenting why the conditions will not interfere with participation and to emphasize that ADHD is the primary indication.\n8. In the opinion of the Investigator, subject has clinically significant suicidal ideation/behavior, based on history of attempted suicide and the Columbia-Suicide Severity Rating Scale (C-SSRS) assessment at Screening.\n9. Subject has any clinically significant unstable medical abnormality, chronic disease (including asthma or diabetes), or a history of a clinically significant abnormality of the cardiovascular (including cardiomyopathy, serious arrhythmias, structural cardiac disorders, or severe hypertension), gastrointestinal, respiratory, hepatic, or renal systems, or a disorder or history of a condition (e.g., malabsorption, gastrointestinal surgery) that may interfere with absorption, distribution, metabolism, or excretion of study drug. In cases in which the impact of the condition upon risk to the subject or study results is unclear, the medical monitor should be consulted. Any subject with a known cardiovascular disease or condition (even if controlled) must be discussed with the Medical Monitor during Screening.\n10. Subject has a history or presence of abnormal ECGs, which in the Investigator's opinion is clinically significant.\n11. Subject has a history of, or currently has, a malignancy.\n12. Subject has uncontrolled thyroid disorder as evidenced by thyroid stimulating hormone (TSH) ≤0.8 x the lower limit of normal (LLN) or ≥1.25 x the upper limit of normal (ULN) for the reference laboratory at Screening.\n13. Subject has greater than trace proteinuria in the urinalysis at Screening. Subjects with greater than trace proteinuria in the urinalysis at Screening but with a urine protein to creatinine (UP/C) ratio \\<0.2 in a first morning void urine sample will not be excluded from enrollment.\n14. Subjects has a current or recent (past 12 months) history of drug abuse; or current or recent history of drug abuse in someone living in the subject's home, or are using or planning to use prohibited drugs during the trial as specified in the protocol.\n15. Subject has a positive urine drug screen at Screening. Subjects with a positive methylphenidate (MPH) urine drug screen may be allowed to continue in the study, provided that the Investigator determines that the positive test is a result of taking prescribed medications and subject is willing to wash out the current medication as required.\n16. Subject has participated in any other clinical study with an investigational drug/product within 30 days or at least 5 half-lives, whichever is longer, prior to Screening.\n17. Subject has taken ADHD medications from more than one class within 30 days prior to Screening. Subjects on a stable dose of one ADHD medication with occasional use of ADHD medications from another class are eligible at the discretion of the Investigator.\n18. Subjects with demonstrated lack of response or intolerability to adequate dose and duration of treatment with MPH products. Judgment of adequate dose and duration is at the discretion of the Investigator.\n19. Subject has a positive urine MPH screen by dipstick (e.g., NarcoCheck®) at Visit 2.\n20. Subject is planning to initiate psychotherapy during the study (subjects participating in psychotherapy beginning at least 4 weeks before study initiation are permitted to continue).\n21. Subject has a history of severe allergies or adverse drug reactions to more than one class of medications.\n22. Subject has a history of allergic reaction or a known or suspected sensitivity to MPH or any substance that is contained in the study drug.\n23. Subject, parent/legal guardian, and caregiver (if applicable, at the Investigator's discretion) has commitments during the study that would interfere with attending study visits.\n24. Subject or subject's family anticipates a move outside the geographic range of the investigative site during the study period, or plans extended travel inconsistent with the recommended visit interval during study duration.\n25. Subject has one or more siblings living in the same household who are enrolled in this or another clinical drug trial.\n26. Subject shows evidence of current physical, sexual, or emotional abuse.\n27. Subject is, in the opinion of the Investigator, unsuitable in any other way to participate in this study.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "4 Years",
+      "maximumAge": "12 Years",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Ann Childress, MD",
+          "affiliation": "Center for Psychiatry And Behavioral Medicine Inc.",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Preferred Research Partners (PRP)",
+          "city": "Little Rock",
+          "state": "Arkansas",
+          "zip": "72211",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.74648,
+            "lon": -92.28959
+          }
+        },
+        {
+          "facility": "Advanced Research Center (ARC)",
+          "city": "Anaheim",
+          "state": "California",
+          "zip": "92805",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.83529,
+            "lon": -117.9145
+          }
+        },
+        {
+          "facility": "IMMUNOe International Research Center",
+          "city": "Centennial",
+          "state": "Colorado",
+          "zip": "80112",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.57916,
+            "lon": -104.87692
+          }
+        },
+        {
+          "facility": "Clinical Neuroscience Solutions - Jacksonville",
+          "city": "Jacksonville",
+          "state": "Florida",
+          "zip": "32256",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.33218,
+            "lon": -81.65565
+          }
+        },
+        {
+          "facility": "Accel Research Sites - Lakeland",
+          "city": "Lakeland",
+          "state": "Florida",
+          "zip": "33803",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.03947,
+            "lon": -81.9498
+          }
+        },
+        {
+          "facility": "Accel Research Sites - Maitland",
+          "city": "Maitland",
+          "state": "Florida",
+          "zip": "32751",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.62778,
+            "lon": -81.36312
+          }
+        },
+        {
+          "facility": "South Florida Research Phase I-IV INC",
+          "city": "Miami Springs",
+          "state": "Florida",
+          "zip": "33166",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.82232,
+            "lon": -80.2895
+          }
+        },
+        {
+          "facility": "CNS Healthcare - Orlando",
+          "city": "Orlando",
+          "state": "Florida",
+          "zip": "32801",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.53834,
+            "lon": -81.37924
+          }
+        },
+        {
+          "facility": "Sky Clinical Research Network Group P.C.",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30339",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "CenExel IResearch, LLC - Decatur",
+          "city": "Decatur",
+          "state": "Georgia",
+          "zip": "30030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.77483,
+            "lon": -84.29631
+          }
+        },
+        {
+          "facility": "CenExel iResearch, LLC",
+          "city": "Savannah",
+          "state": "Georgia",
+          "zip": "31405",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.08354,
+            "lon": -81.09983
+          }
+        },
+        {
+          "facility": "DelRicht Research - Touro Medical Center",
+          "city": "New Orleans",
+          "state": "Louisiana",
+          "zip": "70115",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.95465,
+            "lon": -90.07507
+          }
+        },
+        {
+          "facility": "St Charles Psychiatric Associates & Midwest Research Group",
+          "city": "Saint Charles",
+          "state": "Missouri",
+          "zip": "80112",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.78394,
+            "lon": -90.48123
+          }
+        },
+        {
+          "facility": "Boeson Research",
+          "city": "Missoula",
+          "state": "Montana",
+          "zip": "75093",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 46.87215,
+            "lon": -113.994
+          }
+        },
+        {
+          "facility": "Alivation Research, LLC",
+          "city": "Lincoln",
+          "state": "Nebraska",
+          "zip": "68526",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.8,
+            "lon": -96.66696
+          }
+        },
+        {
+          "facility": "Center for Psychiatry and Behavioral Medicine Inc",
+          "city": "Las Vegas",
+          "state": "Nevada",
+          "zip": "89128",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.17497,
+            "lon": -115.13722
+          }
+        },
+        {
+          "facility": "Clinical Neuroscience Solutions--Memphis",
+          "city": "Memphis",
+          "state": "Tennessee",
+          "zip": "38119",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.14953,
+            "lon": -90.04898
+          }
+        },
+        {
+          "facility": "Houston Clinical Trials",
+          "city": "Bellaire",
+          "state": "Texas",
+          "zip": "77401",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.70579,
+            "lon": -95.45883
+          }
+        },
+        {
+          "facility": "AIM Trials",
+          "city": "Plano",
+          "state": "Texas",
+          "zip": "75093",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.01984,
+            "lon": -96.69889
+          }
+        },
+        {
+          "facility": "Flourish Research",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Cohort 1: SDX/d-MPH in 4-5 Year Old",
+          "description": "13.1 mg/2.6 mg SDX/d-MPH, 26.1 mg/5.2 mg SDX/d-MPH, 39.2 mg/7.8 mg SDX/d-MPH\n\nSerdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH): Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)"
+        },
+        {
+          "id": "FG001",
+          "title": "Cohort 1: Placebo in 4-5 Year Old",
+          "description": "matching placebo\n\nplacebo: matching placebo"
+        },
+        {
+          "id": "FG002",
+          "title": "Cohort 2: SDX/d-MPH in 6-12 Year Old",
+          "description": "26.1 mg/5.2 mg SDX/d-MPH, 39.2 mg/7.8 mg SDX/d-MPH, 52.3 mg/10.4 mg SDX/d-MPH\n\nSerdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH): Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)"
+        },
+        {
+          "id": "FG003",
+          "title": "Cohort 2: Placebo in 6-12 Year Old",
+          "description": "matching placebo\n\nplacebo: matching placebo"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "68"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "69"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "54"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "55"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "57"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "65"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "45"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "50"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "9"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "5"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "Protocol Violation",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Physician Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Cohort 1: SDX/d-MPH in 4-5 Year Old",
+          "description": "13.1 mg/2.6 mg SDX/d-MPH, 26.1 mg/5.2 mg SDX/d-MPH, 39.2 mg/7.8 mg SDX/d-MPH\n\nSerdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH): Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)"
+        },
+        {
+          "id": "BG001",
+          "title": "Cohort 1: Placebo in 4-5 Year Old",
+          "description": "matching placebo\n\nplacebo: matching placebo"
+        },
+        {
+          "id": "BG002",
+          "title": "Cohort 2: SDX/d-MPH in 6-12 Year Old",
+          "description": "26.1 mg/5.2 mg SDX/d-MPH, 39.2 mg/7.8 mg SDX/d-MPH, 52.3 mg/10.4 mg SDX/d-MPH\n\nSerdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH): Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)"
+        },
+        {
+          "id": "BG003",
+          "title": "Cohort 2: Placebo in 6-12 Year Old",
+          "description": "matching placebo\n\nplacebo: matching placebo"
+        },
+        {
+          "id": "BG004",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "64"
+            },
+            {
+              "groupId": "BG001",
+              "value": "69"
+            },
+            {
+              "groupId": "BG002",
+              "value": "52"
+            },
+            {
+              "groupId": "BG003",
+              "value": "55"
+            },
+            {
+              "groupId": "BG004",
+              "value": "240"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4.6",
+                      "spread": ".50"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4.5",
+                      "spread": ".50"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8.3",
+                      "spread": "1.87"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "8.6",
+                      "spread": "2.26"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "6.3",
+                      "spread": "2.43"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "67"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "49"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "38"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "40"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "173"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "American Indian or Alaska Native",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Black or African American",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "27"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "83"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Native Hawaiian or Other Pacific Islander",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "White",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "134"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Other/Multiple",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Body Mass Index kg/m2",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kg/m2",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "16.12",
+                      "spread": "1.480"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16.06",
+                      "spread": "1.534"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "17.06",
+                      "spread": "2.491"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "17.55",
+                      "spread": "2.946"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "16.64",
+                      "spread": "2.220"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Height",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "cm",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "111.97",
+                      "spread": "5.827"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "109.83",
+                      "spread": "5.356"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "133.52",
+                      "spread": "13.126"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "135.66",
+                      "spread": "14.551"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "121.45",
+                      "spread": "15.586"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Weight",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kg",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20.29",
+                      "spread": "3.049"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19.38",
+                      "spread": "2.266"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "31.05",
+                      "spread": "9.229"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "33.19",
+                      "spread": "11.049"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "25.31",
+                      "spread": "9.383"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "A Comparison of the Change in Mean ADHD Rating Scale (ADHD-RS) Results From Baseline to End of Treatment Between Active and Placebo Treatments.",
+          "description": "The ADHD-RS is an 18-item scale based on Diagnostic and Statistical Manual of Mental Disorders criteria of ADHD that rates symptoms on a 4-point scale. Each item is scored using a combination of severity and frequency ratings from a range of 0 (reflecting no symptoms or a frequency of never or rarely) to 3 (reflecting severe symptoms or a frequency of very often), so that the total ADHD-RS scores range from 0 to 54. Scores will be obtained during a clinician-directed interview with the parent/guardian/caregiver at each visit.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "4 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Cohort 1: SDX/d-MPH in 4-5 Year Old",
+              "description": "13.1 mg/2.6 mg SDX/d-MPH, 26.1 mg/5.2 mg SDX/d-MPH, 39.2 mg/7.8 mg SDX/d-MPH\n\nSerdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH): Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)"
+            },
+            {
+              "id": "OG001",
+              "title": "Cohort 1: Placebo in 4-5 Year Old",
+              "description": "matching placebo\n\nplacebo: matching placebo"
+            },
+            {
+              "id": "OG002",
+              "title": "Cohort 2: SDX/d-MPH in 6-12 Year Old",
+              "description": "26.1 mg/5.2 mg SDX/d-MPH, 39.2 mg/7.8 mg SDX/d-MPH, 52.3 mg/10.4 mg SDX/d-MPH\n\nSerdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH): Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)"
+            },
+            {
+              "id": "OG003",
+              "title": "Cohort 2: Placebo in 6-12 Year Old",
+              "description": "matching placebo\n\nplacebo: matching placebo"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "64"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "69"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "52"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "55"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-18.6",
+                      "lowerLimit": "-21.9",
+                      "upperLimit": "-15.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-4.4",
+                      "lowerLimit": "-7.4",
+                      "upperLimit": "-1.3"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-17.6",
+                      "lowerLimit": "-21.6",
+                      "upperLimit": "-13.6"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "-10.3",
+                      "lowerLimit": "-14.2",
+                      "upperLimit": "-6.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "A Comparison of the Change in Mean Clinical Global Impressions-Severity (CGI-S) Results From Baseline to End of Treatment Between Active and Placebo Treatments.",
+          "description": "The CGI-S is a clinician-rated scale that evaluates the severity of ADHD symptoms in the study on a scale from 1 (not at all ill) to 7 (among the most severely ill).",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "4 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Cohort 1: SDX/d-MPH in 4-5 Year Old",
+              "description": "13.1 mg/2.6 mg SDX/d-MPH, 26.1 mg/5.2 mg SDX/d-MPH, 39.2 mg/7.8 mg SDX/d-MPH\n\nSerdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH): Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)"
+            },
+            {
+              "id": "OG001",
+              "title": "Cohort 1: Placebo in 4-5 Year Old",
+              "description": "matching placebo\n\nplacebo: matching placebo"
+            },
+            {
+              "id": "OG002",
+              "title": "Cohort 2: SDX/d-MPH in 6-12 Year Old",
+              "description": "26.1 mg/5.2 mg SDX/d-MPH, 39.2 mg/7.8 mg SDX/d-MPH, 52.3 mg/10.4 mg SDX/d-MPH\n\nSerdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH): Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)"
+            },
+            {
+              "id": "OG003",
+              "title": "Cohort 2: Placebo in 6-12 Year Old",
+              "description": "matching placebo\n\nplacebo: matching placebo"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "57"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "66"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "52"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "55"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.6",
+                      "lowerLimit": "-1.9",
+                      "upperLimit": "-1.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-0.5",
+                      "lowerLimit": "-0.8",
+                      "upperLimit": "-0.2"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-1.0",
+                      "lowerLimit": "-1.4",
+                      "upperLimit": "-0.7"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "-0.6",
+                      "lowerLimit": "-1.0",
+                      "upperLimit": "-0.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "A Comparison of the Change in Mean Clinical Global Impressions-Improvement (CGI-I) Results From Visit 3 to End of Treatment Between Active and Placebo Treatments.",
+          "description": "The CGI-I is a clinician-rated scale that evaluates the improvement of ADHD symptoms in the study on a scale from 1 (very much improved) to 7 (very much worse).",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "3 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Cohort 1: SDX/d-MPH in 4-5 Year Old",
+              "description": "13.1 mg/2.6 mg SDX/d-MPH, 26.1 mg/5.2 mg SDX/d-MPH, 39.2 mg/7.8 mg SDX/d-MPH\n\nSerdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH): Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)"
+            },
+            {
+              "id": "OG001",
+              "title": "Cohort 1: Placebo in 4-5 Year Old",
+              "description": "matching placebo\n\nplacebo: matching placebo"
+            },
+            {
+              "id": "OG002",
+              "title": "Cohort 2: SDX/d-MPH in 6-12 Year Old",
+              "description": "26.1 mg/5.2 mg SDX/d-MPH, 39.2 mg/7.8 mg SDX/d-MPH, 52.3 mg/10.4 mg SDX/d-MPH\n\nSerdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH): Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)"
+            },
+            {
+              "id": "OG003",
+              "title": "Cohort 2: Placebo in 6-12 Year Old",
+              "description": "matching placebo\n\nplacebo: matching placebo"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "57"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "66"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "49"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.4",
+                      "lowerLimit": "2.2",
+                      "upperLimit": "2.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.7",
+                      "lowerLimit": "3.4",
+                      "upperLimit": "3.9"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "2.4",
+                      "lowerLimit": "2.0",
+                      "upperLimit": "2.7"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "3.2",
+                      "lowerLimit": "2.9",
+                      "upperLimit": "3.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "AE data were collected beginning from the time of first study drug administration through five days after the last dose of study drug. This total time period is 33 days, +/- 2 days",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Cohort 1: SDX/d-MPH in 4-5 Year Olds",
+          "description": "13.1 mg/2.6 mg SDX/d-MPH, 26.1 mg/5.2 mg SDX/d-MPH, 39.2 mg/7.8 mg SDX/d-MPH\n\nSerdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH): Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 65,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 65,
+          "otherNumAffected": 29,
+          "otherNumAtRisk": 65
+        },
+        {
+          "id": "EG001",
+          "title": "Cohort 1: Placebo in 4-5 Year Olds",
+          "description": "matching placebo dose levels\n\nplacebo: matching placebo",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 69,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 69,
+          "otherNumAffected": 15,
+          "otherNumAtRisk": 69
+        },
+        {
+          "id": "EG002",
+          "title": "Cohort 2: SDX/d-MPH in 6-12 Year Olds",
+          "description": "13.1 mg/2.6 mg SDX/d-MPH, 26.1 mg/5.2 mg SDX/d-MPH, 39.2 mg/7.8 mg SDX/d-MPH, 52.3 mg/10.4 mg SDX/d-MPH\n\nSerdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH): Serdexmethylphenidate (SDX) and dexmethylphenidate (d-MPH)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 54,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 54,
+          "otherNumAffected": 28,
+          "otherNumAtRisk": 54
+        },
+        {
+          "id": "EG003",
+          "title": "Cohort 2: Placebo in 6-12 Year Olds",
+          "description": "matching placebo dose levels\n\nplacebo: matching placebo",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 55,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 55,
+          "otherNumAffected": 11,
+          "otherNumAtRisk": 55
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Insomnia",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDRA Version 25.1",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 54
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 55
+            }
+          ]
+        },
+        {
+          "term": "Irritability",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDRA Version 25.1",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 54
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 55
+            }
+          ]
+        },
+        {
+          "term": "Gastrointestinal disorders",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA Version 25.1",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 9,
+              "numAffected": 9,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 69
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 11,
+              "numAffected": 11,
+              "numAtRisk": 54
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 55
+            }
+          ]
+        },
+        {
+          "term": "Decreased appetite",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA Version 25.1",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 7,
+              "numAffected": 7,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 69
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 11,
+              "numAffected": 11,
+              "numAtRisk": 54
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 55
+            }
+          ]
+        },
+        {
+          "term": "Infections and Infestations",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA Version 25.1",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 9,
+              "numAffected": 9,
+              "numAtRisk": 69
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 54
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 55
+            }
+          ]
+        },
+        {
+          "term": "Investigations",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA Version 25.1",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 69
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 54
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 55
+            }
+          ]
+        },
+        {
+          "term": "Nervous system disorders",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA Version 25.1",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 65
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 54
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 55
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "Institution/PI shall have the right to publish results pertaining to Institution's or PI's Study activities (individually, a \"Publication\") for their own publication objectives, provided that such Publication does not disclose Confidential Information (CI) as described in the Agreement. At least ninety (90) days prior to submission for publication, presentation or use, Institution and PI shall submit in writing to Sponsor for review and comment of any proposed oral or written Publication."
+      },
+      "pointOfContact": {
+        "title": "Ronald Tashjian",
+        "organization": "Corium, LLC",
+        "email": "rtashjian@corium.com",
+        "phone": "6172337474"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2022-11-14",
+          "uploadDate": "2025-04-03T12:57",
+          "filename": "Prot_000.pdf",
+          "size": 929670
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-01-31",
+          "uploadDate": "2025-03-31T17:03",
+          "filename": "SAP_001.pdf",
+          "size": 917340
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-04-23",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001289",
+          "term": "Attention Deficit Disorder with Hyperactivity"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D019958",
+          "term": "Attention Deficit and Disruptive Behavior Disorders"
+        },
+        {
+          "id": "D065886",
+          "term": "Neurodevelopmental Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D064699",
+          "term": "Dexmethylphenidate Hydrochloride"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D008774",
+          "term": "Methylphenidate"
+        },
+        {
+          "id": "D010648",
+          "term": "Phenylacetates"
+        },
+        {
+          "id": "D000146",
+          "term": "Acids, Carbocyclic"
+        },
+        {
+          "id": "D002264",
+          "term": "Carboxylic Acids"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D010880",
+          "term": "Piperidines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

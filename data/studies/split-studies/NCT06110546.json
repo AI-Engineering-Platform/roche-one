@@ -1,0 +1,1016 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06110546",
+      "orgStudyIdInfo": {
+        "id": "HSC-MS-22-0689"
+      },
+      "organization": {
+        "fullName": "The University of Texas Health Science Center, Houston",
+        "class": "OTHER"
+      },
+      "briefTitle": "Impact of Methadone on Prolonged Mechanical Ventilation in Patients on Continuous Treatment With Opioids",
+      "officialTitle": "Impact of Methadone on Prolonged Mechanical Ventilation in Patients on Continuous Treatment With Opioids, a Randomized Trial (IMPACTOR Study)",
+      "acronym": "IMPACTOR"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-07",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "very low recruitment",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-02-18",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-02-22",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-02-22",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-10-25",
+      "studyFirstSubmitQcDate": "2023-10-25",
+      "studyFirstPostDateStruct": {
+        "date": "2023-10-31",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-07-15",
+      "resultsFirstSubmitQcDate": "2025-07-15",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-08-01",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-07-15",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-08-01",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Pascal Kingah",
+        "investigatorTitle": "Associate Professor",
+        "investigatorAffiliation": "The University of Texas Health Science Center, Houston"
+      },
+      "leadSponsor": {
+        "name": "The University of Texas Health Science Center, Houston",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to determine the effect of methadone on the duration on mechanical ventilation in critically ill patients receiving more than 72 hours of mechanical ventilation (MV) by comparing the number of ventilator free days from enrollment to the time of discharge, to assess the safety of methadone administration in critically ill patients while in the hospital and to determine hospital length of stay from the time of enrollment to the time of discharge"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Effect of Methadone on the Duration on Mechanical Ventilation"
+      ],
+      "keywords": [
+        "opioids",
+        "mechanical ventilation"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "OTHER",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 2,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Methadone group",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: Methadone group"
+          ]
+        },
+        {
+          "label": "Non-Methadone group",
+          "type": "ACTIVE_COMPARATOR",
+          "interventionNames": [
+            "Drug: Usual care"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Methadone group",
+          "description": "Participants will be started on Methadone 5mg, 10mg or 15mg every 8 hours depending on Fentanyl drip rate (0-100mcg/hr, 100-200mcg/hr or \\>200mcg/hr) or hydromorphone drip rate (0-1.5mg/hr, 1.5-3mg/hr, or \\>3mg/hr).",
+          "armGroupLabels": [
+            "Methadone group"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Usual care",
+          "description": "Participants will receive usual care with IV Fentanyl or hydromorphone per hospital protocols",
+          "armGroupLabels": [
+            "Non-Methadone group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants on Methadone That Get Extubated",
+          "timeFrame": "from day of intubation to day 5"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Participants That Develop Prolonged Corrected QT Interval (QTC) After Administration of Methadone",
+          "timeFrame": "from first day patient given Methadone to date patient discharged or transferred from hospital (up to about 27 days after admission)"
+        },
+        {
+          "measure": "ICU Length of Stay",
+          "timeFrame": "From time of admission to ICU to time of discharge from ICU (about 27 days after admission)"
+        },
+        {
+          "measure": "ICU Mortality",
+          "timeFrame": "end of ICU stay (up to about 27 days after admission)"
+        },
+        {
+          "measure": "Hospital Length of Stay",
+          "timeFrame": "from time to admission to time of discharge from hospital (about 27 days after admission)"
+        },
+        {
+          "measure": "Hospital Mortality.",
+          "timeFrame": "end of hospital stay (up to about 27 days after admission )"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients on Intermittent mandatory ventilation (IMV) for more than 72 hours\n* Patients infused Fentanyl or Hydromorphone for more than 72 hours\n* Patients with evidence of reversal of process that caused respiratory failure, adequate oxygenation (PaO2/fraction of inspired oxygen (FiO2)\\>200; Positive end expiratory pressure (PEEP)≤8 and Ph≥7.2\n* Patients hemodynamically stable\n* Patients with a failed single or multiple attempts at spontaneous breathing trials\n\nExclusion Criteria:\n\n* Patients with history of opioid drug abuse\n* Patients receiving schedule II narcotics on a chronic basis for longer than 6 months prior to ICU admission or on other analgesic infusions other than Fentanyl or Hydromorphone\n* Patients with cervical spinal cord injury or neuromuscular disease\n* Patients with end stage liver disease at ICU admission (ie, International normalized ratio ≥2and not taking warfarin and/or a total serum bilirubin ≥1.5 times above normal limits\n* Patients with prolonged QTc interval ≥500\n* Patients with prior history of cardiac conduction defects or sudden death\n* Patients with QTc increase of ≥60 milliseconds above the value of prior EKGs measured during current ICU admission\n* Patients with more than 5 days on IV analgesia\n* Patients intubated for more than 3 days\n* Patients without feeding tubes\n* Patients not receiving enteral feeding",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Pascal Kingah, MD,MPH",
+          "affiliation": "The University of Texas Health Science Center, Houston",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "The University of Texas Health Science Center at Houston",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Of the 2 participants enrolled, 1 withdrew before randomization.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Methadone Group",
+          "description": "Methadone group: Participants will be started on Methadone 5mg, 10mg or 15mg every 8 hours depending on Fentanyl drip rate (0-100mcg/hr, 100-200mcg/hr or \\>200mcg/hr) or hydromorphone drip rate (0-1.5mg/hr, 1.5-3mg/hr, or \\>3mg/hr)."
+        },
+        {
+          "id": "FG001",
+          "title": "Non-Methadone Group",
+          "description": "Usual care: Participants will receive usual care with IV Fentanyl or hydromorphone per hospital protocols"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Includes all participants that were randomized. 0 participants were randomized to the non-methadone group arm.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Methadone Group",
+          "description": "Methadone group: Participants will be started on Methadone 5mg, 10mg or 15mg every 8 hours depending on Fentanyl drip rate (0-100mcg/hr, 100-200mcg/hr or \\>200mcg/hr) or hydromorphone drip rate (0-1.5mg/hr, 1.5-3mg/hr, or \\>3mg/hr)."
+        },
+        {
+          "id": "BG001",
+          "title": "Non-Methadone Group",
+          "description": "Usual care: Participants will receive usual care with IV Fentanyl or hydromorphone per hospital protocols"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "1"
+            },
+            {
+              "groupId": "BG001",
+              "value": "0"
+            },
+            {
+              "groupId": "BG002",
+              "value": "1"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cause of Lung Injury",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Pneumonia",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Aspiration",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Non-pulmonary Sepsis",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Other Causes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Weight",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Kilograms",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "129.9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "129.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Duration on ventilator at time of randomization",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "hours",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "78"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "78"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants on Methadone That Get Extubated",
+          "populationDescription": "0 participants were randomized to the non-methadone group arm.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "from day of intubation to day 5",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Methadone Group",
+              "description": "Methadone group: Participants will be started on Methadone 5mg, 10mg or 15mg every 8 hours depending on Fentanyl drip rate (0-100mcg/hr, 100-200mcg/hr or \\>200mcg/hr) or hydromorphone drip rate (0-1.5mg/hr, 1.5-3mg/hr, or \\>3mg/hr)."
+            },
+            {
+              "id": "OG001",
+              "title": "Non-Methadone Group",
+              "description": "Usual care: Participants will receive usual care with IV Fentanyl or hydromorphone per hospital protocols"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "1"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants That Develop Prolonged Corrected QT Interval (QTC) After Administration of Methadone",
+          "populationDescription": "0 participants were randomized to the non-methadone group arm.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "from first day patient given Methadone to date patient discharged or transferred from hospital (up to about 27 days after admission)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Methadone Group",
+              "description": "Methadone group: Participants will be started on Methadone 5mg, 10mg or 15mg every 8 hours depending on Fentanyl drip rate (0-100mcg/hr, 100-200mcg/hr or \\>200mcg/hr) or hydromorphone drip rate (0-1.5mg/hr, 1.5-3mg/hr, or \\>3mg/hr)."
+            },
+            {
+              "id": "OG001",
+              "title": "Non-Methadone Group",
+              "description": "Usual care: Participants will receive usual care with IV Fentanyl or hydromorphone per hospital protocols"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "1"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "ICU Length of Stay",
+          "populationDescription": "0 participants were randomized to the non-methadone group arm.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "days",
+          "timeFrame": "From time of admission to ICU to time of discharge from ICU (about 27 days after admission)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Methadone Group",
+              "description": "Methadone group: Participants will be started on Methadone 5mg, 10mg or 15mg every 8 hours depending on Fentanyl drip rate (0-100mcg/hr, 100-200mcg/hr or \\>200mcg/hr) or hydromorphone drip rate (0-1.5mg/hr, 1.5-3mg/hr, or \\>3mg/hr)."
+            },
+            {
+              "id": "OG001",
+              "title": "Non-Methadone Group",
+              "description": "Usual care: Participants will receive usual care with IV Fentanyl or hydromorphone per hospital protocols"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "1"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "27"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "ICU Mortality",
+          "populationDescription": "0 participants were randomized to the non-methadone group arm.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "end of ICU stay (up to about 27 days after admission)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Methadone Group",
+              "description": "Methadone group: Participants will be started on Methadone 5mg, 10mg or 15mg every 8 hours depending on Fentanyl drip rate (0-100mcg/hr, 100-200mcg/hr or \\>200mcg/hr) or hydromorphone drip rate (0-1.5mg/hr, 1.5-3mg/hr, or \\>3mg/hr)."
+            },
+            {
+              "id": "OG001",
+              "title": "Non-Methadone Group",
+              "description": "Usual care: Participants will receive usual care with IV Fentanyl or hydromorphone per hospital protocols"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "1"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Hospital Length of Stay",
+          "populationDescription": "0 participants were randomized to the non-methadone group arm.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "days",
+          "timeFrame": "from time to admission to time of discharge from hospital (about 27 days after admission)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Methadone Group",
+              "description": "Methadone group: Participants will be started on Methadone 5mg, 10mg or 15mg every 8 hours depending on Fentanyl drip rate (0-100mcg/hr, 100-200mcg/hr or \\>200mcg/hr) or hydromorphone drip rate (0-1.5mg/hr, 1.5-3mg/hr, or \\>3mg/hr)."
+            },
+            {
+              "id": "OG001",
+              "title": "Non-Methadone Group",
+              "description": "Usual care: Participants will receive usual care with IV Fentanyl or hydromorphone per hospital protocols"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "1"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "27"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Hospital Mortality.",
+          "populationDescription": "0 participants were randomized to the non-methadone group arm.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "end of hospital stay (up to about 27 days after admission )",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Methadone Group",
+              "description": "Methadone group: Participants will be started on Methadone 5mg, 10mg or 15mg every 8 hours depending on Fentanyl drip rate (0-100mcg/hr, 100-200mcg/hr or \\>200mcg/hr) or hydromorphone drip rate (0-1.5mg/hr, 1.5-3mg/hr, or \\>3mg/hr)."
+            },
+            {
+              "id": "OG001",
+              "title": "Non-Methadone Group",
+              "description": "Usual care: Participants will receive usual care with IV Fentanyl or hydromorphone per hospital protocols"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "1"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "27 days",
+      "description": "0 participants are at risk for serious adverse events, all cause mortality and other (not including serious) adverse events because 0 participants were enrolled in the Non-Methadone Group arm.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Methadone Group",
+          "description": "Methadone group: Participants will be started on Methadone 5mg, 10mg or 15mg every 8 hours depending on Fentanyl drip rate (0-100mcg/hr, 100-200mcg/hr or \\>200mcg/hr) or hydromorphone drip rate (0-1.5mg/hr, 1.5-3mg/hr, or \\>3mg/hr).",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 1,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 1,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 1
+        },
+        {
+          "id": "EG001",
+          "title": "Non-Methadone Group",
+          "description": "Usual care: Participants will receive usual care with IV Fentanyl or hydromorphone per hospital protocols",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 0,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 0,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 0
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Pascal Kingah, MD,MPH",
+        "organization": "The University of Texas Health Science Center at Houston",
+        "email": "Pascal.L.Kingah@uth.tmc.edu",
+        "phone": "713-500-6828"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-01-05",
+          "uploadDate": "2025-07-15T12:15",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 8360557
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    }
+  },
+  "hasResults": true
+}

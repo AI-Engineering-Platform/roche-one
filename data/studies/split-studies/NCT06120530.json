@@ -1,0 +1,1805 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06120530",
+      "orgStudyIdInfo": {
+        "id": "17120"
+      },
+      "organization": {
+        "fullName": "Indiana University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Intraperitoneal Bupivacaine for Pelvic Organ Prolapse",
+      "officialTitle": "Effect of Intraperitoneal Bupivacaine on Postoperative Pain Control in Patients Undergoing Pelvic Organ Prolapse Repair"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-04",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-08-16",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-03-15",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-03-15",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-07-29",
+      "studyFirstSubmitQcDate": "2023-11-06",
+      "studyFirstPostDateStruct": {
+        "date": "2023-11-07",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-03-10",
+      "resultsFirstSubmitQcDate": "2025-04-03",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-04-20",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-03",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-04-20",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "James Ryan Stewart",
+        "investigatorTitle": "Assistant Professor of Clinical Obstetrics & Gynecology",
+        "investigatorAffiliation": "Indiana University"
+      },
+      "leadSponsor": {
+        "name": "Indiana University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to evaluate the effects of 30 mL intraperitoneal Bupivacaine without epinephrine 0.25% on postoperative pain control in patients undergoing pelvic organ prolapse repair. The investigators hypothesize that use of intraperitoneal Bupivacaine will decrease postoperative pain scores and opiate consumption in the postoperative period, following pelvic organ prolapse repair."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Pelvic Organ Prolapse"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 91,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Intraperitoneal bupivacaine",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "30 mL of bupivacaine without epinephrine 0.25%",
+          "interventionNames": [
+            "Drug: Bupivacaine"
+          ]
+        },
+        {
+          "label": "placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Saline",
+          "interventionNames": [
+            "Other: Saline"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bupivacaine",
+          "description": "Intraperitoneal Bupivicaine without epinephrine 30 mg administered following completion of pelvic organ prolapse repair.",
+          "armGroupLabels": [
+            "Intraperitoneal bupivacaine"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Saline",
+          "description": "Placebo",
+          "armGroupLabels": [
+            "placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Pain Score at 4 Hours",
+          "description": "Patient pain will be measured by means of a numeric rating scale (scale from 0-10 with lower numbers indicating less pain and higher numbers indicating more pain) at 4 hours after surgical pelvic organ prolapse repair",
+          "timeFrame": "4 hours"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Pain Score at 8 Hours, 12 Hours and 24 Hours",
+          "description": "Pain scores as determined by numeric rating scale (scale from 0-10 with lower numbers indicating less pain and higher numbers indicating more pain) at approximately 8, 12 and 24 hours",
+          "timeFrame": "8 hours, 12 hours and 24 hours"
+        },
+        {
+          "measure": "Total Opiate Consumption",
+          "description": "Total opiate consumption postoperatively while inpatient as determined by morphine milligram equivalents (MME)",
+          "timeFrame": "First 24 hours postoperatively"
+        },
+        {
+          "measure": "Time to First Narcotic",
+          "description": "Time to first narcotic dose during inpatient stay",
+          "timeFrame": "Up to 24 hours"
+        },
+        {
+          "measure": "Hospital Length of Stay",
+          "description": "Hospital length of stay",
+          "timeFrame": "Up to 24 hours"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "4.1 Inclusion Criteria\n\nList the criteria:\n\n* Age \\>= 18 years\n* Access to cell phone with text messaging capabilities (for same day surgery discharge)\n* Patients undergoing pelvic organ prolapse repair with peritoneal access 4.2 Exclusion Criteria\n\nList the criteria:\n\n* Bupivacaine allergy\n* History of epilepsy or other seizure disorder\n* EKG demonstrating asymptomatic sinus bradycardia \\<40 bpm, symptomatic sinus bradycardia \\<60 bpm, first degree AV block, second degree AV block, third degree AV block, prolonged QT, atrial fibrillation, supraventricular tachycardia, or myocardial infarction\n* Chronic liver disease proved by any ALT or AST elevation greater than 2x upper limit of normal\n* Serum bilirubin elevation in excess of 5 mg/dL\n* G6PD deficiency\n* Weight less than 100 lbs\n* Chronic opiate use",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "minimumAge": "18 Years",
+      "maximumAge": "90 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "James R Stewart",
+          "affiliation": "Indiana University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "IU north",
+          "city": "Carmel",
+          "state": "Indiana",
+          "zip": "46032",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.97837,
+            "lon": -86.11804
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "22031616",
+          "type": "BACKGROUND",
+          "citation": "Melnyk M, Casey RG, Black P, Koupparis AJ. Enhanced recovery after surgery (ERAS) protocols: Time to change practice? Can Urol Assoc J. 2011 Oct;5(5):342-8. doi: 10.5489/cuaj.11002."
+        },
+        {
+          "pmid": "29995737",
+          "type": "BACKGROUND",
+          "citation": "Meyer LA, Lasala J, Iniesta MD, Nick AM, Munsell MF, Shi Q, Wang XS, Cain KE, Lu KH, Ramirez PT. Effect of an Enhanced Recovery After Surgery Program on Opioid Use and Patient-Reported Outcomes. Obstet Gynecol. 2018 Aug;132(2):281-290. doi: 10.1097/AOG.0000000000002735."
+        },
+        {
+          "pmid": "34171879",
+          "type": "BACKGROUND",
+          "citation": "Pan C, Hale D, Heit M. Enhanced Recovery Protocol Enhances Postdischarge Recovery After Laparoscopic Sacrocolpopexy. Female Pelvic Med Reconstr Surg. 2021 Nov 1;27(11):667-671. doi: 10.1097/SPV.0000000000001042."
+        },
+        {
+          "pmid": "34807884",
+          "type": "BACKGROUND",
+          "citation": "Mehr AA, Elmer-Lyon C, Maetzold E, Bradley CS, Kowalski JT. Effect of Enhanced Recovery Protocol on Opioid Use in Pelvic Organ Prolapse Surgery. Female Pelvic Med Reconstr Surg. 2021 Dec 1;27(12):e705-e709. doi: 10.1097/SPV.0000000000001114."
+        },
+        {
+          "pmid": "28889218",
+          "type": "BACKGROUND",
+          "citation": "Hota LS, Warda HA, Haviland MJ, Searle FM, Hacker MR. Opioid use following gynecologic and pelvic reconstructive surgery. Int Urogynecol J. 2018 Oct;29(10):1441-1445. doi: 10.1007/s00192-017-3474-5. Epub 2017 Sep 9."
+        },
+        {
+          "pmid": "34669653",
+          "type": "BACKGROUND",
+          "citation": "Reagan KML, Boyles SH, Brueseke TJ, Linder BJ, Willis-Gray MG, Cichowski SB, Long JB. Postoperative Opioid Prescribing After Female Pelvic Medicine and Reconstructive Surgery. Female Pelvic Med Reconstr Surg. 2021 Nov 1;27(11):643-653. doi: 10.1097/SPV.0000000000001113."
+        },
+        {
+          "pmid": "30911646",
+          "type": "BACKGROUND",
+          "citation": "Struller F, Weinreich FJ, Horvath P, Kokkalis MK, Beckert S, Konigsrainer A, Reymond MA. Peritoneal innervation: embryology and functional anatomy. Pleura Peritoneum. 2017 Dec 1;2(4):153-161. doi: 10.1515/pp-2017-0024."
+        },
+        {
+          "pmid": "14224216",
+          "type": "BACKGROUND",
+          "citation": "SHEAR L, SWARTZ C, SHINABERGER JA, BARRY KG. KINETICS OF PERITONEAL FLUID ABSORPTION IN ADULT MAN. N Engl J Med. 1965 Jan 21;272:123-7. doi: 10.1056/NEJM196501212720303. No abstract available."
+        },
+        {
+          "pmid": "10735797",
+          "type": "BACKGROUND",
+          "citation": "Moiniche S, Jorgensen H, Wetterslev J, Dahl JB. Local anesthetic infiltration for postoperative pain relief after laparoscopy: a qualitative and quantitative systematic review of intraperitoneal, port-site infiltration and mesosalpinx block. Anesth Analg. 2000 Apr;90(4):899-912. doi: 10.1097/00000539-200004000-00024."
+        },
+        {
+          "pmid": "17178187",
+          "type": "BACKGROUND",
+          "citation": "Lowenstein L, Zimmer EZ, Deutsch M, Paz Y, Yaniv D, Jakobi P. Preoperative analgesia with local lidocaine infiltration for abdominal hysterectomy pain management. Eur J Obstet Gynecol Reprod Biol. 2008 Feb;136(2):239-42. doi: 10.1016/j.ejogrb.2006.11.008. Epub 2006 Dec 18."
+        },
+        {
+          "pmid": "35759786",
+          "type": "BACKGROUND",
+          "citation": "Zacharakis D, Prodromidou A, Douligeris A, Athanasiou S, Hadzilia S, Kathopoulis N, Athanasiou V, Grigoriadis T. Preemptive Infiltration of Local Anesthetics During Vaginal Hysterectomy: A Systematic Review and Meta-analysis of Randomized Controlled Trials. Urogynecology (Phila). 2022 Oct 1;28(10):667-678. doi: 10.1097/SPV.0000000000001221. Epub 2022 Jun 27."
+        },
+        {
+          "pmid": "33224238",
+          "type": "BACKGROUND",
+          "citation": "Zahiri Sorouri Z, Milani F, Heidarzadeh A, Akhavan Azari M. Intraperitoneal Instillation of Lidocaine for Postoperative Pain Relief after Total Abdominal Hysterectomy: A Double Blinded Randomized Placebo-controlled Trial. Iran J Pharm Res. 2020 Spring;19(2):317-322. doi: 10.22037/ijpr.2020.1101084."
+        },
+        {
+          "pmid": "10320172",
+          "type": "BACKGROUND",
+          "citation": "Visalyaputra S, Lertakyamanee J, Pethpaisit N, Somprakit P, Parakkamodom S, Suwanapeum P. Intraperitoneal lidocaine decreases intraoperative pain during postpartum tubal ligation. Anesth Analg. 1999 May;88(5):1077-80. doi: 10.1097/00000539-199905000-00020."
+        },
+        {
+          "pmid": "31836291",
+          "type": "BACKGROUND",
+          "citation": "Safari S, Rokhtabnak F, Djalali Motlagh S, Ghanbari Garkani M, Pournajafian A. Effect of intraperitoneal bupivacaine on postoperative pain in laparoscopic bariatric surgeries. Surg Obes Relat Dis. 2020 Feb;16(2):299-305. doi: 10.1016/j.soard.2019.10.028. Epub 2019 Nov 7."
+        },
+        {
+          "pmid": "10714840",
+          "type": "BACKGROUND",
+          "citation": "Elhakim M, Elkott M, Ali NM, Tahoun HM. Intraperitoneal lidocaine for postoperative pain after laparoscopy. Acta Anaesthesiol Scand. 2000 Mar;44(3):280-4. doi: 10.1034/j.1399-6576.2000.440310.x."
+        },
+        {
+          "pmid": "24820093",
+          "type": "BACKGROUND",
+          "citation": "Williams DJ, Walker JD. A nomogram for calculating the maximum dose of local anaesthetic. Anaesthesia. 2014 Aug;69(8):847-53. doi: 10.1111/anae.12679. Epub 2014 May 12."
+        },
+        {
+          "pmid": "20715724",
+          "type": "BACKGROUND",
+          "citation": "Kahokehr A, Sammour T, Vather R, Taylor M, Stapelberg F, Hill AG. Systemic levels of local anaesthetic after intra-peritoneal application--a systematic review. Anaesth Intensive Care. 2010 Jul;38(4):623-38. doi: 10.1177/0310057X1003800404."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Bahrami, Z H, et al. \"Evaluation of Lidocaine and Bupivacaine in Post Operation Pain after Abdominal Hysterectomy.\" Journal of Mazandaran University of Medical Sciences, vol. 16, no. 53, Aug. 2006, pp. 1-8., http://jmums.mazums.ac.ir/article-1-899-en.html."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Shalan, Hesham, et al. \"Effect of Intraperitoneal Bupivacaine on Postoperative Pain Following Laparoscopic Pelvic Surgery.\" Gynaecological Endoscopy, vol. 11, no. 6, 2002, pp. 371-375., https://doi.org/10.1111/j.1365-2508.2002.00557.x."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Datta, Pramatha Nath, and Arijit Roy. \"Role of Intraperitoneal Instillation of Bupivacaine after Laparoscopic Cholecystectomy for Post-Operative Pain Management: A Randomized Controlled Trial.\" International Surgery Journal, vol. 7, no. 10, 2020, p. 3239., https://doi.org/10.18203/2349-2902.isj20203986."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Al Kizwini, Ghassan. \"Intra-Peritoneal Xylocaine Spraying for Postoperative Pain Control in Laparoscopic Cholecystectomy: A Prospective Study at Al-Yarmouk Teaching Hospital.\" Mustansiriya Medical Journal, vol. 16, no. 3, Dec. 2017, pp. 83-90., https://www.iasj.net/iasj/download/85fb88f576d0dfbc."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Alemrajabi, Mahdi, et al. \"Intraperitoneal Lavage with Bupivacaine 0.2% and Post-Operative Pain in Laparoscopic Colorectal Surgery: A Prospective, Double-Blind, Randomized Controlled Trial.\" Journal of Kerman University of Medical Sciences, vol. 27, no. 6, 29 Sept. 2020, pp. 510-519., https://doi.org/10.22062/JKMU.2020.91526."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Darwish, Atef M., and Zein E. Zareh Hassan. \"Intraperitoneal Bupivacaine vs. Tramadol for Pain Relief Following Day Case Laparoscopic Surgery.\" Gynaecological Endoscopy, vol. 8, no. 3, 1999, pp. 169-173., https://doi.org/10.1046/j.1365-2508.1999.00249.x."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "recruitmentDetails": "All participants underwent pelvic organ prolapse surgery at one academic medical center from August 16, 2023, to March 14, 2024.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Intraperitoneal Bupivacaine",
+          "description": "This arm received 30 mL of 0.25% bupivacaine without epinephrine via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access."
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo",
+          "description": "This arm received 30 mL of placebo (saline) via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "44"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "47"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "44"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "47"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Intraperitoneal Bupivacaine",
+          "description": "This arm received 30 mL of 0.25% bupivacaine without epinephrine via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access."
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo",
+          "description": "This arm received 30 mL of placebo (saline) via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "44"
+            },
+            {
+              "groupId": "BG001",
+              "value": "47"
+            },
+            {
+              "groupId": "BG002",
+              "value": "91"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "57.7",
+                      "spread": "12.3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "57.9",
+                      "spread": "11.7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "57.8",
+                      "spread": "12.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "47"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "91"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "43"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "89"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "88"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BMI",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kg/m^2",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "29.0",
+                      "spread": "4.68"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "28.7",
+                      "spread": "4.25"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "28.9",
+                      "spread": "4.47"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Smoking status",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Current",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "Former",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    }
+                  ]
+                },
+                {
+                  "title": "Never",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "28"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Menopausal status",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Postmenopausal",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "28"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "58"
+                    }
+                  ]
+                },
+                {
+                  "title": "Premenopausal",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "33"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Primary surgical intervention",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Uterosacral ligament suspension",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "30"
+                    }
+                  ]
+                },
+                {
+                  "title": "Sacrocolpopexy",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Concomitant surgeries",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Vaginal hysterectomy",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "30"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Laparoscopic hysterectomy",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Robotic assisted laparoscopic hysterectomy",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Salpingectomy",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "33"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Salpingo-oophorectomy",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "35"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Midurethral sling",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "59"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Urethral bulking",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Anterior colporrhaphy",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Posterior colporrhaphy",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Posterior vaginal mesh placement",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Enterocele repair",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Cystoscopy",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "47"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "91"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Suprapubic catheter",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "33"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Other",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stage of prolapse",
+          "description": "Pelvic organ prolapse is staged from 0-4 based on the maximal extent of the prolapse leading edge. Stage 0 is no prolapse. Stage 1 is defined as the most distal part of the prolapsed organ is more than 1 cm above the hymen. Stage 2 is defined as the most distal part of the prolapsed organ is between 1 cm above and 1 cm below the hymen. Stage 3 is defined as the most distal part of the prolapsed organ is more than 1 cm below the hymen, but not within 2 cm of the total vaginal length. Stage IV is defined as the most distal part of the prolapse being within 2 cm of the total vaginal length.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Stage 1",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Stage 2",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "38"
+                    }
+                  ]
+                },
+                {
+                  "title": "Stage 3",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "44"
+                    }
+                  ]
+                },
+                {
+                  "title": "Stage 4",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Pain Score at 4 Hours",
+          "description": "Patient pain will be measured by means of a numeric rating scale (scale from 0-10 with lower numbers indicating less pain and higher numbers indicating more pain) at 4 hours after surgical pelvic organ prolapse repair",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "4 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Intraperitoneal Bupivacaine",
+              "description": "This arm received 30 mL of 0.25% bupivacaine without epinephrine via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "This arm received 30 mL of placebo (saline) via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "47"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.16",
+                      "spread": "2.68"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.77",
+                      "spread": "2.52"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Pain Score at 8 Hours, 12 Hours and 24 Hours",
+          "description": "Pain scores as determined by numeric rating scale (scale from 0-10 with lower numbers indicating less pain and higher numbers indicating more pain) at approximately 8, 12 and 24 hours",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "8 hours, 12 hours and 24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Intraperitoneal Bupivacaine",
+              "description": "This arm received 30 mL of 0.25% bupivacaine without epinephrine via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "This arm received 30 mL of placebo (saline) via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "47"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "8-hour",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.27",
+                      "spread": "3.04"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.30",
+                      "spread": "2.37"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12-hour",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.84",
+                      "spread": "2.59"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.96",
+                      "spread": "1.94"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "24-hour",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.00",
+                      "spread": "2.41"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.37",
+                      "spread": "1.98"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Total Opiate Consumption",
+          "description": "Total opiate consumption postoperatively while inpatient as determined by morphine milligram equivalents (MME)",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Morphine milligram equivalents",
+          "timeFrame": "First 24 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Intraperitoneal Bupivacaine",
+              "description": "This arm received 30 mL of 0.25% bupivacaine without epinephrine via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "This arm received 30 mL of placebo (saline) via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "47"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "25.4",
+                      "spread": "22.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "22.0",
+                      "spread": "16.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time to First Narcotic",
+          "description": "Time to first narcotic dose during inpatient stay",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Minutes",
+          "timeFrame": "Up to 24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Intraperitoneal Bupivacaine",
+              "description": "This arm received 30 mL of 0.25% bupivacaine without epinephrine via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "This arm received 30 mL of placebo (saline) via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "47"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "98.0",
+                      "spread": "38.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "96.0",
+                      "spread": "28.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Hospital Length of Stay",
+          "description": "Hospital length of stay",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Days",
+          "timeFrame": "Up to 24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Intraperitoneal Bupivacaine",
+              "description": "This arm received 30 mL of 0.25% bupivacaine without epinephrine via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "This arm received 30 mL of placebo (saline) via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "47"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.0",
+                      "spread": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.0",
+                      "spread": "0.15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "up to 6 weeks after surgery",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Intraperitoneal Bupivacaine",
+          "description": "This arm received 30 mL of 0.25% bupivacaine without epinephrine via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 44,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 44,
+          "otherNumAffected": 4,
+          "otherNumAtRisk": 44
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo",
+          "description": "This arm received 30 mL of placebo (saline) via intraperitoneal lavage throughout the pelvis immediately prior to loss of peritoneal access.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 47,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 47,
+          "otherNumAffected": 1,
+          "otherNumAtRisk": 47
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Other",
+          "organSystem": "Renal and urinary disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Postoperative incomplete bladder emptying",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 47
+            }
+          ]
+        },
+        {
+          "term": "Other",
+          "organSystem": "Renal and urinary disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Postoperative acute kidney injury suspected to be from hypovolemia during surgery.",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 47
+            }
+          ]
+        },
+        {
+          "term": "Other",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Postoperative ileus",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 47
+            }
+          ]
+        },
+        {
+          "term": "Other",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Rash suspected to be from surgical drapes",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 47
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "Limitations of this study include the lack of preoperative baseline pain assessment. Additionally, because pain assessments were obtained based on surgery end time, there is likely some variability in the time interval between intervention administration and pain assessment. Lastly, time to first narcotic dose could only be assessed among those that required opioids inpatient, thus resulting in lower power."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Jose Lazaro",
+        "organization": "Indiana University School of Medicine",
+        "email": "jlazarow@iu.edu",
+        "phone": "7274241947"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-05-25",
+          "uploadDate": "2025-02-10T16:45",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 276333
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-03-26",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D056887",
+          "term": "Pelvic Organ Prolapse"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011391",
+          "term": "Prolapse"
+        },
+        {
+          "id": "D020763",
+          "term": "Pathological Conditions, Anatomical"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D002045",
+          "term": "Bupivacaine"
+        },
+        {
+          "id": "D012965",
+          "term": "Sodium Chloride"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000813",
+          "term": "Anilides"
+        },
+        {
+          "id": "D000577",
+          "term": "Amides"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D000814",
+          "term": "Aniline Compounds"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D002712",
+          "term": "Chlorides"
+        },
+        {
+          "id": "D006851",
+          "term": "Hydrochloric Acid"
+        },
+        {
+          "id": "D017606",
+          "term": "Chlorine Compounds"
+        },
+        {
+          "id": "D007287",
+          "term": "Inorganic Chemicals"
+        },
+        {
+          "id": "D017670",
+          "term": "Sodium Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

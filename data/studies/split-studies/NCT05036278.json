@@ -1,0 +1,2047 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05036278",
+      "orgStudyIdInfo": {
+        "id": "21924"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2021-006191-16",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Bayer",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Prophylaxis Regimen for Hemophilia A Patients",
+      "officialTitle": "A Multicenter, Prospective, Open-label, Clinical Study to Assess the Effect of Using a New Risk Score Approach to Select the Most Appropriate Prophylaxis Regimen for Reaching a Favorable Outcome, When Hemophilia A Patients Switch From Standard Half-life Products to Damoctocog Alfa Pegol (Jivi)",
+      "acronym": "PREDICT"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-07-28",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-09-12",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-09-12",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-09-02",
+      "studyFirstSubmitQcDate": "2021-09-02",
+      "studyFirstPostDateStruct": {
+        "date": "2021-09-05",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-09-09",
+      "resultsFirstSubmitQcDate": "2025-10-29",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-11-12",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-10-29",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-11-12",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Bayer",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Researchers are looking for a better way to treat people who have hemophilia A. Hemophilia A is a genetic bleeding disorder that is caused by the lack of a protein in the blood called \"clotting factor 8\" (FVIII). FVIII is naturally found in the blood where it causes the blood to clump together to help prevent and stop bleeding. People with lower levels of FVIII or with FVIII that does not work properly may bleed for a long time from minor wounds, have painful bleeding into joints, or have internal bleeding.\n\nThe study treatment, Jivi (also called damoctocog alfa pegol), is already available for doctors to prescribe to people with hemophilia A to treat and prevent bleeding. It works by replacing the missing FVIII, or the FVIII that does not work properly.\n\nPeople with hemophilia A need frequent injections of FVIII products into the vein. So called standard half-life (SHL) products need to be given 2 to 4 times a week for the prevention of bleeding. In recent years, new products like Jivi called extended half-life (EHL) products have become available. These products last longer in the body so that they require to be given less often with injections every 3-5 days. Thus, these treatments may be easier and more comfortable to stick to in daily life. There is no general plan concerning the best amount of treatment and the frequency of injections for the prevention of bleeding, since the severity may be different and individual risk factors have to be considered. Doctors often decide on a treatment plan based on their experience.\n\nThe main purpose of this study is to learn how well a new scoring approach works to select a treatment plan for the prevention of bleeding in people with hemophilia A who switch their treatment from SHL products to Jivi. Different types of information are used to calculate the risk score like bleeding history, certain biological factors, and physical activity of the participant.\n\nAll participants will receive Jivi for 6 months.\n\nIn the first four weeks, all participants will receive Jivi 2 times a week at a dose level of 40 IU per kilogram body weight (also known as 40 IU/kg/dose, recommended maximum dose is 6,000 IU). Then, based on their risk score, each participant will be assigned to one of three treatment plans:\n\n* participants with a high risk remain on Jivi administration 2 times a week at 40 IU/kg/dose\n* participants with a medium risk will switch to Jivi administration every 5 days at 50 IU/kg/dose\n* participants with a low risk will switch to Jivi administration every 5 days at 50 IU/kg/dose and after 4 weeks to a less frequent administration (e.g., every 7 days) at 60 IU/kg/dose To check how well the new scoring approach works for choosing the right treatment plan, researchers will look at how many participants have a favourable outcome.\n\nThis means that the participant has either fewer bleeding events vs. the pre-study treatment and takes Jivi less often or as often as the previous SHL treatment but with fewer bleeding events, or that the participant has a comparable number of bleeding events but needs to take Jivi less often than the previous treatment. Each participant will be in the study for approximately 7.5 months. During this time, 4 visits to the study site and 3 phone calls are planned. During the study, the doctors and their study team will: • do physical examinations • take blood samples • ask the participants questions about how they are feeling and what adverse events they are having. In addition, participants or their guardians are required to write down the dates of Jivi treatments and bleeding events in an electronic diary and to fill in different questionnaires on their quality of life, health status, work/ school productivity, pain, and treatment satisfaction. In addition, participants are expected to keep appointments for visits and to adhere to the assigned treatment regimen.\n\nAn adverse event is any medical problem that a participant has during a study. Doctors keep track of all adverse events that happen in studies, even if they do not think the adverse events might be related to the study treatments."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Hemophilia A",
+        "Prophylaxis of Bleeding"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 21,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Damoctocog alfa-pegol prophylaxis regimens",
+          "type": "EXPERIMENTAL",
+          "description": "Prophylaxis regimens: All participants will begin with prophylaxis 2x/week (40 IU/kg/dose (recommended maximum dose 6,000 IU)) Participants with a high risk score (\\> 4) continue on prophylaxis 2x/week (40 IU/kg/dose). Participants with a medium risk score (2 to 4) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose). Participants with a low risk score (\\< 2) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose) and then after 4 weeks to a less frequent (e.g. Q7D) regimen (60 IU/kg/dose).",
+          "interventionNames": [
+            "Biological: Damoctocog alfa-pegol is a recombinant B-domain deleted human coagulation FVIII variant site specifically conjugated with a 60 kDa, branched (30 kDa each) polyethylene glycol (PEG)."
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Damoctocog alfa-pegol is a recombinant B-domain deleted human coagulation FVIII variant site specifically conjugated with a 60 kDa, branched (30 kDa each) polyethylene glycol (PEG).",
+          "description": "Dosage Levels:\n\n* 40 IU/kg/dose two times per week\n* 50 IU/kg/dose every 5 days\n* 60 IU/kg/dose, Less frequent dosing (e.g. every 7 days), the total recommended maximum dose/infusion is 6000 IU.",
+          "armGroupLabels": [
+            "Damoctocog alfa-pegol prophylaxis regimens"
+          ],
+          "otherNames": [
+            "Jivi, BAY94-9027"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Overall Number of Participants With Favorable Outcome on the Score-assigned Prophylaxis Regimen",
+          "description": "Overall number of participants with favorable outcomes after prophylaxis regimen assignment by a risk score, based on a participant's baseline phenotypic and biologic variables, when switching from a standard half-life (SHL) product to Jivi.",
+          "timeFrame": "up to 6 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Annualized Bleeding Rate (ABR) (Total, Joint, Spontaneous)",
+          "description": "To assess the efficacy of Jivi",
+          "timeFrame": "up to 6 months"
+        },
+        {
+          "measure": "Change in Total ABR From Pre-study",
+          "description": "To assess the efficacy of Jivi compared to a previous SHL treatment.",
+          "timeFrame": "up to 6 months"
+        },
+        {
+          "measure": "Change in the Frequency of Pre-study SHL Teratment to the Frequency of Jivi Administration (Infusions/Month)",
+          "description": "To assess the frequency of Jivi administration.",
+          "timeFrame": "up to 6 months"
+        },
+        {
+          "measure": "Occurrence of Participants With 0 and ≤ 1 Spontaneous Bleeds",
+          "description": "To assess the proportion of participants with 0 and ≤ 1 spontaneous bleeds.",
+          "timeFrame": "up to 6 months"
+        },
+        {
+          "measure": "Change in Haemophilia Quality of Life Questionnaire (Haem-A-QoL or Haemo-QoL)",
+          "description": "To assess participant quality of life (QoL) and physical activity, as measured by the Patient Reported Outcomes (PROs) Hemophilia A-specific quality of life and Hemophilia-specific quality of life. This includes 41 items covering 6 domains: Physical Functioning, Role Functioning, Worry, Consequences of Bleeding, Emotional Impact, and Treatment Concerns. The Haemo-QoL Short Form contains 35 items covering 9 domains: Physical Health, View of Yourself, Family, Friends, Others, Sports, Dealing, and Treatment. A higher score on the questionnaire represents greater impairment, and a negative change from baseline represents improvement. The percentage score is sum of item scores divided by the possible range. Individual item scores range from 1 to 5.",
+          "timeFrame": "up to 6 months"
+        },
+        {
+          "measure": "Patient's Global Impression of Change (PGI-C)",
+          "description": "To assess participant quality of life (QoL) and physical activity, as measured by Patient-Reported Outcomes (PROs).",
+          "timeFrame": "up to 6 months"
+        },
+        {
+          "measure": "EuroQoL 5 Dimensions (EQ-5D-5L) Questionnaire",
+          "description": "To assess participant quality of life (QoL) and physical activity, as measured by Patient-Reported Outcomes (PROs). Change to baseline means changes between Visit 2 and Visit 6",
+          "timeFrame": "up to 6 months"
+        },
+        {
+          "measure": "Treatment Satisfaction Questionnaire for Medication (TSQM)",
+          "description": "To assess participant quality of life (QoL) and physical activity, as measured by Patient-Reported Outcomes (PROs). Score ranges from 10 (lowest satisfaction) to 100 (greatest satisfaction).",
+          "timeFrame": "up to 6 months"
+        },
+        {
+          "measure": "Work Productivity and Activity Impairment (WPAI) Questionnaire Scores",
+          "description": "Work Productivity and Activity Impairment Questionnaire scores for hemophilia effect over the last 7 days on productivity or ability at work, at school, and in regular daily activities. It ranges from 0% to 100%, where higher scores indicate greater work impairment and less productivity.\n\nTo assess participant quality of life (QoL) and physical activity, as measured by Patient Reported Outcomes (PROs). Baseline = Visit 2, Change from Baseline = Visit 6",
+          "timeFrame": "up to 6 months"
+        },
+        {
+          "measure": "Number of Target Joints and Change in Target Joint Status From Baseline",
+          "description": "To assess target joint status, per modified International Society on Thrombosis and Haemostasis (ISTH) guidelines",
+          "timeFrame": "up to 6 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants must be ≥ 12 years of age inclusive, at the time of signing the informed consent/assent.\n* Previously treated patients (≥ 150 EDs) with congenital hemophilia A.\n* Prophylaxis with any SHL FVIII product with a stable frequency for at least 6 consecutive months within the last 12 months prior to screening before entering the study and documented in medical records. Stable frequency is defined as a minimum 18 weeks of treatment in a 6 (consecutive) calendar month period in the 12 months prior to screening. Patients can be on any non-Jivi EHL between the 6-month stable SHL prophylaxis period and start of study treatment.\n* Documented bleeding rate (ABR) while on stable frequency SHL prophylaxis for at least 6 consecutive months within the last 12 months prior to screening.\n* No current evidence (≥ 0.6 BU/mL) of FVIII inhibitors. If a participant has had a positive inhibitor titer in the past (≥ 0.6 BU/mL on two occasions) but has been tolerized for at least 1 year since the last positive titer with at least 1 negative inhibitor assay test during that period, they can be enrolled. If a participant has had a positive inhibitor titer in the past (≥ 0.6 BU/mL) but did not require tolerization and has had at least 1 negative inhibitor assay test during a minimum period of at least 1 year since the last positive titer, they can be enrolled.\n* If they are human immunodeficiency virus (HIV) positive, cluster of differentiation 4 (CD4+) lymphocyte count should be \\> 200/mm\\^3 within 1 year before entering the study and documented in medical records. -\n* Participants who are willing to complete an electronic diary (eDiary).\n* Contraceptive use should be consistent with local regulations regarding the methods of contraception for those participating in clinical studies.\n* For adolescent participants (≥ 12 to \\< 18 years), a legal guardian must be available to help the study-site personnel ensure follow-up; accompany the participant to the study site on each assessment day according to the Schedule of Activities (SoA) (e.g. able to comply with scheduled visits, treatment plan, laboratory tests and other study procedures); consistently and consecutively be available to provide information on the participant using the PROs during the scheduled study visits; accurately and reliably dispense study intervention as directed.\n* For adolescent participants, a legal guardian must be able to accurately maintain the child's take-home record, including items of general health.\n\nExclusion Criteria:\n\n* Any other inherited or acquired bleeding disorder in addition to hemophilia A. Note: von Willebrand disease should be diagnosed per local clinical practice. Participants with a diagnosis of von Willebrand disease in medical records or diagnosed at the time of screening will be excluded.\n* Platelet count \\< 100,000/mm\\^3\n* Evidence of inhibitor to FVIII (≥ 0.6 BU/mL) within the last 1 year\n* The participant is currently participating in another investigational drug study or has participated in a clinical study involving an investigational drug or device within 30 days of signing informed consent.\n* The participant has a planned major surgery.\n* Documentation of missing risk score parameters other than physical activity .\n* Known hypersensitivity to the drug substance, excipients, or mouse or hamster protein.\n* Any other significant medical condition that the investigator feels would be a risk to the participant or would impede the study.\n* Close affiliation with the investigational site; e.g. a close relative of the investigator, dependent person (e.g. employee or student of the investigational site).\n* Otherwise vulnerable participants (e.g. participants who are in custody by order of an authority).\n* Judgment by the investigator that the participant should not participate in the study if the participant is unlikely to comply with study procedures (i.e. eDiary completion, clinic visits, phone updates), restrictions, and requirements.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "12 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Dr. Akshat Jain - Loma Linda University Medical Center",
+          "city": "Loma Linda",
+          "state": "California",
+          "zip": "92354",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.04835,
+            "lon": -117.26115
+          }
+        },
+        {
+          "facility": "Loma Linda University Children's Hospital - Hematology / Oncology",
+          "city": "Loma Linda",
+          "state": "California",
+          "zip": "92354",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.04835,
+            "lon": -117.26115
+          }
+        },
+        {
+          "facility": "Luskin Orthopaedic Institute for Children",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90001",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "University of Colorado | Renal Research Office",
+          "city": "Aurora",
+          "state": "Colorado",
+          "zip": "80045",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.72943,
+            "lon": -104.83192
+          }
+        },
+        {
+          "facility": "UHealth - Sylvester Comprehensive Cancer Center",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33136",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "Aflac Cancer and Blood Disorders Center - Egleston Hospital",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30301",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "Wellstar MCG Health Medical Center - Gynecology",
+          "city": "Augusta",
+          "state": "Georgia",
+          "zip": "30912",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.47097,
+            "lon": -81.97484
+          }
+        },
+        {
+          "facility": "Rush University Medical Center - Oncology",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60612",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "Stead Family Children's Hospital - Hematology / Oncology",
+          "city": "Iowa City",
+          "state": "Iowa",
+          "zip": "52240",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.66113,
+            "lon": -91.53017
+          }
+        },
+        {
+          "facility": "M Health Fairview Masonic Cancer Clinic - Clinics and Surgery Center",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "zip": "55455",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 44.97997,
+            "lon": -93.26384
+          }
+        },
+        {
+          "facility": "Rutgers Robert Wood Johnson Medical School - OBGYN",
+          "city": "New Brunswick",
+          "state": "New Jersey",
+          "zip": "08901",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.48622,
+            "lon": -74.45182
+          }
+        },
+        {
+          "facility": "Gulf States Hemophilia & Thrombophilia Center- Texas Medical Center",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "Click here to find information for studies related to Bayer products. To find this study enter the ClinicalTrials.gov identifier (NCT) number or Bayer Study Identifier (ID) in the search field.",
+          "url": "https://clinicaltrials.bayer.com"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "Availability of this study's data will later be determined according to Bayer's commitment to the EFPIA/PhRMA \"Principles for responsible clinical trial data sharing\". This pertains to scope, timepoint and process of data access. As such, Bayer commits to sharing upon request from qualified researchers patient-level clinical trial data, study-level clinical trial data, and protocols from clinical trials in patients for medicines and indications approved in the US and EU as necessary for conducting legitimate research. This applies to data on new medicines and indications that have been approved by the EU and US regulatory agencies on or after January 01, 2014.\n\nInterested researchers can use www.vivli.org to request access to anonymized patient-level data and supporting documents from clinical studies to conduct research. Information on the Bayer criteria for listing studies and other relevant information is provided in the member section of the portal."
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "A total of 21 participants were enrolled. 21 participants were assigned to treatment.",
+      "recruitmentDetails": "The study was conducted at 14 study centers in the US between 28 July 2022 (first particpant first visit) and 12 September 2024 (last participant last visit).",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Overall Study",
+          "description": "2x/week (40 IU/kg/dose) with Jivi for 4 weeks, continued according to assigned prophylaxis regimen."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "comment": "21",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "21"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "comment": "19",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "19"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Overall",
+          "description": "2x/week (40 IU/kg/dose) with Jivi for 4 weeks, continued according to assigned prophylaxis regimen."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "21"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Adolescents (12-17 years)",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Adults (18-64 years)",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "17"
+                    }
+                  ]
+                },
+                {
+                  "title": "From 65-84 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Overall Number of Participants With Favorable Outcome on the Score-assigned Prophylaxis Regimen",
+          "description": "Overall number of participants with favorable outcomes after prophylaxis regimen assignment by a risk score, based on a participant's baseline phenotypic and biologic variables, when switching from a standard half-life (SHL) product to Jivi.",
+          "populationDescription": "all patients enrolled, followed for at least 4 months and not having switched from the prophylaxis regimen, determined by the risk-score; This analysis included only one single arm. Within this single arm, each participant was assigned a prophylaxis regimen according to a risk score, based on a participant's phenotypic and biologic variables.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Damoctocog Alfa-pegol Prophylaxis Regimens",
+              "description": "Prophylaxis regimens: All participants will begin with prophylaxis 2x/week (40 IU/kg/dose (recommended maximum dose 6,000 IU)) Participants with a high risk score (\\> 4) continue on prophylaxis 2x/week (40 IU/kg/dose). Participants with a medium risk score (2 to 4) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose). Participants with a low risk score (\\< 2) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose) and then after 4 weeks to a less frequent (e.g. Q7D) regimen (60 IU/kg/dose)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Annualized Bleeding Rate (ABR) (Total, Joint, Spontaneous)",
+          "description": "To assess the efficacy of Jivi",
+          "populationDescription": "all patients enrolled, followed for at least 4 months and not having switched from the prophylaxis regimen, determined by the risk-score; This analysis included only one single arm. Within this single arm, each participant was assigned a prophylaxis regimen according to a risk score, based on a participant's phenotypic and biologic variables.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "bleeds per year",
+          "timeFrame": "up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Damoctocog Alfa-pegol Prophylaxis Regimens",
+              "description": "Prophylaxis regimens: All participants will begin with prophylaxis 2x/week (40 IU/kg/dose (recommended maximum dose 6,000 IU)) Participants with a high risk score (\\> 4) continue on prophylaxis 2x/week (40 IU/kg/dose). Participants with a medium risk score (2 to 4) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose). Participants with a low risk score (\\< 2) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose) and then after 4 weeks to a less frequent (e.g. Q7D) regimen (60 IU/kg/dose)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "total bleeds",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.172",
+                      "spread": "5.516"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "joint bleeds",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.800",
+                      "spread": "4.160"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "spontaneous bleeds",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.788",
+                      "spread": "3.968"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Total ABR From Pre-study",
+          "description": "To assess the efficacy of Jivi compared to a previous SHL treatment.",
+          "populationDescription": "all patients enrolled, followed for at least 4 months and not having switched from the prophylaxis regimen, determined by the risk-score; This analysis included only one single arm. Within this single arm, each participant was assigned a prophylaxis regimen according to a risk score, based on a participant's phenotypic and biologic variables.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "bleeds per year",
+          "timeFrame": "up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Damoctocog Alfa-pegol Prophylaxis Regimens",
+              "description": "Prophylaxis regimens: All participants will begin with prophylaxis 2x/week (40 IU/kg/dose (recommended maximum dose 6,000 IU)) Participants with a high risk score (\\> 4) continue on prophylaxis 2x/week (40 IU/kg/dose). Participants with a medium risk score (2 to 4) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose). Participants with a low risk score (\\< 2) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose) and then after 4 weeks to a less frequent (e.g. Q7D) regimen (60 IU/kg/dose)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-8.005",
+                      "spread": "15.242"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in the Frequency of Pre-study SHL Teratment to the Frequency of Jivi Administration (Infusions/Month)",
+          "description": "To assess the frequency of Jivi administration.",
+          "populationDescription": "all patients enrolled, followed for at least 4 months; This analysis included only one single arm. Within this single arm, each participant was assigned a prophylaxis regimen according to a risk score, based on a participant's phenotypic and biologic variables.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "infusions per month",
+          "timeFrame": "up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Damoctocog Alfa-pegol Prophylaxis Regimens",
+              "description": "Prophylaxis regimens: All participants will begin with prophylaxis 2x/week (40 IU/kg/dose (recommended maximum dose 6,000 IU)) Participants with a high risk score (\\> 4) continue on prophylaxis 2x/week (40 IU/kg/dose). Participants with a medium risk score (2 to 4) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose). Participants with a low risk score (\\< 2) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose) and then after 4 weeks to a less frequent (e.g. Q7D) regimen (60 IU/kg/dose)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-6.876",
+                      "spread": "4.7557"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Occurrence of Participants With 0 and ≤ 1 Spontaneous Bleeds",
+          "description": "To assess the proportion of participants with 0 and ≤ 1 spontaneous bleeds.",
+          "populationDescription": "All participants enrolled and followed for at least 4 months; This analysis included only one single arm. Within this single arm, each participant was assigned a prophylaxis regimen according to a risk score, based on a participant's phenotypic and biologic variables.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Damoctocog Alfa-pegol Prophylaxis Regimens",
+              "description": "Prophylaxis regimens: All participants will begin with prophylaxis 2x/week (40 IU/kg/dose (recommended maximum dose 6,000 IU)) Participants with a high risk score (\\> 4) continue on prophylaxis 2x/week (40 IU/kg/dose). Participants with a medium risk score (2 to 4) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose). Participants with a low risk score (\\< 2) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose) and then after 4 weeks to a less frequent (e.g. Q7D) regimen (60 IU/kg/dose)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "0 spontaneous bleed",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "<=1 spontaneous bleeds",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Haemophilia Quality of Life Questionnaire (Haem-A-QoL or Haemo-QoL)",
+          "description": "To assess participant quality of life (QoL) and physical activity, as measured by the Patient Reported Outcomes (PROs) Hemophilia A-specific quality of life and Hemophilia-specific quality of life. This includes 41 items covering 6 domains: Physical Functioning, Role Functioning, Worry, Consequences of Bleeding, Emotional Impact, and Treatment Concerns. The Haemo-QoL Short Form contains 35 items covering 9 domains: Physical Health, View of Yourself, Family, Friends, Others, Sports, Dealing, and Treatment. A higher score on the questionnaire represents greater impairment, and a negative change from baseline represents improvement. The percentage score is sum of item scores divided by the possible range. Individual item scores range from 1 to 5.",
+          "populationDescription": "All participants enrolled and followed for at least 4 months, only 10 participants completed this patient-reported outcome; This analysis included only one single arm. Within this single arm, each participant was assigned a prophylaxis regimen according to a risk score, based on a participant's phenotypic and biologic variables.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Percentage of scores on a scale",
+          "timeFrame": "up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Damoctocog Alfa-pegol Prophylaxis Regimens",
+              "description": "Prophylaxis regimens: All participants will begin with prophylaxis 2x/week (40 IU/kg/dose (recommended maximum dose 6,000 IU)) Participants with a high risk score (\\> 4) continue on prophylaxis 2x/week (40 IU/kg/dose). Participants with a medium risk score (2 to 4) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose). Participants with a low risk score (\\< 2) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose) and then after 4 weeks to a less frequent (e.g. Q7D) regimen (60 IU/kg/dose)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Visit 2 (Baseline)",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "31.5",
+                      "spread": "16.38"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change from baseline at visit 6",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-4.7",
+                      "spread": "11.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Patient's Global Impression of Change (PGI-C)",
+          "description": "To assess participant quality of life (QoL) and physical activity, as measured by Patient-Reported Outcomes (PROs).",
+          "populationDescription": "All participants enrolled and followed for at least 4 months, only 9 participants completed this patient-reported outcome; This analysis included only one single arm. Within this single arm, each participant was assigned a prophylaxis regimen according to a risk score, based on a participant's phenotypic and biologic variables.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Damoctocog Alfa-pegol Prophylaxis Regimens",
+              "description": "Prophylaxis regimens: All participants will begin with prophylaxis 2x/week (40 IU/kg/dose (recommended maximum dose 6,000 IU)) Participants with a high risk score (\\> 4) continue on prophylaxis 2x/week (40 IU/kg/dose). Participants with a medium risk score (2 to 4) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose). Participants with a low risk score (\\< 2) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose) and then after 4 weeks to a less frequent (e.g. Q7D) regimen (60 IU/kg/dose)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "status minimally improved",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "status minimally worse",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "status much improved",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "status not changed",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "status very much improved",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "EuroQoL 5 Dimensions (EQ-5D-5L) Questionnaire",
+          "description": "To assess participant quality of life (QoL) and physical activity, as measured by Patient-Reported Outcomes (PROs). Change to baseline means changes between Visit 2 and Visit 6",
+          "populationDescription": "All participants enrolled and followed for at least 4 months, only 11 participants completed this patient-reported outcome; This analysis included only one single arm. Within this single arm, each participant was assigned a prophylaxis regimen according to a risk score, based on a participant's phenotypic and biologic variables.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Damoctocog Alfa-pegol Prophylaxis Regimens",
+              "description": "Prophylaxis regimens: All participants will begin with prophylaxis 2x/week (40 IU/kg/dose (recommended maximum dose 6,000 IU)) Participants with a high risk score (\\> 4) continue on prophylaxis 2x/week (40 IU/kg/dose). Participants with a medium risk score (2 to 4) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose). Participants with a low risk score (\\< 2) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose) and then after 4 weeks to a less frequent (e.g. Q7D) regimen (60 IU/kg/dose)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "walking",
+              "categories": [
+                {
+                  "title": "improved, less impaired",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "no change",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "worsened, more impaired",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "self-care",
+              "categories": [
+                {
+                  "title": "improved, less impaired",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "no change",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "worsened, more impaired",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "usual activity",
+              "categories": [
+                {
+                  "title": "improved, less impaired",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "no change",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "worsened, more impaired",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "pain or discomfort",
+              "categories": [
+                {
+                  "title": "improved, less impaired",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "no change",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "worsened, more impaired",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "anxious or depressed",
+              "categories": [
+                {
+                  "title": "improved, less impaired",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "no change",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "worsened, more impaired",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Treatment Satisfaction Questionnaire for Medication (TSQM)",
+          "description": "To assess participant quality of life (QoL) and physical activity, as measured by Patient-Reported Outcomes (PROs). Score ranges from 10 (lowest satisfaction) to 100 (greatest satisfaction).",
+          "populationDescription": "All participants enrolled and followed for at least 4 months, only 5 participants completed this patient-reported outcome; This analysis included only one single arm. Within this single arm, each participant was assigned a prophylaxis regimen according to a risk score, based on a participant's phenotypic and biologic variables.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Percentage",
+          "timeFrame": "up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Damoctocog Alfa-pegol Prophylaxis Regimens",
+              "description": "Prophylaxis regimens: All participants will begin with prophylaxis 2x/week (40 IU/kg/dose (recommended maximum dose 6,000 IU)) Participants with a high risk score (\\> 4) continue on prophylaxis 2x/week (40 IU/kg/dose). Participants with a medium risk score (2 to 4) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose). Participants with a low risk score (\\< 2) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose) and then after 4 weeks to a less frequent (e.g. Q7D) regimen (60 IU/kg/dose)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Visit 2 (baseline)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "37.9",
+                      "spread": "7.44"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change from baseline at visit 6",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.8",
+                      "spread": "6.42"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Work Productivity and Activity Impairment (WPAI) Questionnaire Scores",
+          "description": "Work Productivity and Activity Impairment Questionnaire scores for hemophilia effect over the last 7 days on productivity or ability at work, at school, and in regular daily activities. It ranges from 0% to 100%, where higher scores indicate greater work impairment and less productivity.\n\nTo assess participant quality of life (QoL) and physical activity, as measured by Patient Reported Outcomes (PROs). Baseline = Visit 2, Change from Baseline = Visit 6",
+          "populationDescription": "All participants enrolled and followed for at least 4 months, participants' number completing this patient-reported outcome varied depending on parameter;This analysis included only one single arm. Within this single arm, each participant was assigned a prophylaxis regimen according to a risk score, based on a participant's phenotypic and biologic variables.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Percentage",
+          "timeFrame": "up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Damoctocog Alfa-pegol Prophylaxis Regimens",
+              "description": "Prophylaxis regimens: All participants will begin with prophylaxis 2x/week (40 IU/kg/dose (recommended maximum dose 6,000 IU)) Participants with a high risk score (\\> 4) continue on prophylaxis 2x/week (40 IU/kg/dose). Participants with a medium risk score (2 to 4) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose). Participants with a low risk score (\\< 2) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose) and then after 4 weeks to a less frequent (e.g. Q7D) regimen (60 IU/kg/dose)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Percent Work Time Missed (baseline) 7 participants",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.8",
+                      "spread": "4.64"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Percent Work Time Missed (change from baseline) 4 participants",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19.4",
+                      "spread": "24.21"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Percent Working Impairment (baseline) 6 participants",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "26.7",
+                      "spread": "22.51"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Percent Working Impairment (change from baseline) 3 participants",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10.0",
+                      "spread": "20.00"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Percent Class Time Missed (baseline) 4 participants",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.0",
+                      "spread": "10.00"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Percent Class Time Missed (change from baseline) 2 participants",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.4",
+                      "spread": "1.96"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Percent Class Attending Impairment (baseline) 4 participants",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "15.0",
+                      "spread": "19.15"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Percent Class Attending Impairment (change) 2 participants",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "spread": "28.28"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Percent Daily Activities Impairment (baseline) 12 participants",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "33.3",
+                      "spread": "29.34"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Target Joints and Change in Target Joint Status From Baseline",
+          "description": "To assess target joint status, per modified International Society on Thrombosis and Haemostasis (ISTH) guidelines",
+          "populationDescription": "All participants enrolled and followed for at least 4 months; This analysis included only one single arm. Within this single arm, each participant was assigned a prophylaxis regimen according to a risk score, based on a participant's phenotypic and biologic variables.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Joints",
+          "timeFrame": "up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Damoctocog Alfa-pegol Prophylaxis Regimens",
+              "description": "Prophylaxis regimens: All participants will begin with prophylaxis 2x/week (40 IU/kg/dose (recommended maximum dose 6,000 IU)) Participants with a high risk score (\\> 4) continue on prophylaxis 2x/week (40 IU/kg/dose). Participants with a medium risk score (2 to 4) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose). Participants with a low risk score (\\< 2) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose) and then after 4 weeks to a less frequent (e.g. Q7D) regimen (60 IU/kg/dose)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "zero (baseline)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "one (baseline)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "two (baseline)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "three (baseline)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "four (baseline)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "minus four (change from baseline)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "minus three (change from baseline)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "minus two (change from baseline)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "minus one (change from baseline)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "zero (change from baseline)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "All Adverse events were collected from the first study intervention up to 14 days after the end of study intervention, an average of 7 months.",
+      "description": "Treatment Emergent AEs for Safety Population, i.e. all participants who have received at least one study intervention.\n\nThis analysis included only one single arm. Within this single arm, each participant was assigned a prophylaxis regimen according to a risk score, based on a participant's phenotypic and biologic variables.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Damoctocog Alfa-pegol Prophylaxis Regimens",
+          "description": "Prophylaxis regimens: All participants will begin with prophylaxis 2x/week (40 IU/kg/dose (recommended maximum dose 6,000 IU)) Participants with a high risk score (\\> 4) continue on prophylaxis 2x/week (40 IU/kg/dose). Participants with a medium risk score (2 to 4) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose). Participants with a low risk score (\\< 2) will switch after 4 weeks to prophylaxis Q5D (50 IU/kg/dose) and then after 4 weeks to a less frequent (e.g. Q7D) regimen (60 IU/kg/dose).",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 21,
+          "seriousNumAffected": 2,
+          "seriousNumAtRisk": 21,
+          "otherNumAffected": 7,
+          "otherNumAtRisk": 21
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Haemorrhage",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 21
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Pain in extremity",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 21
+            }
+          ]
+        },
+        {
+          "term": "Abdominal pain",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 21
+            }
+          ]
+        },
+        {
+          "term": "Joint swelling",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 21
+            }
+          ]
+        },
+        {
+          "term": "Injection site bruising",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 21
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 21
+            }
+          ]
+        },
+        {
+          "term": "Dizziness",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 21
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 21
+            }
+          ]
+        },
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 21
+            }
+          ]
+        },
+        {
+          "term": "Acne",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 21
+            }
+          ]
+        },
+        {
+          "term": "Arthralgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 21
+            }
+          ]
+        },
+        {
+          "term": "Urticaria",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 21
+            }
+          ]
+        },
+        {
+          "term": "Taste disorder",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 21
+            }
+          ]
+        },
+        {
+          "term": "Staphylococcal infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 21
+            }
+          ]
+        },
+        {
+          "term": "Pharyngitis streptococcal",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 21
+            }
+          ]
+        },
+        {
+          "term": "Peripheral swelling",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 21
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "Investigative Site/Institution/ Principal Investigator have the right to publish the results of their activities only in accordance with the agreement and if they do not constitute a violation of the Confidential Information. They agree to submit any proposed publication to Sponsor for review. The sponsor has the right to require removal of specifically identified Confidential Information and/or to delay the proposed Publication for an additional 30-60 days."
+      },
+      "pointOfContact": {
+        "title": "Bayer Clinical Trials Contact",
+        "organization": "Bayer AG",
+        "email": "clinical-trials-contact@bayer.com",
+        "phone": "(+) 1-888-8422937"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-10-02",
+          "uploadDate": "2025-10-29T11:27",
+          "filename": "Prot_004.pdf",
+          "size": 5667595
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-01-30",
+          "uploadDate": "2025-10-29T11:27",
+          "filename": "SAP_005.pdf",
+          "size": 669918
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-09-30",
+            "type": "ESTIMATED"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006467",
+          "term": "Hemophilia A"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D025861",
+          "term": "Blood Coagulation Disorders, Inherited"
+        },
+        {
+          "id": "D001778",
+          "term": "Blood Coagulation Disorders"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D020147",
+          "term": "Coagulation Protein Disorders"
+        },
+        {
+          "id": "D006474",
+          "term": "Hemorrhagic Disorders"
+        },
+        {
+          "id": "D030342",
+          "term": "Genetic Diseases, Inborn"
+        },
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D011092",
+          "term": "Polyethylene Glycols"
+        },
+        {
+          "id": "D005169",
+          "term": "Factor VIII"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D005026",
+          "term": "Ethylene Glycols"
+        },
+        {
+          "id": "D006018",
+          "term": "Glycols"
+        },
+        {
+          "id": "D000438",
+          "term": "Alcohols"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D011108",
+          "term": "Polymers"
+        },
+        {
+          "id": "D046911",
+          "term": "Macromolecular Substances"
+        },
+        {
+          "id": "D001697",
+          "term": "Biomedical and Dental Materials"
+        },
+        {
+          "id": "D008420",
+          "term": "Manufactured Materials"
+        },
+        {
+          "id": "D013676",
+          "term": "Technology, Industry, and Agriculture"
+        },
+        {
+          "id": "D001779",
+          "term": "Blood Coagulation Factors"
+        },
+        {
+          "id": "D001798",
+          "term": "Blood Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D011498",
+          "term": "Protein Precursors"
+        },
+        {
+          "id": "D001685",
+          "term": "Biological Factors"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

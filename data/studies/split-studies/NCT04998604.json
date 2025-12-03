@@ -1,0 +1,2913 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04998604",
+      "orgStudyIdInfo": {
+        "id": "LPS16747"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "U1111-1255-4713",
+          "type": "REGISTRY",
+          "domain": "ICTRP"
+        },
+        {
+          "id": "2021-000829-27",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Sanofi",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "EValuating trEatment RESponses of Dupilumab Versus Omalizumab in Type 2 Patients",
+      "officialTitle": "A Randomized, Double-blind, Head-to-head Comparison of Dupilumab Versus Omalizumab in Severe Chronic Rhinosinusitis With Nasal Polyps (CRSwNP) and Comorbid Asthma Patients",
+      "acronym": "EVEREST"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-09-27",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-10-16",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-12-27",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-08-09",
+      "studyFirstSubmitQcDate": "2021-08-09",
+      "studyFirstPostDateStruct": {
+        "date": "2021-08-10",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-10-08",
+      "resultsFirstSubmitQcDate": "2025-10-08",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-10-23",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-10-08",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-10-23",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Sanofi",
+        "class": "INDUSTRY"
+      },
+      "collaborators": [
+        {
+          "name": "Regeneron Pharmaceuticals",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "Primary Objective\n\n-To evaluate the efficacy of dupilumab compared to omalizumab in reducing the polyp size and improving sense of smell\n\nSecondary Objectives\n\n* To evaluate the efficacy of dupilumab in improving chronic rhinosinusitis with nasal polyps (CRSwNP) symptoms at Week 24 compared to omalizumab\n* To evaluate the efficacy of dupilumab in improving CRSwNP total symptom score (TSS) at Week 24 compared to omalizumab\n* To evaluate the effect of dupilumab on health related quality of life (HRQoL) at week 24 compared to omalizumab\n* To evaluate the efficacy of dupilumab in improving nasal peak inspiratory flow at Week 24 compared to omalizumab\n* To evaluate the effect of dupilumab on CRSwNP overall disease severity at Week 24 compared to omalizumab\n* To evaluate the safety of dupilumab and omalizumab",
+      "detailedDescription": "Study duration per participant will be 38 weeks. The study will comprise 3 periods: 28 days ± 3 days screening and run-in period; 24 weeks Randomized investigational medicinal product (IMP) intervention period; up to 12 weeks follow-up period."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Rhinosinusitis With Nasal Polyps",
+        "Asthma"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "maskingDescription": "Placebo injections will be administered as needed to blind the number of active dupilumab and omalizumab injections",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 360,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Dupilumab 300 mg Q2W",
+          "type": "EXPERIMENTAL",
+          "description": "Participants received dupilumab 300 milligrams (mg) subcutaneous (SC) injection every 2 weeks (Q2W) for 24 weeks.",
+          "interventionNames": [
+            "Drug: Dupilumab",
+            "Drug: Placebo"
+          ]
+        },
+        {
+          "label": "Omalizumab 75 to 600 mg Q2W/Q4W",
+          "type": "EXPERIMENTAL",
+          "description": "Participants received omalizumab 75 to 600 mg SC injection Q2W/every 4 weeks (Q4W) based on their serum immunoglobulin E (IgE) levels and body weight for 24 weeks.",
+          "interventionNames": [
+            "Drug: Omalizumab",
+            "Drug: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Dupilumab",
+          "description": "solution for injection subcutaneous",
+          "armGroupLabels": [
+            "Dupilumab 300 mg Q2W"
+          ],
+          "otherNames": [
+            "SAR231893 Dupixent"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Omalizumab",
+          "description": "solution for injection subcutaneous",
+          "armGroupLabels": [
+            "Omalizumab 75 to 600 mg Q2W/Q4W"
+          ],
+          "otherNames": [
+            "Xolair"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "solution for injection subcutaneous",
+          "armGroupLabels": [
+            "Dupilumab 300 mg Q2W",
+            "Omalizumab 75 to 600 mg Q2W/Q4W"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change From Baseline to Week 24 in Nasal Polyp Score",
+          "description": "The NPS was assessed by the independent physician to grade the extent/severity of nasal polyps based on evaluation by nasal endoscopy. The NPS scores for each nostril was graded based on polyp size from 0 (no polyps) to 4 (large polyps causing complete obstruction of the inferior nasal cavity). The total NPS score was calculated as the sum of right and left nostril scores and ranged from 0 (no polyps) to 8 (large polyps). Higher scores indicated more extensive or severe nasal polyps. Negative change from baseline indicated less severity of nasal polyps. Baseline was defined as the last available valid (non-missing) value up to and including the day of first administration of study treatment.",
+          "timeFrame": "Baseline (Day 1) and Week 24"
+        },
+        {
+          "measure": "Change From Baseline to Week 24 in University of Pennsylvania Smell Identification Test",
+          "description": "The UPSIT was a 40-item test to quantitatively assess human olfactory function. The UPSIT test consisted of 4 booklets, each containing 10 odorants with 1 odorant per page. The participant was asked to release the odorant by rubbing the brown-strip (contained odorant microcapsules) with the tip of a pencil and to indicate which of 4 words best described the odor. Thus, each participant received a score out of 40 possible correct answers. The total UPSIT score ranged from 0 (loss of smell/anosmia) to 40 (normal sense of smell/normosmia). Higher scores indicated better olfactory function. Positive change from baseline indicated normal olfactory function. Baseline was defined as the last available valid (non-missing) value up to and including the day of first administration of study treatment.",
+          "timeFrame": "Baseline (Day 1) and Week 24"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change From Baseline to Week 24 in the Loss of Smell Score of the Chronic Rhinosinusitis With Nasal Polyp (CRSwNP) Nasal Symptom Diary",
+          "description": "The nasal symptom diary was designed to assess the severity of chronic rhinosinusitis nasal symptoms daily. These symptoms included nasal congestion (NC)/obstruction, loss of smell, anterior rhinorrhea, and posterior rhinorrhea. The severity of loss of smell was scored by participants using a scale ranged from 0 to 3 (where, 0= no symptoms, 1= mild symptoms, 2= moderate symptoms and 3= severe symptoms that were hard to tolerate, caused interference with activities, or daily living). Higher scores indicated greater symptom severity. Negative change from baseline indicated less severe symptom. Baseline value was calculated by averaging the data collected/recorded from Day -6 to Day 1.",
+          "timeFrame": "Baseline (average of Day -6 to Day 1) and Week 24"
+        },
+        {
+          "measure": "Change From Baseline to Week 24 in the Nasal Congestion Score of the Chronic Rhinosinusitis With Nasal Polyp Nasal Symptom Diary",
+          "description": "The nasal symptom diary was designed to assess the severity of chronic rhinosinusitis nasal symptoms daily. These symptoms included NC/obstruction, loss of smell, anterior rhinorrhea, and posterior rhinorrhea. The severity of NC was scored by participants using a scale ranged from 0 to 3 (where, 0= no symptoms, 1= mild symptoms, 2= moderate symptoms and 3= severe symptoms that were hard to tolerate, caused interference with activities, or daily living). Higher scores indicated greater symptom severity. Negative change from baseline indicated less severe symptom. Baseline value was calculated by averaging the data collected/recorded from Day -6 to Day 1.",
+          "timeFrame": "Baseline (average of Day -6 to Day 1) and Week 24"
+        },
+        {
+          "measure": "Change From Baseline to Week 24 in Total Symptom Score (TSS) Derived From the Chronic Rhinosinusitis With Nasal Polyp Nasal Symptom Diary",
+          "description": "The TSS is a composite score consisted of the following symptoms assessed daily in the morning: NC/obstruction, decreased/loss of sense of smell, and rhinorrhea (average of anterior/posterior nasal discharge). Each item was scored on a scale ranged from 0 to 3 (where, 0= no symptoms, 1= mild symptoms, 2= moderate symptoms and 3= severe symptoms that were hard to tolerate, and caused interference with activities, or daily living). Higher score indicated greater symptom severity. The TSS score was calculated by summing the individual symptom score and ranged from 0 (no symptoms) to 9 (severe symptoms). Higher scores on the TSS indicated greater symptom severity. Negative change from baseline indicated less severe symptom. Baseline was calculated by averaging the data collected/recorded from Day -6 to Day 1.",
+          "timeFrame": "Baseline (average of Day -6 to Day 1) and Week 24"
+        },
+        {
+          "measure": "Change From Baseline to Week 24 in Sino-Nasal Outcome Test 22-Items (SNOT-22) Total Score",
+          "description": "The SNOT-22 is a patient-reported outcome questionnaire designed to assess the impact of chronic rhinosinusitis on participants' health-related quality of life. The SNOT-22 consisted of 22 items covering symptoms, social/emotional impact, productivity, and sleep consequences of chronic rhinosinusitis. Each item was rated on a 6-point Likert scale response option, score ranged from 0 (no problem) to 5 (problem as bad as it can be). The SNOT-22 total score was the sum of each item score, and it ranged from 0 (no problem) to 110 (problem as bad as it can be). Higher scores indicated greater rhinosinusitis-related health burden, meaning for this parameter lower score indicated better condition. Negative change from baseline indicated improvement in health-related quality of life. Baseline was defined as the last available valid (non-missing) value up to and including the day of first administration of study treatment.",
+          "timeFrame": "Baseline (Day 1) and Week 24"
+        },
+        {
+          "measure": "Change From Baseline to Week 24 in Sino-Nasal Outcome Test 22-Items: Nasal Domain Score",
+          "description": "SNOT-22 is a patient-reported outcome questionnaire designed to assess impact of chronic rhinosinusitis on participants' health-related quality of life. SNOT-22 was categorized into 5 domains: Nasal (items 1, 2, 3, 4, 5, 6, 7 and 12); Ear/Facial (items 8, 9, 10 and 11); Sleep (items 13, 14, 15 and 16); Function (items 17, 18 and 19); Emotion (items 20, 21 and 22). Each item of Nasal domain was rated on a 6-point Likert scale ranged from 0 (no problem) to 5 (problem as bad as it can be) with higher score indicated greater rhinosinusitis-related health burden. Total score of Nasal domain was average score of items of nasal domain, and ranged from 0 (no problem) to 5 (problem as bad as it can be), where higher score indicated greater rhinosinusitis-related health burden. Negative change from baseline indicated improvement in health-related quality of life. Baseline was defined as last available valid (non-missing) value up to and including day of first administration of study treatment.",
+          "timeFrame": "Baseline (Day 1) and Week 24"
+        },
+        {
+          "measure": "Change From Baseline to Week 24 in Nasal Peak Inspiratory Flow (NPIF)",
+          "description": "The NPIF evaluation represented a physiologic measure of the air flow through both nasal cavities during forced inspiration. The NPIF is the best validated technique for the evaluation of nasal flow through the nose. Participants were issued an NPIF meter and were instructed on the use of the device and written instructions on the use of the NPIF meter was provided. Higher NPIF values were indicative of better nasal air flow. Positive change from baseline indicated better nasal air flow. Baseline was the mean measurement recorded for the 7 days (Day -6 to Day 1) prior to first dose of study treatment.",
+          "timeFrame": "Baseline (average of Day -6 to Day 1) and Week 24"
+        },
+        {
+          "measure": "Change From Baseline to Week 24 in Rhinosinusitis Visual Analogue Scale (Rhinosinusitis VAS)",
+          "description": "The rhinosinusitis severity VAS was used to evaluate the overall severity of the rhinosinusitis. It is a recommended scale to determine the participant's disease severity and to guide the treatment for chronic rhinosinusitis. The participants were asked to answer the following question: \"How troublesome are your symptoms of your rhinosinusitis\" on a 10-centimeter VAS from 0 (not troublesome) to 10 (worst thinkable troublesome). Higher scores on the VAS score indicated more severe chronic rhinosinusitis. Negative change from baseline indicated less severity of rhinosinusitis. Baseline was defined as the last available valid (non-missing) value up to and including the day of first administration of study treatment.",
+          "timeFrame": "Baseline (Day 1) and Week 24"
+        },
+        {
+          "measure": "Number of Participants With Treatment-Emergent Adverse Events (TEAEs), Treatment-Emergent Serious Adverse Events (SAEs) and Treatment-Emergent Adverse Events of Special Interest (AESIs)",
+          "description": "An adverse event (AE) was any untoward medical occurrence in a participant or clinical study participant, temporally associated with the use of study treatment, whether or not considered related to the study treatment. An SAE was defined as any AE that at any dose resulted in death, was life-threatening, required inpatient hospitalization or prolongation of existing hospitalization, resulted in persistent or significant disability/incapacity, was a congenital anomaly/birth defect, or was an important medical event. An AESI was an AE (serious or nonserious) of scientific and medical concern specific to the Sponsor's product or program, for which ongoing monitoring and immediate notification by the Investigator to the Sponsor was required. The TEAEs was defined as an AEs that occurred from the first administration of the study treatment (on Day 1) up to 98 days after the last dose of study treatment administration.",
+          "timeFrame": "From first dose of study treatment administration (Day 1) up to 98 days after the last dose of study treatment administration (considering the maximum duration of treatment exposure) i.e., up to approximately 329 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Participant must be at least 18 (or the legal age of consent in the jurisdiction in which the study is taking place) years of age inclusive, at the time of signing the informed consent.\n* Participants with bilateral sino-nasal polyposis, that despite prior treatment with Systemic corticosteroids (SCS) anytime within the past 2 years; and/or medical contraindication/intolerance to SCS; and/or prior surgery for NP have:\n\n  * An endoscopic bilateral NPS of at least 5 out of a maximum score of 8 (with a minimum score of 2 in each nasal cavity) at visit 1; AND\n  * Ongoing symptoms of Nasal congestion/blockade/obstruction and loss of smell for at least 8 weeks before screening (Visit 1), AND\n  * Nasal congestion/blockade/obstruction and a weekly average severity greater than 1 in the 7 days before randomization (Visit 2) AND\n  * loss of smell symptom severity score 2 or 3 at screening (Visit 1) and a weekly average severity of greater than 1 in the 7 days before randomization (Visit 2).\n* Participants with a physician diagnosis of asthma based on the Global Initiative for Asthma (GINA) 2020 treated with low, medium or high dose inhaled corticosteroids (ICS) and a second controller (ie, LABA), a third controller is allowed but not mandatory. The dose regimen was to be stable for at least 1 month before Visit 1 (screening visit) and during the screening and run-in period.\n* Asthma Control Questionnaire 5-question version (ACQ-5) score ≥1.5 at Visits 1 or 2.\n* Treatment with intranasal mometasone ≥200 μg once daily (QD) (or equivalent of another INCS) for 1 month prior to Visit 1 and during the run-in period (for CRSwNP).\n* Eligibility as per omalizumab drug-dosing table (serum IgE level ≥30 to ≤1500 IU/mL and body weight ≥30 to ≤150 kg) and ability to be dosed per the dosing table.\n\nExclusion Criteria:\n\nParticipants were excluded from the study if any of the following criteria apply:\n\n* Participants who underwent any sinus intranasal surgery (including polypectomy) within 6 months before Visit 1.\n* Participants who had a sino-nasal surgery changing the lateral wall structure of the nose, making impossible the evaluation of NPS.\n* Participants with conditions/concomitant diseases making them non evaluable at Visit 1 or for the primary efficacy endpoint such as: Antrochoanal polyps, Nasal septal deviation that would occlude at least one nostril, Acute sinusitis, nasal infection, or upper respiratory infection.\n* Severe asthma exacerbation requiring treatment with SCS in the last 4 weeks prior to Visit 1 and during screening.\n* Severe concomitant illness(es) that, in the Investigator's judgment, would adversely affect the participant's participation in the study\n* Diagnosed with, suspected of, or at high risk of endoparasitic infection, and/or use of antiparasitic drugs within 2 weeks before Visit 1 (screening visit) or during the screening and run-in period.\n* History of human immunodeficiency virus (HIV) infection or positive HIV 1/2 serology at Visit 1 (screening visit).\n* Known or suspected immunodeficiency, including history of invasive opportunistic infections\n* Active malignancy or history of malignancy within 5 years before Visit 1 (screening visit), except completely treated in situ carcinoma of the cervix and completely treated and resolved non metastatic squamous or basal cell carcinoma of the skin.\n* History of systemic hypersensitivity or anaphylaxis to dupilumab and omalizumab, including any excipient\n* Treatment with a live (attenuated) vaccine within 4 weeks before Visit 1 (screening visit).\n\nThe above information is not intended to contain all considerations relevant to a participant's potential participation in a clinical trial.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Cedars Sinai Medical Center Site Number : 8400026",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90048",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Asthma Allergy & Immunology Clinical Research Unit Site Number : 8400027",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33613",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Northwestern University Site Number : 8400001",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60611",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "University of Illinois",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60612",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "Advanced ENT and Allergy Site Number : 8400013",
+          "city": "Louisville",
+          "state": "Kentucky",
+          "zip": "40220",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.25424,
+            "lon": -85.75941
+          }
+        },
+        {
+          "facility": "University of Missouri Health Care - University Hospital Site Number : 8400016",
+          "city": "Columbia",
+          "state": "Missouri",
+          "zip": "65212",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.95171,
+            "lon": -92.33407
+          }
+        },
+        {
+          "facility": "Northwell Health Site Number : 8400044",
+          "city": "Great Neck",
+          "state": "New York",
+          "zip": "11021",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.80066,
+            "lon": -73.72846
+          }
+        },
+        {
+          "facility": "University of Rochester Site Number : 8400015",
+          "city": "Rochester",
+          "state": "New York",
+          "zip": "14642",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.15478,
+            "lon": -77.61556
+          }
+        },
+        {
+          "facility": "Cleveland Clinic Foundation Site Number : 8400029",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.4995,
+            "lon": -81.69541
+          }
+        },
+        {
+          "facility": "Optimed Research, LTD Site Number : 8400014",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43235",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        },
+        {
+          "facility": "Allergy, Asthma and Clinical Research Center Site Number : 8400037",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73120",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.46756,
+            "lon": -97.51643
+          }
+        },
+        {
+          "facility": "Essential Medical Research, LLC Site Number : 8400024",
+          "city": "Tulsa",
+          "state": "Oklahoma",
+          "zip": "74137",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.15398,
+            "lon": -95.99277
+          }
+        },
+        {
+          "facility": "Oregon Health & Science University Site Number : 8400031",
+          "city": "Portland",
+          "state": "Oregon",
+          "zip": "97239",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 45.52345,
+            "lon": -122.67621
+          }
+        },
+        {
+          "facility": "University of Texas Health Science Center- Site Number : 8400019",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Chryaslis Clinical Research Site Number : 8400017",
+          "city": "St. George",
+          "state": "Utah",
+          "zip": "84790",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.10415,
+            "lon": -113.58412
+          }
+        },
+        {
+          "facility": "Eastern Virginia Medical School Site Number : 8400010",
+          "city": "Norfolk",
+          "state": "Virginia",
+          "zip": "23507",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.84681,
+            "lon": -76.28522
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 0560001",
+          "city": "Ghent",
+          "zip": "9000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.05,
+            "lon": 3.71667
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 0560002",
+          "city": "Leuven",
+          "zip": "3000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.87959,
+            "lon": 4.70093
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 0560003",
+          "city": "Woluwe-Saint-Lambert",
+          "zip": "1200",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.84389,
+            "lon": 4.42912
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1240004",
+          "city": "London",
+          "state": "Ontario",
+          "zip": "N6A 5A5",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 42.98339,
+            "lon": -81.23304
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1240002",
+          "city": "Montreal",
+          "state": "Quebec",
+          "zip": "H4A 3J1",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.50884,
+            "lon": -73.58781
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1240003",
+          "city": "Québec",
+          "zip": "G1V 4G5",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 46.81228,
+            "lon": -71.21454
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2030007",
+          "city": "Benešov",
+          "zip": "256 01",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 49.78162,
+            "lon": 14.68697
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2030001",
+          "city": "Hradec Králové",
+          "zip": "50005",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.20923,
+            "lon": 15.83277
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2030003",
+          "city": "Ostrava - Poruba",
+          "zip": "70852",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Investigational Site Number : 2030002",
+          "city": "Pardubice",
+          "zip": "53203",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.04075,
+            "lon": 15.77659
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2030012",
+          "city": "Pilsen",
+          "zip": "30599",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 49.74747,
+            "lon": 13.37759
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2030010",
+          "city": "Prague",
+          "zip": "10034",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.08804,
+            "lon": 14.42076
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2030006",
+          "city": "Prague",
+          "zip": "12808",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.08804,
+            "lon": 14.42076
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2030008",
+          "city": "Prague",
+          "zip": "14059",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.08804,
+            "lon": 14.42076
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2030004",
+          "city": "Praha 5 - Motole",
+          "zip": "15006",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Investigational Site Number : 2080003",
+          "city": "Aarhus",
+          "zip": "8200",
+          "country": "Denmark",
+          "geoPoint": {
+            "lat": 56.15674,
+            "lon": 10.21076
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2080001",
+          "city": "Copenhagen",
+          "zip": "2100",
+          "country": "Denmark",
+          "geoPoint": {
+            "lat": 55.67594,
+            "lon": 12.56553
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2460003",
+          "city": "Helsinki",
+          "zip": "00029 HUS",
+          "country": "Finland",
+          "geoPoint": {
+            "lat": 60.16952,
+            "lon": 24.93545
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2460002",
+          "city": "Tampere",
+          "zip": "33520",
+          "country": "Finland",
+          "geoPoint": {
+            "lat": 61.49911,
+            "lon": 23.78712
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2500009",
+          "city": "Créteil",
+          "zip": "94010",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.79266,
+            "lon": 2.46569
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2500006",
+          "city": "La Roche-sur-Yon",
+          "zip": "85925",
+          "country": "France",
+          "geoPoint": {
+            "lat": 46.66974,
+            "lon": -1.42757
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2500008",
+          "city": "Le Kremlin-Bicêtre",
+          "zip": "94275",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.81471,
+            "lon": 2.36073
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2500002",
+          "city": "Lille",
+          "zip": "59037",
+          "country": "France",
+          "geoPoint": {
+            "lat": 50.63391,
+            "lon": 3.05512
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2500004",
+          "city": "Marseille",
+          "zip": "13005",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.29695,
+            "lon": 5.38107
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2500005",
+          "city": "Montpellier",
+          "zip": "34295",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.61093,
+            "lon": 3.87635
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2500007",
+          "city": "Toulouse",
+          "zip": "31059",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.60426,
+            "lon": 1.44367
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2760002",
+          "city": "Berlin",
+          "zip": "13353",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2760004",
+          "city": "Düsseldorf",
+          "zip": "40225",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.22172,
+            "lon": 6.77616
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2760003",
+          "city": "München",
+          "zip": "81377",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.60698,
+            "lon": 13.31243
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2760001",
+          "city": "Münster",
+          "zip": "48149",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.96236,
+            "lon": 7.62571
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3480007",
+          "city": "Budapest",
+          "zip": "1083",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.49835,
+            "lon": 19.04045
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3480004",
+          "city": "Budapest",
+          "zip": "1115",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.49835,
+            "lon": 19.04045
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3480005",
+          "city": "Debrecen",
+          "zip": "4026",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.53167,
+            "lon": 21.62444
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3480006",
+          "city": "Edelény",
+          "zip": "3780",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 48.3,
+            "lon": 20.73333
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3480002",
+          "city": "Pécs",
+          "zip": "7621",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 46.07617,
+            "lon": 18.22814
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3480001",
+          "city": "Szeged",
+          "zip": "6725",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 46.253,
+            "lon": 20.14824
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3800002",
+          "city": "Rome",
+          "state": "Lazio",
+          "zip": "00168",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 41.89193,
+            "lon": 12.51133
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3800001",
+          "city": "Rozzano",
+          "state": "Lombardy",
+          "zip": "20089",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.38193,
+            "lon": 9.1559
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3800003",
+          "city": "Catania",
+          "zip": "95123",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 37.49223,
+            "lon": 15.07041
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3800004",
+          "city": "Florence",
+          "zip": "50134",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 43.77925,
+            "lon": 11.24626
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3800006",
+          "city": "Milan",
+          "zip": "20132",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 42.78235,
+            "lon": 12.59836
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3800005",
+          "city": "Varese",
+          "zip": "21100",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.82058,
+            "lon": 8.82511
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 4840003",
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "zip": "44100",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 20.67738,
+            "lon": -103.34749
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 4840002",
+          "city": "Chihuahua City",
+          "zip": "31000",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 28.63528,
+            "lon": -106.08889
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 4840004",
+          "city": "Durango",
+          "zip": "34000",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 24.02032,
+            "lon": -104.65756
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6160004",
+          "city": "Poznan",
+          "state": "Greater Poland Voivodeship",
+          "zip": "60-693",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 52.40692,
+            "lon": 16.92993
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6160008",
+          "city": "Warsaw",
+          "state": "Masovian Voivodeship",
+          "zip": "04-141",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 52.22977,
+            "lon": 21.01178
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6160005",
+          "city": "Katowice",
+          "state": "Silesian Voivodeship",
+          "zip": "40-611",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.2597,
+            "lon": 19.02173
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6160001",
+          "city": "Krakow",
+          "zip": "30-033",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.06143,
+            "lon": 19.93658
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6160007",
+          "city": "Lodz",
+          "zip": "90141",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.77058,
+            "lon": 19.47395
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6160006",
+          "city": "Środa Wielkopolska",
+          "zip": "63000",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 52.22843,
+            "lon": 17.27617
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6200005",
+          "city": "Almada",
+          "zip": "2801-951",
+          "country": "Portugal",
+          "geoPoint": {
+            "lat": 38.67902,
+            "lon": -9.1569
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6200003",
+          "city": "Aveiro",
+          "zip": "3814-501",
+          "country": "Portugal",
+          "geoPoint": {
+            "lat": 40.64575,
+            "lon": -8.64643
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6200006",
+          "city": "Guimarães",
+          "zip": "4810-061",
+          "country": "Portugal",
+          "geoPoint": {
+            "lat": 41.44443,
+            "lon": -8.29619
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6200001",
+          "city": "Matosinhos Municipality",
+          "zip": "4454-509",
+          "country": "Portugal",
+          "geoPoint": {
+            "lat": 41.18207,
+            "lon": -8.68908
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6200007",
+          "city": "Santa Maria da Feira",
+          "zip": "4520-211",
+          "country": "Portugal",
+          "geoPoint": {
+            "lat": 40.92726,
+            "lon": -8.54839
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6420002",
+          "city": "Brasov",
+          "zip": "500283",
+          "country": "Romania",
+          "geoPoint": {
+            "lat": 45.64861,
+            "lon": 25.60613
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6420004",
+          "city": "Craiova",
+          "zip": "200222",
+          "country": "Romania",
+          "geoPoint": {
+            "lat": 44.31667,
+            "lon": 23.8
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 7240001",
+          "city": "Seville",
+          "state": "Andalusia",
+          "zip": "41009",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.38283,
+            "lon": -5.97317
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 7240005",
+          "city": "Barcelona",
+          "state": "Barcelona [Barcelona]",
+          "zip": "08036",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 7240008",
+          "city": "L'Hospitalet de Llobregat",
+          "state": "Barcelona [Barcelona]",
+          "zip": "08907",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.35967,
+            "lon": 2.10028
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 7240003",
+          "city": "Jerez de la Frontera",
+          "state": "Cádiz",
+          "zip": "11407",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 36.68645,
+            "lon": -6.13606
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 7240007",
+          "city": "Majadahonda",
+          "state": "Madrid",
+          "zip": "28222",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.47353,
+            "lon": -3.87182
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 7240004",
+          "city": "Madrid / Madrid",
+          "state": "Madrid, Comunidad de",
+          "zip": "28040",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 7240006",
+          "city": "Pamplona",
+          "state": "Navarre",
+          "zip": "31080",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 42.81687,
+            "lon": -1.64323
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 7520003",
+          "city": "Gothenburg",
+          "zip": "413 45",
+          "country": "Sweden",
+          "geoPoint": {
+            "lat": 57.70716,
+            "lon": 11.96679
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 7520002",
+          "city": "Lund",
+          "zip": "221 85",
+          "country": "Sweden",
+          "geoPoint": {
+            "lat": 55.70584,
+            "lon": 13.19321
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 7520001",
+          "city": "Stockholm",
+          "zip": "171 76",
+          "country": "Sweden",
+          "geoPoint": {
+            "lat": 59.32938,
+            "lon": 18.06871
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 8260003",
+          "city": "Wigan",
+          "state": "Lancashire",
+          "zip": "WN6 9EP",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.54296,
+            "lon": -2.63706
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 8260002",
+          "city": "Manchester",
+          "zip": "M23 9LT",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.48095,
+            "lon": -2.23743
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 8260001",
+          "city": "Newcastle upon Tyne",
+          "zip": "NE7 7DN",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 54.97328,
+            "lon": -1.61396
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "41033334",
+          "type": "DERIVED",
+          "citation": "De Corso E, Canonica GW, Heffler E, Springer M, Grzegorzek T, Viana M, Horvath Z, Mullol J, Gevaert P, Michel J, Peters AT, Wagenmann M, Zaghloul S, Zhang M, Corbett M, Nash S, Angello JT, Radwan A, Deniz Y, Martin A, Hellings PW. Dupilumab versus omalizumab in patients with chronic rhinosinusitis with nasal polyps and coexisting asthma (EVEREST): a multicentre, randomised, double-blind, head-to-head phase 4 trial. Lancet Respir Med. 2025 Sep 28:S2213-2600(25)00287-5. doi: 10.1016/S2213-2600(25)00287-5. Online ahead of print."
+        },
+        {
+          "pmid": "35837739",
+          "type": "DERIVED",
+          "citation": "De Prado Gomez PharmD MSc L, Khan Mbbs Mph AH, Peters Md AT, Bachert Md PhD C, Wagenmann Md M, Heffler Md PhD E, Hopkins BMBCh C, Hellings Md PhD PW, Zhang PhD M, Xing PhD J, Rowe Md P, Jacob-Nara Md Mph DHSc JA. Efficacy and Safety of Dupilumab Versus Omalizumab in Chronic Rhinosinusitis With Nasal Polyps and Asthma: EVEREST Trial Design. Am J Rhinol Allergy. 2022 Nov;36(6):788-795. doi: 10.1177/19458924221112211. Epub 2022 Jul 15."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "LPS16747 Chronic Rhinosinusitis with Nasal Polyps Dupilumab Trial website",
+          "url": "https://www.sanofistudies.com/1GHY/"
+        },
+        {
+          "label": "LPS16747 Plain Language Results Summary",
+          "url": "https://sanofi.trialsummaries.com/Study/StudyDetails?id=25289&tenant=MT_SNY_9011"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Qualified researchers may request access to patient level data and related study documents including the clinical study report, study protocol with any amendments, blank case report form, statistical analysis plan, and dataset specifications. Patient level data will be anonymized and study documents will be redacted to protect the privacy of trial participants. Further details on Sanofi's data sharing criteria, eligible studies, and process for requesting access can be found at: https://vivli.org"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "A total of 360 participants were randomized in a 1:1 ratio to receive either dupilumab or omalizumab in the study. Randomization was stratified by prior surgery for nasal polyp, inhaled corticosteroids (ICS) doses (low versus medium/high dose ICS), presence of aspirin-exacerbated respiratory disease (AERD) and region \\[Eastern European (EE) versus Rest of the World (ROW)\\].",
+      "recruitmentDetails": "The study was conducted at 87 active centers in 17 countries. A total of 819 participants were screened between 27 September 2021 and 25 April 2024, of which 459 participants were screen failures. Screen failures were mainly due to not meeting eligibility criteria.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Dupilumab 300 mg Q2W",
+          "description": "Participants received dupilumab 300 milligrams (mg) subcutaneous (SC) injection every 2 weeks (Q2W) for 24 weeks."
+        },
+        {
+          "id": "FG001",
+          "title": "Omalizumab 75 to 600 mg Q2W/Q4W",
+          "description": "Participants received omalizumab 75 to 600 mg SC injection Q2W/every 4 weeks (Q4W) based on their serum immunoglobulin E (IgE) levels and body weight for 24 weeks."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "181"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "179"
+                }
+              ]
+            },
+            {
+              "type": "Randomized and Treated",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "179"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "173"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "174"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "165"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "14"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                }
+              ]
+            },
+            {
+              "type": "Not related to coronavirus disease 2019 pandemic",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "The intent-to-treat (ITT) analysis set included all randomized participants.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Dupilumab 300 mg Q2W",
+          "description": "Participants received dupilumab 300 mg SC injection Q2W for 24 weeks."
+        },
+        {
+          "id": "BG001",
+          "title": "Omalizumab 75 to 600 mg Q2W/Q4W",
+          "description": "Participants received omalizumab 75 to 600 mg SC injection Q2W/Q4W based on their serum IgE levels and body weight for 24 weeks."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "181"
+            },
+            {
+              "groupId": "BG001",
+              "value": "179"
+            },
+            {
+              "groupId": "BG002",
+              "value": "360"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "181"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "179"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "360"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "51.0",
+                      "spread": "13.33"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "52.1",
+                      "spread": "12.90"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "51.5",
+                      "spread": "13.11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "181"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "179"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "360"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "74"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "88"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "162"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "107"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "91"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "198"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "181"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "179"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "360"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "171"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "170"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "341"
+                    }
+                  ]
+                },
+                {
+                  "title": "Multiple",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nasal Polyp Score (NPS)",
+          "description": "The NPS was assessed by the independent physician to grade the extent/severity of nasal polyps based on evaluation by nasal endoscopy. The NPS scores for each nostril was graded based on polyp size from 0 (no polyps) to 4 (large polyps causing complete obstruction of the inferior nasal cavity). The total NPS score was calculated as the sum of right and left nostril scores and ranged from 0 (no polyps) to 8 (large polyps). Higher scores indicated more extensive or severe nasal polyps.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "score on a scale",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "181"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "179"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "360"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6.11",
+                      "spread": "1.165"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6.15",
+                      "spread": "1.277"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6.13",
+                      "spread": "1.220"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "University of Pennsylvania Smell Identification Test (UPSIT)",
+          "description": "The UPSIT was a 40-item test to quantitatively assess human olfactory function. The UPSIT test consisted of 4 booklets, each containing 10 odorants with 1 odorant per page. The participant was asked to release the odorant by rubbing the brown-strip (contained odorant microcapsules) with the tip of a pencil and to indicate which of 4 words best described the odor. Thus, each participant received a score out of 40 possible correct answers. The total UPSIT score ranged from 0 (loss of smell/anosmia) to 40 (normal sense of smell/normosmia). Higher scores indicated better olfactory function.",
+          "populationDescription": "Only number of participants evaluable for the specified baseline measure are reported.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "score on a scale",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "180"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "175"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "355"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11.1",
+                      "spread": "5.45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11.0",
+                      "spread": "6.13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11.1",
+                      "spread": "5.79"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change From Baseline to Week 24 in Nasal Polyp Score",
+          "description": "The NPS was assessed by the independent physician to grade the extent/severity of nasal polyps based on evaluation by nasal endoscopy. The NPS scores for each nostril was graded based on polyp size from 0 (no polyps) to 4 (large polyps causing complete obstruction of the inferior nasal cavity). The total NPS score was calculated as the sum of right and left nostril scores and ranged from 0 (no polyps) to 8 (large polyps). Higher scores indicated more extensive or severe nasal polyps. Negative change from baseline indicated less severity of nasal polyps. Baseline was defined as the last available valid (non-missing) value up to and including the day of first administration of study treatment.",
+          "populationDescription": "The ITT analysis set included all randomized participants. Only participants with data collected at Week 24 are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline (Day 1) and Week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Dupilumab 300 mg Q2W",
+              "description": "Participants received dupilumab 300 mg SC injection Q2W for 24 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "Omalizumab 75 to 600 mg Q2W/Q4W",
+              "description": "Participants received omalizumab 75 to 600 mg SC injection Q2W/Q4W based on their serum IgE levels and body weight for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "172"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "165"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-2.65",
+                      "lowerLimit": "-2.95",
+                      "upperLimit": "-2.36"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-1.05",
+                      "lowerLimit": "-1.35",
+                      "upperLimit": "-0.75"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "A hierarchical testing procedure was used to control the type-I error and handle multiple secondary endpoint analysis. Testing was performed sequentially in order the endpoints were reported and continued when primary endpoint was statistically significant at 2-sided 0.05.",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "At each post-baseline visit, each of the imputed complete data was analyzed by fitting an analysis of covariance (ANCOVA) model with the corresponding baseline value, study treatment (dupilumab, omalizumab), prior surgery (yes, no), ICS doses (low, medium/high), presence of AERD (yes, no), region (EE, ROW) as covariates.",
+              "pValue": "<0.001",
+              "pValueComment": "The threshold for statistical significance was 0.05 level.",
+              "statisticalMethod": "ANCOVA",
+              "paramType": "Least squares (LS) mean difference",
+              "paramValue": "-1.60",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-1.96",
+              "ciUpperLimit": "-1.25",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "0.182"
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Change From Baseline to Week 24 in University of Pennsylvania Smell Identification Test",
+          "description": "The UPSIT was a 40-item test to quantitatively assess human olfactory function. The UPSIT test consisted of 4 booklets, each containing 10 odorants with 1 odorant per page. The participant was asked to release the odorant by rubbing the brown-strip (contained odorant microcapsules) with the tip of a pencil and to indicate which of 4 words best described the odor. Thus, each participant received a score out of 40 possible correct answers. The total UPSIT score ranged from 0 (loss of smell/anosmia) to 40 (normal sense of smell/normosmia). Higher scores indicated better olfactory function. Positive change from baseline indicated normal olfactory function. Baseline was defined as the last available valid (non-missing) value up to and including the day of first administration of study treatment.",
+          "populationDescription": "The ITT analysis set included all randomized participants. Only participants with data collected at Week 24 are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline (Day 1) and Week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Dupilumab 300 mg Q2W",
+              "description": "Participants received dupilumab 300 mg SC injection Q2W for 24 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "Omalizumab 75 to 600 mg Q2W/Q4W",
+              "description": "Participants received omalizumab 75 to 600 mg SC injection Q2W/Q4W based on their serum IgE levels and body weight for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "173"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "166"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12.7",
+                      "lowerLimit": "11.3",
+                      "upperLimit": "14.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.7",
+                      "lowerLimit": "3.2",
+                      "upperLimit": "6.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Testing according to the hierarchical testing procedure (only performed if the previous endpoint was statistically significant).",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "At each post-baseline visit, each of the imputed complete data was analyzed by fitting an ANCOVA model with the corresponding baseline value, study treatment (dupilumab, omalizumab), prior surgery (yes, no), ICS doses (low, medium/high), presence of AERD (yes, no), region (EE, ROW) as covariates.",
+              "pValue": "<0.001",
+              "pValueComment": "The threshold for statistical significance was 0.05 level.",
+              "statisticalMethod": "ANCOVA",
+              "paramType": "LS mean difference",
+              "paramValue": "8.0",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "6.3",
+              "ciUpperLimit": "9.7",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "0.88"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline to Week 24 in the Loss of Smell Score of the Chronic Rhinosinusitis With Nasal Polyp (CRSwNP) Nasal Symptom Diary",
+          "description": "The nasal symptom diary was designed to assess the severity of chronic rhinosinusitis nasal symptoms daily. These symptoms included nasal congestion (NC)/obstruction, loss of smell, anterior rhinorrhea, and posterior rhinorrhea. The severity of loss of smell was scored by participants using a scale ranged from 0 to 3 (where, 0= no symptoms, 1= mild symptoms, 2= moderate symptoms and 3= severe symptoms that were hard to tolerate, caused interference with activities, or daily living). Higher scores indicated greater symptom severity. Negative change from baseline indicated less severe symptom. Baseline value was calculated by averaging the data collected/recorded from Day -6 to Day 1.",
+          "populationDescription": "The ITT analysis set included all randomized participants. Only participants with data collected at Week 24 are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline (average of Day -6 to Day 1) and Week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Dupilumab 300 mg Q2W",
+              "description": "Participants received dupilumab 300 mg SC injection Q2W for 24 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "Omalizumab 75 to 600 mg Q2W/Q4W",
+              "description": "Participants received omalizumab 75 to 600 mg SC injection Q2W/Q4W based on their serum IgE levels and body weight for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "170"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "164"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.55",
+                      "lowerLimit": "-1.71",
+                      "upperLimit": "-1.38"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-0.74",
+                      "lowerLimit": "-0.90",
+                      "upperLimit": "-0.57"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Testing according to the hierarchical testing procedure (only performed if the previous endpoint was statistically significant).",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "Each of the imputed complete data was analyzed by fitting an ANCOVA model with the corresponding baseline value, study treatment (dupilumab, omalizumab), prior surgery (yes, no), ICS doses (low, medium/high), presence of AERD (yes, no), region (EE, ROW) as covariates.",
+              "pValue": "<0.001",
+              "pValueComment": "The threshold for statistical significance was 0.05 level.",
+              "statisticalMethod": "ANCOVA",
+              "paramType": "LS mean difference",
+              "paramValue": "-0.81",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-1.01",
+              "ciUpperLimit": "-0.61",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "0.101"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline to Week 24 in the Nasal Congestion Score of the Chronic Rhinosinusitis With Nasal Polyp Nasal Symptom Diary",
+          "description": "The nasal symptom diary was designed to assess the severity of chronic rhinosinusitis nasal symptoms daily. These symptoms included NC/obstruction, loss of smell, anterior rhinorrhea, and posterior rhinorrhea. The severity of NC was scored by participants using a scale ranged from 0 to 3 (where, 0= no symptoms, 1= mild symptoms, 2= moderate symptoms and 3= severe symptoms that were hard to tolerate, caused interference with activities, or daily living). Higher scores indicated greater symptom severity. Negative change from baseline indicated less severe symptom. Baseline value was calculated by averaging the data collected/recorded from Day -6 to Day 1.",
+          "populationDescription": "The ITT analysis set included all randomized participants. Only participants with data collected at Week 24 are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline (average of Day -6 to Day 1) and Week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Dupilumab 300 mg Q2W",
+              "description": "Participants received dupilumab 300 mg SC injection Q2W for 24 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "Omalizumab 75 to 600 mg Q2W/Q4W",
+              "description": "Participants received omalizumab 75 to 600 mg SC injection Q2W/Q4W based on their serum IgE levels and body weight for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "170"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "164"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.63",
+                      "lowerLimit": "-1.76",
+                      "upperLimit": "-1.49"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-1.05",
+                      "lowerLimit": "-1.18",
+                      "upperLimit": "-0.91"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Testing according to the hierarchical testing procedure (only performed if the previous endpoint was statistically significant).",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "Each of the imputed complete data was analyzed by fitting an ANCOVA model with the corresponding baseline value, study treatment (dupilumab, omalizumab), prior surgery (yes, no), ICS doses (low, medium/high), presence of AERD (yes, no), region (EE, ROW) as covariates.",
+              "pValue": "<0.001",
+              "pValueComment": "The threshold for statistical significance was 0.05 level.",
+              "statisticalMethod": "ANCOVA",
+              "paramType": "LS mean difference",
+              "paramValue": "-0.58",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-0.74",
+              "ciUpperLimit": "-0.42",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "0.082"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline to Week 24 in Total Symptom Score (TSS) Derived From the Chronic Rhinosinusitis With Nasal Polyp Nasal Symptom Diary",
+          "description": "The TSS is a composite score consisted of the following symptoms assessed daily in the morning: NC/obstruction, decreased/loss of sense of smell, and rhinorrhea (average of anterior/posterior nasal discharge). Each item was scored on a scale ranged from 0 to 3 (where, 0= no symptoms, 1= mild symptoms, 2= moderate symptoms and 3= severe symptoms that were hard to tolerate, and caused interference with activities, or daily living). Higher score indicated greater symptom severity. The TSS score was calculated by summing the individual symptom score and ranged from 0 (no symptoms) to 9 (severe symptoms). Higher scores on the TSS indicated greater symptom severity. Negative change from baseline indicated less severe symptom. Baseline was calculated by averaging the data collected/recorded from Day -6 to Day 1.",
+          "populationDescription": "The ITT analysis set included all randomized participants. Only participants with data collected at Week 24 are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline (average of Day -6 to Day 1) and Week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Dupilumab 300 mg Q2W",
+              "description": "Participants received dupilumab 300 mg SC injection Q2W for 24 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "Omalizumab 75 to 600 mg Q2W/Q4W",
+              "description": "Participants received omalizumab 75 to 600 mg SC injection Q2W/Q4W based on their serum IgE levels and body weight for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "170"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "164"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-4.48",
+                      "lowerLimit": "-4.82",
+                      "upperLimit": "-4.14"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-2.73",
+                      "lowerLimit": "-3.09",
+                      "upperLimit": "-2.38"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Testing according to the hierarchical testing procedure (only performed if the previous endpoint was statistically significant).",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "Each of the imputed complete data was analyzed by fitting an ANCOVA model with the corresponding baseline value, study treatment (dupilumab, omalizumab), prior surgery (yes, no), ICS doses (low, medium/high), presence of AERD (yes, no), region (EE, ROW) as covariates.",
+              "pValue": "<0.001",
+              "pValueComment": "The threshold for statistical significance was 0.05 level.",
+              "statisticalMethod": "ANCOVA",
+              "paramType": "LS mean difference",
+              "paramValue": "-1.74",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-2.15",
+              "ciUpperLimit": "-1.33",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "0.210"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline to Week 24 in Sino-Nasal Outcome Test 22-Items (SNOT-22) Total Score",
+          "description": "The SNOT-22 is a patient-reported outcome questionnaire designed to assess the impact of chronic rhinosinusitis on participants' health-related quality of life. The SNOT-22 consisted of 22 items covering symptoms, social/emotional impact, productivity, and sleep consequences of chronic rhinosinusitis. Each item was rated on a 6-point Likert scale response option, score ranged from 0 (no problem) to 5 (problem as bad as it can be). The SNOT-22 total score was the sum of each item score, and it ranged from 0 (no problem) to 110 (problem as bad as it can be). Higher scores indicated greater rhinosinusitis-related health burden, meaning for this parameter lower score indicated better condition. Negative change from baseline indicated improvement in health-related quality of life. Baseline was defined as the last available valid (non-missing) value up to and including the day of first administration of study treatment.",
+          "populationDescription": "The ITT analysis set included all randomized participants. Only participants with data collected at Week 24 are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline (Day 1) and Week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Dupilumab 300 mg Q2W",
+              "description": "Participants received dupilumab 300 mg SC injection Q2W for 24 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "Omalizumab 75 to 600 mg Q2W/Q4W",
+              "description": "Participants received omalizumab 75 to 600 mg SC injection Q2W/Q4W based on their serum IgE levels and body weight for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "161"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "158"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-44.6",
+                      "lowerLimit": "-47.9",
+                      "upperLimit": "-41.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-31.9",
+                      "lowerLimit": "-35.2",
+                      "upperLimit": "-28.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline to Week 24 in Sino-Nasal Outcome Test 22-Items: Nasal Domain Score",
+          "description": "SNOT-22 is a patient-reported outcome questionnaire designed to assess impact of chronic rhinosinusitis on participants' health-related quality of life. SNOT-22 was categorized into 5 domains: Nasal (items 1, 2, 3, 4, 5, 6, 7 and 12); Ear/Facial (items 8, 9, 10 and 11); Sleep (items 13, 14, 15 and 16); Function (items 17, 18 and 19); Emotion (items 20, 21 and 22). Each item of Nasal domain was rated on a 6-point Likert scale ranged from 0 (no problem) to 5 (problem as bad as it can be) with higher score indicated greater rhinosinusitis-related health burden. Total score of Nasal domain was average score of items of nasal domain, and ranged from 0 (no problem) to 5 (problem as bad as it can be), where higher score indicated greater rhinosinusitis-related health burden. Negative change from baseline indicated improvement in health-related quality of life. Baseline was defined as last available valid (non-missing) value up to and including day of first administration of study treatment.",
+          "populationDescription": "The ITT analysis set included all randomized participants. Only participants with data collected at Week 24 are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline (Day 1) and Week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Dupilumab 300 mg Q2W",
+              "description": "Participants received dupilumab 300 mg SC injection Q2W for 24 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "Omalizumab 75 to 600 mg Q2W/Q4W",
+              "description": "Participants received omalizumab 75 to 600 mg SC injection Q2W/Q4W based on their serum IgE levels and body weight for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "161"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "158"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-2.4",
+                      "lowerLimit": "-2.6",
+                      "upperLimit": "-2.2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-1.6",
+                      "lowerLimit": "-1.8",
+                      "upperLimit": "-1.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline to Week 24 in Nasal Peak Inspiratory Flow (NPIF)",
+          "description": "The NPIF evaluation represented a physiologic measure of the air flow through both nasal cavities during forced inspiration. The NPIF is the best validated technique for the evaluation of nasal flow through the nose. Participants were issued an NPIF meter and were instructed on the use of the device and written instructions on the use of the NPIF meter was provided. Higher NPIF values were indicative of better nasal air flow. Positive change from baseline indicated better nasal air flow. Baseline was the mean measurement recorded for the 7 days (Day -6 to Day 1) prior to first dose of study treatment.",
+          "populationDescription": "The ITT analysis set included all randomized participants. Only participants with data collected at Week 24 are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Liters per minute",
+          "timeFrame": "Baseline (average of Day -6 to Day 1) and Week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Dupilumab 300 mg Q2W",
+              "description": "Participants received dupilumab 300 mg SC injection Q2W for 24 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "Omalizumab 75 to 600 mg Q2W/Q4W",
+              "description": "Participants received omalizumab 75 to 600 mg SC injection Q2W/Q4W based on their serum IgE levels and body weight for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "169"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "163"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "68.96",
+                      "lowerLimit": "60.90",
+                      "upperLimit": "77.02"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "37.69",
+                      "lowerLimit": "29.28",
+                      "upperLimit": "46.09"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline to Week 24 in Rhinosinusitis Visual Analogue Scale (Rhinosinusitis VAS)",
+          "description": "The rhinosinusitis severity VAS was used to evaluate the overall severity of the rhinosinusitis. It is a recommended scale to determine the participant's disease severity and to guide the treatment for chronic rhinosinusitis. The participants were asked to answer the following question: \"How troublesome are your symptoms of your rhinosinusitis\" on a 10-centimeter VAS from 0 (not troublesome) to 10 (worst thinkable troublesome). Higher scores on the VAS score indicated more severe chronic rhinosinusitis. Negative change from baseline indicated less severity of rhinosinusitis. Baseline was defined as the last available valid (non-missing) value up to and including the day of first administration of study treatment.",
+          "populationDescription": "The ITT analysis set included all randomized participants. Only participants with data collected at Week 24 are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Baseline (Day 1) and Week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Dupilumab 300 mg Q2W",
+              "description": "Participants received dupilumab 300 mg SC injection Q2W for 24 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "Omalizumab 75 to 600 mg Q2W/Q4W",
+              "description": "Participants received omalizumab 75 to 600 mg SC injection Q2W/Q4W based on their serum IgE levels and body weight for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "161"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "158"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-5.43",
+                      "lowerLimit": "-5.96",
+                      "upperLimit": "-4.90"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-3.56",
+                      "lowerLimit": "-4.11",
+                      "upperLimit": "-3.01"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Treatment-Emergent Adverse Events (TEAEs), Treatment-Emergent Serious Adverse Events (SAEs) and Treatment-Emergent Adverse Events of Special Interest (AESIs)",
+          "description": "An adverse event (AE) was any untoward medical occurrence in a participant or clinical study participant, temporally associated with the use of study treatment, whether or not considered related to the study treatment. An SAE was defined as any AE that at any dose resulted in death, was life-threatening, required inpatient hospitalization or prolongation of existing hospitalization, resulted in persistent or significant disability/incapacity, was a congenital anomaly/birth defect, or was an important medical event. An AESI was an AE (serious or nonserious) of scientific and medical concern specific to the Sponsor's product or program, for which ongoing monitoring and immediate notification by the Investigator to the Sponsor was required. The TEAEs was defined as an AEs that occurred from the first administration of the study treatment (on Day 1) up to 98 days after the last dose of study treatment administration.",
+          "populationDescription": "The Safety analysis set included all randomized participants who received at least 1 dose of study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From first dose of study treatment administration (Day 1) up to 98 days after the last dose of study treatment administration (considering the maximum duration of treatment exposure) i.e., up to approximately 329 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Dupilumab 300 mg Q2W",
+              "description": "Participants received dupilumab 300 mg SC injection Q2W for 24 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "Omalizumab 75 to 600 mg Q2W/Q4W",
+              "description": "Participants received omalizumab 75 to 600 mg SC injection Q2W/Q4W based on their serum IgE levels and body weight for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "179"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "173"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Any TEAE",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "115"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "116"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Any Serious TEAE",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Any Treatment-Emergent AESI",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Serious adverse events (AEs) and other AEs were collected from first dose of study treatment administration (Day 1) up to 98 days after the last dose of study treatment administration (considering the maximum duration of treatment exposure) i.e., up to approximately 329 days. All-cause mortality (deaths) were collected from first dose of study treatment (Day 1) up to end of follow-up for death for each participant, i.e., up to approximately 39 months",
+      "description": "Analysis was performed on the safety analysis set.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Dupilumab 300 mg Q2W",
+          "description": "Participants received dupilumab 300 mg SC injection Q2W for 24 weeks.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 179,
+          "seriousNumAffected": 3,
+          "seriousNumAtRisk": 179,
+          "otherNumAffected": 48,
+          "otherNumAtRisk": 179
+        },
+        {
+          "id": "EG001",
+          "title": "Omalizumab 75 to 600 mg Q2W/Q4W",
+          "description": "Participants received omalizumab 75 to 600 mg SC injection Q2W/Q4W based on their serum IgE levels and body weight for 24 weeks.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 173,
+          "seriousNumAffected": 7,
+          "seriousNumAtRisk": 173,
+          "otherNumAffected": 53,
+          "otherNumAtRisk": 173
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Atrial Fibrillation",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 173
+            }
+          ]
+        },
+        {
+          "term": "Pancreatitis Acute",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 173
+            }
+          ]
+        },
+        {
+          "term": "Eosinophilic Granulomatosis With Polyangiitis",
+          "organSystem": "Immune system disorders",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 173
+            }
+          ]
+        },
+        {
+          "term": "Appendicitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 173
+            }
+          ]
+        },
+        {
+          "term": "Mycobacterium Avium Complex Infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 173
+            }
+          ]
+        },
+        {
+          "term": "Neuroborreliosis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 173
+            }
+          ]
+        },
+        {
+          "term": "Pneumonia",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 173
+            }
+          ]
+        },
+        {
+          "term": "Pneumonia Klebsiella",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 173
+            }
+          ]
+        },
+        {
+          "term": "Contusion",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 173
+            }
+          ]
+        },
+        {
+          "term": "Pregnancy",
+          "organSystem": "Pregnancy, puerperium and perinatal conditions",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 173
+            }
+          ]
+        },
+        {
+          "term": "Granulomatosis With Polyangiitis",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 173
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 25,
+              "numAffected": 21,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 22,
+              "numAffected": 20,
+              "numAtRisk": 173
+            }
+          ]
+        },
+        {
+          "term": "Upper Respiratory Tract Infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 12,
+              "numAffected": 10,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 8,
+              "numAffected": 8,
+              "numAtRisk": 173
+            }
+          ]
+        },
+        {
+          "term": "Accidental Overdose",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 14,
+              "numAffected": 12,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 24,
+              "numAffected": 21,
+              "numAtRisk": 173
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 12,
+              "numAffected": 10,
+              "numAtRisk": 179
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 17,
+              "numAffected": 13,
+              "numAtRisk": 173
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "The Sponsor supports publication of clinical trial results but may request that investigators temporarily delay or alter publications in order to protect proprietary information. The Sponsor may also require that the results of multicenter studies be published only in their entirety and not as individual site data."
+      },
+      "pointOfContact": {
+        "title": "Trial Transparency Team",
+        "organization": "Sanofi aventis recherche & développement",
+        "email": "Contact-US@sanofi.com",
+        "phone": "800-633-1610",
+        "phoneExt": "6#"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2024-05-14",
+          "uploadDate": "2025-10-08T08:01",
+          "filename": "Prot_000.pdf",
+          "size": 2374332
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-10-15",
+          "uploadDate": "2025-10-08T08:01",
+          "filename": "SAP_001.pdf",
+          "size": 2553440
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001249",
+          "term": "Asthma"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001982",
+          "term": "Bronchial Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D008173",
+          "term": "Lung Diseases, Obstructive"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012130",
+          "term": "Respiratory Hypersensitivity"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C582203",
+          "term": "dupilumab"
+        },
+        {
+          "id": "D000069444",
+          "term": "Omalizumab"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000888",
+          "term": "Antibodies, Anti-Idiotypic"
+        },
+        {
+          "id": "D000906",
+          "term": "Antibodies"
+        },
+        {
+          "id": "D007136",
+          "term": "Immunoglobulins"
+        },
+        {
+          "id": "D007162",
+          "term": "Immunoproteins"
+        },
+        {
+          "id": "D001798",
+          "term": "Blood Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D061067",
+          "term": "Antibodies, Monoclonal, Humanized"
+        },
+        {
+          "id": "D000911",
+          "term": "Antibodies, Monoclonal"
+        },
+        {
+          "id": "D012712",
+          "term": "Serum Globulins"
+        },
+        {
+          "id": "D005916",
+          "term": "Globulins"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

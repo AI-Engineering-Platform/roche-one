@@ -1,0 +1,1560 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04625283",
+      "orgStudyIdInfo": {
+        "id": "200210"
+      },
+      "organization": {
+        "fullName": "Vanderbilt University Medical Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "The Impact of Perioperative Ketamine Infusion on Surgical Recovery",
+      "officialTitle": "The Effect and Contribution of a Perioperative Ketamine Infusion in an Established Enhanced Recovery Pathway"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-04-12",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-01-26",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-02-01",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-11-06",
+      "studyFirstSubmitQcDate": "2020-11-06",
+      "studyFirstPostDateStruct": {
+        "date": "2020-11-12",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-12-16",
+      "resultsFirstSubmitQcDate": "2025-01-10",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-02-04",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-01-10",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-02-04",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Britany Lynn Raymond, MD",
+        "investigatorTitle": "MD, Assistant Professor, Department of Anesthesiology",
+        "investigatorAffiliation": "Vanderbilt University Medical Center"
+      },
+      "leadSponsor": {
+        "name": "Vanderbilt University Medical Center",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "In order to effectively treat surgical pain with the least amount of opioids required, a multi-modal approach must include medications with different mechanisms of actions at alternative receptors. In light of the opioid epidemic, medical providers at Vanderbilt University Medical Center (VUMC) are strategically combining these medications in a bundled pain-regimen after surgery. These regimens have been shown to decrease opioid consumption, improve surgical outcomes, and reduce hospital stays, thus coining the term 'enhanced recovery pathway'. The combination of these medications has an indisputable synergistic effect. However, it is unknown how each medication contributes individually to the overall efficacy of the pathway. This study will examine the effects of ketamine, within the constructs of a multimodal pain regimen, on a) length of stay, b) opioid consumption, and c) surgical outcomes after major abdominal surgery.",
+      "detailedDescription": "Opioids are powerful analgesic medications that can reduce pain through action at the mu receptor. Unfortunately, activation of the mu receptor also results in undesirable side effects, such as respiratory depression, sedation, bowel ileus, nausea, itching, and tolerance. Therefore, in order to effectively treat pain with the least amount of opioids required, a multi-modal approach must include medications with different mechanisms of actions at alternative receptors. Some examples of non-narcotic pain medications include acetaminophen (Tylenol), anti-inflammatories (NSAIDS), muscle relaxants, local anesthetics, gabapentinoids (Lyrica), and ketamine, to name a few. In light of the opioid epidemic, medical providers at Vanderbilt University Medical Center (VUMC) are strategically combining these medications in a bundled pain-regimen after surgery. These regimens have been shown to decrease opioid consumption, improve surgical outcomes, and reduce hospital stays, thus coining the term 'enhanced recovery pathway' or enhanced recovery after surgery (ERAS). The combination of these medications has an indisputable synergistic effect. However, it is unknown how each medication contributes individually to the overall efficacy of the pathway. Ultimately, the investigators aim to perform a series of randomized controlled trials in which we isolate each component of the pathway to investigate its effects on length of stay, total opioid consumption, and surgical outcomes. The investigators will begin with studying ketamine."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Opioid Use",
+        "Enhanced Recovery After Surgery",
+        "Anesthesia",
+        "Ketamine",
+        "Pain, Postoperative"
+      ],
+      "keywords": [
+        "ERAS",
+        "Enhanced Recovery After Surgery",
+        "Ketamine",
+        "Opioid",
+        "Learning Healthcare System"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "This study will be performed as a pragmatic controlled clinical trial with parallel group assignment. Randomization will be in a cluster format.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 1570,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Ketamine",
+          "type": "EXPERIMENTAL",
+          "description": "Participants in this arm will receive intraoperative ketamine bolus (0.5mg/kg) followed by continuous infusion 5 mcg/kg/min and also will receive postoperative ketamine infusion (2.5 mcg/kg/min, up to 100kg max) for 48 hours.",
+          "interventionNames": [
+            "Drug: Ketamine"
+          ]
+        },
+        {
+          "label": "Saline",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Participants in this arm will receive an equivalent volume of intraoperative saline bolus followed by continuous saline infusion and also will receive postoperative saline infusion for 48 hours.",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ketamine",
+          "description": "Participants in the ketamine arm will receive intraoperative and postoperative ketamine.",
+          "armGroupLabels": [
+            "Ketamine"
+          ],
+          "otherNames": [
+            "Ketalar"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Participants in the placebo arm will receive intraoperative and postoperative saline.",
+          "armGroupLabels": [
+            "Saline"
+          ],
+          "otherNames": [
+            "Saline"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Length of Stay",
+          "description": "The participants length of stay, from anesthesia beginning to discharge, measured in days",
+          "timeFrame": "From surgery start until discharge, typically 3-5 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Total Consumption of Inpatient Opioids",
+          "description": "Inpatient opioid consumption measured in morphine milligram equivalents",
+          "timeFrame": "From hospital admission until discharge, typically 3-5 days"
+        },
+        {
+          "measure": "Number of Participants With Ileus",
+          "description": "Number of participants reporting ileus requiring gastric decompression as defined by orogastric or nasogastric tube placement in the postoperative period.",
+          "timeFrame": "From hospital admission until discharge, typically 3-5 days"
+        },
+        {
+          "measure": "Number of Participants Who Encounter Rapid Response Team Activation",
+          "description": "Number of participants who encounter rapid response team activation within 72 hours post-operation. This is as a binary outcome",
+          "timeFrame": "From hospital admission until discharge, typically 3-5 days"
+        },
+        {
+          "measure": "Number of Participants Who Experienced ICU Transfer",
+          "description": "Number of participants who experienced transfer to ICU. This is as a binary outcome",
+          "timeFrame": "From hospital admission until discharge, typically 3-5 days"
+        },
+        {
+          "measure": "Number of Participants Who Experienced Adverse Side Effects",
+          "description": "Total number of side effects (hallucination, sedation, lightheadedness, patient request) as adverse reactions requiring early cessation.",
+          "timeFrame": "From hospital admission until discharge, typically 3-5 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* 18 years old or greater\n* presenting at VUMC for abdominal surgery on the colorectal, ventral hernia or surgical oncology services on a weekday.\n\nExclusion Criteria:\n\n* allergy or contraindication to ketamine\n* unable or refuse to receive a neuraxial or regional nerve block\n* patient refusal\n* direct transfer from operating room to intensive care unit with endotracheal tube placed\n* treating team elects to exclude the patient prior to study drug administration\n* abortion of planned surgical procedure",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Britany L Raymond, MD",
+          "affiliation": "Vanderbilt University Medical Center",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Vanderbilt University Medical Center",
+          "city": "Nashville",
+          "state": "Tennessee",
+          "zip": "37232",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.16589,
+            "lon": -86.78444
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "30113350",
+          "type": "BACKGROUND",
+          "citation": "Boenigk K, Echevarria GC, Nisimov E, von Bergen Granell AE, Cuff GE, Wang J, Atchabahian A. Low-dose ketamine infusion reduces postoperative hydromorphone requirements in opioid-tolerant patients following spinal fusion: A randomised controlled trial. Eur J Anaesthesiol. 2019 Jan;36(1):8-15. doi: 10.1097/EJA.0000000000000877."
+        },
+        {
+          "pmid": "26283834",
+          "type": "BACKGROUND",
+          "citation": "Kaur S, Saroa R, Aggarwal S. Effect of intraoperative infusion of low-dose ketamine on management of postoperative analgesia. J Nat Sci Biol Med. 2015 Jul-Dec;6(2):378-82. doi: 10.4103/0976-9668.160012."
+        },
+        {
+          "pmid": "23814653",
+          "type": "BACKGROUND",
+          "citation": "Kim SH, Kim SI, Ok SY, Park SY, Kim MG, Lee SJ, Noh JI, Chun HR, Suh H. Opioid sparing effect of low dose ketamine in patients with intravenous patient-controlled analgesia using fentanyl after lumbar spinal fusion surgery. Korean J Anesthesiol. 2013 Jun;64(6):524-8. doi: 10.4097/kjae.2013.64.6.524. Epub 2013 Jun 24."
+        },
+        {
+          "pmid": "22374377",
+          "type": "BACKGROUND",
+          "citation": "Suppa E, Valente A, Catarci S, Zanfini BA, Draisci G. A study of low-dose S-ketamine infusion as \"preventive\" pain treatment for cesarean section with spinal anesthesia: benefits and side effects. Minerva Anestesiol. 2012 Jul;78(7):774-81. Epub 2012 Feb 29."
+        },
+        {
+          "pmid": "19923527",
+          "type": "BACKGROUND",
+          "citation": "Remerand F, Le Tendre C, Baud A, Couvret C, Pourrat X, Favard L, Laffon M, Fusciardi J. The early and delayed analgesic effects of ketamine after total hip arthroplasty: a prospective, randomized, controlled, double-blind study. Anesth Analg. 2009 Dec;109(6):1963-71. doi: 10.1213/ANE.0b013e3181bdc8a0."
+        },
+        {
+          "pmid": "31016474",
+          "type": "BACKGROUND",
+          "citation": "Pergolizzi JV Jr, Rosenblatt M, LeQuang JA. Three Years Down the Road: The Aftermath of the CDC Guideline for Prescribing Opioids for Chronic Pain. Adv Ther. 2019 Jun;36(6):1235-1240. doi: 10.1007/s12325-019-00954-1. Epub 2019 Apr 23."
+        },
+        {
+          "pmid": "30897590",
+          "type": "BACKGROUND",
+          "citation": "Kent ML, Hurley RW, Oderda GM, Gordon DB, Sun E, Mythen M, Miller TE, Shaw AD, Gan TJ, Thacker JKM, McEvoy MD; POQI-4 Working Group. American Society for Enhanced Recovery and Perioperative Quality Initiative-4 Joint Consensus Statement on Persistent Postoperative Opioid Use: Definition, Incidence, Risk Factors, and Health Care System Initiatives. Anesth Analg. 2019 Aug;129(2):543-552. doi: 10.1213/ANE.0000000000003941."
+        },
+        {
+          "pmid": "28403427",
+          "type": "BACKGROUND",
+          "citation": "Brummett CM, Waljee JF, Goesling J, Moser S, Lin P, Englesbe MJ, Bohnert ASB, Kheterpal S, Nallamothu BK. New Persistent Opioid Use After Minor and Major Surgical Procedures in US Adults. JAMA Surg. 2017 Jun 21;152(6):e170504. doi: 10.1001/jamasurg.2017.0504. Epub 2017 Jun 21."
+        },
+        {
+          "pmid": "31017640",
+          "type": "BACKGROUND",
+          "citation": "Kurokawa Y, Kurokawa T, Tanimoto T. Opioid Prescription After Surgery. JAMA Surg. 2019 Jul 1;154(7):675. doi: 10.1001/jamasurg.2019.0573. No abstract available."
+        },
+        {
+          "pmid": "31333113",
+          "type": "BACKGROUND",
+          "citation": "Mercadante S. Opioid Analgesics Adverse Effects: The Other Side of the Coin. Curr Pharm Des. 2019;25(30):3197-3202. doi: 10.2174/1381612825666190717152226."
+        },
+        {
+          "pmid": "26855773",
+          "type": "BACKGROUND",
+          "citation": "McEvoy MD, Wanderer JP, King AB, Geiger TM, Tiwari V, Terekhov M, Ehrenfeld JM, Furman WR, Lee LA, Sandberg WS. A perioperative consult service results in reduction in cost and length of stay for colorectal surgical patients: evidence from a healthcare redesign project. Perioper Med (Lond). 2016 Feb 5;5:3. doi: 10.1186/s13741-016-0028-1. eCollection 2016."
+        },
+        {
+          "pmid": "30334161",
+          "type": "BACKGROUND",
+          "citation": "Hawkins AT, Geiger TM, King AB, Wanderer JP, Tiwari V, Muldoon RL, Ford MM, Dmochowski RR, Sandberg WS, Martin B, Hopkins MB, McEvoy MD. An enhanced recovery program in colorectal surgery is associated with decreased organ level rates of complications: a difference-in-differences analysis. Surg Endosc. 2019 Jul;33(7):2222-2230. doi: 10.1007/s00464-018-6508-2. Epub 2018 Oct 17."
+        },
+        {
+          "pmid": "29555468",
+          "type": "BACKGROUND",
+          "citation": "King AB, Spann MD, Jablonski P, Wanderer JP, Sandberg WS, McEvoy MD. An enhanced recovery program for bariatric surgical patients significantly reduces perioperative opioid consumption and postoperative nausea. Surg Obes Relat Dis. 2018 Jun;14(6):849-856. doi: 10.1016/j.soard.2018.02.010. Epub 2018 Feb 13."
+        },
+        {
+          "pmid": "29750324",
+          "type": "BACKGROUND",
+          "citation": "Li Z, Zhao Q, Bai B, Ji G, Liu Y. Enhanced Recovery After Surgery Programs for Laparoscopic Abdominal Surgery: A Systematic Review and Meta-analysis. World J Surg. 2018 Nov;42(11):3463-3473. doi: 10.1007/s00268-018-4656-0."
+        },
+        {
+          "pmid": "24368573",
+          "type": "BACKGROUND",
+          "citation": "Greco M, Capretti G, Beretta L, Gemma M, Pecorelli N, Braga M. Enhanced recovery program in colorectal surgery: a meta-analysis of randomized controlled trials. World J Surg. 2014 Jun;38(6):1531-41. doi: 10.1007/s00268-013-2416-8."
+        },
+        {
+          "pmid": "29927768",
+          "type": "BACKGROUND",
+          "citation": "Doan LV, Wang J. An Update on the Basic and Clinical Science of Ketamine Analgesia. Clin J Pain. 2018 Nov;34(11):1077-1088. doi: 10.1097/AJP.0000000000000635."
+        },
+        {
+          "pmid": "30570761",
+          "type": "BACKGROUND",
+          "citation": "Brinck EC, Tiippana E, Heesen M, Bell RF, Straube S, Moore RA, Kontinen V. Perioperative intravenous ketamine for acute postoperative pain in adults. Cochrane Database Syst Rev. 2018 Dec 20;12(12):CD012033. doi: 10.1002/14651858.CD012033.pub4."
+        },
+        {
+          "pmid": "28673215",
+          "type": "BACKGROUND",
+          "citation": "Peyton PJ, Wu C, Jacobson T, Hogg M, Zia F, Leslie K. The effect of a perioperative ketamine infusion on the incidence of chronic postsurgical pain-a pilot study. Anaesth Intensive Care. 2017 Jul;45(4):459-465. doi: 10.1177/0310057X1704500408."
+        },
+        {
+          "pmid": "29870457",
+          "type": "BACKGROUND",
+          "citation": "Schwenk ES, Viscusi ER, Buvanendran A, Hurley RW, Wasan AD, Narouze S, Bhatia A, Davis FN, Hooten WM, Cohen SP. Consensus Guidelines on the Use of Intravenous Ketamine Infusions for Acute Pain Management From the American Society of Regional Anesthesia and Pain Medicine, the American Academy of Pain Medicine, and the American Society of Anesthesiologists. Reg Anesth Pain Med. 2018 Jul;43(5):456-466. doi: 10.1097/AAP.0000000000000806."
+        },
+        {
+          "pmid": "30077280",
+          "type": "BACKGROUND",
+          "citation": "Allen CA, Ivester JR Jr. Low-Dose Ketamine for Postoperative Pain Management. J Perianesth Nurs. 2018 Aug;33(4):389-398. doi: 10.1016/j.jopan.2016.12.009. Epub 2017 Jun 10."
+        },
+        {
+          "pmid": "30745263",
+          "type": "BACKGROUND",
+          "citation": "Plyler SS, Muckler VC, Titch JF, Gupta DK, Rice AN. Low-Dose Ketamine Infusion to Decrease Postoperative Delirium for Spinal Fusion Patients. J Perianesth Nurs. 2019 Aug;34(4):779-788. doi: 10.1016/j.jopan.2018.11.009. Epub 2019 Feb 10."
+        },
+        {
+          "pmid": "40903379",
+          "type": "DERIVED",
+          "citation": "Raymond BL, Allen BFS, Freundlich RE, McEvoy MD, Parrish CG, Ruble SR, Scharfman KH, Wanderer JP, Gao Y, Choi L, Dear ML, Master H, Rice TW, Kertai MD; Vanderbilt Learning Healthcare System Platform Investigators. IMpact of PerioperAtive KeTamine on Enhanced Recovery After abdominal Surgery (IMPAKT ERAS): a pragmatic randomised single-cluster trial. Br J Anaesth. 2025 Sep 2:S0007-0912(25)00508-2. doi: 10.1016/j.bja.2025.08.001. Online ahead of print."
+        },
+        {
+          "pmid": "37391729",
+          "type": "DERIVED",
+          "citation": "Raymond BL, Allen BFS, Freundlich RE, Parrish CG, Jayaram JE, Wanderer JP, Rice TW, Lindsell CJ, Scharfman KH, Dear ML, Gao Y, Hiser WD, McEvoy MD; Vanderbilt Learning Healthcare System Platform Investigators. The IMpact of PerioperAtive KeTamine on Enhanced Recovery after Abdominal Surgery (IMPAKT ERAS): protocol for a pragmatic, randomized, double-blinded, placebo-controlled trial. BMC Anesthesiol. 2023 Jun 30;23(1):227. doi: 10.1186/s12871-023-02177-y."
+        },
+        {
+          "pmid": "36993617",
+          "type": "DERIVED",
+          "citation": "Raymond BL, Allen BFS, Freundlich RE, Parrish CG, Jayaram JE, Wanderer JP, Rice TW, Lindsell CJ, Scharfman KH, Dear ML, Gao Y, Hiser WD, McEvoy MD. The IMpact of PerioperAtive KeTamine on Enhanced Recovery after Abdominal Surgery (IMPAKT ERAS): protocol for a pragmatic, randomized, double-blinded, placebo-controlled trial. Res Sq [Preprint]. 2023 Mar 24:rs.3.rs-2639840. doi: 10.21203/rs.3.rs-2639840/v1."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "The investigators do not plan to share individual participant data."
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Ketamine",
+          "description": "Participants in this arm will receive intraoperative ketamine bolus (0.5mg/kg) followed by continuous infusion 5 mcg/kg/min and also will receive postoperative ketamine infusion (2.5 mcg/kg/min, up to 100kg max) for 48 hours.\n\nKetamine: Participants in the ketamine arm will receive intraoperative and postoperative ketamine."
+        },
+        {
+          "id": "FG001",
+          "title": "Saline",
+          "description": "Participants in this arm will receive an equivalent volume of intraoperative saline bolus followed by continuous saline infusion and also will receive postoperative saline infusion for 48 hours.\n\nPlacebo: Participants in the placebo arm will receive intraoperative and postoperative saline."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "798"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "772"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "770"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "752"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "28"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "20"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "post randomization exclusion",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "28"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "20"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Ketamine",
+          "description": "Participants in this arm will receive intraoperative ketamine bolus (0.5mg/kg) followed by continuous infusion 5 mcg/kg/min and also will receive postoperative ketamine infusion (2.5 mcg/kg/min, up to 100kg max) for 48 hours.\n\nKetamine: Participants in the ketamine arm will receive intraoperative and postoperative ketamine."
+        },
+        {
+          "id": "BG001",
+          "title": "Saline",
+          "description": "Participants in this arm will receive an equivalent volume of intraoperative saline bolus followed by continuous saline infusion and also will receive postoperative saline infusion for 48 hours.\n\nPlacebo: Participants in the placebo arm will receive intraoperative and postoperative saline."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "770"
+            },
+            {
+              "groupId": "BG001",
+              "value": "752"
+            },
+            {
+              "groupId": "BG002",
+              "value": "1522"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "58.9",
+                      "lowerLimit": "46.7",
+                      "upperLimit": "69.2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "57.8",
+                      "lowerLimit": "44.3",
+                      "upperLimit": "67.8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "58.3",
+                      "lowerLimit": "45.3",
+                      "upperLimit": "68.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "371"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "380"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "751"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "399"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "372"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "771"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "White",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "686"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "660"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1346"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Black or African American",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "58"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "67"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "125"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Asian",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Other",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hispanic/Latino",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Unknown",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "770"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "752"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1522"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opioid status",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Exposed",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "82"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "76"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "158"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Naive",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "688"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "676"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1364"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BMI (kg/m²)",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "kg/m²",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "27.3",
+                      "lowerLimit": "23.7",
+                      "upperLimit": "31.3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "27.6",
+                      "lowerLimit": "23.6",
+                      "upperLimit": "32.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "27.4",
+                      "lowerLimit": "23.6",
+                      "upperLimit": "31.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Length of Stay",
+          "description": "The participants length of stay, from anesthesia beginning to discharge, measured in days",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "days",
+          "timeFrame": "From surgery start until discharge, typically 3-5 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ketamine",
+              "description": "Participants in this arm will receive intraoperative ketamine bolus (0.5mg/kg) followed by continuous infusion 5 mcg/kg/min and also will receive postoperative ketamine infusion (2.5 mcg/kg/min, up to 100kg max) for 48 hours.\n\nKetamine: Participants in the ketamine arm will receive intraoperative and postoperative ketamine."
+            },
+            {
+              "id": "OG001",
+              "title": "Saline",
+              "description": "Participants in this arm will receive an equivalent volume of intraoperative saline bolus followed by continuous saline infusion and also will receive postoperative saline infusion for 48 hours.\n\nPlacebo: Participants in the placebo arm will receive intraoperative and postoperative saline."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "770"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "752"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.0",
+                      "lowerLimit": "4.0",
+                      "upperLimit": "8.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5.0",
+                      "lowerLimit": "3.0",
+                      "upperLimit": "7.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Total Consumption of Inpatient Opioids",
+          "description": "Inpatient opioid consumption measured in morphine milligram equivalents",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "MME",
+          "timeFrame": "From hospital admission until discharge, typically 3-5 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ketamine",
+              "description": "Participants in this arm will receive intraoperative ketamine bolus (0.5mg/kg) followed by continuous infusion 5 mcg/kg/min and also will receive postoperative ketamine infusion (2.5 mcg/kg/min, up to 100kg max) for 48 hours.\n\nKetamine: Participants in the ketamine arm will receive intraoperative and postoperative ketamine."
+            },
+            {
+              "id": "OG001",
+              "title": "Saline",
+              "description": "Participants in this arm will receive an equivalent volume of intraoperative saline bolus followed by continuous saline infusion and also will receive postoperative saline infusion for 48 hours.\n\nPlacebo: Participants in the placebo arm will receive intraoperative and postoperative saline."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "770"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "752"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "82.5",
+                      "lowerLimit": "37.5",
+                      "upperLimit": "158.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "90.0",
+                      "lowerLimit": "45.0",
+                      "upperLimit": "158.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Ileus",
+          "description": "Number of participants reporting ileus requiring gastric decompression as defined by orogastric or nasogastric tube placement in the postoperative period.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From hospital admission until discharge, typically 3-5 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ketamine",
+              "description": "Participants in this arm will receive intraoperative ketamine bolus (0.5mg/kg) followed by continuous infusion 5 mcg/kg/min and also will receive postoperative ketamine infusion (2.5 mcg/kg/min, up to 100kg max) for 48 hours.\n\nKetamine: Participants in the ketamine arm will receive intraoperative and postoperative ketamine."
+            },
+            {
+              "id": "OG001",
+              "title": "Saline",
+              "description": "Participants in this arm will receive an equivalent volume of intraoperative saline bolus followed by continuous saline infusion and also will receive postoperative saline infusion for 48 hours.\n\nPlacebo: Participants in the placebo arm will receive intraoperative and postoperative saline."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "770"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "752"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "71"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "37"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Who Encounter Rapid Response Team Activation",
+          "description": "Number of participants who encounter rapid response team activation within 72 hours post-operation. This is as a binary outcome",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From hospital admission until discharge, typically 3-5 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ketamine",
+              "description": "Participants in this arm will receive intraoperative ketamine bolus (0.5mg/kg) followed by continuous infusion 5 mcg/kg/min and also will receive postoperative ketamine infusion (2.5 mcg/kg/min, up to 100kg max) for 48 hours.\n\nKetamine: Participants in the ketamine arm will receive intraoperative and postoperative ketamine."
+            },
+            {
+              "id": "OG001",
+              "title": "Saline",
+              "description": "Participants in this arm will receive an equivalent volume of intraoperative saline bolus followed by continuous saline infusion and also will receive postoperative saline infusion for 48 hours.\n\nPlacebo: Participants in the placebo arm will receive intraoperative and postoperative saline."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "770"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "752"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "26"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Who Experienced ICU Transfer",
+          "description": "Number of participants who experienced transfer to ICU. This is as a binary outcome",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From hospital admission until discharge, typically 3-5 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ketamine",
+              "description": "Participants in this arm will receive intraoperative ketamine bolus (0.5mg/kg) followed by continuous infusion 5 mcg/kg/min and also will receive postoperative ketamine infusion (2.5 mcg/kg/min, up to 100kg max) for 48 hours.\n\nKetamine: Participants in the ketamine arm will receive intraoperative and postoperative ketamine."
+            },
+            {
+              "id": "OG001",
+              "title": "Saline",
+              "description": "Participants in this arm will receive an equivalent volume of intraoperative saline bolus followed by continuous saline infusion and also will receive postoperative saline infusion for 48 hours.\n\nPlacebo: Participants in the placebo arm will receive intraoperative and postoperative saline."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "770"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "752"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "22"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Who Experienced Adverse Side Effects",
+          "description": "Total number of side effects (hallucination, sedation, lightheadedness, patient request) as adverse reactions requiring early cessation.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From hospital admission until discharge, typically 3-5 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ketamine",
+              "description": "Participants in this arm will receive intraoperative ketamine bolus (0.5mg/kg) followed by continuous infusion 5 mcg/kg/min and also will receive postoperative ketamine infusion (2.5 mcg/kg/min, up to 100kg max) for 48 hours.\n\nKetamine: Participants in the ketamine arm will receive intraoperative and postoperative ketamine."
+            },
+            {
+              "id": "OG001",
+              "title": "Saline",
+              "description": "Participants in this arm will receive an equivalent volume of intraoperative saline bolus followed by continuous saline infusion and also will receive postoperative saline infusion for 48 hours.\n\nPlacebo: Participants in the placebo arm will receive intraoperative and postoperative saline."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "770"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "752"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Met Early Discharge Milestones",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "96"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "130"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Patient Preference for Mild Side Effects",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "83"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "39"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Debilitating Hallucinations",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Debilitating Dizziness",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hemodynamic Instability",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Other Severe Side Effect",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "71"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "37"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Monitored from enrollment to time of hospital discharge, approximately 28 days",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Ketamine",
+          "description": "Participants in this arm will receive intraoperative ketamine bolus (0.5mg/kg) followed by continuous infusion 5 mcg/kg/min and also will receive postoperative ketamine infusion (2.5 mcg/kg/min, up to 100kg max) for 48 hours.\n\nKetamine: Participants in the ketamine arm will receive intraoperative and postoperative ketamine.",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 770,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 770,
+          "otherNumAffected": 322,
+          "otherNumAtRisk": 770
+        },
+        {
+          "id": "EG001",
+          "title": "Saline",
+          "description": "Participants in this arm will receive an equivalent volume of intraoperative saline bolus followed by continuous saline infusion and also will receive postoperative saline infusion for 48 hours.\n\nPlacebo: Participants in the placebo arm will receive intraoperative and postoperative saline.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 752,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 752,
+          "otherNumAffected": 163,
+          "otherNumAtRisk": 752
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Fall",
+          "organSystem": "General disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 770
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 752
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Patient Preference forMild Side Effects",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 83,
+              "numAtRisk": 770
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 39,
+              "numAtRisk": 752
+            }
+          ]
+        },
+        {
+          "term": "Debilitating Hallucinations",
+          "organSystem": "Psychiatric disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 19,
+              "numAtRisk": 770
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 7,
+              "numAtRisk": 752
+            }
+          ]
+        },
+        {
+          "term": "Debilitating Dizziness",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 64,
+              "numAtRisk": 770
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 11,
+              "numAtRisk": 752
+            }
+          ]
+        },
+        {
+          "term": "Hemodynamic Instability",
+          "organSystem": "Vascular disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 12,
+              "numAtRisk": 770
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 6,
+              "numAtRisk": 752
+            }
+          ]
+        },
+        {
+          "term": "Rapid Response Activation",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 39,
+              "numAtRisk": 770
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 26,
+              "numAtRisk": 752
+            }
+          ]
+        },
+        {
+          "term": "Transfer to the ICU",
+          "organSystem": "Surgical and medical procedures",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 44,
+              "numAtRisk": 770
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 22,
+              "numAtRisk": 752
+            }
+          ]
+        },
+        {
+          "term": "Ileus Requiring NG Decompression",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "ileus requiring gastric decompression as defined by orogastric or nasogastric tube placement in the postoperative period",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 63,
+              "numAtRisk": 770
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 48,
+              "numAtRisk": 752
+            }
+          ]
+        },
+        {
+          "term": "Other Severe Side Effect",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 71,
+              "numAtRisk": 770
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 37,
+              "numAtRisk": 752
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Dr. Britany Martin",
+        "organization": "Vanderbilt University Medical Center",
+        "email": "britany.l.raymond@vumc.org",
+        "phone": "+1 (615)322-8476"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-09-05",
+          "uploadDate": "2024-11-25T11:27",
+          "filename": "Prot_001.pdf",
+          "size": 313660
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2023-09-06",
+          "uploadDate": "2024-11-25T11:28",
+          "filename": "SAP_002.pdf",
+          "size": 204067
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2023-08-16",
+          "uploadDate": "2024-02-02T12:30",
+          "filename": "ICF_000.pdf",
+          "size": 298475
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-01-08",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D010149",
+          "term": "Pain, Postoperative"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011183",
+          "term": "Postoperative Complications"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D010146",
+          "term": "Pain"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D007649",
+          "term": "Ketamine"
+        },
+        {
+          "id": "D012965",
+          "term": "Sodium Chloride"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003510",
+          "term": "Cyclohexanes"
+        },
+        {
+          "id": "D003516",
+          "term": "Cycloparaffins"
+        },
+        {
+          "id": "D006840",
+          "term": "Hydrocarbons, Alicyclic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D002712",
+          "term": "Chlorides"
+        },
+        {
+          "id": "D006851",
+          "term": "Hydrochloric Acid"
+        },
+        {
+          "id": "D017606",
+          "term": "Chlorine Compounds"
+        },
+        {
+          "id": "D007287",
+          "term": "Inorganic Chemicals"
+        },
+        {
+          "id": "D017670",
+          "term": "Sodium Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

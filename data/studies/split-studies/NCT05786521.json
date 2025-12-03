@@ -1,0 +1,774 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05786521",
+      "orgStudyIdInfo": {
+        "id": "20220256HU"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "5P30AG044271-08",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/5P30AG044271-08"
+        }
+      ],
+      "organization": {
+        "fullName": "The University of Texas Health Science Center at San Antonio",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effect of GLP1 Receptor Agonists on Physical Function, Body Composition, and Markers of Aging in Older Adults",
+      "officialTitle": "The Effect of GLP1 Receptor Agonists on Physical Function, Body Composition, and Biomarkers of Aging in Older Overweight/Obese Adults With Insulin Resistance"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-04",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-04-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-05-20",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-05-20",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-03-02",
+      "studyFirstSubmitQcDate": "2023-03-14",
+      "studyFirstPostDateStruct": {
+        "date": "2023-03-27",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-04-02",
+      "resultsFirstSubmitQcDate": "2025-04-22",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-05-04",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-05-04",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Tiffany Cortes",
+        "investigatorTitle": "Assistant Professor",
+        "investigatorAffiliation": "The University of Texas Health Science Center at San Antonio"
+      },
+      "leadSponsor": {
+        "name": "The University of Texas Health Science Center at San Antonio",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Institute on Aging (NIA)",
+          "class": "NIH"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "Semaglutide is a medication approved by the US Food and Drug Administration (FDA) as an antihyperglycemic (a drug that reduces glucoses in those with diabetes) and for weight management. This new study will help find out what effects, semaglutide has on people who take the drug and the drug's effect on physical function, body composition, and aging."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Aging",
+        "Diabetes Mellitus, Type 2",
+        "PreDiabetes",
+        "Overweight and Obesity"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "BASIC_SCIENCE",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 20,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Semaglutide and lifestyle intervention",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will meet with a dietician throughout the study to discuss lifestyle counseling based on recommendation in the diabetes prevention program. They will also be given semaglutide for 20 weeks.",
+          "interventionNames": [
+            "Drug: Semaglutide Injectable Product",
+            "Behavioral: Lifestyle Counseling"
+          ]
+        },
+        {
+          "label": "Lifestyle intervention",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants will meet with a dietician throughout the study to discuss lifestyle counseling based on recommendation in the diabetes prevention program",
+          "interventionNames": [
+            "Behavioral: Lifestyle Counseling"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Semaglutide Injectable Product",
+          "description": "Semaglutide will be started at 0.25mg once a week for 4 weeks followed by 0.5mg once weekly for 4 weeks followed by 1.0mg once a week for 12 weeks.",
+          "armGroupLabels": [
+            "Semaglutide and lifestyle intervention"
+          ],
+          "otherNames": [
+            "Semaglutide and Lifestyle Counseling"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Lifestyle Counseling",
+          "description": "Lifestyle Counseling will be provided throughout study intervention",
+          "armGroupLabels": [
+            "Lifestyle intervention",
+            "Semaglutide and lifestyle intervention"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Lean Body Mass Change",
+          "description": "Determine if there is any change in lean body mass",
+          "timeFrame": "Baseline to 20 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Older than 65\n* Have prediabetes or diabetes\n* BMI ≥ 27.0 kg/m2\n* Living independently (not in assisted living or nursing home)\n\nExclusion Criteria:\n\n* Have heart disease\n* Have liver disease\n* Smoke",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "65 Years",
+      "maximumAge": "90 Years",
+      "stdAges": [
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Tiffany M Cortes, MD",
+          "affiliation": "UT Health San Antonio",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "UT Health San Antonio",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "39269759",
+          "type": "DERIVED",
+          "citation": "Cortes TM, Vasquez L, Serra MC, Robbins R, Stepanenko A, Brown K, Barrus H, Campos A, Espinoza SE, Musi N. Effect of Semaglutide on Physical Function, Body Composition, and Biomarkers of Aging in Older Adults With Overweight and Insulin Resistance: Protocol for an Open-Labeled Randomized Controlled Trial. JMIR Res Protoc. 2024 Sep 13;13:e62667. doi: 10.2196/62667."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Semaglutide and Lifestyle Intervention",
+          "description": "Participants will meet with a dietician throughout the study to discuss lifestyle counseling based on recommendation in the diabetes prevention program. They will also be given semaglutide for 20 weeks.\n\nSemaglutide Injectable Product: Semaglutide will be started at 0.25mg once a week for 4 weeks followed by 0.5mg once weekly for 4 weeks followed by 1.0mg once a week for 12 weeks.\n\nLifestyle Counseling: Lifestyle Counseling will be provided throughout study intervention"
+        },
+        {
+          "id": "FG001",
+          "title": "Lifestyle Intervention",
+          "description": "Participants will meet with a dietician throughout the study to discuss lifestyle counseling based on recommendation in the diabetes prevention program\n\nLifestyle Counseling: Lifestyle Counseling will be provided throughout study intervention"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Semaglutide and Lifestyle Intervention",
+          "description": "Participants will meet with a dietician throughout the study to discuss lifestyle counseling based on recommendation in the diabetes prevention program. They will also be given semaglutide for 20 weeks.\n\nSemaglutide Injectable Product: Semaglutide will be started at 0.25mg once a week for 4 weeks followed by 0.5mg once weekly for 4 weeks followed by 1.0mg once a week for 12 weeks.\n\nLifestyle Counseling: Lifestyle Counseling will be provided throughout study intervention"
+        },
+        {
+          "id": "BG001",
+          "title": "Lifestyle Intervention",
+          "description": "Participants will meet with a dietician throughout the study to discuss lifestyle counseling based on recommendation in the diabetes prevention program\n\nLifestyle Counseling: Lifestyle Counseling will be provided throughout study intervention"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "10"
+            },
+            {
+              "groupId": "BG001",
+              "value": "10"
+            },
+            {
+              "groupId": "BG002",
+              "value": "20"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "71.9",
+                      "spread": "4.85"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "73.4",
+                      "spread": "4.98"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "72.65",
+                      "spread": "4.85"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Lean Body Mass Change",
+          "description": "Determine if there is any change in lean body mass",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "g",
+          "timeFrame": "Baseline to 20 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide and Lifestyle Intervention",
+              "description": "Participants will meet with a dietician throughout the study to discuss lifestyle counseling based on recommendation in the diabetes prevention program. They will also be given semaglutide for 20 weeks.\n\nSemaglutide Injectable Product: Semaglutide will be started at 0.25mg once a week for 4 weeks followed by 0.5mg once weekly for 4 weeks followed by 1.0mg once a week for 12 weeks.\n\nLifestyle Counseling: Lifestyle Counseling will be provided throughout study intervention"
+            },
+            {
+              "id": "OG001",
+              "title": "Lifestyle Intervention",
+              "description": "Participants will meet with a dietician throughout the study to discuss lifestyle counseling based on recommendation in the diabetes prevention program\n\nLifestyle Counseling: Lifestyle Counseling will be provided throughout study intervention"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1730.6",
+                      "lowerLimit": "-3063",
+                      "upperLimit": "-398"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-421",
+                      "lowerLimit": "-1745",
+                      "upperLimit": "911"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "20 weeks",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Semaglutide and Lifestyle Intervention",
+          "description": "Participants will meet with a dietician throughout the study to discuss lifestyle counseling based on recommendation in the diabetes prevention program. They will also be given semaglutide for 20 weeks.\n\nSemaglutide Injectable Product: Semaglutide will be started at 0.25mg once a week for 4 weeks followed by 0.5mg once weekly for 4 weeks followed by 1.0mg once a week for 12 weeks.\n\nLifestyle Counseling: Lifestyle Counseling will be provided throughout study intervention",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 10,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 10,
+          "otherNumAffected": 6,
+          "otherNumAtRisk": 10
+        },
+        {
+          "id": "EG001",
+          "title": "Lifestyle Intervention",
+          "description": "Participants will meet with a dietician throughout the study to discuss lifestyle counseling based on recommendation in the diabetes prevention program\n\nLifestyle Counseling: Lifestyle Counseling will be provided throughout study intervention",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 10,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 10,
+          "otherNumAffected": 1,
+          "otherNumAtRisk": 10
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Abdominal pain",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 7,
+              "numAffected": 6,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 10
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "TIffany M Cortes, MD",
+        "organization": "University of Texas Health Science Center San Antonio",
+        "email": "cortest@uthscsa.edu",
+        "phone": "210-450-3333"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-03-23",
+          "uploadDate": "2025-04-22T09:25",
+          "filename": "Prot_SAP_002.pdf",
+          "size": 557798
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2023-08-30",
+          "uploadDate": "2024-03-21T11:59",
+          "filename": "ICF_000.pdf",
+          "size": 518569
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-04-22",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        },
+        {
+          "id": "D011236",
+          "term": "Prediabetic State"
+        },
+        {
+          "id": "D050177",
+          "term": "Overweight"
+        },
+        {
+          "id": "D009765",
+          "term": "Obesity"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D044343",
+          "term": "Overnutrition"
+        },
+        {
+          "id": "D009748",
+          "term": "Nutrition Disorders"
+        },
+        {
+          "id": "D001835",
+          "term": "Body Weight"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000591245",
+          "term": "semaglutide"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,1021 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06047366",
+      "orgStudyIdInfo": {
+        "id": "17799"
+      },
+      "organization": {
+        "fullName": "Indiana University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Combination of Buffered Anesthetic to Treat Mandibular Molars",
+      "officialTitle": "Buffered vs Unbuffered Local Anesthesia Using Lidocaine, Carbocaine, and Articaine in Mandibular Molars Diagnosed With Symptomatic Irreversible Pulpitis"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-05",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Student PI is preparing for graduation and cannot complete the study as planned.",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-12-05",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-05-15",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-05-15",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-09-14",
+      "studyFirstSubmitQcDate": "2023-09-14",
+      "studyFirstPostDateStruct": {
+        "date": "2023-09-21",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-04-03",
+      "resultsFirstSubmitQcDate": "2025-05-12",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-05-13",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-05-12",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-05-13",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Kenneth J. Spolnik DDS",
+        "investigatorTitle": "Department of Endodontics Chair",
+        "investigatorAffiliation": "Indiana University"
+      },
+      "leadSponsor": {
+        "name": "Indiana University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to determine whether a combination of anesthetics (numbing medicine) will adequately anesthetize teeth over a different combination. A second purpose is to see if the time needed to numb the nerve in a tooth is different between the two anesthetics.",
+      "detailedDescription": "60 human subjects with Symptomatic Irreversible Pulpitis (SIP) in mandibular molars will be randomly allocated into 2 groups. One group will receive a combination of: 1 cartridge of buffered 2% lidocaine w/ 1:100k epi via inferior alveolar nerve block (IANB) followed by 1 cartridge of 3% mepivacaine via IANB. This will be followed by 0.5 cartridges (0.9mL) of buffered 4% articaine with 1:100k epi via buccal infiltration and 0.5 cartridges of buffered 4% articaine with 1:100k epi via lingual infiltration. All IANB injections will include a lingual block. The second group will be provided an unbuffered version of the same combination. An electronic pulp tester (EPT) will be used to determine the vitality of the treated tooth. Endodontic treatment will be initiated after two consecutive EPT readings of 80, displaying pulpal anesthesia. Profound pulpal anesthesia is described by the patient's report on the visual analog scale after the pulpotomy."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Symptomatic Irreversible Pulpitis"
+      ],
+      "keywords": [
+        "lidocaine",
+        "articaine",
+        "mepivacaine",
+        "buffered local anesthetic",
+        "irreversible pulpitis"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "This study will be a single-center, controlled, randomized, double-blind (provider and subject), 2 treatment, 1 period, parallel study",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "maskingDescription": "A statistician will provide a two-product randomization scheme which will randomize each of the 60 subjects on the order of their entry into the study. The research assistants will be aware of and document this scheme, but the student researcher/PI will not know what type of anesthetic will be administered.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 40,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Buffered",
+          "type": "EXPERIMENTAL",
+          "description": "Buffered 2% lidocaine with 1:100,000 epinephrine Buffered 4% articaine with 1:100,000 epinephrine Buffered 3% mepivacaine Buffered local anesthetic (addition of sodium bicarbonate to make a 10% buffered solution)",
+          "interventionNames": [
+            "Drug: Sodium bicarbonate",
+            "Drug: Lidocaine w/ epi",
+            "Drug: Articaine w/ epi",
+            "Drug: Mepivacaine plain"
+          ]
+        },
+        {
+          "label": "Unbuffered",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Unbuffered 2% lidocaine with 1:100,000 epinephrine Unbuffered 4% articaine with 1:100,000 epinephrine Unbuffered 3% mepivacaine Standard local anesthetics",
+          "interventionNames": [
+            "Drug: Lidocaine w/ epi",
+            "Drug: Articaine w/ epi",
+            "Drug: Mepivacaine plain"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Sodium bicarbonate",
+          "description": "Onpharma's Onset sodium bicarbonate buffer to be added to a standard cartridge of dental local anesthetic",
+          "armGroupLabels": [
+            "Buffered"
+          ],
+          "otherNames": [
+            "Onset Sodium Bicarbonate Inj., 8.4%, USP Neutralizing Additive Solutio"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Lidocaine w/ epi",
+          "description": "Septodont's standard formulation of 2% lidocaine with epinephrine",
+          "armGroupLabels": [
+            "Buffered",
+            "Unbuffered"
+          ],
+          "otherNames": [
+            "2% lidocaine with 1:100,000 epinephrine"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Articaine w/ epi",
+          "description": "Septodont's standard formulation of 4% articaine with epinephrine",
+          "armGroupLabels": [
+            "Buffered",
+            "Unbuffered"
+          ],
+          "otherNames": [
+            "4% articaine with 1:100,000 epinephrine"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Mepivacaine plain",
+          "description": "Septodont's standard formulation of 3% mepivacaine",
+          "armGroupLabels": [
+            "Buffered",
+            "Unbuffered"
+          ],
+          "otherNames": [
+            "3% Mepivacaine"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Median Visual Analogue Scale (VAS) Score as a Measure of Profoundness of Pulpal Anesthesia",
+          "description": "Patient will report their comfort during treatment based on a visual analogue scale (VAS) graphic. Visual analog scale (VAS) is based on a scale of 0-10 related to patient comfort. A VAS score of 10 would mean the patient was extremely uncomfortable during treatment indicating there was inadequate anesthesia. A VAS score of 0 indicates no pain.",
+          "timeFrame": "Up to 20 minutes post-drug administration"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Median Time to Profound Pulpal Anesthesia",
+          "description": "An electronic pulp tester will be used to assess anesthesia after anesthetic is administered. The median time needed to achieve profound pulpal anesthesia for the two groups will be calculated using the Kaplan-Meier method and compared with a log-rank test, with patients who failed to achieve profound pulpal anesthesia censored at 15 minutes.",
+          "timeFrame": "Up to 15 minutes post-drug administration"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Be between the ages of 18 and 80 years old\n* Have the ability and willingness to independently consent to treatment and study participation\n* Have an uncomplicated medical history (ASA I and II)\n* Not be pregnant\n* Have no allergies local anesthetics/sulfites (confirmed or self-reported)\n* Not be taking any medications that may affect the proper assessment of the anesthetic (no acetaminophen or short-acting NSAIDs such as ibuprofen within the previous 6 hours; no long-acting NSAIDs such as naproxen within the previous 16 hours)\n* Not require nitrous oxide during treatment, and the injection area should appear healthy with no other pre-existing conditions or infections that may compromise an accurate collection of data\n* Be experiencing signs of irreversible pulpitis (an exaggerated response to cold that lingers longer than 10 seconds) in a mandibular molar at the time of conducting the study\n\nExclusion Criteria:\n\n* A negative response to cold in the proposed treatment tooth\n* A radiographic periradicular pathosis more advanced than a widened periodontal ligament or have an intraoral swelling",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Kenneth Spolnik, DDS",
+          "affiliation": "Program Director",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "ndiana University School of Dentistry Graduate Endodontics Dept.",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46202",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "17368327",
+          "type": "BACKGROUND",
+          "citation": "Rosenberg PA, Amin KG, Zibari Y, Lin LM. Comparison of 4% articaine with 1:100,000 epinephrine and 2% lidocaine with 1:100,000 epinephrine when used as a supplemental anesthetic. J Endod. 2007 Apr;33(4):403-5. doi: 10.1016/j.joen.2006.11.019. Epub 2007 Feb 20."
+        },
+        {
+          "pmid": "17062748",
+          "type": "BACKGROUND",
+          "citation": "Goodis HE, Poon A, Hargreaves KM. Tissue pH and temperature regulate pulpal nociceptors. J Dent Res. 2006 Nov;85(11):1046-9. doi: 10.1177/154405910608501114."
+        },
+        {
+          "pmid": "2827545",
+          "type": "BACKGROUND",
+          "citation": "Christoph RA, Buchanan L, Begalla K, Schwartz S. Pain reduction in local anesthetic administration through pH buffering. Ann Emerg Med. 1988 Feb;17(2):117-20. doi: 10.1016/s0196-0644(88)80293-2."
+        },
+        {
+          "pmid": "25841959",
+          "type": "BACKGROUND",
+          "citation": "Schellenberg J, Drum M, Reader A, Nusstein J, Fowler S, Beck M. Effect of Buffered 4% Lidocaine on the Success of the Inferior Alveolar Nerve Block in Patients with Symptomatic Irreversible Pulpitis: A Prospective, Randomized, Double-blind Study. J Endod. 2015 Jun;41(6):791-6. doi: 10.1016/j.joen.2015.02.022. Epub 2015 Apr 1."
+        },
+        {
+          "pmid": "27507627",
+          "type": "BACKGROUND",
+          "citation": "Saatchi M, Farhad AR, Shenasa N, Haghighi SK. Effect of Sodium Bicarbonate Buccal Infiltration on the Success of Inferior Alveolar Nerve Block in Mandibular First Molars with Symptomatic Irreversible Pulpitis: A Prospective, Randomized Double-blind Study. J Endod. 2016 Oct;42(10):1458-61. doi: 10.1016/j.joen.2016.07.004. Epub 2016 Aug 6."
+        },
+        {
+          "pmid": "23880260",
+          "type": "BACKGROUND",
+          "citation": "Fowler S, Reader A. Is a volume of 3.6 mL better than 1.8 mL for inferior alveolar nerve blocks in patients with symptomatic irreversible pulpitis? J Endod. 2013 Aug;39(8):970-2. doi: 10.1016/j.joen.2013.04.007. Epub 2013 May 16."
+        },
+        {
+          "pmid": "22414822",
+          "type": "BACKGROUND",
+          "citation": "Kanaa MD, Whitworth JM, Meechan JG. A prospective randomized trial of different supplementary local anesthetic techniques after failure of inferior alveolar nerve block in patients with irreversible pulpitis in mandibular teeth. J Endod. 2012 Apr;38(4):421-5. doi: 10.1016/j.joen.2011.12.006. Epub 2012 Feb 2."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Buffered",
+          "description": "Buffered 2% lidocaine with 1:100,000 epinephrine Buffered 4% articaine with 1:100,000 epinephrine Buffered 3% mepivacaine Buffered local anesthetic (addition of sodium bicarbonate to make a 10% buffered solution)\n\nSodium bicarbonate: Onpharma's Onset sodium bicarbonate buffer to be added to a standard cartridge of dental local anesthetic\n\nLidocaine w/ epi: Septodont's standard formulation of 2% lidocaine with epinephrine\n\nArticaine w/ epi: Septodont's standard formulation of 4% articaine with epinephrine\n\nMepivacaine plain: Septodont's standard formulation of 3% mepivacaine"
+        },
+        {
+          "id": "FG001",
+          "title": "Unbuffered",
+          "description": "Unbuffered 2% lidocaine with 1:100,000 epinephrine Unbuffered 4% articaine with 1:100,000 epinephrine Unbuffered 3% mepivacaine Standard local anesthetics\n\nLidocaine w/ epi: Septodont's standard formulation of 2% lidocaine with epinephrine\n\nArticaine w/ epi: Septodont's standard formulation of 4% articaine with epinephrine\n\nMepivacaine plain: Septodont's standard formulation of 3% mepivacaine"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "20"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "20"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Buffered",
+          "description": "Buffered 2% lidocaine with 1:100,000 epinephrine Buffered 4% articaine with 1:100,000 epinephrine Buffered 3% mepivacaine Buffered local anesthetic (addition of sodium bicarbonate to make a 10% buffered solution)\n\nSodium bicarbonate: Onpharma's Onset sodium bicarbonate buffer to be added to a standard cartridge of dental local anesthetic\n\nLidocaine w/ epi: Septodont's standard formulation of 2% lidocaine with epinephrine\n\nArticaine w/ epi: Septodont's standard formulation of 4% articaine with epinephrine\n\nMepivacaine plain: Septodont's standard formulation of 3% mepivacaine"
+        },
+        {
+          "id": "BG001",
+          "title": "Unbuffered",
+          "description": "Unbuffered 2% lidocaine with 1:100,000 epinephrine Unbuffered 4% articaine with 1:100,000 epinephrine Unbuffered 3% mepivacaine Standard local anesthetics\n\nLidocaine w/ epi: Septodont's standard formulation of 2% lidocaine with epinephrine\n\nArticaine w/ epi: Septodont's standard formulation of 4% articaine with epinephrine\n\nMepivacaine plain: Septodont's standard formulation of 3% mepivacaine"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "20"
+            },
+            {
+              "groupId": "BG001",
+              "value": "20"
+            },
+            {
+              "groupId": "BG002",
+              "value": "40"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "40"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "40"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "FULL_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "40"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "39",
+                      "lowerLimit": "28",
+                      "upperLimit": "47"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "28",
+                      "lowerLimit": "23",
+                      "upperLimit": "49"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "33.5",
+                      "lowerLimit": "23",
+                      "upperLimit": "49"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "40"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "25"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "40"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "40"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Median Visual Analogue Scale (VAS) Score as a Measure of Profoundness of Pulpal Anesthesia",
+          "description": "Patient will report their comfort during treatment based on a visual analogue scale (VAS) graphic. Visual analog scale (VAS) is based on a scale of 0-10 related to patient comfort. A VAS score of 10 would mean the patient was extremely uncomfortable during treatment indicating there was inadequate anesthesia. A VAS score of 0 indicates no pain.",
+          "populationDescription": "Patients who achieved profound pulpal anesthesia",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Up to 20 minutes post-drug administration",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Buffered",
+              "description": "Buffered 2% lidocaine with 1:100,000 epinephrine Buffered 4% articaine with 1:100,000 epinephrine Buffered 3% mepivacaine Buffered local anesthetic (addition of sodium bicarbonate to make a 10% buffered solution)\n\nSodium bicarbonate: Onpharma's Onset sodium bicarbonate buffer to be added to a standard cartridge of dental local anesthetic\n\nLidocaine w/ epi: Septodont's standard formulation of 2% lidocaine with epinephrine\n\nArticaine w/ epi: Septodont's standard formulation of 4% articaine with epinephrine\n\nMepivacaine plain: Septodont's standard formulation of 3% mepivacaine"
+            },
+            {
+              "id": "OG001",
+              "title": "Unbuffered",
+              "description": "Unbuffered 2% lidocaine with 1:100,000 epinephrine Unbuffered 4% articaine with 1:100,000 epinephrine Unbuffered 3% mepivacaine Standard local anesthetics\n\nLidocaine w/ epi: Septodont's standard formulation of 2% lidocaine with epinephrine\n\nArticaine w/ epi: Septodont's standard formulation of 4% articaine with epinephrine\n\nMepivacaine plain: Septodont's standard formulation of 3% mepivacaine"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.18",
+              "pValueComment": "p \\< 0.05 was used as the threshold for statistical significance",
+              "statisticalMethod": "Wilcoxon (Mann-Whitney)"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Median Time to Profound Pulpal Anesthesia",
+          "description": "An electronic pulp tester will be used to assess anesthesia after anesthetic is administered. The median time needed to achieve profound pulpal anesthesia for the two groups will be calculated using the Kaplan-Meier method and compared with a log-rank test, with patients who failed to achieve profound pulpal anesthesia censored at 15 minutes.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "minutes",
+          "timeFrame": "Up to 15 minutes post-drug administration",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Buffered",
+              "description": "Buffered 2% lidocaine with 1:100,000 epinephrine Buffered 4% articaine with 1:100,000 epinephrine Buffered 3% mepivacaine Buffered local anesthetic (addition of sodium bicarbonate to make a 10% buffered solution)\n\nSodium bicarbonate: Onpharma's Onset sodium bicarbonate buffer to be added to a standard cartridge of dental local anesthetic\n\nLidocaine w/ epi: Septodont's standard formulation of 2% lidocaine with epinephrine\n\nArticaine w/ epi: Septodont's standard formulation of 4% articaine with epinephrine\n\nMepivacaine plain: Septodont's standard formulation of 3% mepivacaine"
+            },
+            {
+              "id": "OG001",
+              "title": "Unbuffered",
+              "description": "Unbuffered 2% lidocaine with 1:100,000 epinephrine Unbuffered 4% articaine with 1:100,000 epinephrine Unbuffered 3% mepivacaine Standard local anesthetics\n\nLidocaine w/ epi: Septodont's standard formulation of 2% lidocaine with epinephrine\n\nArticaine w/ epi: Septodont's standard formulation of 4% articaine with epinephrine\n\nMepivacaine plain: Septodont's standard formulation of 3% mepivacaine"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "20"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "20"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.28",
+                      "lowerLimit": "4.22",
+                      "upperLimit": "6.17"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.96",
+                      "lowerLimit": "5.50",
+                      "upperLimit": "10.15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.09",
+              "pValueComment": "p \\< 0.05 was used as the threshold for statistical significance",
+              "statisticalMethod": "Log Rank"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "during a single visit, up to two hours",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Buffered",
+          "description": "Buffered 2% lidocaine with 1:100,000 epinephrine Buffered 4% articaine with 1:100,000 epinephrine Buffered 3% mepivacaine Buffered local anesthetic (addition of sodium bicarbonate to make a 10% buffered solution)\n\nSodium bicarbonate: Onpharma's Onset sodium bicarbonate buffer to be added to a standard cartridge of dental local anesthetic\n\nLidocaine w/ epi: Septodont's standard formulation of 2% lidocaine with epinephrine\n\nArticaine w/ epi: Septodont's standard formulation of 4% articaine with epinephrine\n\nMepivacaine plain: Septodont's standard formulation of 3% mepivacaine",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 20,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 20,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 20
+        },
+        {
+          "id": "EG001",
+          "title": "Unbuffered",
+          "description": "Unbuffered 2% lidocaine with 1:100,000 epinephrine Unbuffered 4% articaine with 1:100,000 epinephrine Unbuffered 3% mepivacaine Standard local anesthetics\n\nLidocaine w/ epi: Septodont's standard formulation of 2% lidocaine with epinephrine\n\nArticaine w/ epi: Septodont's standard formulation of 4% articaine with epinephrine\n\nMepivacaine plain: Septodont's standard formulation of 3% mepivacaine",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 20,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 20,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 20
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Dr. Ken Spolnik",
+        "organization": "Indiana University School of Dentistry",
+        "email": "kspolnik@iu.edu",
+        "phone": "317-274-7280"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-04-21",
+          "uploadDate": "2025-03-20T14:25",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 508547
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-04-23",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D017693",
+          "term": "Sodium Bicarbonate"
+        },
+        {
+          "id": "D004837",
+          "term": "Epinephrine"
+        },
+        {
+          "id": "D008012",
+          "term": "Lidocaine"
+        },
+        {
+          "id": "D002355",
+          "term": "Carticaine"
+        },
+        {
+          "id": "D008619",
+          "term": "Mepivacaine"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001639",
+          "term": "Bicarbonates"
+        },
+        {
+          "id": "D002254",
+          "term": "Carbonates"
+        },
+        {
+          "id": "D002255",
+          "term": "Carbonic Acid"
+        },
+        {
+          "id": "D017554",
+          "term": "Carbon Compounds, Inorganic"
+        },
+        {
+          "id": "D007287",
+          "term": "Inorganic Chemicals"
+        },
+        {
+          "id": "D017670",
+          "term": "Sodium Compounds"
+        },
+        {
+          "id": "D004983",
+          "term": "Ethanolamines"
+        },
+        {
+          "id": "D000605",
+          "term": "Amino Alcohols"
+        },
+        {
+          "id": "D000438",
+          "term": "Alcohols"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D015306",
+          "term": "Biogenic Monoamines"
+        },
+        {
+          "id": "D001679",
+          "term": "Biogenic Amines"
+        },
+        {
+          "id": "D002395",
+          "term": "Catecholamines"
+        },
+        {
+          "id": "D002396",
+          "term": "Catechols"
+        },
+        {
+          "id": "D010636",
+          "term": "Phenols"
+        },
+        {
+          "id": "D001555",
+          "term": "Benzene Derivatives"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D000083",
+          "term": "Acetanilides"
+        },
+        {
+          "id": "D000813",
+          "term": "Anilides"
+        },
+        {
+          "id": "D000577",
+          "term": "Amides"
+        },
+        {
+          "id": "D000814",
+          "term": "Aniline Compounds"
+        },
+        {
+          "id": "D013876",
+          "term": "Thiophenes"
+        },
+        {
+          "id": "D013457",
+          "term": "Sulfur Compounds"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D010880",
+          "term": "Piperidines"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

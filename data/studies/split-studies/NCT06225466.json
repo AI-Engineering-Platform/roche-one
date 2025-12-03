@@ -1,0 +1,1720 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06225466",
+      "orgStudyIdInfo": {
+        "id": "STU2023-0851"
+      },
+      "organization": {
+        "fullName": "University of Texas Southwestern Medical Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "Muscle Relaxation for Pediatric Adenotonsillectomy",
+      "officialTitle": "Anesthesia With Neuromuscular Blockade and Reversal With Sugammadex Compared to Anesthesia Without Muscle Relaxation During Pediatric High-Risk Adenotonsillectomy: A Randomized-Controlled Trial"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-04-10",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-09-27",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-09-27",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-01-16",
+      "studyFirstSubmitQcDate": "2024-01-24",
+      "studyFirstPostDateStruct": {
+        "date": "2024-01-26",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-05-28",
+      "resultsFirstSubmitQcDate": "2025-07-25",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-07-28",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-07-25",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-07-28",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Proshad Efune, MD",
+        "investigatorTitle": "Assistant Professor",
+        "investigatorAffiliation": "University of Texas Southwestern Medical Center"
+      },
+      "leadSponsor": {
+        "name": "University of Texas Southwestern Medical Center",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Merck Sharp & Dohme LLC",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The goal of this clinical trial is to compare general anesthesia with muscle relaxation and reversal of the relaxation at the end of surgery or without muscle relaxation in high-risk children having adenotonsillectomy surgery. The main questions it aims to answer are:\n\n1. What is the impact of general anesthesia with muscle relaxation on opioid pain medication requirements during and after adenotonsillectomy?\n2. What is the impact of general anesthesia with muscle relaxation on postoperative breathing complications and the adequacy of postoperative lung air volumes during breathing?\n\nParticipants will wear three additional, noninvasive monitors during surgery, and one additional monitor after surgery. The amount of opioid pain medication required will be tracked, and the patient will be observed postoperatively for breathing complications. Measurements will be collected from the monitor worn postoperatively.\n\nResearchers will compare general anesthesia with muscle relaxation and reversal of relaxation at the end of surgery with general anesthesia without muscle relaxation to test the hypothesis that the approach using muscle relaxation reduces the amount of opioid pain medication required during and after surgery.",
+      "detailedDescription": "This will be a randomized, patient- and assessor-blinded, parallel arm, controlled trial assessing the efficacy of neuromuscular blockade with reversal during the anesthetic management of pediatric adenotonsillectomy (AT) to reduce intra- and postoperative opioid consumption and postoperative respiratory events in high-risk patients. Enrolled participants will be randomized by computer-generated assignment using stratified blocked randomization with a 1:1 allocation into 2 arms: neuromuscular blockade with reversal at the end of surgery and no neuromuscular blockade. Randomization will occur on the following strata: severe versus non-severe obstructive sleep apnea (OSA)/sleep disordered breathing. Patients/families, treating teams (except for the anesthesia team), and research staff/investigators responsible for measuring and adjudicating outcomes will be blinded to allocation.\n\nPrimary Efficacy Objective - Evaluate intraoperative and postoperative opioid consumption in high-risk children having AT without muscle relaxation or with neuromuscular blocks and reversal with sugammadex.\n\nSecondary Objectives - (1) Evaluate postoperative respiratory events in high-risk children having AT without muscle relaxation or with neuromuscular blocks and reversal with sugammadex. The outcome of postoperative respiratory events will be a composite measure consisting of 1) airway obstruction or hypoxemia, defined as SpO2 less than 90 percent, requiring any of the following interventions: supplemental oxygen by nasal cannula or simple face mask, noninvasive positive airway pressure, or reintubation; or 2) unanticipated intensive care unit (ICU) admission. (2) Evaluate postoperative low minute ventilation (MV) episodes, defined as MV less than 40 percent predicted for at least 2 minutes and measured by a respiratory volume monitor (RVM), in high-risk children having AT without muscle relaxation or with neuromuscular blocks and reversal with sugammadex."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Tonsillectomy"
+      ],
+      "keywords": [
+        "Sleep Apnea, Obstructive",
+        "Child",
+        "Snoring",
+        "Sleep Apnea Syndromes"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "randomized, patient- and assessor-blinded, parallel arm, controlled trial",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "maskingDescription": "Patients/families, treating teams (except for the anesthesia team), and research staff/investigators responsible for measuring and adjudicating outcomes will be blinded to allocation.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 172,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Neuromuscular blockade",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Rocuronium 0.6 mg/kg IV (max 50 mg) intraop with repeated doses of 0.2 mg/kg (max 15 mg) as indicated. Sugammadex 2-4 mg/kg IV at the end of surgery.\n\nSOC drugs:\n\n1. Midazolam 0.5 mg/kg (max 15 mg) and acetaminophen 15 mg/kg (max 800 mg) PO 20-30 minutes before surgery.\n2. Sevoflurane induction and maintenance of anesthesia\n3. Dexamethasone 0.5 mg/kg IV (max 8 mg) intraop\n4. Dexmedetomidine 0.3 mcg/kg IV (max 12 mcg) intraop\n5. Fentanyl at the discretion of the anesthesiologist. In the post-anesthesia care unit (PACU), fentanyl 0.5 mcg/kg IV (max 25 mcg) for pain score 4 or greater (max 3 doses).\n6. Ondansetron 0.1 mg/kg (max 4 mg) IV intraop\n7. Ibuprofen 10 mg/kg (max 500 mg) PO every 6 hours beginning after surgery and alternating with acetaminophen 15 mg/kg (max 800 mg) every 6 hours.\n\nDevice monitoring:\n\n1. Bispectral index system intraop\n2. TetraGraph neuromuscular transmission monitor intraop\n3. ExSpiron respiratory volume monitor intraop and in PACU",
+          "interventionNames": [
+            "Drug: Rocuronium",
+            "Drug: Sugammadex"
+          ]
+        },
+        {
+          "label": "No neuromuscular blockade",
+          "type": "OTHER",
+          "description": "Anesthesia will be administered in a standard fashion. Rocuronium and sugammadex will not be administered.\n\nSOC drugs:\n\n1. Midazolam 0.5 mg/kg (max 15 mg) and acetaminophen 15 mg/kg (max 800 mg) PO 20-30 minutes before surgery.\n2. Sevoflurane induction and maintenance of anesthesia\n3. Dexamethasone 0.5 mg/kg IV (max 8 mg) intraop\n4. Dexmedetomidine 0.3 mcg/kg IV (max 12 mcg) intraop\n5. Fentanyl at the discretion of the anesthesiologist. In the post-anesthesia care unit (PACU), fentanyl 0.5 mcg/kg IV (max 25 mcg) for pain score 4 or greater (max 3 doses).\n6. Ondansetron 0.1 mg/kg (max 4 mg) IV intraop\n7. Ibuprofen 10 mg/kg (max 500 mg) PO every 6 hours beginning after surgery and alternating with acetaminophen 15 mg/kg (max 800 mg) every 6 hours.\n\nDevice monitoring:\n\n1. Bispectral index system intraop\n2. ExSpiron respiratory volume monitor intraop and in PACU",
+          "interventionNames": [
+            "Other: Anesthesia without neuromuscular blockade"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rocuronium",
+          "description": "After induction of anesthesia and placement of an IV, rocuronium 0.6 mg/kg (maximum dose 50mg) will be administered. Additional doses of rocuronium 0.2 mg/kg (maximum dose 15 mg) will be administered when the neuromuscular transmission monitor indicates a train of four count of 2 or greater.",
+          "armGroupLabels": [
+            "Neuromuscular blockade"
+          ],
+          "otherNames": [
+            "Neuromuscular blocking agent",
+            "Paralytic",
+            "Zemuron",
+            "Esmeron",
+            "Neuromuscular blocking drug",
+            "Nondepolarizing neuromuscular blocker",
+            "Nondepolarizing neuromuscular blocking agent",
+            "Nondepolarizing neuromuscular blocking drug"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Sugammadex",
+          "description": "When the surgery is completed, sugammadex 2 mg/kg will be administered if the neuromuscular transmission monitor indicates the train of four count is 2 or greater. Sugammadex 4 mg/kg will be administered if 1) the train of four count is 1, or 2) if the train of four count is 0 and the post tetanic count is at least 1. There is no maximum dose of sugammadex.",
+          "armGroupLabels": [
+            "Neuromuscular blockade"
+          ],
+          "otherNames": [
+            "Bridion",
+            "Neuromuscular blocking agent reversal",
+            "Neuromuscular blocking drug reversal",
+            "Paralytic reversal",
+            "Nondepolarizing neuromuscular blocking agent reversal",
+            "Nondepolarizing neuromuscular blocking drug reversal",
+            "Nondepolarizing neuromuscular blocker reversal"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Anesthesia without neuromuscular blockade",
+          "description": "Anesthesia without rocuronium or sugammadex",
+          "armGroupLabels": [
+            "No neuromuscular blockade"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Cumulative Intra- and Postoperative Opioid Consumption",
+          "description": "Continuous outcome of intravenous morphine milligram equivalents (MME) per kg of body weight",
+          "timeFrame": "From surgery start to discharge home, up to 24 hours"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Participants With Postoperative Respiratory Events",
+          "description": "Composite binary outcome consisting of 1) airway obstruction or hypoxemia, defined as SpO2 \\<90%, requiring any of the following interventions: supplemental oxygen by nasal cannula or simple face mask, noninvasive positive airway pressure, or reintubation; or 2) unanticipated ICU admission.",
+          "timeFrame": "From post-anesthesia care unit admission to discharge home, up to 24 hours"
+        },
+        {
+          "measure": "Number of Low Minute Ventilation (MV) Events in the Post-anesthesia Care Unit",
+          "description": "Count outcome of distinct episodes of low MV.\n\nMV - the product of respiratory rate and tidal volume - was continuously measured by a noninvasive respiratory volume monitor. Low MV events were defined as episodes of MV less than 40 percent predicted - calculated by the monitor based on the patient's body surface area - for at least two minutes. This definition is routinely used by the monitoring system.",
+          "timeFrame": "From post-anesthesia care unit admission to transfer to the postoperative ward, up to 8 hours"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Children 2-12 years of age having tonsillectomy with or without adenoidectomy at Children's main Dallas campus\n* Considered high-risk\\* with pre-planned overnight admission after surgery for respiratory monitoring \\*High-risk children have any one of the following characteristics: age \\< 3 years, severe obstructive sleep apnea (apnea-hypopnea index \\> 10 events per hour), or obesity (body mass index \\> 98th percentile).\n\nExclusion Criteria:\n\n* Planned placement on positive airway pressure or supplemental oxygen postoperatively\n* Secondary procedures under the same anesthetic, except for myringotomy tubes or auditory brainstem response testing\n* Children with neuromuscular disorders such as congenital myopathies, myotonias, or myasthenia gravis\n* Known rocuronium, vecuronium, or sugammadex allergy",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "2 Years",
+      "maximumAge": "12 Years",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Proshad Efune, MD",
+          "affiliation": "UT Southwestern",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Children's Health Dallas",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75235",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.78306,
+            "lon": -96.80667
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "36939461",
+          "type": "BACKGROUND",
+          "citation": "Johnson RF, Zhang J, Chorney SR, Kou YF, Lenes-Voit F, Ulualp S, Liu C, Mitchell RB. Estimations of Inpatient and Ambulatory Pediatric Tonsillectomy in the United States: A Cross-sectional Analysis. Otolaryngol Head Neck Surg. 2023 Aug;169(2):258-266. doi: 10.1002/ohn.268. Epub 2023 Feb 5."
+        },
+        {
+          "pmid": "34851765",
+          "type": "BACKGROUND",
+          "citation": "Rossi NA, Spaude J, Ohlstein JF, Pine HS, Daram S, McKinnon BJ, Szeremeta W. Apnea-hypopnea index severity as an independent predictor of post-tonsillectomy respiratory complications in pediatric patients: A retrospective study. Ear Nose Throat J. 2024 Jul;103(7):424-429. doi: 10.1177/01455613211059468. Epub 2021 Dec 1."
+        },
+        {
+          "pmid": "29117883",
+          "type": "BACKGROUND",
+          "citation": "Smith DF, Spiceland CP, Ishman SL, Engorn BM, Donohue C, Park PS, Benke JR, Frazee T, Brown RH, Dalesio NM. Admission Criteria for Children With Obstructive Sleep Apnea After Adenotonsillectomy: Considerations for Cost. J Clin Sleep Med. 2017 Dec 15;13(12):1463-1472. doi: 10.5664/jcsm.6850."
+        },
+        {
+          "pmid": "26603580",
+          "type": "BACKGROUND",
+          "citation": "Allareddy V, Martinez-Schlurmann N, Rampa S, Nalliah RP, Lidsky KB, Allareddy V, Rotta AT. Predictors of Complications of Tonsillectomy With or Without Adenoidectomy in Hospitalized Children and Adolescents in the United States, 2001-2010: A Population-Based Study. Clin Pediatr (Phila). 2016 Jun;55(7):593-602. doi: 10.1177/0009922815616885. Epub 2015 Nov 24."
+        },
+        {
+          "pmid": "30798778",
+          "type": "BACKGROUND",
+          "citation": "Mitchell RB, Archer SM, Ishman SL, Rosenfeld RM, Coles S, Finestone SA, Friedman NR, Giordano T, Hildrew DM, Kim TW, Lloyd RM, Parikh SR, Shulman ST, Walner DL, Walsh SA, Nnacheta LC. Clinical Practice Guideline: Tonsillectomy in Children (Update). Otolaryngol Head Neck Surg. 2019 Feb;160(1_suppl):S1-S42. doi: 10.1177/0194599818801757."
+        },
+        {
+          "pmid": "34878707",
+          "type": "BACKGROUND",
+          "citation": "Voss T, Wang A, DeAngelis M, Speek M, Saldien V, Hammer GB, Wrishko R, Herring WJ. Sugammadex for reversal of neuromuscular blockade in pediatric patients: Results from a phase IV randomized study. Paediatr Anaesth. 2022 Mar;32(3):436-445. doi: 10.1111/pan.14370. Epub 2021 Dec 17."
+        },
+        {
+          "pmid": "30412279",
+          "type": "BACKGROUND",
+          "citation": "Kou YF, Sakai M, Shah GB, Mitchell RB, Johnson RF. Postoperative respiratory complications and racial disparities following inpatient pediatric tonsillectomy: A cross-sectional study. Laryngoscope. 2019 Apr;129(4):995-1000. doi: 10.1002/lary.27405. Epub 2018 Nov 9."
+        },
+        {
+          "pmid": "23842193",
+          "type": "BACKGROUND",
+          "citation": "Cote CJ, Posner KL, Domino KB. Death or neurologic injury after tonsillectomy in children with a focus on obstructive sleep apnea: houston, we have a problem! Anesth Analg. 2014 Jun;118(6):1276-83. doi: 10.1213/ANE.0b013e318294fc47."
+        },
+        {
+          "pmid": "23595509",
+          "type": "BACKGROUND",
+          "citation": "Goldman JL, Baugh RF, Davies L, Skinner ML, Stachler RJ, Brereton J, Eisenberg LD, Roberson DW, Brenner MJ. Mortality and major morbidity after tonsillectomy: etiologic factors and strategies for prevention. Laryngoscope. 2013 Oct;123(10):2544-53. doi: 10.1002/lary.23926. Epub 2013 Apr 17."
+        },
+        {
+          "pmid": "35471232",
+          "type": "BACKGROUND",
+          "citation": "Baldo BA, Rose MA. Mechanisms of opioid-induced respiratory depression. Arch Toxicol. 2022 Aug;96(8):2247-2260. doi: 10.1007/s00204-022-03300-7. Epub 2022 Apr 26."
+        },
+        {
+          "pmid": "11960949",
+          "type": "BACKGROUND",
+          "citation": "Waters KA, McBrien F, Stewart P, Hinder M, Wharton S. Effects of OSA, inhalational anesthesia, and fentanyl on the airway and ventilation of children. J Appl Physiol (1985). 2002 May;92(5):1987-94. doi: 10.1152/japplphysiol.00619.2001."
+        },
+        {
+          "pmid": "31688081",
+          "type": "BACKGROUND",
+          "citation": "Dalesio NM, Lee CKK, Hendrix CW, Kerns N, Hsu A, Clarke W, Collaco JM, McGrath-Morrow S, Yaster M, Brown RH, Schwartz AR. Effects of Obstructive Sleep Apnea and Obesity on Morphine Pharmacokinetics in Children. Anesth Analg. 2020 Sep;131(3):876-884. doi: 10.1213/ANE.0000000000004509."
+        },
+        {
+          "pmid": "14525806",
+          "type": "BACKGROUND",
+          "citation": "Gozal D, Burnside MM. Increased upper airway collapsibility in children with obstructive sleep apnea during wakefulness. Am J Respir Crit Care Med. 2004 Jan 15;169(2):163-7. doi: 10.1164/rccm.200304-590OC. Epub 2003 Oct 2."
+        },
+        {
+          "pmid": "8002548",
+          "type": "BACKGROUND",
+          "citation": "Marcus CL, McColley SA, Carroll JL, Loughlin GM, Smith PL, Schwartz AR. Upper airway collapsibility in children with obstructive sleep apnea syndrome. J Appl Physiol (1985). 1994 Aug;77(2):918-24. doi: 10.1152/jappl.1994.77.2.918."
+        },
+        {
+          "pmid": "15087614",
+          "type": "BACKGROUND",
+          "citation": "Brown KA, Laferriere A, Moss IR. Recurrent hypoxemia in young children with obstructive sleep apnea is associated with reduced opioid requirement for analgesia. Anesthesiology. 2004 Apr;100(4):806-10; discussion 5A. doi: 10.1097/00000542-200404000-00009."
+        },
+        {
+          "pmid": "31009034",
+          "type": "BACKGROUND",
+          "citation": "von Ungern-Sternberg BS, Sommerfield D, Slevin L, Drake-Brockman TFE, Zhang G, Hall GL. Effect of Albuterol Premedication vs Placebo on the Occurrence of Respiratory Adverse Events in Children Undergoing Tonsillectomies: The REACT Randomized Clinical Trial. JAMA Pediatr. 2019 Jun 1;173(6):527-533. doi: 10.1001/jamapediatrics.2019.0788."
+        },
+        {
+          "pmid": "35943745",
+          "type": "BACKGROUND",
+          "citation": "Shen F, Zhang Q, Xu Y, Wang X, Xia J, Chen C, Liu H, Zhang Y. Effect of Intranasal Dexmedetomidine or Midazolam for Premedication on the Occurrence of Respiratory Adverse Events in Children Undergoing Tonsillectomy and Adenoidectomy: A Randomized Clinical Trial. JAMA Netw Open. 2022 Aug 1;5(8):e2225473. doi: 10.1001/jamanetworkopen.2022.25473."
+        },
+        {
+          "pmid": "32510703",
+          "type": "BACKGROUND",
+          "citation": "Efune PN, Longanecker JM, Alex G, Saynhalath R, Khan U, Rivera K, Jerome AP, Boone W, Szmuk P. Use of dexmedetomidine and opioids as the primary anesthetic in infants and young children: A retrospective cohort study. Paediatr Anaesth. 2020 Sep;30(9):1013-1019. doi: 10.1111/pan.13945. Epub 2020 Jul 26."
+        },
+        {
+          "pmid": "32805748",
+          "type": "BACKGROUND",
+          "citation": "Efune PN, Saynhalath R, Blackwell JM, Steiner JW, Olomu PN, Szmuk P. The Truview PCD video laryngoscope for nasotracheal intubation in pediatric patients: A subset analysis from a prospective randomized controlled trial. Paediatr Anaesth. 2020 Oct;30(10):1157-1158. doi: 10.1111/pan.14005. Epub 2020 Sep 6. No abstract available."
+        },
+        {
+          "pmid": "33886516",
+          "type": "BACKGROUND",
+          "citation": "Saynhalath R, Alex G, Efune PN, Szmuk P, Zhu H, Sanford EL. Anesthetic Complications Associated With Severe Acute Respiratory Syndrome Coronavirus 2 in Pediatric Patients. Anesth Analg. 2021 Aug 1;133(2):483-490. doi: 10.1213/ANE.0000000000005606."
+        },
+        {
+          "pmid": "32128445",
+          "type": "BACKGROUND",
+          "citation": "Hamilton TB, Thung A, Tobias JD, Jatana KR, Raman VT. Adenotonsillectomy and postoperative respiratory adverse events: A retrospective study. Laryngoscope Investig Otolaryngol. 2020 Jan 3;5(1):168-174. doi: 10.1002/lio2.340. eCollection 2020 Feb."
+        },
+        {
+          "pmid": "31343462",
+          "type": "BACKGROUND",
+          "citation": "Templeton TW, Goenaga-Diaz EJ, Downard MG, McLouth CJ, Smith TE, Templeton LB, Pecorella SH, Hammon DE, O'Brien JJ, McLaughlin DH, Lawrence AE, Tennant PR, Ririe DG. Assessment of Common Criteria for Awake Extubation in Infants and Young Children. Anesthesiology. 2019 Oct;131(4):801-808. doi: 10.1097/ALN.0000000000002870."
+        },
+        {
+          "pmid": "31521403",
+          "type": "BACKGROUND",
+          "citation": "Chisholm AG, Sathyamoorthy M, Seals SR, Carron JD. Does intravenous acetaminophen reduce perioperative opioid use in pediatric tonsillectomy? Am J Otolaryngol. 2019 Nov-Dec;40(6):102294. doi: 10.1016/j.amjoto.2019.102294. Epub 2019 Sep 9."
+        },
+        {
+          "pmid": "34304234",
+          "type": "BACKGROUND",
+          "citation": "Lammers CR, Schwinghammer AJ, Hall B, Kriss RS, Aizenberg DA, Funamura JL, Senders CW, Nittur V, Applegate RL 2nd. Comparison of Oral Loading Dose to Intravenous Acetaminophen in Children for Analgesia After Tonsillectomy and Adenoidectomy: A Randomized Clinical Trial. Anesth Analg. 2021 Dec 1;133(6):1568-1576. doi: 10.1213/ANE.0000000000005678."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "In accordance with the NIH's Data Management Sharing Policy and recent focus in the scientific community on data sharing, all collected deidentified individual participant data will be stored in the UTSW Data Repository, an open access data repository for researchers affiliated with UTSW.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP",
+        "ICF"
+      ],
+      "timeFrame": "Starting 6 months after publication, for a period of 5 years",
+      "accessCriteria": "The UT Southwestern Research Data Repository is an open access data repository for researchers affiliated with the UT Southwestern Medical Center. The repository consists of datasets produced by the University community, available for public access and re-use. Each dataset includes citation information and a Digital Object Identifier (DOI), facilitating attribution, usage tracking, and linking of data to research publications. Human research data may only be included if data are deidentified and the IRB has approved the sharing of the data on that repository.",
+      "url": "https://dataverse.tdl.org/dataverse/utswmed"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Neuromuscular Blockade",
+          "description": "Rocuronium 0.6 mg/kg IV (max 50 mg) intraop with repeated doses of 0.2 mg/kg (max 15 mg) as indicated. Sugammadex 2-4 mg/kg IV at the end of surgery.\n\nSOC drugs:\n\n1. Midazolam 0.5 mg/kg (max 15 mg) and acetaminophen 15 mg/kg (max 800 mg) PO 20-30 minutes before surgery.\n2. Sevoflurane induction and maintenance\n3. Dexamethasone 0.5 mg/kg IV (max 8 mg) intraop\n4. Dexmedetomidine 0.3 mcg/kg IV (max 12 mcg) intraop\n5. Fentanyl at the discretion of anesthesiologist. In the post-anesthesia care unit (PACU), fentanyl 0.5 mcg/kg IV (max 25 mcg) for pain score 4 or greater (max 3 doses).\n6. Ondansetron 0.1 mg/kg (max 4 mg) IV intraop\n7. Ibuprofen 10 mg/kg (max 500 mg) PO alternating with acetaminophen 15 mg/kg (max 800 mg) every 6 hours after surgery.\n\nMonitoring:\n\n1. Bispectral index system\n2. TetraGraph neuromuscular transmission monitor\n3. ExSpiron respiratory volume monitor in PACU\n\nRocuronium: After induction of anesthesia and IV placement, administration of rocuronium 0.6 mg/kg (max 50 mg). Administration of additional doses of 0.2 mg/kg (max 15 mg) when TetraGraph indicates a train of four count of 2 or greater.\n\nSugammadex: Administration of sugammadex 2 mg/kg at the end of surgery if the TetraGraph indicates the train of four count is 2 or greater. Sugammadex 4 mg/kg will be administered if 1) the train of four count is 1, or 2) if the train of four count is 0 and the post tetanic count is at least 1. There is no maximum dose of sugammadex."
+        },
+        {
+          "id": "FG001",
+          "title": "No Neuromuscular Blockade",
+          "description": "Anesthesia will be administered in a standard fashion. Rocuronium and sugammadex will not be administered.\n\nSOC drugs:\n\n1. Midazolam 0.5 mg/kg (max 15 mg) and acetaminophen 15 mg/kg (max 800 mg) PO 20-30 minutes before surgery.\n2. Sevoflurane induction and maintenance of anesthesia\n3. Dexamethasone 0.5 mg/kg IV (max 8 mg) intraop\n4. Dexmedetomidine 0.3 mcg/kg IV (max 12 mcg) intraop\n5. Fentanyl at the discretion of the anesthesiologist. In the post-anesthesia care unit (PACU), fentanyl 0.5 mcg/kg IV (max 25 mcg) for pain score 4 or greater (max 3 doses).\n6. Ondansetron 0.1 mg/kg (max 4 mg) IV intraop\n7. Ibuprofen 10 mg/kg (max 500 mg) PO every 6 hours beginning after surgery and alternating with acetaminophen 15 mg/kg (max 800 mg) every 6 hours.\n\nDevice monitoring:\n\n1. Bispectral index system intraop\n2. ExSpiron respiratory volume monitor intraop and in PACU\n\nAnesthesia without neuromuscular blockade: Anesthesia without rocuronium or sugammadex"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "86"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "86"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "comment": "Completed for the primary outcome - opioid consumption",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "86"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "86"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Neuromuscular Blockade",
+          "description": "Rocuronium 0.6 mg/kg IV (max 50 mg) intraop with repeated doses of 0.2 mg/kg (max 15 mg) as indicated. Sugammadex 2-4 mg/kg IV at the end of surgery.\n\nSOC drugs:\n\n1. Midazolam 0.5 mg/kg (max 15 mg) and acetaminophen 15 mg/kg (max 800 mg) PO 20-30 minutes before surgery.\n2. Sevoflurane induction and maintenance\n3. Dexamethasone 0.5 mg/kg IV (max 8 mg) intraop\n4. Dexmedetomidine 0.3 mcg/kg IV (max 12 mcg) intraop\n5. Fentanyl at the discretion of anesthesiologist. In the post-anesthesia care unit (PACU), fentanyl 0.5 mcg/kg IV (max 25 mcg) for pain score 4 or greater (max 3 doses).\n6. Ondansetron 0.1 mg/kg (max 4 mg) IV intraop\n7. Ibuprofen 10 mg/kg (max 500 mg) PO alternating with acetaminophen 15 mg/kg (max 800 mg) every 6 hours after surgery.\n\nMonitoring:\n\n1. Bispectral index system\n2. TetraGraph neuromuscular transmission monitor\n3. ExSpiron respiratory volume monitor in PACU\n\nRocuronium: After induction of anesthesia and IV placement, administration of rocuronium 0.6 mg/kg (max 50 mg). Administration of additional doses of 0.2 mg/kg (max 15 mg) when TetraGraph indicates a train of four count of 2 or greater.\n\nSugammadex: Administration of sugammadex 2 mg/kg at the end of surgery if the TetraGraph indicates the train of four count is 2 or greater. Sugammadex 4 mg/kg will be administered if 1) the train of four count is 1, or 2) if the train of four count is 0 and the post tetanic count is at least 1. There is no maximum dose of sugammadex."
+        },
+        {
+          "id": "BG001",
+          "title": "No Neuromuscular Blockade",
+          "description": "Anesthesia will be administered in a standard fashion. Rocuronium and sugammadex will not be administered.\n\nSOC drugs:\n\n1. Midazolam 0.5 mg/kg (max 15 mg) and acetaminophen 15 mg/kg (max 800 mg) PO 20-30 minutes before surgery.\n2. Sevoflurane induction and maintenance of anesthesia\n3. Dexamethasone 0.5 mg/kg IV (max 8 mg) intraop\n4. Dexmedetomidine 0.3 mcg/kg IV (max 12 mcg) intraop\n5. Fentanyl at the discretion of the anesthesiologist. In the post-anesthesia care unit (PACU), fentanyl 0.5 mcg/kg IV (max 25 mcg) for pain score 4 or greater (max 3 doses).\n6. Ondansetron 0.1 mg/kg (max 4 mg) IV intraop\n7. Ibuprofen 10 mg/kg (max 500 mg) PO every 6 hours beginning after surgery and alternating with acetaminophen 15 mg/kg (max 800 mg) every 6 hours.\n\nDevice monitoring:\n\n1. Bispectral index system intraop\n2. ExSpiron respiratory volume monitor intraop and in PACU\n\nAnesthesia without neuromuscular blockade: Anesthesia without rocuronium or sugammadex"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "86"
+            },
+            {
+              "groupId": "BG001",
+              "value": "86"
+            },
+            {
+              "groupId": "BG002",
+              "value": "172"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "172"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5.9",
+                      "spread": "2.9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7",
+                      "spread": "3.2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6.5",
+                      "spread": "3.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "172"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "42"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "81"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "47"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "91"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "White",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "172"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "56"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "54"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "110"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Black",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "172"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "38"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Other",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "172"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hispanic",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "172"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "50"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "69"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "119"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Non-Hispanic",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "172"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "53"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Obesity",
+          "description": "BMI greater than or equal to 98th percentile for age and sex",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "172"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "37"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "54"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "91"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Extreme prematurity",
+          "description": "history of birth at gestational age less than 28 weeks",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "172"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upper respiratory infection symptoms",
+          "description": "active or within the prior four weeks",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "172"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trisomy 21",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "172"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Obstructive sleep apnea severity",
+          "description": "Mild OSA = less 5 apnea/hypopnea events per hour; Moderate OSA = between 5 and 10 apnea/hypopnea events per hour; Severe OSA = greater than or equal to 10 apnea/hypopnea events per hour",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "172"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "No preoperative polysomnogram",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "55"
+                    }
+                  ]
+                },
+                {
+                  "title": "Mild obstructive sleep apnea",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "16"
+                    }
+                  ]
+                },
+                {
+                  "title": "Moderate obstructive sleep apnea",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "15"
+                    }
+                  ]
+                },
+                {
+                  "title": "Severe obstructive sleep apnea",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "43"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "43"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "86"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Intraoperative bispectral index",
+          "description": "The Bispectral Index (BIS) is a method of monitoring depth of anesthesia. Electroencephalography is used to generate a single number on a scale of 0-100, with a lower BIS value indicating a deeper hypnotic state. BIS values between 40 and 60 are generally accepted to indicate an adequate hypnotic state for surgical anesthesia.",
+          "populationDescription": "Unable to retrieve BIS values for 6 participants.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "index",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "84"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "82"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "166"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "52",
+                      "spread": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "48",
+                      "spread": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "50",
+                      "spread": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Cumulative Intra- and Postoperative Opioid Consumption",
+          "description": "Continuous outcome of intravenous morphine milligram equivalents (MME) per kg of body weight",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "IV morphine milligram equivalent/kg",
+          "timeFrame": "From surgery start to discharge home, up to 24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Neuromuscular Blockade",
+              "description": "Rocuronium 0.6 mg/kg IV (max 50 mg) intraop with repeated doses of 0.2 mg/kg (max 15 mg) as indicated. Sugammadex 2-4 mg/kg IV at the end of surgery.\n\nSOC drugs:\n\n1. Midazolam 0.5 mg/kg (max 15 mg) and acetaminophen 15 mg/kg (max 800 mg) PO 20-30 minutes before surgery.\n2. Sevoflurane induction and maintenance\n3. Dexamethasone 0.5 mg/kg IV (max 8 mg) intraop\n4. Dexmedetomidine 0.3 mcg/kg IV (max 12 mcg) intraop\n5. Fentanyl at the discretion of anesthesiologist. In the post-anesthesia care unit (PACU), fentanyl 0.5 mcg/kg IV (max 25 mcg) for pain score 4 or greater (max 3 doses).\n6. Ondansetron 0.1 mg/kg (max 4 mg) IV intraop\n7. Ibuprofen 10 mg/kg (max 500 mg) PO alternating with acetaminophen 15 mg/kg (max 800 mg) every 6 hours after surgery.\n\nMonitoring:\n\n1. Bispectral index system\n2. TetraGraph neuromuscular transmission monitor\n3. ExSpiron respiratory volume monitor in PACU\n\nRocuronium: After induction of anesthesia and IV placement, administration of rocuronium 0.6 mg/kg (max 50 mg). Administration of additional doses of 0.2 mg/kg (max 15 mg) when TetraGraph indicates a train of four count of 2 or greater.\n\nSugammadex: Administration of sugammadex 2 mg/kg at the end of surgery if the TetraGraph indicates the train of four count is 2 or greater. Sugammadex 4 mg/kg will be administered if 1) the train of four count is 1, or 2) if the train of four count is 0 and the post tetanic count is at least 1. There is no maximum dose of sugammadex."
+            },
+            {
+              "id": "OG001",
+              "title": "No Neuromuscular Blockade",
+              "description": "Anesthesia will be administered in a standard fashion. Rocuronium and sugammadex will not be administered.\n\nSOC drugs:\n\n1. Midazolam 0.5 mg/kg (max 15 mg) and acetaminophen 15 mg/kg (max 800 mg) PO 20-30 minutes before surgery.\n2. Sevoflurane induction and maintenance of anesthesia\n3. Dexamethasone 0.5 mg/kg IV (max 8 mg) intraop\n4. Dexmedetomidine 0.3 mcg/kg IV (max 12 mcg) intraop\n5. Fentanyl at the discretion of the anesthesiologist. In the post-anesthesia care unit (PACU), fentanyl 0.5 mcg/kg IV (max 25 mcg) for pain score 4 or greater (max 3 doses).\n6. Ondansetron 0.1 mg/kg (max 4 mg) IV intraop\n7. Ibuprofen 10 mg/kg (max 500 mg) PO every 6 hours beginning after surgery and alternating with acetaminophen 15 mg/kg (max 800 mg) every 6 hours.\n\nDevice monitoring:\n\n1. Bispectral index system intraop\n2. ExSpiron respiratory volume monitor intraop and in PACU\n\nAnesthesia without neuromuscular blockade: Anesthesia without rocuronium or sugammadex"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "86"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "86"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.209",
+                      "spread": "0.009"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.188",
+                      "spread": "0.009"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.123",
+              "statisticalMethod": "ANOVA",
+              "paramType": "least squares mean difference",
+              "paramValue": "0.021",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-0.005",
+              "ciUpperLimit": "0.047",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "0.013"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Postoperative Respiratory Events",
+          "description": "Composite binary outcome consisting of 1) airway obstruction or hypoxemia, defined as SpO2 \\<90%, requiring any of the following interventions: supplemental oxygen by nasal cannula or simple face mask, noninvasive positive airway pressure, or reintubation; or 2) unanticipated ICU admission.",
+          "populationDescription": "Postoperative ward respiratory events measured by administration of questionnaires to nursing staff. Number analyzed represents number of participants with questionnaires returned. PACU respiratory events measured by bedside observation by study staff. No participants had outcome measurements missing from the PACU.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From post-anesthesia care unit admission to discharge home, up to 24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Neuromuscular Blockade",
+              "description": "Rocuronium 0.6 mg/kg IV (max 50 mg) intraop with repeated doses of 0.2 mg/kg (max 15 mg) as indicated. Sugammadex 2-4 mg/kg IV at the end of surgery.\n\nSOC drugs:\n\n1. Midazolam 0.5 mg/kg (max 15 mg) and acetaminophen 15 mg/kg (max 800 mg) PO 20-30 minutes before surgery.\n2. Sevoflurane induction and maintenance\n3. Dexamethasone 0.5 mg/kg IV (max 8 mg) intraop\n4. Dexmedetomidine 0.3 mcg/kg IV (max 12 mcg) intraop\n5. Fentanyl at the discretion of anesthesiologist. In the post-anesthesia care unit (PACU), fentanyl 0.5 mcg/kg IV (max 25 mcg) for pain score 4 or greater (max 3 doses).\n6. Ondansetron 0.1 mg/kg (max 4 mg) IV intraop\n7. Ibuprofen 10 mg/kg (max 500 mg) PO alternating with acetaminophen 15 mg/kg (max 800 mg) every 6 hours after surgery.\n\nMonitoring:\n\n1. Bispectral index system\n2. TetraGraph neuromuscular transmission monitor\n3. ExSpiron respiratory volume monitor in PACU\n\nRocuronium: After induction of anesthesia and IV placement, administration of rocuronium 0.6 mg/kg (max 50 mg). Administration of additional doses of 0.2 mg/kg (max 15 mg) when TetraGraph indicates a train of four count of 2 or greater.\n\nSugammadex: Administration of sugammadex 2 mg/kg at the end of surgery if the TetraGraph indicates the train of four count is 2 or greater. Sugammadex 4 mg/kg will be administered if 1) the train of four count is 1, or 2) if the train of four count is 0 and the post tetanic count is at least 1. There is no maximum dose of sugammadex."
+            },
+            {
+              "id": "OG001",
+              "title": "No Neuromuscular Blockade",
+              "description": "Anesthesia will be administered in a standard fashion. Rocuronium and sugammadex will not be administered.\n\nSOC drugs:\n\n1. Midazolam 0.5 mg/kg (max 15 mg) and acetaminophen 15 mg/kg (max 800 mg) PO 20-30 minutes before surgery.\n2. Sevoflurane induction and maintenance of anesthesia\n3. Dexamethasone 0.5 mg/kg IV (max 8 mg) intraop\n4. Dexmedetomidine 0.3 mcg/kg IV (max 12 mcg) intraop\n5. Fentanyl at the discretion of the anesthesiologist. In the post-anesthesia care unit (PACU), fentanyl 0.5 mcg/kg IV (max 25 mcg) for pain score 4 or greater (max 3 doses).\n6. Ondansetron 0.1 mg/kg (max 4 mg) IV intraop\n7. Ibuprofen 10 mg/kg (max 500 mg) PO every 6 hours beginning after surgery and alternating with acetaminophen 15 mg/kg (max 800 mg) every 6 hours.\n\nDevice monitoring:\n\n1. Bispectral index system intraop\n2. ExSpiron respiratory volume monitor intraop and in PACU\n\nAnesthesia without neuromuscular blockade: Anesthesia without rocuronium or sugammadex"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "86"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "86"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Respiratory event PACU or ward",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "38"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Respiratory event PACU",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "86"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "37"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Respiratory event ward",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.102",
+              "statisticalMethod": "Mixed Models Analysis",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "0.55",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "0.26",
+              "ciUpperLimit": "1.12"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Low Minute Ventilation (MV) Events in the Post-anesthesia Care Unit",
+          "description": "Count outcome of distinct episodes of low MV.\n\nMV - the product of respiratory rate and tidal volume - was continuously measured by a noninvasive respiratory volume monitor. Low MV events were defined as episodes of MV less than 40 percent predicted - calculated by the monitor based on the patient's body surface area - for at least two minutes. This definition is routinely used by the monitoring system.",
+          "populationDescription": "Two patients in the no neuromuscular blockade group were missing respiratory volume monitor data and therefore the measure of low MV events.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "low minute ventilation events",
+          "timeFrame": "From post-anesthesia care unit admission to transfer to the postoperative ward, up to 8 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Neuromuscular Blockade",
+              "description": "Rocuronium 0.6 mg/kg IV (max 50 mg) intraop with repeated doses of 0.2 mg/kg (max 15 mg) as indicated. Sugammadex 2-4 mg/kg IV at the end of surgery.\n\nSOC drugs:\n\n1. Midazolam 0.5 mg/kg (max 15 mg) and acetaminophen 15 mg/kg (max 800 mg) PO 20-30 minutes before surgery.\n2. Sevoflurane induction and maintenance\n3. Dexamethasone 0.5 mg/kg IV (max 8 mg) intraop\n4. Dexmedetomidine 0.3 mcg/kg IV (max 12 mcg) intraop\n5. Fentanyl at the discretion of anesthesiologist. In the post-anesthesia care unit (PACU), fentanyl 0.5 mcg/kg IV (max 25 mcg) for pain score 4 or greater (max 3 doses).\n6. Ondansetron 0.1 mg/kg (max 4 mg) IV intraop\n7. Ibuprofen 10 mg/kg (max 500 mg) PO alternating with acetaminophen 15 mg/kg (max 800 mg) every 6 hours after surgery.\n\nMonitoring:\n\n1. Bispectral index system\n2. TetraGraph neuromuscular transmission monitor\n3. ExSpiron respiratory volume monitor in PACU\n\nRocuronium: After induction of anesthesia and IV placement, administration of rocuronium 0.6 mg/kg (max 50 mg). Administration of additional doses of 0.2 mg/kg (max 15 mg) when TetraGraph indicates a train of four count of 2 or greater.\n\nSugammadex: Administration of sugammadex 2 mg/kg at the end of surgery if the TetraGraph indicates the train of four count is 2 or greater. Sugammadex 4 mg/kg will be administered if 1) the train of four count is 1, or 2) if the train of four count is 0 and the post tetanic count is at least 1. There is no maximum dose of sugammadex."
+            },
+            {
+              "id": "OG001",
+              "title": "No Neuromuscular Blockade",
+              "description": "Anesthesia will be administered in a standard fashion. Rocuronium and sugammadex will not be administered.\n\nSOC drugs:\n\n1. Midazolam 0.5 mg/kg (max 15 mg) and acetaminophen 15 mg/kg (max 800 mg) PO 20-30 minutes before surgery.\n2. Sevoflurane induction and maintenance of anesthesia\n3. Dexamethasone 0.5 mg/kg IV (max 8 mg) intraop\n4. Dexmedetomidine 0.3 mcg/kg IV (max 12 mcg) intraop\n5. Fentanyl at the discretion of the anesthesiologist. In the post-anesthesia care unit (PACU), fentanyl 0.5 mcg/kg IV (max 25 mcg) for pain score 4 or greater (max 3 doses).\n6. Ondansetron 0.1 mg/kg (max 4 mg) IV intraop\n7. Ibuprofen 10 mg/kg (max 500 mg) PO every 6 hours beginning after surgery and alternating with acetaminophen 15 mg/kg (max 800 mg) every 6 hours.\n\nDevice monitoring:\n\n1. Bispectral index system intraop\n2. ExSpiron respiratory volume monitor intraop and in PACU\n\nAnesthesia without neuromuscular blockade: Anesthesia without rocuronium or sugammadex"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "86"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "84"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "16"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.008",
+              "statisticalMethod": "Negative Binomial Regression",
+              "paramType": "Incidence rate ratio",
+              "paramValue": "2.37",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "1.25",
+              "ciUpperLimit": "4.52"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "24 hours",
+      "description": "Adverse events collected through regular investigator assessment.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Neuromuscular Blockade",
+          "description": "Rocuronium 0.6 mg/kg IV (max 50 mg) intraop with repeated doses of 0.2 mg/kg (max 15 mg) as indicated. Sugammadex 2-4 mg/kg IV at the end of surgery.\n\nSOC drugs:\n\n1. Midazolam 0.5 mg/kg (max 15 mg) and acetaminophen 15 mg/kg (max 800 mg) PO 20-30 minutes before surgery.\n2. Sevoflurane induction and maintenance\n3. Dexamethasone 0.5 mg/kg IV (max 8 mg) intraop\n4. Dexmedetomidine 0.3 mcg/kg IV (max 12 mcg) intraop\n5. Fentanyl at the discretion of anesthesiologist. In the post-anesthesia care unit (PACU), fentanyl 0.5 mcg/kg IV (max 25 mcg) for pain score 4 or greater (max 3 doses).\n6. Ondansetron 0.1 mg/kg (max 4 mg) IV intraop\n7. Ibuprofen 10 mg/kg (max 500 mg) PO alternating with acetaminophen 15 mg/kg (max 800 mg) every 6 hours after surgery.\n\nMonitoring:\n\n1. Bispectral index system\n2. TetraGraph neuromuscular transmission monitor\n3. ExSpiron respiratory volume monitor in PACU\n\nRocuronium: After induction of anesthesia and IV placement, administration of rocuronium 0.6 mg/kg (max 50 mg). Administration of additional doses of 0.2 mg/kg (max 15 mg) when TetraGraph indicates a train of four count of 2 or greater.\n\nSugammadex: Administration of sugammadex 2 mg/kg at the end of surgery if the TetraGraph indicates the train of four count is 2 or greater. Sugammadex 4 mg/kg will be administered if 1) the train of four count is 1, or 2) if the train of four count is 0 and the post tetanic count is at least 1. There is no maximum dose of sugammadex.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 86,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 86,
+          "otherNumAffected": 1,
+          "otherNumAtRisk": 86
+        },
+        {
+          "id": "EG001",
+          "title": "No Neuromuscular Blockade",
+          "description": "Anesthesia will be administered in a standard fashion. Rocuronium and sugammadex will not be administered.\n\nSOC drugs:\n\n1. Midazolam 0.5 mg/kg (max 15 mg) and acetaminophen 15 mg/kg (max 800 mg) PO 20-30 minutes before surgery.\n2. Sevoflurane induction and maintenance of anesthesia\n3. Dexamethasone 0.5 mg/kg IV (max 8 mg) intraop\n4. Dexmedetomidine 0.3 mcg/kg IV (max 12 mcg) intraop\n5. Fentanyl at the discretion of the anesthesiologist. In the post-anesthesia care unit (PACU), fentanyl 0.5 mcg/kg IV (max 25 mcg) for pain score 4 or greater (max 3 doses).\n6. Ondansetron 0.1 mg/kg (max 4 mg) IV intraop\n7. Ibuprofen 10 mg/kg (max 500 mg) PO every 6 hours beginning after surgery and alternating with acetaminophen 15 mg/kg (max 800 mg) every 6 hours.\n\nDevice monitoring:\n\n1. Bispectral index system intraop\n2. ExSpiron respiratory volume monitor intraop and in PACU\n\nAnesthesia without neuromuscular blockade: Anesthesia without rocuronium or sugammadex",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 86,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 86,
+          "otherNumAffected": 1,
+          "otherNumAtRisk": 86
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Drug reaction",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Bronchospasm following sugammadex administration.",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 86
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 86
+            }
+          ]
+        },
+        {
+          "term": "Drug effect",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Excessive respiratory depression due to intraoperative fentanyl administration",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 86
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 86
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dr. Proshad Efune",
+        "organization": "University of Texas Southwestern Medical Center",
+        "email": "proshad.efune@utsouthwestern.edu",
+        "phone": "2144566393"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-11-05",
+          "uploadDate": "2025-05-28T14:17",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 2537107
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-06-13",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D020181",
+          "term": "Sleep Apnea, Obstructive"
+        },
+        {
+          "id": "D012913",
+          "term": "Snoring"
+        },
+        {
+          "id": "D012891",
+          "term": "Sleep Apnea Syndromes"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001049",
+          "term": "Apnea"
+        },
+        {
+          "id": "D012120",
+          "term": "Respiration Disorders"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D020919",
+          "term": "Sleep Disorders, Intrinsic"
+        },
+        {
+          "id": "D020920",
+          "term": "Dyssomnias"
+        },
+        {
+          "id": "D012893",
+          "term": "Sleep Wake Disorders"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D012135",
+          "term": "Respiratory Sounds"
+        },
+        {
+          "id": "D012818",
+          "term": "Signs and Symptoms, Respiratory"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000077123",
+          "term": "Rocuronium"
+        },
+        {
+          "id": "D009466",
+          "term": "Neuromuscular Blocking Agents"
+        },
+        {
+          "id": "D000077122",
+          "term": "Sugammadex"
+        },
+        {
+          "id": "D000758",
+          "term": "Anesthesia"
+        },
+        {
+          "id": "D019148",
+          "term": "Neuromuscular Blockade"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000732",
+          "term": "Androstanols"
+        },
+        {
+          "id": "D000731",
+          "term": "Androstanes"
+        },
+        {
+          "id": "D013256",
+          "term": "Steroids"
+        },
+        {
+          "id": "D000072473",
+          "term": "Fused-Ring Compounds"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D009465",
+          "term": "Neuromuscular Agents"
+        },
+        {
+          "id": "D018373",
+          "term": "Peripheral Nervous System Agents"
+        },
+        {
+          "id": "D045505",
+          "term": "Physiological Effects of Drugs"
+        },
+        {
+          "id": "D020228",
+          "term": "Pharmacologic Actions"
+        },
+        {
+          "id": "D020164",
+          "term": "Chemical Actions and Uses"
+        },
+        {
+          "id": "D047408",
+          "term": "gamma-Cyclodextrins"
+        },
+        {
+          "id": "D003505",
+          "term": "Cyclodextrins"
+        },
+        {
+          "id": "D047028",
+          "term": "Macrocyclic Compounds"
+        },
+        {
+          "id": "D003912",
+          "term": "Dextrins"
+        },
+        {
+          "id": "D013213",
+          "term": "Starch"
+        },
+        {
+          "id": "D005936",
+          "term": "Glucans"
+        },
+        {
+          "id": "D011134",
+          "term": "Polysaccharides"
+        },
+        {
+          "id": "D002241",
+          "term": "Carbohydrates"
+        },
+        {
+          "id": "D000760",
+          "term": "Anesthesia and Analgesia"
+        },
+        {
+          "id": "D008919",
+          "term": "Investigative Techniques"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

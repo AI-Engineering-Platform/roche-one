@@ -1,0 +1,2332 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05761444",
+      "orgStudyIdInfo": {
+        "id": "OG-KORATO-001"
+      },
+      "organization": {
+        "fullName": "Organon and Co",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Effectiveness and Safety Study of Early add-on of Ezetimibe With Atorvastatin in Very High-risk Patients",
+      "officialTitle": "A Phase 4, Multicenter, Randomized, Open-label, Active-controlled Study to Evaluate the Effectiveness and Safety of Early add-on of Ezetimibe With Atorvastatin in Very High-risk Patients",
+      "acronym": "BETTER"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-07-26",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-09-04",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-10-15",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-02-27",
+      "studyFirstSubmitQcDate": "2023-03-08",
+      "studyFirstPostDateStruct": {
+        "date": "2023-03-09",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-08-20",
+      "resultsFirstSubmitQcDate": "2025-08-20",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-09-09",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-08-20",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-09",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Organon and Co",
+        "class": "INDUSTRY"
+      },
+      "collaborators": [
+        {
+          "name": "Iqvia Pty Ltd",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study aims to confirm the effectiveness of ezetimibe add-on therapy on LDL-C levels compared to atorvastatin monotherapy, especially in very high-risk patients. We intend to lay the foundation for a standard treatment for these patients through ezetimibe add on lipid-lowering therapy."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Atherosclerotic Cardiovascular Disease"
+      ],
+      "keywords": [
+        "Very high-risk patients' Atherosclerotic cardiovascular disease (ASCVD)"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 137,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Eze/Ato: Ezetimibe/Atorvastatin",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will receive ezetimibe/atorvastatin 10/40 mg QD from Visit 2 (Day 1) to Visit 3 (Week 6). If the LDL-C target is reached (LDL-C \\< 55 mg/dL) at Visit 3, maintain the dose to Visit 4 (Week 12). If the LDL-C target level is not reached at Visit 3, dose is increased to ezetimibe/atorvastatin 10/80 mg QD from Visit 3 to Visit 4.",
+          "interventionNames": [
+            "Drug: Atozet 10/40 mg or 10/80 mg"
+          ]
+        },
+        {
+          "label": "Ato: Atorvastatin",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants will receive atorvastatin 40 mg QD from Visit 2 (Day 1) to Visit 3 (Week 6). If the LDL-C target is reached (LDL-C \\< 55 mg/dL) at Visit 3, maintain the dose to Visit 4 (Week 12). If the LDL-C target is not reached at Visit 3, dose is increased to atorvastatin 80 mg QD from Visit 3 to Visit 4.",
+          "interventionNames": [
+            "Drug: Lipitor 40 mg or 80 mg"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Atozet 10/40 mg or 10/80 mg",
+          "description": "Atozet 10/40 mg or 10/80 mg Dosage Formulation: Tablet Dosing Instructions: oral. Take 1 tablet daily",
+          "armGroupLabels": [
+            "Eze/Ato: Ezetimibe/Atorvastatin"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Lipitor 40 mg or 80 mg",
+          "description": "Lipitor 40 mg or 80 mg Dosage Formulation: Tablet Dosing Instructions: oral. Take 1 tablet daily",
+          "armGroupLabels": [
+            "Ato: Atorvastatin"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Percentage Change From Baseline in Low-Density Lipoprotein Cholesterol at Week 6",
+          "description": "Blood samples were collected to determine the LDL-C values. The percentage change from baseline was defined as 100 x (LDL-C value at 6 weeks - LDL-C value at baseline)/LDL-C value at baseline. Baseline was defined as the last non-missing measurement taken prior to reference start date.",
+          "timeFrame": "Baseline (Day 1) and Week 6"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Percentage of Participants Who Achieved Low-Density Lipoprotein Cholesterol Goal of <55 mg/dL at Weeks 6 and 12",
+          "description": "Blood samples were collected to determine the LDL-C values. Participants with LDL-C \\<55 mg/dL were identified. Percentages are rounded off to the hundredth decimal place.",
+          "timeFrame": "Weeks 6 and 12"
+        },
+        {
+          "measure": "Percentage of Participants Who Achieved Low-Density Lipoprotein Cholesterol Goal of <70 mg/dL at Weeks 6 and 12",
+          "description": "Blood samples were collected to determine the LDL-C values. Participants with LDL-C \\<70 mg/dL were identified. Percentages are rounded off to the hundredth decimal place.",
+          "timeFrame": "Weeks 6 and 12"
+        },
+        {
+          "measure": "Percentage Change From Baseline in Low-Density Lipoprotein Cholesterol at Week 12",
+          "description": "Blood samples were collected to determine the LDL-C values. The percentage change from baseline was defined as 100 x (LDL-C value at 12 weeks - LDL-C value at baseline)/LDL-C value at baseline. Baseline was defined as the last non-missing measurement taken prior to reference start date.",
+          "timeFrame": "Baseline (Day 1) and Week 12"
+        },
+        {
+          "measure": "Percentage Change From Baseline in High-Density Lipoprotein Cholesterol (HDL-C), Non-High-Density Lipoprotein Cholesterol (Non-HDL-C), Triglycerides, and Total Cholesterol at Weeks 6 and 12",
+          "description": "Blood samples were collected to determine the HDL-C, non-HDL-C, triglycerides, and total cholesterol values. The percentage change from baseline for HDL-C was defined as 100 x (HDL-C value at 6 or 12 weeks - HDL-C value at baseline)/HDL-C value at baseline. The percentage change from baseline for non-HDL-C was defined as 100 x (non-HDL-C value at 6 or 12 weeks - non-HDL-C value at baseline)/non-HDL-C value at baseline. The percentage change from baseline for triglycerides was defined as 100 x (triglycerides value at 6 or 12 weeks - triglycerides value at baseline)/triglycerides value at baseline. The percentage change from baseline for total cholesterol was defined as 100 x (total cholesterol value at 6 or 12 weeks - total cholesterol value at baseline)/total cholesterol value at baseline. Baseline was defined as the last non-missing measurement taken prior to reference start date.",
+          "timeFrame": "Baseline (Day 1) and Weeks 6 and 12"
+        },
+        {
+          "measure": "Number of Participants With Treatment-Emergent Adverse Events (TEAEs) and Treatment-Emergent Serious Adverse Events (TESAEs) at Weeks 6 and 12",
+          "description": "An adverse event (AE) was defined as any untoward medical occurrence in a clinical study participant administered a medicinal product and which does not necessarily have a causal relationship with that product. An SAE was defined as any AE that at any dose resulted in death, was life-threatening, required inpatient hospitalization or prolongation of existing hospitalization, resulted in persistent or significant disability/incapacity, was a congenital anomaly/birth defect, or was an important medical event. A TEAE was defined as AEs that first occurred or worsened in severity on or after the first administration of the study treatment during the treatment period.",
+          "timeFrame": "From the first dose administration of the study treatment (Day 1) up to Week 6; From the first dose administration of the study treatment (Day 1) up to Week 12"
+        },
+        {
+          "measure": "Number of Participants With Treatment-Emergent Adverse Event Leading to the Premature Discontinuation of the Study",
+          "description": "An AE was defined as any untoward medical occurrence in a clinical study participant administered a medicinal product and which does not necessarily have a causal relationship with that product. An SAE was defined as any AE that at any dose resulted in death, was life-threatening, required inpatient hospitalization or prolongation of existing hospitalization, resulted in persistent or significant disability/incapacity, was a congenital anomaly/birth defect, or was an important medical event. A TEAE was defined as AEs that first occurred or worsened in severity on or after the first administration of the study treatment during the treatment period.",
+          "timeFrame": "From the first dose administration of the study treatment (Day 1) up to Week 6; From the first dose administration of the study treatment (Day 1) up to Week 12"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients who are ≥ 30 years old.\n2. Patients with very high-risk\\*: clinical or unequivocal on imaging ASCVD. ASCVD includes previous ACS (MI or UA), stable angina, coronary revascularization (percutaneous coronary intervention (PCI), coronary artery bypass graft surgery (CABG), and other arterial revascularization procedures), stroke and transient ischaemic attack (TIA), and peripheral arterial disease (Mach F 2020).\n3. Patients (a) who failed to achieve their target LDL-C goals with low and/or moderate intensity statin mono therapy for ≥ 4 weeks or (b) who are statin-naïve or have not been on a stable (unchanged) statin regimen for at least 4 weeks prior to enrollment\n\n   * rosuvastatin \\< 10 mg, atorvastatin \\< 40 mg, and all dose of pitavastatin, simvastatin, lovastatin, pravastatin, and fluvastatin (Team G 2020).\n4. Patients with LDL-C levels ≥ 70 mg/dL\n5. Patients who are willing to maintain TLC throughout the study.\n6. Patients who are willing to provide written informed consent prior to study enrollment.\n\nExclusion Criteria:\n\n1. Patients with hypersensitivity to ezetimibe, atorvastatin or any of its inactive ingredients.\n2. Patients with active liver disease or unexplained persistent elevations of hepatic transaminase levels. (aspartate transaminase (AST) or alanine transaminase (ALT) \\> 3 x upper limit of normal (ULN)).\n3. Patients who have predisposing conditions with muscle disease (i.e., rhabdomyolysis or myopathy) or neuromuscular disease.\n4. Patients with myasthenia gravis.\n5. Female patients who are pregnant or have a potential to be pregnant and nursing.\n6. Patients who are taking glecaprevir and pibrentasvir.\n7. Patients with hereditary problems of galactose intolerance, lapp lactase deficiency, or of glucose-galactose malabsorption.\n8. Patients with disease known to influence serum lipids or lipoproteins excluding dyslipidemia.\n9. Patients with a history of cancer within 5 years.\n10. Patients whose life expectancy is less than 6 months due to their medical conditions.\n11. Patients with any condition or situation that might pose a risk to the participant or interfere with participation in the study.\n12. Patients who have received any investigational medicine within 12 weeks of written informed consent or are going to receive during the clinical trial period.\n13. Patients who are judged to be difficult to conduct clinical trials according to the judgment of the investigator.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "30 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "WonYoung Lee",
+          "affiliation": "Organon",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Eunpyeong St. Mary's Hospital",
+          "city": "Seoul",
+          "state": "Eunpyeong-gu",
+          "zip": "03312",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Inje University Ilsan-Paik Hospital",
+          "city": "Goyang-si",
+          "state": "Gyeonggi-do",
+          "zip": "10380",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.65639,
+            "lon": 126.835
+          }
+        },
+        {
+          "facility": "Seoul National University Bundang Hospital",
+          "city": "Seongnam-si",
+          "state": "Gyeonggi-do",
+          "zip": "13620",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.43861,
+            "lon": 127.13778
+          }
+        },
+        {
+          "facility": "Keimyung University Dongsan Medical Center",
+          "city": "Daegu",
+          "state": "Gyeongsangbuk-do",
+          "zip": "42601",
+          "country": "South Korea"
+        },
+        {
+          "facility": "Ulsan University Hospital",
+          "city": "Ulsan",
+          "state": "Gyeongsangnam-do",
+          "zip": "44033",
+          "country": "South Korea"
+        },
+        {
+          "facility": "Chonnam National University Hospital",
+          "city": "Gwangju",
+          "state": "Jeollanam-do",
+          "zip": "61469",
+          "country": "South Korea"
+        },
+        {
+          "facility": "Kangbuk Samsung Hospital",
+          "city": "Seoul",
+          "zip": "03181",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "The study consisted of a screening period (1 week), an treatment period (12 weeks), and an end-of-study assessment (at Week 12). A total of 137 participants were randomized and enrolled in the study.",
+      "recruitmentDetails": "This Phase 4, open-label, active-controlled study was conducted in very high-risk dyslipidemia participants at 8 centers in South Korea between 26 July 2023 and 15 October 2024.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Ezetimibe/Atorvastatin",
+          "description": "Participants received ezetimibe/atorvastatin 10/40 milligram (mg) tablet orally once a day (QD) from Day 1 to Week 6.\n\nIf the low-density lipoprotein cholesterol (LDL-C) target was reached \\<55 mg/deciliter (dL) at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to ezetimibe/atorvastatin 10/80 mg QD from Week 6 to Week 12."
+        },
+        {
+          "id": "FG001",
+          "title": "Atorvastatin",
+          "description": "Participants received atorvastatin 40 mg tablet orally QD from Day 1 to Week 6.\n\nIf the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to atorvastatin 80 mg QD from Week 6 to Week 12."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "67"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "70"
+                }
+              ]
+            },
+            {
+              "type": "Treated",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "67"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "69"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "59"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "65"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "8"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "5"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Protocol Violation",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Other",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "The Safety analysis set (SAS) included all randomized participants who received at least 1 dose of study treatment.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Ezetimibe/Atorvastatin",
+          "description": "Participants received ezetimibe/atorvastatin 10/40 mg tablet orally QD from Day 1 to Week 6.\n\nIf the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to ezetimibe/atorvastatin 10/80 mg QD from Week 6 to Week 12."
+        },
+        {
+          "id": "BG001",
+          "title": "Atorvastatin",
+          "description": "Participants received atorvastatin 40 mg tablet orally QD from Day 1 to Week 6.\n\nIf the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to atorvastatin 80 mg QD from Week 6 to Week 12."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "67"
+            },
+            {
+              "groupId": "BG001",
+              "value": "69"
+            },
+            {
+              "groupId": "BG002",
+              "value": "136"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "67"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "69"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "136"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "65.1",
+                      "spread": "10.07"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "64.7",
+                      "spread": "10.66"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "64.9",
+                      "spread": "10.34"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "67"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "69"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "136"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "29"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "55"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "52"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "107"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "title": "South Korea",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "67"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "69"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "136"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "67"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "69"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "136"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Low-Density Lipoprotein Cholesterol",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mg/dL",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "67"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "69"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "136"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "98.1",
+                      "spread": "23.81"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "107.8",
+                      "spread": "34.14"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "103.0",
+                      "spread": "29.79"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Percentage Change From Baseline in Low-Density Lipoprotein Cholesterol at Week 6",
+          "description": "Blood samples were collected to determine the LDL-C values. The percentage change from baseline was defined as 100 x (LDL-C value at 6 weeks - LDL-C value at baseline)/LDL-C value at baseline. Baseline was defined as the last non-missing measurement taken prior to reference start date.",
+          "populationDescription": "The full analysis set (FAS) included all randomized participants who received at least 1 dose of study treatment and had a baseline assessment of LDL-C and at least 1 valid post baseline measurement of LDL-C.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "percentage change",
+          "timeFrame": "Baseline (Day 1) and Week 6",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ezetimibe/Atorvastatin",
+              "description": "Participants received ezetimibe/atorvastatin 10/40 mg tablet orally QD from Day 1 to Week 6.\n\nIf the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to ezetimibe/atorvastatin 10/80 mg QD from Week 6 to Week 12."
+            },
+            {
+              "id": "OG001",
+              "title": "Atorvastatin",
+              "description": "Participants received atorvastatin 40 mg tablet orally QD from Day 1 to Week 6. If the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to atorvastatin 80 mg QD from Week 6 to Week 12."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "65"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "67"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-48.97",
+                      "spread": "2.71"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-27.75",
+                      "spread": "2.47"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "<0.0001",
+              "pValueComment": "The analysis of covariance (ANCOVA) model with treatment group (ezetimibe/atorvastatin, atorvastatin) and history of statin administration (yes, no) as fixed effects and baseline LDL-C as a covariate.",
+              "statisticalMethod": "ANCOVA",
+              "paramType": "Least Squares (LS) mean difference",
+              "paramValue": "-21.22",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-29.26",
+              "ciUpperLimit": "-13.19"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants Who Achieved Low-Density Lipoprotein Cholesterol Goal of <55 mg/dL at Weeks 6 and 12",
+          "description": "Blood samples were collected to determine the LDL-C values. Participants with LDL-C \\<55 mg/dL were identified. Percentages are rounded off to the hundredth decimal place.",
+          "populationDescription": "The FAS included all randomized participants who received at least 1 dose of study treatment and had a baseline assessment of LDL-C and at least 1 valid post baseline measurement of LDL-C. Only participants with data collected at specific timepoints are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Weeks 6 and 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ezetimibe/Atorvastatin",
+              "description": "Participants received ezetimibe/atorvastatin 10/40 mg tablet orally QD from Day 1 to Week 6.\n\nIf the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to ezetimibe/atorvastatin 10/80 mg QD from Week 6 to Week 12."
+            },
+            {
+              "id": "OG001",
+              "title": "Atorvastatin",
+              "description": "Participants received atorvastatin 40 mg tablet orally QD from Day 1 to Week 6. If the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to atorvastatin 80 mg QD from Week 6 to Week 12."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "65"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "67"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 6",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "67"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "46.2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "65"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "55.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "15.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants Who Achieved Low-Density Lipoprotein Cholesterol Goal of <70 mg/dL at Weeks 6 and 12",
+          "description": "Blood samples were collected to determine the LDL-C values. Participants with LDL-C \\<70 mg/dL were identified. Percentages are rounded off to the hundredth decimal place.",
+          "populationDescription": "The FAS included all randomized participants who received at least 1 dose of study treatment and had a baseline assessment of LDL-C and at least 1 valid post baseline measurement of LDL-C. Only participants with data collected at specific timepoints are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Weeks 6 and 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ezetimibe/Atorvastatin",
+              "description": "Participants received ezetimibe/atorvastatin 10/40 mg tablet orally QD from Day 1 to Week 6.\n\nIf the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to ezetimibe/atorvastatin 10/80 mg QD from Week 6 to Week 12."
+            },
+            {
+              "id": "OG001",
+              "title": "Atorvastatin",
+              "description": "Participants received atorvastatin 40 mg tablet orally QD from Day 1 to Week 6. If the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to atorvastatin 80 mg QD from Week 6 to Week 12."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "65"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "67"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 6",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "67"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "78.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "38.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "65"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "85.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "58.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage Change From Baseline in Low-Density Lipoprotein Cholesterol at Week 12",
+          "description": "Blood samples were collected to determine the LDL-C values. The percentage change from baseline was defined as 100 x (LDL-C value at 12 weeks - LDL-C value at baseline)/LDL-C value at baseline. Baseline was defined as the last non-missing measurement taken prior to reference start date.",
+          "populationDescription": "The FAS included all randomized participants who received at least 1 dose of study treatment and had a baseline assessment of LDL-C and at least 1 valid post baseline measurement of LDL-C. Only participants with data collected at baseline and Week 12 are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "percentage change",
+          "timeFrame": "Baseline (Day 1) and Week 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ezetimibe/Atorvastatin",
+              "description": "Participants received ezetimibe/atorvastatin 10/40 mg tablet orally QD from Day 1 to Week 6.\n\nIf the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to ezetimibe/atorvastatin 10/80 mg QD from Week 6 to Week 12."
+            },
+            {
+              "id": "OG001",
+              "title": "Atorvastatin",
+              "description": "Participants received atorvastatin 40 mg tablet orally QD from Day 1 to Week 6. If the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to atorvastatin 80 mg QD from Week 6 to Week 12."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "65"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-50.37",
+                      "spread": "2.60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-34.41",
+                      "spread": "2.32"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "<0.0001",
+              "pValueComment": "The ANCOVA model with treatment group (ezetimibe/atorvastatin, atorvastatin) and history of statin administration (yes, no) as fixed effects and baseline LDL-C as a covariate.",
+              "statisticalMethod": "ANCOVA",
+              "paramType": "LS mean difference",
+              "paramValue": "-15.96",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-23.56",
+              "ciUpperLimit": "-8.36"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage Change From Baseline in High-Density Lipoprotein Cholesterol (HDL-C), Non-High-Density Lipoprotein Cholesterol (Non-HDL-C), Triglycerides, and Total Cholesterol at Weeks 6 and 12",
+          "description": "Blood samples were collected to determine the HDL-C, non-HDL-C, triglycerides, and total cholesterol values. The percentage change from baseline for HDL-C was defined as 100 x (HDL-C value at 6 or 12 weeks - HDL-C value at baseline)/HDL-C value at baseline. The percentage change from baseline for non-HDL-C was defined as 100 x (non-HDL-C value at 6 or 12 weeks - non-HDL-C value at baseline)/non-HDL-C value at baseline. The percentage change from baseline for triglycerides was defined as 100 x (triglycerides value at 6 or 12 weeks - triglycerides value at baseline)/triglycerides value at baseline. The percentage change from baseline for total cholesterol was defined as 100 x (total cholesterol value at 6 or 12 weeks - total cholesterol value at baseline)/total cholesterol value at baseline. Baseline was defined as the last non-missing measurement taken prior to reference start date.",
+          "populationDescription": "The FAS included all randomized participants who received at least 1 dose of study treatment and had a baseline assessment of LDL-C and at least 1 valid post baseline measurement of LDL-C. Only participants with data collected at specific timepoints are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "percentage change",
+          "timeFrame": "Baseline (Day 1) and Weeks 6 and 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ezetimibe/Atorvastatin",
+              "description": "Participants received ezetimibe/atorvastatin 10/40 mg tablet orally QD from Day 1 to Week 6.\n\nIf the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to ezetimibe/atorvastatin 10/80 mg QD from Week 6 to Week 12."
+            },
+            {
+              "id": "OG001",
+              "title": "Atorvastatin",
+              "description": "Participants received atorvastatin 40 mg tablet orally QD from Day 1 to Week 6. If the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to atorvastatin 80 mg QD from Week 6 to Week 12."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "65"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "67"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 6: HDL-C",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "67"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-2.44",
+                      "spread": "17.837"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-0.18",
+                      "spread": "17.479"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12: HDL-C",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "65"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-2.15",
+                      "spread": "18.964"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-1.47",
+                      "spread": "17.163"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 6: non-HDL-C",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "65"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-35.36",
+                      "spread": "18.378"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-24.36",
+                      "spread": "21.625"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12: non-HDL-C",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "63"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-39.97",
+                      "spread": "15.558"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-29.48",
+                      "spread": "18.422"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 6: Triglycerides",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "67"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-9.67",
+                      "spread": "40.806"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-4.94",
+                      "spread": "59.649"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12: Triglycerides",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "65"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-16.67",
+                      "spread": "31.948"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-1.49",
+                      "spread": "65.605"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 6: Total cholesterol",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "65"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-26.28",
+                      "spread": "14.692"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-18.51",
+                      "spread": "15.754"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12: Total cholesterol",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "63"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-29.57",
+                      "spread": "13.563"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-22.18",
+                      "spread": "13.722"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Treatment-Emergent Adverse Events (TEAEs) and Treatment-Emergent Serious Adverse Events (TESAEs) at Weeks 6 and 12",
+          "description": "An adverse event (AE) was defined as any untoward medical occurrence in a clinical study participant administered a medicinal product and which does not necessarily have a causal relationship with that product. An SAE was defined as any AE that at any dose resulted in death, was life-threatening, required inpatient hospitalization or prolongation of existing hospitalization, resulted in persistent or significant disability/incapacity, was a congenital anomaly/birth defect, or was an important medical event. A TEAE was defined as AEs that first occurred or worsened in severity on or after the first administration of the study treatment during the treatment period.",
+          "populationDescription": "The SAS included all randomized participants who received at least 1 dose of study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "timeFrame": "From the first dose administration of the study treatment (Day 1) up to Week 6; From the first dose administration of the study treatment (Day 1) up to Week 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ezetimibe/Atorvastatin",
+              "description": "Participants received ezetimibe/atorvastatin 10/40 mg tablet orally QD from Day 1 to Week 6.\n\nIf the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to ezetimibe/atorvastatin 10/80 mg QD from Week 6 to Week 12."
+            },
+            {
+              "id": "OG001",
+              "title": "Atorvastatin",
+              "description": "Participants received atorvastatin 40 mg tablet orally QD from Day 1 to Week 6. If the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to atorvastatin 80 mg QD from Week 6 to Week 12."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "67"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "69"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 6: Any TEAE",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 6: Any TESAE",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12: Any TEAE",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12: Any TESAE",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Treatment-Emergent Adverse Event Leading to the Premature Discontinuation of the Study",
+          "description": "An AE was defined as any untoward medical occurrence in a clinical study participant administered a medicinal product and which does not necessarily have a causal relationship with that product. An SAE was defined as any AE that at any dose resulted in death, was life-threatening, required inpatient hospitalization or prolongation of existing hospitalization, resulted in persistent or significant disability/incapacity, was a congenital anomaly/birth defect, or was an important medical event. A TEAE was defined as AEs that first occurred or worsened in severity on or after the first administration of the study treatment during the treatment period.",
+          "populationDescription": "The SAS included all randomized participants who received at least 1 dose of study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "timeFrame": "From the first dose administration of the study treatment (Day 1) up to Week 6; From the first dose administration of the study treatment (Day 1) up to Week 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ezetimibe/Atorvastatin",
+              "description": "Participants received ezetimibe/atorvastatin 10/40 mg tablet orally QD from Day 1 to Week 6.\n\nIf the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to ezetimibe/atorvastatin 10/80 mg QD from Week 6 to Week 12."
+            },
+            {
+              "id": "OG001",
+              "title": "Atorvastatin",
+              "description": "Participants received atorvastatin 40 mg tablet orally QD from Day 1 to Week 6. If the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to atorvastatin 80 mg QD from Week 6 to Week 12."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "67"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "69"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 6",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "TEAEs are reported from the first dose administration of the study treatment (Day 1) up to end of the study, 12 weeks.",
+      "description": "The SAS included all randomized participants who received at least 1 dose of study treatment.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Ezetimibe/Atorvastatin",
+          "description": "Participants received ezetimibe/atorvastatin 10/40 mg tablet orally QD from Day 1 to Week 6.\n\nIf the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to ezetimibe/atorvastatin 10/80 mg QD from Week 6 to Week 12.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 67,
+          "seriousNumAffected": 4,
+          "seriousNumAtRisk": 67,
+          "otherNumAffected": 12,
+          "otherNumAtRisk": 67
+        },
+        {
+          "id": "EG001",
+          "title": "Atorvastatin",
+          "description": "Participants received atorvastatin 40 mg tablet orally QD from Day 1 to Week 6.\n\nIf the LDL-C target was reached \\<55 mg/dL at Week 6, the dose was maintained up to Week 12. If the LDL-C target was not reached at Week 6, dose was increased to atorvastatin 80 mg QD from Week 6 to Week 12.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 69,
+          "seriousNumAffected": 3,
+          "seriousNumAtRisk": 69,
+          "otherNumAffected": 11,
+          "otherNumAtRisk": 69
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Anaemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Acute myocardial infarction",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Haematochezia",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Melaena",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Chest discomfort",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Alanine aminotransferase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Aspartate aminotransferase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Gastric cancer",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Cerebral haemorrhage",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Dyspnoea",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Anaemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Iron deficiency anaemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Gastrooesophageal reflux disease",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Chest discomfort",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Chest pain",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Fatigue",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Oedema",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "AST/ALT ratio abnormal",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Alanine aminotransferase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Blood alkaline phosphatase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Blood creatine phosphokinase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Gamma-glutamyltransferase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Diabetes mellitus",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Type 2 diabetes mellitus",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Arthralgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Myalgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Adenocarcinoma",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Dizziness",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Productive cough",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Alopecia",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Pruritus",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Orthostatic hypotension",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 67
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 69
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": true
+      },
+      "pointOfContact": {
+        "title": "Clinical Lead, Late-Stage Clinical Development",
+        "organization": "Organon Korea Co. Ltd",
+        "email": "pdrl@organon.com",
+        "phone": "551-430-6000"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2024-06-27",
+          "uploadDate": "2025-08-19T05:51",
+          "filename": "Prot_000.pdf",
+          "size": 1700010
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-10-31",
+          "uploadDate": "2025-08-19T05:52",
+          "filename": "SAP_001.pdf",
+          "size": 4930823
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D050197",
+          "term": "Atherosclerosis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001161",
+          "term": "Arteriosclerosis"
+        },
+        {
+          "id": "D001157",
+          "term": "Arterial Occlusive Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000069059",
+          "term": "Atorvastatin"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011758",
+          "term": "Pyrroles"
+        },
+        {
+          "id": "D001393",
+          "term": "Azoles"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D006538",
+          "term": "Heptanoic Acids"
+        },
+        {
+          "id": "D005227",
+          "term": "Fatty Acids"
+        },
+        {
+          "id": "D008055",
+          "term": "Lipids"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

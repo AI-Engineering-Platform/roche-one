@@ -1,0 +1,4589 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05614089",
+      "orgStudyIdInfo": {
+        "id": "STUDY21110122"
+      },
+      "organization": {
+        "fullName": "University of Pittsburgh",
+        "class": "OTHER"
+      },
+      "briefTitle": "Human Versus Analogue Insulin for Youth With Type 1 Diabetes in Low-Resource Settings",
+      "officialTitle": "Human Versus Analogue Insulin for Youth With Type 1 Diabetes in Low-Resource Settings: A Randomized Controlled Trial",
+      "acronym": "HumAn-1"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-03-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-08-13",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-03-19",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-10-28",
+      "studyFirstSubmitQcDate": "2022-11-04",
+      "studyFirstPostDateStruct": {
+        "date": "2022-11-14",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-08-11",
+      "resultsFirstSubmitQcDate": "2025-09-08",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-09-10",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-09-08",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-10",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR_INVESTIGATOR",
+        "investigatorFullName": "Jing Luo",
+        "investigatorTitle": "Associate Professor",
+        "investigatorAffiliation": "University of Pittsburgh"
+      },
+      "leadSponsor": {
+        "name": "Jing Luo",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "The Leona M. and Harry B. Helmsley Charitable Trust",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The primary objective of this trial is to determine whether insulin glargine reduces the risk of serious hypoglycemia or improves Time in Range at 6 months when compared against standard of care human insulin (e.g. NPH or premixed 70/30) among youth living with type 1 diabetes (T1D) in low resource settings.",
+      "detailedDescription": "Long-acting insulin analogues have become a de-facto standard of care for patients with T1D living in high-income countries. Unfortunately, insulin analogues remain unavailable or unaffordable for much of the global population. In both 2017 and 2019, applications to add long-acting insulin analogues to the WHO's Model List of Essential Medicines (EML) were rejected due to insufficient evidence of superiority and an unfavorable cost-effectiveness profile when compared against older, less expensive, human insulins (e.g., NPH insulin and premixed 70/30 insulin). In 2021, long-acting insulin analogues were added to the EML but the decision remains controversial since the WHO concluded that \"magnitude of clinical benefit of long-acting insulin analogues over human insulin for most clinical outcomes was small.\" Moreover, studies that compare long-acting insulin analogues versus human insulins conducted in high-income settings may not generalize to children and young adults living with T1D in very low-resource settings.\n\nTo address this unmet need, Pitt has partnered with Brigham and Women's Hospital, The London School of Hygiene and Tropical Medicine, the Clinton Health Access Initiative and Life For a Child to conduct a randomized controlled trial comparing insulin glargine, a long-acting analogue insulin, against intermediate human insulin among 400 children and young adults living with T1D in a lower resource setting.\n\nNote: In preparation for results submission, we made minor changes to the outcomes sections to reflect what is listed in the protocol.\n\nFor Primary Outcomes #1 and #2, and Secondary Outcomes #3,#4, #5, #7, #8: we added 12 months measurements (in addition to the 6 months measurement). We updated Secondary Outcome #9 to specify the PedsQL Diabetes Symptoms Score. We added Secondary Outcome #10 to include the PedsQL Diabetes Management Score. We added Secondary Outcome #11 for ITSQ scores."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes Mellitus, Type 1",
+        "Type 1 Diabetes"
+      ],
+      "keywords": [
+        "Type 1 Diabetes",
+        "Insulin Glargine",
+        "Human Insulin",
+        "Insulin Analogue",
+        "Bangladesh",
+        "Tanzania"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 400,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Glargine",
+          "type": "EXPERIMENTAL",
+          "description": "Insulin glargine (long-acting insulin analogue)",
+          "interventionNames": [
+            "Drug: Insulin Glargine"
+          ]
+        },
+        {
+          "label": "NPH or premixed 70/30 (human insulin)",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "NPH or premixed 70/30 (human insulin)",
+          "interventionNames": [
+            "Drug: NPH or premixed 70/30 (human insulin)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Insulin Glargine",
+          "description": "Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months",
+          "armGroupLabels": [
+            "Glargine"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "NPH or premixed 70/30 (human insulin)",
+          "description": "Formulation: Available as a liquid in a glass cartridge (3ml=300IU) or as liquid in a prefilled, disposable pen (3ml=300IU).\n\nRoute: Bangladesh = reusable pens; Tanzania = disposable pens\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months",
+          "armGroupLabels": [
+            "NPH or premixed 70/30 (human insulin)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Time-in-serious Hypoglycemia",
+          "description": "% time spent less than 54 mg/dl averaged across all daily measures. For 6-month outcome, these data were averaged across two CGM sensors (placed at 6 and 6.5 months). For 12-month outcome, these data were from one CGM sensor placed at 11.5 months.",
+          "timeFrame": "6 and 12 months after randomization"
+        },
+        {
+          "measure": "Time-in-range (TIR)",
+          "description": "% time spent between 70 and 180mg/dl inclusive averaged across all daily measures. For 6-month outcome, these data were averaged across two CGM sensors (placed at 6 and 6.5 months). For 12-month outcome, these data were from one CGM sensor placed at 11.5 months.",
+          "timeFrame": "6 and 12 months after randomization"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Time-in-hypoglycemia",
+          "description": "% time spent less than 70mg/dl averaged across all daily measures. For 6-month outcome, these data were averaged across two CGM sensors (placed at 6 and 6.5 months). For 12-month outcome, these data were from one CGM sensor placed at 11.5 months.",
+          "timeFrame": "6 and 12 months after randomization"
+        },
+        {
+          "measure": "Time-above-range",
+          "description": "% time spent greater than 180mg/dl averaged across all daily measures. For 6-month outcome, these data were averaged across two CGM sensors (placed at 6 and 6.5 months). For 12-month outcome, these data were from one CGM sensor placed at 11.5 months.",
+          "timeFrame": "6 and 12 months after randomization"
+        },
+        {
+          "measure": "Nocturnal Hypoglycemic Events",
+          "description": "Number of events defined as ≥15 minutes in duration \\<70 mg/dL between midnight and 6:00 am; specifically, at least 2 sensor values \\<70 mg/dL that are ≥15 minutes apart plus no intervening values ≥70 mg/dL For 6-month outcome, these data were averaged across two CGM sensors (placed at 6 and 6.5 months). For 12-month outcome, these data were from one CGM sensor placed at 11.5 months.",
+          "timeFrame": "6 and 12 months after randomization"
+        },
+        {
+          "measure": "Glycemic Control (HbA1c)",
+          "description": "Mean HbA1c lab result reported as percent, which is typically how it is reported.",
+          "timeFrame": "baseline, 3, 6, 9 and 12 months after randomization"
+        },
+        {
+          "measure": "Rate of Severe Hypoglycemic Events",
+          "description": "Severe hypoglycemic events (requiring assistance of another person to correct) reported by participant per 1000 person-years",
+          "timeFrame": "6 and 12 months after randomization"
+        },
+        {
+          "measure": "Rate of Diabetic Ketoacidosis (DKA)",
+          "description": "Hospitalization or Emergency Room Visit (serious adverse event) with primary diagnosis of Diabetic Ketoacidosis. This was measured by self-report and confirmed through review of hospital records",
+          "timeFrame": "6 and 12 months after randomization"
+        },
+        {
+          "measure": "Pediatric Quality of Life Inventory 3.2 Diabetes Module (PedsQL 3.2 DM) Diabetes Symptoms Score",
+          "description": "Mean PedsQL 3.2 DM Diabetes Symptoms score. PedsQL 3.2 DM Diabetes Symptoms scale is composed of 15 items. All items use the same 5-point Likert response scale, with responses ranging from \"never\" (0) to \"almost always\" (4). Items are reverse scored and transformed on a scale ranging from 0 to 100. The score is the sum of all the items over the number of items answered. Higher scores indicate fewer diabetes symptoms and therefore improved diabetes-specific health-related quality of life (D-HRQoL).",
+          "timeFrame": "Baseline and at 6 and 12 months after randomization"
+        },
+        {
+          "measure": "Pediatric Quality of Life Inventory 3.2 Diabetes Module (PedsQL 3.2 DM) Diabetes Management Score",
+          "description": "Mean PedsQL 3.2 DM Diabetes Management score. PedsQL 3.2 DM Diabetes Management scale is composed of 18 items. All items use the same 5-point Likert response scale, with responses ranging from \"never\" (0) to \"almost always\" (4). Items are reverse scored and transformed on a scale ranging from 0 to 100. Higher scores indicate fewer diabetes management problems and therefore improved D-HRQoL.",
+          "timeFrame": "Baseline and at 6 and 12 months after randomization"
+        },
+        {
+          "measure": "Insulin Treatment Satisfaction Questionnaire (ITSQ) Scores",
+          "description": "The ITSQ is composed of 22 items. A total 22-item score is reported, and the items are also divided into five subscales: Regimen Inconvenience (5 items), Lifestyle Flexibility (3 items), Glycemic Control (3 items), Hypoglycemic Control (5 items), and Insulin Delivery Device Satisfaction (6 items). Items use 7-point Likert scale responses, ranging from 1 (positive, e.g. \"No bother at all\") to 7 (negative, e.g. \"A tremendous bother\"), though the specific response labels vary by question. Items were reverse scored and transformed to range from 0 to 100. Higher scores indicate higher treatment satisfaction.",
+          "timeFrame": "Baseline and at 6 and 12 months after randomization"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Children and young adults (age 7-25)\n2. Have a clinical diagnosis of type 1 diabetes (T1D)\n\nExclusion Criteria:\n\n1. Prior use of any insulin analogue\n2. Patients (or parents for children \\<18 years old) who refuse to or cannot provide informed consent\n3. Who are currently pregnant or plan to become pregnant over the next year\n4. Who have previously used a continuous glucose monitor (CGM) for glucose monitoring\n5. Who were first diagnosed with T1D less than 12 months ago\n6. Who is diagnosed with severe malnutrition",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "7 Years",
+      "maximumAge": "25 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Jing Luo, MD, MPH",
+          "affiliation": "University of Pittsburgh",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "BIRDEM Hospital",
+          "city": "Dhaka",
+          "country": "Bangladesh",
+          "geoPoint": {
+            "lat": 23.7104,
+            "lon": 90.40744
+          }
+        },
+        {
+          "facility": "Bugando Medical Center",
+          "city": "Mwanza",
+          "country": "Tanzania",
+          "geoPoint": {
+            "lat": -2.51667,
+            "lon": 32.9
+          }
+        },
+        {
+          "facility": "Sekou-Toure Hospital",
+          "city": "Mwanza",
+          "country": "Tanzania",
+          "geoPoint": {
+            "lat": -2.51667,
+            "lon": 32.9
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "39890140",
+          "type": "DERIVED",
+          "citation": "Foulds A, Josey C, Kehlenbrink S, Rollman BL, Chang CH, Lalama C, Ansbro E, Prust ML, Zabeen B, Ramaiya K, Ogle G, Chae SR, Luo J. Human versus Analogue Insulin for Youth with Type 1 Diabetes in Low-Resource Settings (HumAn-1): protocol for a randomised controlled trial. BMJ Open. 2025 Jan 30;15(1):e092432. doi: 10.1136/bmjopen-2024-092432."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "De-identified, summary level data will be shared with other researchers, upon request.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP",
+        "ICF",
+        "ANALYTIC_CODE"
+      ],
+      "timeFrame": "3 years after the completion of the primary endpoint (Start 16 September 2024; End 16 September 2027)",
+      "accessCriteria": "Researchers who provide a methodologically sound proposal, upon request"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "17 participants consented and had baseline demographics collected in-person and/or baseline/run-in CGM placed, but withdrew from study before randomization to arm due to the following reasons: No longer interested in participating, Became ineligible",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Glargine",
+          "description": "Insulin glargine (long-acting insulin analogue)\n\nInsulin Glargine: Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months"
+        },
+        {
+          "id": "FG001",
+          "title": "NPH or Premixed 70/30 (Human Insulin)",
+          "description": "NPH or premixed 70/30 (human insulin)\n\nNPH or premixed 70/30 (human insulin): Formulation: Available as a liquid in a glass vial or glass cartridge (10ml=1000IU).\n\nRoute: Bangladesh = syringes or reusable pens; Tanzania = disposable pens\n\nSubcutaneous injection using insulin syringe and needle\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "199"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "201"
+                }
+              ]
+            },
+            {
+              "type": "Clinic Visit 2 (6-months)",
+              "comment": "When a first primary endpoint CGM is placed and HbA1c collected",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "196"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "199"
+                }
+              ]
+            },
+            {
+              "type": "Home Visit 2 (6.5-months)",
+              "comment": "When clinic visit 2 (6-month) CGM is removed/data collected and second primary endpoint CGM is placed",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "196"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "199"
+                }
+              ]
+            },
+            {
+              "type": "Home Visit 3 (7-months)",
+              "comment": "When home visit 2 (6.5-month) CGM is removed/data collected",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "196"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "199"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "188"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "197"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Pregnancy",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Death",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Glargine",
+          "description": "Insulin glargine (long-acting insulin analogue)\n\nInsulin Glargine: Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months"
+        },
+        {
+          "id": "BG001",
+          "title": "NPH or Premixed 70/30 (Human Insulin)",
+          "description": "NPH or premixed 70/30 (human insulin)\n\nNPH or premixed 70/30 (human insulin): Formulation: Available as a liquid in a glass vial or glass cartridge (10ml=1000IU).\n\nRoute: Bangladesh = syringes or reusable pens; Tanzania = disposable pens\n\nSubcutaneous injection using insulin syringe and needle\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "199"
+            },
+            {
+              "groupId": "BG001",
+              "value": "201"
+            },
+            {
+              "groupId": "BG002",
+              "value": "400"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "17.1",
+                      "spread": "5.2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16.6",
+                      "spread": "5.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "16.8",
+                      "spread": "5.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Age, categorical",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "7 -<10 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "50"
+                    }
+                  ]
+                },
+                {
+                  "title": "10 -<18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "84"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "88"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "172"
+                    }
+                  ]
+                },
+                {
+                  "title": "18 - <26 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "89"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "89"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "178"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "107"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "115"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "222"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "92"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "178"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Ethnicity/Tribe",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Bengali",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "124"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "126"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "250"
+                    }
+                  ]
+                },
+                {
+                  "title": "Sukuma",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "47"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "88"
+                    }
+                  ]
+                },
+                {
+                  "title": "Kurya",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                },
+                {
+                  "title": "Haya",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "Other",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "28"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "48"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "Bangladesh",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "124"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "126"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "250"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Tanzania",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "150"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BMI",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "(kg/m^2)",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20.3",
+                      "spread": "4.0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19.8",
+                      "spread": "3.7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20.0",
+                      "spread": "3.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Education of Participant",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "University",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "25"
+                    }
+                  ]
+                },
+                {
+                  "title": "College/Diploma",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "54"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "98"
+                    }
+                  ]
+                },
+                {
+                  "title": "Secondary School/Education",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "76"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "67"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "143"
+                    }
+                  ]
+                },
+                {
+                  "title": "Primary School/Education",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "66"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "130"
+                    }
+                  ]
+                },
+                {
+                  "title": "No Education",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Education of Parent",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "University",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "49"
+                    }
+                  ]
+                },
+                {
+                  "title": "College/Diploma",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    }
+                  ]
+                },
+                {
+                  "title": "Secondary School/Education",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "93"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "77"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "170"
+                    }
+                  ]
+                },
+                {
+                  "title": "Primary School/Education",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "47"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "93"
+                    }
+                  ]
+                },
+                {
+                  "title": "No Education",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    }
+                  ]
+                },
+                {
+                  "title": "Don't know",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "# of Adults Living with",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "number of people",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3.1",
+                      "spread": "1.8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2.8",
+                      "spread": "1.3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2.9",
+                      "spread": "1.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Socioeconomic Status",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Poor",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "97"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "96"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "193"
+                    }
+                  ]
+                },
+                {
+                  "title": "Lower middle",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    }
+                  ]
+                },
+                {
+                  "title": "Middle",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "63"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "123"
+                    }
+                  ]
+                },
+                {
+                  "title": "Upper middle",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                },
+                {
+                  "title": "Rice farmer",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Well off/Rich",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Duration of Type 1 Diabetes",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5.9",
+                      "spread": "4.2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5.9",
+                      "spread": "3.8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5.9",
+                      "spread": "4.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Type of Insulin Regimen",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "NPH + Regular with meals",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "196"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "196"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "392"
+                    }
+                  ]
+                },
+                {
+                  "title": "Premixed 70/30 alone",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "Premixed 70/30 + Regular with meals",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Total Number of Units of Insulin per Day/Weight",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "insulin units/kg per day",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1.0",
+                      "spread": "0.4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1.1",
+                      "spread": "0.4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1.0",
+                      "spread": "0.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "HbA1c",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "percent",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9.7",
+                      "spread": "2.8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9.9",
+                      "spread": "2.8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9.8",
+                      "spread": "2.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "c-peptide",
+          "populationDescription": "Twenty-three (23) and 26 participants, respectively, had results below the limit, and lab not done in 3 participants in the glargine group.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "ng/mL",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "173"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "175"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "348"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0.25",
+                      "spread": "0.31"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0.25",
+                      "spread": "0.34"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0.25",
+                      "spread": "0.32"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "History of DKA (diabetic ketoacidosis)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "53"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "114"
+                    }
+                  ]
+                },
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "146"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "139"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "285"
+                    }
+                  ]
+                },
+                {
+                  "title": "Don't know",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of Severe Hypoglycemic Events",
+          "description": "Severe hypoglycemic events (requiring assistance of another person to correct) in past 12 months reported by participant",
+          "populationDescription": "One participant in each arm did not know the number of severe hypoglycemic events they had in past 12 months",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "number of events",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "198"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "200"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "398"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0.9",
+                      "spread": "1.9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0.8",
+                      "spread": "1.7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0.9",
+                      "spread": "1.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of Symptomatic Hypoglycemic Events",
+          "description": "Symptomatic hypoglycemic events (e.g. dizziness, confusion) in past 30 days reported by participant",
+          "populationDescription": "Eleven (11) and 7 participants, respectively, did not know the number of symptomatic hypoglycemic events they had in past 30 days",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "number of events",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "188"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "194"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "382"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1.9",
+                      "spread": "2.4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2.0",
+                      "spread": "2.6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1.9",
+                      "spread": "2.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of Asymptomatic Hypoglycemic Events",
+          "description": "Asymptomatic hypoglycemic events (i.e. blood glucose \\< 3.9 mmol/L (70mg/dl) without clinical symptoms) in past 30 days reported by participant",
+          "populationDescription": "Twenty-one (21) and 7 participants, respectively, did not know the number of asymptomatic hypoglycemic events they had in past 30 days",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "number of events",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "178"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "194"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "372"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1.0",
+                      "spread": "2.4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1.1",
+                      "spread": "1.9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1.0",
+                      "spread": "2.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Retinopathy",
+          "description": "Diabetes comorbidities from medical record",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nephropathy",
+          "description": "Diabetes comorbidities from medical record",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Diabetic Foot Disease",
+          "description": "Diabetes comorbidities from medical record",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Amputation",
+          "description": "Diabetes comorbidities from medical record",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Neuropathy",
+          "description": "Diabetes comorbidities from medical record",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Percent Time in Serious Hypoglycemia",
+          "description": "Percent time in serious hypoglycemia (\\<54 mg/dl) averaged across all daily measures from CGM placed at baseline and worn during run-in phase",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "percentage of time",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3.7",
+                      "spread": "5.0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3.7",
+                      "spread": "5.6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3.7",
+                      "spread": "5.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Percent Time in Range",
+          "description": "Percent time in glycemic range (70-180 mg/dL, inclusive) averaged across all daily measures from CGM placed at baseline and worn during run-in phase",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "percentage of time",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "38.9",
+                      "spread": "20.9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "35.0",
+                      "spread": "19.3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "36.9",
+                      "spread": "20.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Percent Time in Hypoglycemia",
+          "description": "Percent time below glycemic range (\\<70 mg/dl) averaged across all daily measures from CGM placed at baseline and worn during run-in phase",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "percentage of time",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10.9",
+                      "spread": "10.2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10.7",
+                      "spread": "11.2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10.8",
+                      "spread": "10.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Percent Time Above Range",
+          "description": "Percent time above glycemic range (\\>180 mg/dl) averaged across all daily measures from CGM placed at baseline and worn during run-in phase",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "percentage of time",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "50.2",
+                      "spread": "26.7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "54.3",
+                      "spread": "26.6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "52.3",
+                      "spread": "26.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nocturnal Hypoglycemic Events",
+          "description": "Events are defined as ≥15 minutes in duration \\<70 mg/dL between midnight and 6:00 am; specifically, at least 2 sensor values \\<70 mg/dL (from CGM placed at baseline and worn during run-in phase) that are ≥15 minutes apart plus no intervening values ≥70 mg/dL",
+          "populationDescription": "For 3 participants in each arm, the CGM only had 1 active day and did not have any data during the nocturnal hours",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "number of events",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "196"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "198"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "394"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3.6",
+                      "spread": "3.4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3.4",
+                      "spread": "3.2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3.5",
+                      "spread": "3.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pediatric Quality of Life Inventory 3.2 Diabetes Module (PedsQL 3.2 DM) Diabetes Symptoms Score",
+          "description": "PedsQL 3.2 DM Diabetes Symptoms scale is composed of 15 items. All items use the same 5-point Likert response scale, with responses ranging from \"never\" (0) to \"almost always\" (4). Items are reverse scored and transformed on a scale ranging from 0 to 100. The score is the sum of all the items over the number of items answered. Higher scores indicate fewer diabetes symptoms and therefore improved D-HRQoL.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "score on a scale",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "68.1",
+                      "spread": "14.7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "69.3",
+                      "spread": "14.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "68.7",
+                      "spread": "14.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pediatric Quality of Life Inventory 3.2 Diabetes Module (PedsQL 3.2 DM) Diabetes Management Score",
+          "description": "PedsQL 3.2 DM Diabetes Management scale is composed of 18 items. All items use the same 5-point Likert response scale, with responses ranging from \"never\" (0) to \"almost always\" (4). Items are reverse scored and transformed on a scale ranging from 0 to 100. Higher scores indicate fewer diabetes management problems and therefore improved D-HRQoL.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "score on a scale",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "80.0",
+                      "spread": "14.3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "81.5",
+                      "spread": "13.8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "80.7",
+                      "spread": "14.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ITSQ Total",
+          "description": "The ITSQ total score is composed of 22 items comprised of five subscales: Regimen Inconvenience (5 items), Lifestyle Flexibility (3 items), Glycemic Control (3 items), Hypoglycemic Control (5 items), and Insulin Delivery Device Satisfaction (6 items). Items use 7-point Likert scale responses, ranging from 1 (positive, e.g. \"No bother at all\") to 7 (negative, e.g. \"A tremendous bother\"), though the specific response labels vary by question. Items were reverse scored and transformed to range from 0 to 100. Higher scores indicate higher treatment satisfaction.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "score on a scale",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "201"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "400"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "75.0",
+                      "spread": "14.4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "75.6",
+                      "spread": "14.4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "75.3",
+                      "spread": "14.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Time-in-serious Hypoglycemia",
+          "description": "% time spent less than 54 mg/dl averaged across all daily measures. For 6-month outcome, these data were averaged across two CGM sensors (placed at 6 and 6.5 months). For 12-month outcome, these data were from one CGM sensor placed at 11.5 months.",
+          "populationDescription": "Randomized participants still on study with available CGM data at each time point",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "percentage of time",
+          "timeFrame": "6 and 12 months after randomization",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Glargine",
+              "description": "Insulin glargine (long-acting insulin analogue)\n\nInsulin Glargine: Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months"
+            },
+            {
+              "id": "OG001",
+              "title": "NPH or Premixed 70/30 (Human Insulin)",
+              "description": "NPH or premixed 70/30 (human insulin)\n\nNPH or premixed 70/30 (human insulin): Formulation: Available as a liquid in a glass vial or glass cartridge (10ml=1000IU).\n\nRoute: Bangladesh = syringes or reusable pens; Tanzania = disposable pens\n\nSubcutaneous injection using insulin syringe and needle\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "195"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "197"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "6-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "194"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "196"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.6",
+                      "spread": "5.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.4",
+                      "spread": "4.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "172"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "184"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.4",
+                      "spread": "3.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.8",
+                      "spread": "5.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "6-month (primary)",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.43",
+              "pValueComment": "Since this is one of two coprimary outcomes (this outcome and % time-in-range), a win (p\\<0.025 for benefit) on either outcome will be considered to be a positive trial.",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and % time in serious hypoglycemia at baseline"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "12-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.008",
+              "pValueComment": "Since this is one of two coprimary outcomes (this outcome and % time-in-range), a win (p\\<0.025 for benefit) on either outcome will be considered to be a positive trial.",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and % time in serious hypoglycemia at baseline"
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Time-in-range (TIR)",
+          "description": "% time spent between 70 and 180mg/dl inclusive averaged across all daily measures. For 6-month outcome, these data were averaged across two CGM sensors (placed at 6 and 6.5 months). For 12-month outcome, these data were from one CGM sensor placed at 11.5 months.",
+          "populationDescription": "Randomized participants still on study with available CGM data at each time point",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "percentage of time",
+          "timeFrame": "6 and 12 months after randomization",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Glargine",
+              "description": "Insulin glargine (long-acting insulin analogue)\n\nInsulin Glargine: Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months"
+            },
+            {
+              "id": "OG001",
+              "title": "NPH or Premixed 70/30 (Human Insulin)",
+              "description": "NPH or premixed 70/30 (human insulin)\n\nNPH or premixed 70/30 (human insulin): Formulation: Available as a liquid in a glass vial or glass cartridge (10ml=1000IU).\n\nRoute: Bangladesh = syringes or reusable pens; Tanzania = disposable pens\n\nSubcutaneous injection using insulin syringe and needle\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "195"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "197"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "6-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "194"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "196"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "40.5",
+                      "spread": "18.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "38.1",
+                      "spread": "18.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "172"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "184"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "38.5",
+                      "spread": "20.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "37.7",
+                      "spread": "19.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "6-month (primary)",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.71",
+              "pValueComment": "Since this is one of two coprimary outcomes (this outcome and % time in serious hypoglycemia), a win (p\\<0.025 for benefit) on either outcome will be considered to be a positive trial.",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and % TIR at baseline"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "12-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.64",
+              "pValueComment": "Since this is one of two coprimary outcomes (this outcome and % time in serious hypoglycemia), a win (p\\<0.025 for benefit) on either outcome will be considered to be a positive trial.",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and % TIR at baseline"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time-in-hypoglycemia",
+          "description": "% time spent less than 70mg/dl averaged across all daily measures. For 6-month outcome, these data were averaged across two CGM sensors (placed at 6 and 6.5 months). For 12-month outcome, these data were from one CGM sensor placed at 11.5 months.",
+          "populationDescription": "Randomized participants still on study with available CGM data at each time point",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "percentage of time",
+          "timeFrame": "6 and 12 months after randomization",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Glargine",
+              "description": "Insulin glargine (long-acting insulin analogue)\n\nInsulin Glargine: Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months"
+            },
+            {
+              "id": "OG001",
+              "title": "NPH or Premixed 70/30 (Human Insulin)",
+              "description": "NPH or premixed 70/30 (human insulin)\n\nNPH or premixed 70/30 (human insulin): Formulation: Available as a liquid in a glass vial or glass cartridge (10ml=1000IU).\n\nRoute: Bangladesh = syringes or reusable pens; Tanzania = disposable pens\n\nSubcutaneous injection using insulin syringe and needle\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "195"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "197"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "6-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "194"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "196"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10.8",
+                      "spread": "9.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10.2",
+                      "spread": "8.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "172"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "184"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.4",
+                      "spread": "10.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "11.2",
+                      "spread": "10.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "6-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.54",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and % time in hypoglycemia at baseline"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "12-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.07",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and % time in hypoglycemia at baseline"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time-above-range",
+          "description": "% time spent greater than 180mg/dl averaged across all daily measures. For 6-month outcome, these data were averaged across two CGM sensors (placed at 6 and 6.5 months). For 12-month outcome, these data were from one CGM sensor placed at 11.5 months.",
+          "populationDescription": "Randomized participants still on study with available CGM data at each time point",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "percentage of time",
+          "timeFrame": "6 and 12 months after randomization",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Glargine",
+              "description": "Insulin glargine (long-acting insulin analogue)\n\nInsulin Glargine: Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months"
+            },
+            {
+              "id": "OG001",
+              "title": "NPH or Premixed 70/30 (Human Insulin)",
+              "description": "NPH or premixed 70/30 (human insulin)\n\nNPH or premixed 70/30 (human insulin): Formulation: Available as a liquid in a glass vial or glass cartridge (10ml=1000IU).\n\nRoute: Bangladesh = syringes or reusable pens; Tanzania = disposable pens\n\nSubcutaneous injection using insulin syringe and needle\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "195"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "197"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "6-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "194"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "196"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "48.7",
+                      "spread": "22.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51.8",
+                      "spread": "23.4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "172"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "184"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "52.1",
+                      "spread": "24.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51.1",
+                      "spread": "26.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "6-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.58",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and % time above range at baseline"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "12-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.21",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and % time above range at baseline"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Nocturnal Hypoglycemic Events",
+          "description": "Number of events defined as ≥15 minutes in duration \\<70 mg/dL between midnight and 6:00 am; specifically, at least 2 sensor values \\<70 mg/dL that are ≥15 minutes apart plus no intervening values ≥70 mg/dL For 6-month outcome, these data were averaged across two CGM sensors (placed at 6 and 6.5 months). For 12-month outcome, these data were from one CGM sensor placed at 11.5 months.",
+          "populationDescription": "Randomized participants still on study with available CGM data during nocturnal hours at each time point",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "number of events",
+          "timeFrame": "6 and 12 months after randomization",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Glargine",
+              "description": "Insulin glargine (long-acting insulin analogue)\n\nInsulin Glargine: Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months"
+            },
+            {
+              "id": "OG001",
+              "title": "NPH or Premixed 70/30 (Human Insulin)",
+              "description": "NPH or premixed 70/30 (human insulin)\n\nNPH or premixed 70/30 (human insulin): Formulation: Available as a liquid in a glass vial or glass cartridge (10ml=1000IU).\n\nRoute: Bangladesh = syringes or reusable pens; Tanzania = disposable pens\n\nSubcutaneous injection using insulin syringe and needle\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "195"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "196"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "6-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "194"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "195"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.5",
+                      "spread": "2.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.6",
+                      "spread": "2.7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "172"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.2",
+                      "spread": "2.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.2",
+                      "spread": "3.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "6-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.70",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and number of nocturnal events at baseline"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "12-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.02",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and number of nocturnal events at baseline"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Glycemic Control (HbA1c)",
+          "description": "Mean HbA1c lab result reported as percent, which is typically how it is reported.",
+          "populationDescription": "Randomized participants still on study with available HbA1c data at each time point",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "percent",
+          "timeFrame": "baseline, 3, 6, 9 and 12 months after randomization",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Glargine",
+              "description": "Insulin glargine (long-acting insulin analogue)\n\nInsulin Glargine: Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months"
+            },
+            {
+              "id": "OG001",
+              "title": "NPH or Premixed 70/30 (Human Insulin)",
+              "description": "NPH or premixed 70/30 (human insulin)\n\nNPH or premixed 70/30 (human insulin): Formulation: Available as a liquid in a glass vial or glass cartridge (10ml=1000IU).\n\nRoute: Bangladesh = syringes or reusable pens; Tanzania = disposable pens\n\nSubcutaneous injection using insulin syringe and needle\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "199"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "201"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "201"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.7",
+                      "spread": "2.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9.9",
+                      "spread": "2.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "3-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "197"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "200"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.3",
+                      "spread": "2.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9.4",
+                      "spread": "2.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "6-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "195"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "199"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.4",
+                      "spread": "2.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9.5",
+                      "spread": "2.4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "9-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "192"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "195"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.5",
+                      "spread": "2.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9.4",
+                      "spread": "2.2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "188"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "197"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.4",
+                      "spread": "2.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9.4",
+                      "spread": "2.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "6-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.81",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and HbA1c at baseline"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "12-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.29",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and HbA1c at baseline"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Rate of Severe Hypoglycemic Events",
+          "description": "Severe hypoglycemic events (requiring assistance of another person to correct) reported by participant per 1000 person-years",
+          "populationDescription": "Randomized participants who knew whether or not they had an event at least one of the time points post-baseline/run-in phase.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "events per 1000 person years",
+          "timeFrame": "6 and 12 months after randomization",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Glargine",
+              "description": "Insulin glargine (long-acting insulin analogue)\n\nInsulin Glargine: Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months"
+            },
+            {
+              "id": "OG001",
+              "title": "NPH or Premixed 70/30 (Human Insulin)",
+              "description": "NPH or premixed 70/30 (human insulin)\n\nNPH or premixed 70/30 (human insulin): Formulation: Available as a liquid in a glass vial or glass cartridge (10ml=1000IU).\n\nRoute: Bangladesh = syringes or reusable pens; Tanzania = disposable pens\n\nSubcutaneous injection using insulin syringe and needle\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "197"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "200"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "6-month",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "6.83"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.11",
+                      "lowerLimit": "0",
+                      "upperLimit": "8.54"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12-month",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.33",
+                      "lowerLimit": "0",
+                      "upperLimit": "4.20"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.41",
+                      "lowerLimit": "0",
+                      "upperLimit": "4.29"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Through 6-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.98",
+              "statisticalMethod": "Negative Binomial Regression",
+              "statisticalComment": "Negative binomial regression model adjusted for age at screening and study site"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Through 12-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.61",
+              "statisticalMethod": "Negative Binomial Regression",
+              "statisticalComment": "Negative binomial regression model adjusted for age at screening and study site"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Rate of Diabetic Ketoacidosis (DKA)",
+          "description": "Hospitalization or Emergency Room Visit (serious adverse event) with primary diagnosis of Diabetic Ketoacidosis. This was measured by self-report and confirmed through review of hospital records",
+          "populationDescription": "Randomized participants who knew whether or not they had an event at least one of the time points post-baseline/run-in phase.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "events per 1000 person years",
+          "timeFrame": "6 and 12 months after randomization",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Glargine",
+              "description": "Insulin glargine (long-acting insulin analogue)\n\nInsulin Glargine: Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months"
+            },
+            {
+              "id": "OG001",
+              "title": "NPH or Premixed 70/30 (Human Insulin)",
+              "description": "NPH or premixed 70/30 (human insulin)\n\nNPH or premixed 70/30 (human insulin): Formulation: Available as a liquid in a glass vial or glass cartridge (10ml=1000IU).\n\nRoute: Bangladesh = syringes or reusable pens; Tanzania = disposable pens\n\nSubcutaneous injection using insulin syringe and needle\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "197"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "200"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "6-month",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12-month",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Through 6-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.83",
+              "statisticalMethod": "Negative Binomial Regression",
+              "statisticalComment": "Negative binomial regression model adjusted for age at screening and study site"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Through 12-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.09",
+              "statisticalMethod": "Negative Binomial Regression",
+              "statisticalComment": "Negative binomial regression model adjusted for age at screening and study site"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Pediatric Quality of Life Inventory 3.2 Diabetes Module (PedsQL 3.2 DM) Diabetes Symptoms Score",
+          "description": "Mean PedsQL 3.2 DM Diabetes Symptoms score. PedsQL 3.2 DM Diabetes Symptoms scale is composed of 15 items. All items use the same 5-point Likert response scale, with responses ranging from \"never\" (0) to \"almost always\" (4). Items are reverse scored and transformed on a scale ranging from 0 to 100. The score is the sum of all the items over the number of items answered. Higher scores indicate fewer diabetes symptoms and therefore improved diabetes-specific health-related quality of life (D-HRQoL).",
+          "populationDescription": "Randomized participants still on study with available PedsQL data at each time point",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline and at 6 and 12 months after randomization",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Glargine",
+              "description": "Insulin glargine (long-acting insulin analogue)\n\nInsulin Glargine: Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months"
+            },
+            {
+              "id": "OG001",
+              "title": "NPH or Premixed 70/30 (Human Insulin)",
+              "description": "NPH or premixed 70/30 (human insulin)\n\nNPH or premixed 70/30 (human insulin): Formulation: Available as a liquid in a glass vial or glass cartridge (10ml=1000IU).\n\nRoute: Bangladesh = syringes or reusable pens; Tanzania = disposable pens\n\nSubcutaneous injection using insulin syringe and needle\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "199"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "201"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "201"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "68.1",
+                      "spread": "14.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "69.3",
+                      "spread": "14.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "6-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "195"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "199"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "74.6",
+                      "spread": "14.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "75.2",
+                      "spread": "14.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "187"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "196"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "75.9",
+                      "spread": "15.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "76.9",
+                      "spread": "14.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "6-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.95",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and PedsQL 3.2 DM Diabetes Symptoms score at baseline"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "12-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.73",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and PedsQL 3.2 DM Diabetes Symptoms score at baseline"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Pediatric Quality of Life Inventory 3.2 Diabetes Module (PedsQL 3.2 DM) Diabetes Management Score",
+          "description": "Mean PedsQL 3.2 DM Diabetes Management score. PedsQL 3.2 DM Diabetes Management scale is composed of 18 items. All items use the same 5-point Likert response scale, with responses ranging from \"never\" (0) to \"almost always\" (4). Items are reverse scored and transformed on a scale ranging from 0 to 100. Higher scores indicate fewer diabetes management problems and therefore improved D-HRQoL.",
+          "populationDescription": "Randomized participants still on study with available PedsQL data at each time point",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline and at 6 and 12 months after randomization",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Glargine",
+              "description": "Insulin glargine (long-acting insulin analogue)\n\nInsulin Glargine: Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months"
+            },
+            {
+              "id": "OG001",
+              "title": "NPH or Premixed 70/30 (Human Insulin)",
+              "description": "NPH or premixed 70/30 (human insulin)\n\nNPH or premixed 70/30 (human insulin): Formulation: Available as a liquid in a glass vial or glass cartridge (10ml=1000IU).\n\nRoute: Bangladesh = syringes or reusable pens; Tanzania = disposable pens\n\nSubcutaneous injection using insulin syringe and needle\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "199"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "201"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "201"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "80.0",
+                      "spread": "14.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "81.5",
+                      "spread": "13.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "6-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "195"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "199"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "85.8",
+                      "spread": "11.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "85.7",
+                      "spread": "11.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "187"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "196"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "88.0",
+                      "spread": "11.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "88.8",
+                      "spread": "10.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "6-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.81",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and PedsQL 3.2 DM Diabetes Management score at baseline"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "12-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.44",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and PedsQL 3.2 DM Diabetes Management score at baseline"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Insulin Treatment Satisfaction Questionnaire (ITSQ) Scores",
+          "description": "The ITSQ is composed of 22 items. A total 22-item score is reported, and the items are also divided into five subscales: Regimen Inconvenience (5 items), Lifestyle Flexibility (3 items), Glycemic Control (3 items), Hypoglycemic Control (5 items), and Insulin Delivery Device Satisfaction (6 items). Items use 7-point Likert scale responses, ranging from 1 (positive, e.g. \"No bother at all\") to 7 (negative, e.g. \"A tremendous bother\"), though the specific response labels vary by question. Items were reverse scored and transformed to range from 0 to 100. Higher scores indicate higher treatment satisfaction.",
+          "populationDescription": "Randomized participants still on study with available ITSQ data at each time point",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline and at 6 and 12 months after randomization",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Glargine",
+              "description": "Insulin glargine (long-acting insulin analogue)\n\nInsulin Glargine: Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months"
+            },
+            {
+              "id": "OG001",
+              "title": "NPH or Premixed 70/30 (Human Insulin)",
+              "description": "NPH or premixed 70/30 (human insulin)\n\nNPH or premixed 70/30 (human insulin): Formulation: Available as a liquid in a glass vial or glass cartridge (10ml=1000IU).\n\nRoute: Bangladesh = syringes or reusable pens; Tanzania = disposable pens\n\nSubcutaneous injection using insulin syringe and needle\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "199"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "201"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "199"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "201"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "75.0",
+                      "spread": "14.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "75.6",
+                      "spread": "14.4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "6-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "195"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "199"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "84.1",
+                      "spread": "9.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "82.1",
+                      "spread": "11.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12-month",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "187"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "196"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "87.1",
+                      "spread": "7.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "85.9",
+                      "spread": "8.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "6-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.04",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and ITSQ at baseline"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "12-month",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.10",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "Multivariable generalized linear regression model adjusted for age at screening, study site, and ITSQ at baseline"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Adverse event were data collected through 12 months",
+      "description": "Adverse events were assessed periodically throughout a participant's time on study and entered into a standard questionnaire on an as-needed basis",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Glargine",
+          "description": "Insulin glargine (long-acting insulin analogue)\n\nInsulin Glargine: Formulation: Available as a clear liquid in a glass cartridge (1 cartridge =3ml=300 units).\n\nRoute: Reusable pen\n\nAmount of each dose: varies depending on baseline basal insulin needs\n\nDose escalation scheme: Participants randomly assigned to glargine will start with a dose that is generally equal to 80% of their total basal human insulin dose prior to the switch (per ISPAD guidelines and the switching guide developed by Life for a Child with the guidance of Dr. Ragnar Hanas and two other ISPAD members familiar with less-resourced settings).\n\nFrequency of dose: once per day (usually administered before bedtime)\n\nDuration of therapy: 12 months",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 199,
+          "seriousNumAffected": 5,
+          "seriousNumAtRisk": 199,
+          "otherNumAffected": 33,
+          "otherNumAtRisk": 199
+        },
+        {
+          "id": "EG001",
+          "title": "NPH or Premixed 70/30 (Human Insulin)",
+          "description": "NPH or premixed 70/30 (human insulin)\n\nNPH or premixed 70/30 (human insulin): Formulation: Available as a liquid in a glass vial or glass cartridge (10ml=1000IU).\n\nRoute: Bangladesh = syringes or reusable pens; Tanzania = disposable pens\n\nSubcutaneous injection using insulin syringe and needle\n\nAmount of each dose: varies depending on baseline basal insulin needs (per usual care or treating clinician)\n\nFrequency of dose: once or twice per day (per usual care or treating clinician)\n\nDuration of therapy: 12 months",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 201,
+          "seriousNumAffected": 13,
+          "seriousNumAtRisk": 201,
+          "otherNumAffected": 33,
+          "otherNumAtRisk": 201
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Acidosis",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "CTCAE 5.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 199
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 201
+            }
+          ]
+        },
+        {
+          "term": "Hypoglycemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "CTCAE 5.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 199
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 201
+            }
+          ]
+        },
+        {
+          "term": "Hyperglycemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "CTCAE 5.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 199
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 201
+            }
+          ]
+        },
+        {
+          "term": "Lung infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE 5.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 199
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 201
+            }
+          ]
+        },
+        {
+          "term": "Encephalitis infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE 5.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 199
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 201
+            }
+          ]
+        },
+        {
+          "term": "Upper respiratory infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE 5.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 199
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 201
+            }
+          ]
+        },
+        {
+          "term": "Other",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE 5.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Severe Malaria",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 199
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 201
+            }
+          ]
+        },
+        {
+          "term": "Diarrhea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE 5.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 199
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 201
+            }
+          ]
+        },
+        {
+          "term": "Pleural effusion",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "CTCAE 5.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 199
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 201
+            }
+          ]
+        },
+        {
+          "term": "Other",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "CTCAE 5.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 199
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 201
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Hypoglycemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "CTCAE 5.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 31,
+              "numAffected": 31,
+              "numAtRisk": 199
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 24,
+              "numAffected": 21,
+              "numAtRisk": 201
+            }
+          ]
+        },
+        {
+          "term": "Hyperglycemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "CTCAE 5.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 199
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 201
+            }
+          ]
+        },
+        {
+          "term": "Other",
+          "organSystem": "Endocrine disorders",
+          "sourceVocabulary": "CTCAE 5.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 199
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 12,
+              "numAffected": 11,
+              "numAtRisk": 201
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dr. Jing Luo, MD, MPH, Associate Professor of Medicine",
+        "organization": "University of Pittsburgh",
+        "email": "luoj@pitt.edu",
+        "phone": "412-383-3559"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2025-07-09",
+          "uploadDate": "2025-07-14T15:46",
+          "filename": "Prot_SAP_008.pdf",
+          "size": 1944205
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form: Informed Consent_ Bangladesh site",
+          "date": "2024-01-02",
+          "uploadDate": "2024-02-02T13:44",
+          "filename": "ICF_005.pdf",
+          "size": 507146
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form: Informed Consent_ Tanzania site",
+          "date": "2024-01-02",
+          "uploadDate": "2024-02-02T13:45",
+          "filename": "ICF_006.pdf",
+          "size": 524658
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-09-02",
+            "type": "ESTIMATED"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003922",
+          "term": "Diabetes Mellitus, Type 1"
+        },
+        {
+          "id": "D007333",
+          "term": "Insulin Resistance"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D001327",
+          "term": "Autoimmune Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D006946",
+          "term": "Hyperinsulinism"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000069036",
+          "term": "Insulin Glargine"
+        },
+        {
+          "id": "D007328",
+          "term": "Insulin"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D049528",
+          "term": "Insulin, Long-Acting"
+        },
+        {
+          "id": "D061385",
+          "term": "Insulins"
+        },
+        {
+          "id": "D010187",
+          "term": "Pancreatic Hormones"
+        },
+        {
+          "id": "D036361",
+          "term": "Peptide Hormones"
+        },
+        {
+          "id": "D006728",
+          "term": "Hormones"
+        },
+        {
+          "id": "D006730",
+          "term": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+        },
+        {
+          "id": "D010455",
+          "term": "Peptides"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D011384",
+          "term": "Proinsulin"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,1576 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05388656",
+      "orgStudyIdInfo": {
+        "id": "21-3395"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "R21MH128241",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R21MH128241"
+        }
+      ],
+      "organization": {
+        "fullName": "University of North Carolina, Chapel Hill",
+        "class": "OTHER"
+      },
+      "briefTitle": "Estrogen Variability and Irritability During the Menopause Transition",
+      "officialTitle": "Identifying Neurophysiological Mechanisms of Susceptibility to Estradiol Fluctuation and Irritability Symptoms in the Menopause Transition: An Experimental Approach"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-06-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-12-17",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-01-17",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-05-18",
+      "studyFirstSubmitQcDate": "2022-05-18",
+      "studyFirstPostDateStruct": {
+        "date": "2022-05-24",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-10-20",
+      "resultsFirstSubmitQcDate": "2025-11-18",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-11-26",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-11-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-11-26",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of North Carolina, Chapel Hill",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Institute of Mental Health (NIMH)",
+          "class": "NIH"
+        }
+      ]
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Women in the menopause transition (perimenopause) experience substantial day-to-day variability in estradiol and have a 2-4-fold increase in major depression risk. About 40% of perimenopausal women are susceptible to the emergence of affective symptoms tied to changes in estradiol. Among the perimenopausal women with affective impairment, most report irritability, not \"depression,\" is their primary source of impairment and distress. The purpose of this research is to determine the neurophysiologic basis of susceptibility to estradiol fluctuations and irritability symptoms in perimenopausal women.",
+      "detailedDescription": "Using a within-subjects, cross-over design and transdermal estradiol to stabilize estradiol fluctuations (and increase levels) the investigators will test if neural dynamics (oscillatory activity in the theta and beta frequencies assessed via EEG) associated with key constructs of irritability (attentional bias to threat and frustration to non-reward) represent a biomarker target of irritability symptom response to transdermal estradiol."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Menopause",
+        "Irritable Mood"
+      ],
+      "keywords": [
+        "Perimenopause",
+        "Menopause transition",
+        "Estrogen",
+        "Stress",
+        "Mood",
+        "Irritability"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "CROSSOVER",
+        "primaryPurpose": "BASIC_SCIENCE",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "maskingDescription": "There will be one unblinded Research Assistant administering interventions to preserve masking of research personnel and participants involved. Care provider may be unmasked for specific participants if there are adverse events requiring referral.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 40,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Estradiol, Then Placebo",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will first receive 0.1 mg/day of transdermal estradiol patch for 3 weeks. After a washout period of 3 weeks, participants will then receive transdermal placebo patch (matching transdermal estradiol 0.1 mg/day patch) for 3 weeks. Upon completion of the second intervention, all participants will receive 200 mg/day of progesterone for 10 days.",
+          "interventionNames": [
+            "Drug: Estradiol Patch, 0.1 mg/24 Hours Weekly Transdermal Film, Extended Release",
+            "Drug: Placebo",
+            "Drug: Progesterone 200 mg"
+          ]
+        },
+        {
+          "label": "Placebo, Then Estradiol",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will first receive transdermal placebo patch (matching transdermal estradiol 0.1 mg/day patch) for 3 weeks. After a washout period of 3 weeks, participants will then receive 0.1 mg/day of transdermal estradiol patch for 3 weeks. Upon completion of the second intervention, all participants will receive 200 mg/day of progesterone for 10 days.",
+          "interventionNames": [
+            "Drug: Estradiol Patch, 0.1 mg/24 Hours Weekly Transdermal Film, Extended Release",
+            "Drug: Placebo",
+            "Drug: Progesterone 200 mg"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Estradiol Patch, 0.1 mg/24 Hours Weekly Transdermal Film, Extended Release",
+          "description": "0.1 mg/day transdermal patch administered for 3 weeks",
+          "armGroupLabels": [
+            "Estradiol, Then Placebo",
+            "Placebo, Then Estradiol"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Estradiol-matched placebo patch administered for 3 weeks",
+          "armGroupLabels": [
+            "Estradiol, Then Placebo",
+            "Placebo, Then Estradiol"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Progesterone 200 mg",
+          "description": "200 mg tablet administered by mouth once per day for 10 days after completion of the experimental phase of the study",
+          "armGroupLabels": [
+            "Estradiol, Then Placebo",
+            "Placebo, Then Estradiol"
+          ],
+          "otherNames": [
+            "Prometrium"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Mean IDAS Ill Temper Scale Score Over Time",
+          "description": "The 5-item ill temper scale of the Inventory of Depression and Anxiety Symptoms (IDAS) will be the primary measure of irritability symptom severity. Each symptom item is rated 1 (not at all) to 5 (extremely). The total IDAS ill temper scale score may range from 5-25. Higher scores indicate more severe irritability symptoms. The average daily irritability scores will be evaluated for each 3-week treatment condition (Active Estradiol vs. Placebo).",
+          "timeFrame": "3 weeks during each intervention"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Reward Positivity (RewP) in Response to the Affective Posner Paradigm",
+          "description": "Dysfunctional reward construct of irritability was indexed by the Reward Positivity (RewP), an event-related potential (ERP), that occurs 250-350 ms after feedback indicating a reward (e.g., a monetary win) compared to non-reward (e.g., too slow). The difference waveform is extracted from the frontal midline electrode (Fz). The average ERP is reported to represent the amplitude in response to stimulus presentation.",
+          "timeFrame": "At the end of each three-week treatment period."
+        },
+        {
+          "measure": "Mean LPP Amplitude During Implicit Viewing Task Dysfunctional Threat Processing Was Indexed by Greater Late Positive Potential (LPP) Component for Emotional Face Stimuli, Elicited 400-900 Milliseconds After the Stimulus Presentation.",
+          "description": "Implicit Viewing Task: Participants will complete the Implicit Viewing Task while EEG is recorded to examine brain responses (late positive potentials (LPP) to anger stimuli. During the task, participants will be presented with a happy, fear or calm faces and the participant is asked to indicate whether the image shows someone with long or short hair (neutral feature, not emotion related). LPP will be extracted from the midline-parietal electrode (Pz), from 400-900 ms after the stimulus presentation. The average LPP amplitude will be assessed at the end of each 3-week treatment period. Additionally, average LPP amplitude will be evaluated for each condition (Active Estradiol vs. Placebo).",
+          "timeFrame": "At the end of each 3-week treatment period"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Healthy women 45 - 59 years of age\n* In the early menopause transition (defined by variable menstrual cycle length that is 7+ days longer or shorter than usual)\n* Increase in irritability since the onset of menstrual cycle changes\n* Moderate to severe irritability symptoms, as defined by IDAS ill-temper scale score \\>10\n* Have experienced 1+ very stressful life event (e.g. divorce, death of family member) within the past 6 months\n* Negative mammogram within the past two years\n* BMI between 18 - 45 kg/m\\^2\n\nExclusion Criteria:\n\n* Use of psychotropic agents or hormonal preparations, or herbal supplements (other than multivitamins) believed to affect mood or menopausal symptoms\n* History of psychosis, bipolar disorder, or substance dependence\n* Active psychological symptoms severe enough to require treatment\n* Current suicidal intent or recent history of suicide attempts (within past 10 years)\n* Personal or family history of cancer indicative of more than average risk for breast, ovarian or endometrial cancers\n* Personal history of any cardiovascular disease including coronary artery disease, arteriosclerosis, heart attack, stroke\n* Personal history of thromboembolic disorders\n* History of E2-dependent neoplasia\n* History of gallbladder disease\n* Recent history of migraine with aura\n* Blood pressure classified as higher than stage 2 hypertension (≥160 mmHg systolic or ≥100 mmHg diastolic)\n* Liver dysfunction or disease\n* Undiagnosed abnormal genital bleeding\n* Type I diabetes\n* Known sensitivities to the matrix patch system in Climara® or allergy to peanut oil used in Prometrium®",
+      "healthyVolunteers": true,
+      "sex": "FEMALE",
+      "minimumAge": "45 Years",
+      "maximumAge": "59 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Susan Girdler, PhD",
+          "affiliation": "University of North Carolina, Chapel Hill",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Elizabeth Andersen, PhD",
+          "affiliation": "University of North Carolina, Chapel Hill",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Carolina Crossing B, Suite 1",
+          "city": "Chapel Hill",
+          "state": "North Carolina",
+          "zip": "27517",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.9132,
+            "lon": -79.05584
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "After the study is completed, the de-identified, archived data will be transmitted to and stored at the National Institute of Mental Health Data Archive (NDA) for use by other researchers including those outside of the study.",
+      "infoTypes": [
+        "STUDY_PROTOCOL"
+      ],
+      "timeFrame": "Raw experimental data will not be released or shared until publication or after the project end date, whichever comes first.",
+      "accessCriteria": "Refer to National Institute of Mental Health Data Archive (NDA) for details.",
+      "url": "https://nda.nih.gov/"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Forty participants signed informed consent and were enrolled into the study. Of the 40 enrolled participants, 34 met eligibility criteria and proceeded directly to study assignment. Participants who were excluded prior to assignment were those who did not complete initial eligibility confirmation or withdrew consent.",
+      "recruitmentDetails": "Participants were recruited through medical clinics, UNC Massmail, research listservs (e.g., Research4Me), community flyers, and social media to maximize outreach and participation opportunities.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Estradiol, Then Placebo",
+          "description": "Participants will first receive 0.1 mg/day of transdermal estradiol patch for 3 weeks. After a washout period of 3 weeks, participants will then receive transdermal placebo patch (matching transdermal estradiol 0.1 mg/day patch) for 3 weeks. Upon completion of the second intervention, all participants will receive 200 mg/day of progesterone for 10 days."
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo, Then Estradiol",
+          "description": "Participants will first receive transdermal placebo patch (matching transdermal estradiol 0.1 mg/day patch) for 3 weeks. After a washout period of 3 weeks, participants will then receive 0.1 mg/day of transdermal estradiol patch for 3 weeks. Upon completion of the second intervention, all participants will receive 200 mg/day of progesterone for 10 days."
+        }
+      ],
+      "periods": [
+        {
+          "title": "First Intervention (3 Weeks)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "18"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "16"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "16"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "15"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Washout (3 Weeks)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "16"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "15"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "15"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "15"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Second Intervention (3 Weeks)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "15"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "15"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "15"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "15"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Estradiol, Then Placebo",
+          "description": "Participants will first receive 0.1 mg/day of transdermal estradiol patch for 3 weeks. After a washout period of 3 weeks, participants will then receive transdermal placebo patch (matching transdermal estradiol 0.1 mg/day patch) for 3 weeks. Upon completion of the second intervention, all participants will receive 200 mg/day of progesterone for 10 days."
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo, Then Estradiol",
+          "description": "Participants will first receive transdermal placebo patch (matching transdermal estradiol 0.1 mg/day patch) for 3 weeks. After a washout period of 3 weeks, participants will then receive 0.1 mg/day of transdermal estradiol patch for 3 weeks. Upon completion of the second intervention, all participants will receive 200 mg/day of progesterone for 10 days."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "18"
+            },
+            {
+              "groupId": "BG001",
+              "value": "16"
+            },
+            {
+              "groupId": "BG002",
+              "value": "34"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "34"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "34"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "31"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "34"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "IDAS- 5 question Scale",
+          "description": "The 5-item ill temper scale of the Inventory of Depression and Anxiety Symptoms (IDAS) rates symptom severity as 1 (not at all) to 5 (extremely). The total IDAS ill temper scale score may range from 5-25. Higher scores indicate more severe irritability symptoms.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "scores on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6.41",
+                      "spread": "2.44"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6.04",
+                      "spread": "1.97"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6.24",
+                      "spread": "2.23"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Mean IDAS Ill Temper Scale Score Over Time",
+          "description": "The 5-item ill temper scale of the Inventory of Depression and Anxiety Symptoms (IDAS) will be the primary measure of irritability symptom severity. Each symptom item is rated 1 (not at all) to 5 (extremely). The total IDAS ill temper scale score may range from 5-25. Higher scores indicate more severe irritability symptoms. The average daily irritability scores will be evaluated for each 3-week treatment condition (Active Estradiol vs. Placebo).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "3 weeks during each intervention",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Estradiol",
+              "description": "Participants received 0.1 mg/day of transdermal estradiol patch for 3 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants received transdermal placebo patch (matching transdermal estradiol 0.1 mg/day patch) for 3 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "33"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "31"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6.19",
+                      "spread": "1.33"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.02",
+                      "spread": "1.02"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.09",
+              "statisticalMethod": "Mixed Models Analysis"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Reward Positivity (RewP) in Response to the Affective Posner Paradigm",
+          "description": "Dysfunctional reward construct of irritability was indexed by the Reward Positivity (RewP), an event-related potential (ERP), that occurs 250-350 ms after feedback indicating a reward (e.g., a monetary win) compared to non-reward (e.g., too slow). The difference waveform is extracted from the frontal midline electrode (Fz). The average ERP is reported to represent the amplitude in response to stimulus presentation.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Microvolts",
+          "timeFrame": "At the end of each three-week treatment period.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Estradiol",
+              "description": "Participants received 0.1 mg/day of transdermal estradiol patch for 3 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants received transdermal placebo patch (matching transdermal estradiol 0.1 mg/day patch) for 3 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "33"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "31"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-2.59",
+                      "spread": "3.19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-2.13",
+                      "spread": "3.13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.0018",
+              "statisticalMethod": "Mixed Models Analysis"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean LPP Amplitude During Implicit Viewing Task Dysfunctional Threat Processing Was Indexed by Greater Late Positive Potential (LPP) Component for Emotional Face Stimuli, Elicited 400-900 Milliseconds After the Stimulus Presentation.",
+          "description": "Implicit Viewing Task: Participants will complete the Implicit Viewing Task while EEG is recorded to examine brain responses (late positive potentials (LPP) to anger stimuli. During the task, participants will be presented with a happy, fear or calm faces and the participant is asked to indicate whether the image shows someone with long or short hair (neutral feature, not emotion related). LPP will be extracted from the midline-parietal electrode (Pz), from 400-900 ms after the stimulus presentation. The average LPP amplitude will be assessed at the end of each 3-week treatment period. Additionally, average LPP amplitude will be evaluated for each condition (Active Estradiol vs. Placebo).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Microvolts",
+          "timeFrame": "At the end of each 3-week treatment period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Estradiol",
+              "description": "Participants received 0.1 mg/day of transdermal estradiol patch for 3 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants received transdermal placebo patch (matching transdermal estradiol 0.1 mg/day patch) for 3 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "33"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "31"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.92",
+                      "spread": "1.62"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.99",
+                      "spread": "1.49"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.0108",
+              "statisticalMethod": "Mixed Models Analysis"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "From the time of the first laboratory visit through final follow up visit, up to approximately 3 months.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Estradiol",
+          "description": "Participants received 0.1 mg/day of transdermal estradiol patch for 3 weeks.\n\nEstradiol Patch, 0.1 mg/24 Hours Weekly Transdermal Film, Extended Release: 0.1 mg/day transdermal patch administered for 3 weeks",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 33,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 33,
+          "otherNumAffected": 18,
+          "otherNumAtRisk": 33
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo",
+          "description": "Participants received transdermal placebo patch (matching transdermal estradiol 0.1 mg/day patch) for 3 weeks.\n\nPlacebo: Estradiol-matched placebo patch administered for 3 weeks",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 31,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 31,
+          "otherNumAffected": 16,
+          "otherNumAtRisk": 31
+        },
+        {
+          "id": "EG002",
+          "title": "Progesterone",
+          "description": "Participants received progesterone pills (1 pill per day for 10 days) after lab visit 3 (Post-Placebo and Estradiol conditions)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 31,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 31,
+          "otherNumAffected": 7,
+          "otherNumAtRisk": 31
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Rash",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Swollen Lips",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "\"Bump\" on vulva",
+          "organSystem": "Reproductive system and breast disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Non-migrainous headache (no visual symptoms)",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 24,
+              "numAffected": 5,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 17,
+              "numAffected": 12,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Intermittent chest pain",
+          "organSystem": "Cardiac disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Increased nausea and breast tenderness",
+          "organSystem": "Reproductive system and breast disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Irritation at patch site",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Pain in legs",
+          "organSystem": "Vascular disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 8,
+              "numAffected": 8,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Numbness in fingertips",
+          "organSystem": "Vascular disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Pain in right calf and swelling in legs",
+          "organSystem": "Vascular disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Prolonged bleeding",
+          "organSystem": "Reproductive system and breast disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Swelling in left ankle",
+          "organSystem": "Vascular disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Swelling in legs",
+          "organSystem": "Vascular disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Increased breast tenderness",
+          "organSystem": "Reproductive system and breast disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Concerning breast lumps",
+          "organSystem": "Reproductive system and breast disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Migraine headache without aura",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            }
+          ]
+        },
+        {
+          "term": "Changes in vision/trouble with contacts",
+          "organSystem": "Eye disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 33
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 31
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Elizabeth Andersen, PhD",
+        "organization": "University of North Carolina at Chapel Hill",
+        "email": "elizabeth_andersen@med.unc.edu",
+        "phone": "(970) 420-4944"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP_ICF",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": true,
+          "label": "Study Protocol, Statistical Analysis Plan, and Informed Consent Form",
+          "date": "2024-04-22",
+          "uploadDate": "2025-11-05T16:39",
+          "filename": "Prot_SAP_ICF_003.pdf",
+          "size": 1555779
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-10-31",
+            "type": "ESTIMATED"
+          }
+        }
+      }
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D011374",
+          "term": "Progesterone"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011282",
+          "term": "Pregnenediones"
+        },
+        {
+          "id": "D011283",
+          "term": "Pregnenes"
+        },
+        {
+          "id": "D011278",
+          "term": "Pregnanes"
+        },
+        {
+          "id": "D013256",
+          "term": "Steroids"
+        },
+        {
+          "id": "D000072473",
+          "term": "Fused-Ring Compounds"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D003339",
+          "term": "Corpus Luteum Hormones"
+        },
+        {
+          "id": "D042341",
+          "term": "Gonadal Hormones"
+        },
+        {
+          "id": "D006728",
+          "term": "Hormones"
+        },
+        {
+          "id": "D006730",
+          "term": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+        },
+        {
+          "id": "D045167",
+          "term": "Progesterone Congeners"
+        },
+        {
+          "id": "D012739",
+          "term": "Gonadal Steroid Hormones"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

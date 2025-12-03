@@ -1,0 +1,1394 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06081283",
+      "orgStudyIdInfo": {
+        "id": "23-0157"
+      },
+      "organization": {
+        "fullName": "University of North Carolina, Chapel Hill",
+        "class": "OTHER"
+      },
+      "briefTitle": "Antiseizure Medication in Seizure Networks at Early Acute Brain Injury",
+      "officialTitle": "Effect of Antiseizure Medication in Seizure Networks at Early Stages of Acute Brain Injury. The Rs-fMRI, Open-label Pilot Trial"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-07",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Low recruitment",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-11-20",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-12-22",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-01-22",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-09-28",
+      "studyFirstSubmitQcDate": "2023-10-06",
+      "studyFirstPostDateStruct": {
+        "date": "2023-10-13",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-10-14",
+      "resultsFirstSubmitQcDate": "2025-10-30",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-11-14",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-10-30",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-11-14",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of North Carolina, Chapel Hill",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The goal of this clinical trial is to explore the effect of FDA-approved antiseizure drugs in the brain connectivity patterns of severe and moderate acute brain injury patients with suppression of consciousness. The main questions it aims to answer are:\n\n* Does the antiseizure medication reduce the functional connectivity of seizure networks, as identified by resting state functional MRI (rs-fMRI), within this specific target population?\n* What is the prevalence of seizure networks in patients from the target population, both with EEG suggestive and not suggestive of epileptogenic activity?\n\nParticipants will have a rs-fMRI and those with seizure networks will receive treatment with two antiseizure medications and a post-treatment rs-fMRI. Researchers will compare the pretreatment and post-treatment rs-fMRIs to see if there are changes in the participant's functional connectivity including seizure networks and typical resting state networks."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Brain Injuries, Acute",
+        "Brain Injuries, Traumatic",
+        "Brain Ischemia",
+        "Brain Hypoxia",
+        "Hypoxia-Ischemia, Brain",
+        "Heart Arrest",
+        "Stroke",
+        "Intracranial Hemorrhages",
+        "Coma",
+        "Persistent Vegetative State"
+      ],
+      "keywords": [
+        "Coma",
+        "Vegetative state",
+        "Suppression of consciousness",
+        "antiseizure medication",
+        "Brain networks",
+        "Functional connectivity",
+        "Unresponsive wakefulness",
+        "Functional MRI",
+        "Resting state",
+        "Brain Injuries, Acute"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "SEQUENTIAL",
+        "interventionModelDescription": "Subjects will be enrolled irrespective of their electroencephalogram (EEG) results, whether positive(+) or negative(-) for epileptogenic activity. All enrolled subjects will undergo an initial resting-state functional MRI (rsfMRI). The results will categorize the patients based on the presence or absence of seizure networks (SzNET), resulting in 2 groups: SzNET+ and SzNET-. SzNET- participants will not undergo further interventions or tests, while SzNET+ subjects will be assigned to the intervention arm and will receive follow-up rsfMRI and EEG.\n\nThe study aims to fill 2 quotas in its intervention arm: Participants who are both SzNET+ and EEG+, and another for those SzNET+ but EEG-. Once either of these quotas is complete, the study will cease screening subjects with EEG results falling into that quota. The subjects discharged from hospital on antiseizure medications for medical reasons will be followed up at 3 months post-discharge to collect exploratory data",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 5,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Seizure network Positive subjects",
+          "type": "EXPERIMENTAL",
+          "description": "Participants in this group include all SzNET-Positive subjects, whether EEG-Positive or EEG-Negative. Within six days of their rs-fMRI #1 study, they will receive both loading and maintenance doses of two intervention drug regimens from the study list. For participants with a Glasgow Coma Scale (GCS) of 9 to 12, the research team will choose one of the two selected antiseizure medications (ASMs) and omit its loading dose. Maintenance doses should be administered every 12 hours, starting 12 hours after the loading dose, with a maximum of 19 doses allowed.\n\nA second rs-fMRI and EEG will occur after participants have received at least five maintenance doses. Following these assessments, the use of the intervention drugs as part of the research intervention will cease. However, if medically necessary, these drugs can continue as part of regular therapy. Note that repeat EEG and rs-fMRI assessments Must occur no longer than 72 hours after the last dose of the intervention drug regimen.",
+          "interventionNames": [
+            "Drug: Phenobarbital Sodium Injection",
+            "Drug: Levetiracetam",
+            "Drug: Lacosamide Injectable Product",
+            "Drug: Valproate Sodium",
+            "Drug: Fosphenytoin"
+          ]
+        },
+        {
+          "label": "Seizure network Negative subjects",
+          "type": "NO_INTERVENTION",
+          "description": "Participants in this group encompass all SzNET-Negative subjects, including those who are EEG-Positive and EEG-Negative. These participants will not receive interventions after the initial study indicated rs-fMRI. They will neither receive repeat rs-fMRI or repeat EEG."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Phenobarbital Sodium Injection",
+          "description": "\\*This drug can only be selected as part of the intervention for the subgroup of patients with a Glasgow Coma Score of 8 or less.\n\nLoading dose 20 mg/kg intravenous. Max dose 1000mg Maintenance dose 4mg/kg/day. Max dose 300mg/day. Adult population Loading dose 20 mg/kg intravenous. Maintenance dose 4mg/kg/day.",
+          "armGroupLabels": [
+            "Seizure network Positive subjects"
+          ],
+          "otherNames": [
+            "phenobarbital"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Levetiracetam",
+          "description": "Pediatric population Loading dose 60 mg/kg intravenous. Max dose 4000mg. Maintenance dose 40mg/Kg/day, Max dose 3000mg/day. Adult population Loading dose 2000mg-4000mg intravenous. Maintenance dose 1500mg to 3000mg/day.",
+          "armGroupLabels": [
+            "Seizure network Positive subjects"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Lacosamide Injectable Product",
+          "description": "Pediatric population Loading dose 10 mg/kg intravenous, Max dose 400mg. Maintenance dose 4mg to 8mg/Kg/day. Max dose 300mg. Adult population Loading dose 200mg to 400mg intravenous. Maintenance dose 200mg to 400mg/day.",
+          "armGroupLabels": [
+            "Seizure network Positive subjects"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Valproate Sodium",
+          "description": "Pediatric population Loading dose 30mg/kg intravenous. Max dose 3000mg Maintenance dose 20mg to 30mg/Kg/day, Max dose 3000mg/day. Adult population Loading dose 30 mg/kg intravenous. Maintenance dose 20mg to 30mg/Kg/day",
+          "armGroupLabels": [
+            "Seizure network Positive subjects"
+          ],
+          "otherNames": [
+            "Valproate"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Fosphenytoin",
+          "description": "Pediatric population Loading dose 20 mg phenytoin equivalents (PE)/kg intravenous. Max dose 1500mg PE Maintenance dose 4mg PE/Kg/day. Max dose 300mg PE/day. Adult population Loading dose 20 mg/kg intravenous. Max dose 1500mg PE Maintenance dose 4mg PE/Kg/day.",
+          "armGroupLabels": [
+            "Seizure network Positive subjects"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Pre and Post-intervention Seizure Networks Power Spectrum Medians",
+          "description": "Power spectral analysis identifies differences in Blood Oxygen Level Dependent (BOLD) changes between different cortical areas, cognitive states, or frequency bands that may reflect a pattern of component frequencies. The power spectrum graph shows the BOLD signal's power density over multiple frequencies, measured in Hz/100. Power Spectrum (PS) is the sum of the PS of the SzNET independent components normalized by their spatial volumes. Functional scans were co-registered to the anatomical T1 image, visually inspected, and subjected to independent component analysis (ICA) using the FMRIB Software Library (FSL) tool MELODIC. ICA was applied to separate the BOLD signal into independent components generated by brain networks, which were evaluated for suspected seizure onset zones (SOZs) based on spatial and temporal features. Pre- and post-intervention Rs-fMRI medians were found from the normalized and volume-adjusted area under the curve of the SzNET PS curve above 6.78 Hz/100.",
+          "timeFrame": "At the time of the second study rs-fMRI scan, which acquisition can be from 3 to 13 days after the intervention start date."
+        },
+        {
+          "measure": "Pre and Post-intervention Seizure Networks Total Volume Medians",
+          "description": "Rs-fMRI data is collected as 2 runs of 10-minute data collection on a 3T MRI scanner. One volume from the fMRI is a complete slice of the brain's activity at a specific point of time. Over the 20-minute period that the rs-fMRI is performed, many volumes are collected at different time points continuously throughout the scan. These volume elements are measured in units of voxels which are a 3D unit of the MRI image. SzNET total volume (TV) is the sum of the volumes of the SzNET independent components, collected through ICA where independent components generated by brain networks were evaluated for suspected seizure onset zones. The medians from the normalized volume of the total seizure networks, of both pre and post-intervention rs-fMRI, were collected from this data.",
+          "timeFrame": "At the time of the second study rs-fMRI scan, which acquisition can be from 3 to 13 days after the intervention start date."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Presence of Seizure Networks in the First Resting State Functional MRI",
+          "description": "Binary Variable. The total amount of participants for this outcome measure will include only the subjects enrolled until the first sampling quota is completed. Only the two SzNET+ groups have a minimum enrollment goal. Thus, enrollment will stop once each of the two SzNET+ groups enroll ten patients.",
+          "timeFrame": "At the time of the first study rs-fMRI scan, which acquisition can be from 1 to 3 days after enrollment."
+        },
+        {
+          "measure": "Follow-up Electroencephalogram Improvement",
+          "description": "Binary variable categorized as \"with improvement\" or \"without improvement\", obtained by expert's overall qualitative assessment comparing the follow-up study EEG and the clinically indicated EEG considered at the enrollment time. The qualitative assessment will be based on the EEG's background and the presence of electrophysiological signs of ictal or interictal activity. These signs are described by the American Clinical Neurophysiology Society as: Epileptiform Discharges Rhythmic and periodic patterns; Electrographic and electroclinical seizures; and Ictal-interictal continuum.",
+          "timeFrame": "At the time of the follow-up study EEG, which acquisition can be from 3 to 13 days after the intervention start date."
+        },
+        {
+          "measure": "Connectivity Improvement of Typical Resting State Networks After Intervention",
+          "description": "Binary variable obtained by expert's opinion comparison between the typical resting state networks of the pre and post-intervention resting state functional MRIs",
+          "timeFrame": "At the time of the second study rs-fMRI scan, which acquisition can be from 3 to 13 days after the intervention start date."
+        },
+        {
+          "measure": "Enrollment Rate",
+          "description": "Number of participants enrolled divided by the amount of eligible participants screened.",
+          "timeFrame": "The day of enrollment of each patient, and this will be collected through study completion, a duration of 1 year"
+        },
+        {
+          "measure": "Dropout Rate",
+          "description": "Number of dropout participants divided by the amount of enrolled participants.",
+          "timeFrame": "from enrollment to the second rs-fMRI acquisition time limit which means from 0 to 19 days from enrollment."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Currently ICU hospitalized.\n* Suppression of consciousness related to a neurological injury by medical chart review.\n* Glasgow Coma Scale of less than 13 at enrollment by medical chart review.\n* Diagnosis of Acute brain injury by traumatic brain injury (TBI), hypoxic-ischemic insult, cardiac arrest, or stroke by medical chart review.\n* 2 to 90 days from acute brain injury to enrollment time by medical chart review.\n* Have a surface EEG performed after the current ICU admission\n* Clinically stable to undergo MRI scan, This stability is defined by care team concept, which should be stated in the medical records.\n\nExclusion Criteria:\n\n* Previous medical history of Epilepsy by medical chart review.\n* Previous medical history of neurological sequels that lead to dependence on care for basic daily activities, by Barthel index score less than 80.\n* Known allergy/Hypersensitivity or medical contraindications (like porphyria or cardiac arrhythmias) to the treatment protocol options, leaving no potential combination of drugs for the intervention without concerns for adverse events related to known preexistent conditions.\n* Considered with Brain death by the care team in the medical record, at any time.\n* Speaking fluently or at their prior reported baseline mental status by medical chart review before the intervention starts.\n* Contraindications for MRI scan.\n* Prisoner human subjects by medical chart review.\n* Confirmed currently pregnant by medical history or by positive blood or urine pregnancy test done in the present hospital admission.\n* Treating physician determines the patient is no candidate to receive 2 of the 5 protocol-specified ASM.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Months",
+      "maximumAge": "70 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Emilio G. Cediel, MD",
+          "affiliation": "UNC-Chapel Hill",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Varina L Boerwinkle, MD",
+          "affiliation": "UNC-Chapel Hill",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "UNC Health",
+          "city": "Chapel Hill",
+          "state": "North Carolina",
+          "zip": "27599",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.9132,
+            "lon": -79.05584
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Deidentified individual data that supports the results will be shared beginning 9 to 36 months following publication provided the investigator who proposes to use the data has approval from an Institutional Review Board (IRB), Independent Ethics Committee (IEC), or Research Ethics Board (REB), as applicable, and executes a data use/sharing agreement with UNC.",
+      "timeFrame": "beginning 9 and continuing for 36 months following publication",
+      "accessCriteria": "Investigator has approved IRB, IEC, or REB and an executed data use/sharing agreement with UNC."
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "No participants were enrolled with a Glasgow Coma Scale (GCS) score of 9 to 12. The intervention phase occurs between resting state functional magnetic resonance imaging (rs-fMRI#1) and the day of follow-up rs-fMRI#2 and repeated EEG. The intervention is considered complete and the follow-up tests can be done if the patient received the study antiseizure medication (ASM) for at least 72 hours after the loading dose, and the second scan was done within 72 hours of the last intervention ASM dose.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Seizure Network Positive Subjects",
+          "description": "All seizure network positive (SzNET-Positive) participants, whether EEG-Positive or EEG-Negative. Within six days of their initial rs-fMRI study, they will receive both loading and maintenance doses of two intervention drug regimens from the study's list. For participants with a Glasgow Coma Scale (GCS) score of 9 to 12, the research team will choose one of the two selected ASMs, and will omit its loading dose. Maintenance doses should be administered every 12 hours, starting 12 hours after the loading dose, with a maximum of 19 doses allowed.\n\nA second rs-fMRI and EEG will occur after participants have received at least five maintenance doses. Following these assessments, the use of the intervention drugs as part of the research intervention will cease. However, if medically necessary, these drugs can continue as part of regular therapy. Note that repeat EEG and rs-fMRI assessments must occur no longer than 72 hours after the last dose of the intervention drug regimen.\n\nThe possible intervention drug regimens used were: Phenobarbital Sodium Injection, Levetiracetam, Lacosamide Injectable Product, Valproate Sodium, and fosphenytoin. The key intervention and first option to be considered will be phenobarbital + levetiracetam. For clinical reasons the care team may select any combination of two or more study listed ASM regimens. For further specifics on loading and maintenance dosages please refer to the Arms and Interventions section of the Protocol Record."
+        },
+        {
+          "id": "FG001",
+          "title": "Seizure Network Negative Subjects",
+          "description": "Participants in this group encompass all SzNET-Negative subjects, including those who are EEG-Positive and EEG-Negative. These participants will not receive interventions after the initial study indicated rs-fMRI. They will neither receive repeat rs-fMRI or repeat EEG."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Received Initial Phenobarbital Sodium Followed by Lacosamide",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Completed Initial Phenobarbital Sodium Followed by Lacosamide",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Received Initial Levetiracetam Followed by Lacosamide",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Completed Initial Levetiracetam Followed by Lacosamide",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "comment": "The intervention is considered complete and follow-up testing can be done if the patient received the study ASM for at least 72 hours after the loading dose start, and the second scan was done within 72 hours of the last intervention ASM dose. The treatment protocol can continue up to a maximum of ten days to allow scan scheduling. The rs-fMRI #2 must be done at a time between 73 and 312 hours after the intervention phase starts. The intervention may be ongoing at that time.",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Seizure Network Positive Subjects",
+          "description": "Participants in this group include all SzNET-Positive subjects, whether EEG-Positive or EEG-Negative. Within six days of their initial rs-fMRI study, they will receive both loading and maintenance doses of two intervention drug regimens from the study's list. For participants with a GCS of 9 to 12, the research team will choose one of the two selected ASMs, and will omit its loading dose. Maintenance doses should be administered every 12 hours, starting 12 hours after the loading dose, with a maximum of 19 doses allowed.\n\nA second rs-fMRI and EEG will occur after participants have received at least five maintenance doses. Following these assessments, the use of the intervention drugs as part of the research intervention will cease. However, if medically necessary, these drugs can continue as part of regular therapy. Note that repeat EEG and rs-fMRI assessments Must occur no longer than 72 hours after the last dose of the intervention drug regimen.\n\nThe possible intervention drug regimens used were: Phenobarbital Sodium Injection, Levetiracetam, Lacosamide Injectable Product, Valproate Sodium, and fosphenytoin. For further specifics on loading and maintenance dosages please refer to the Arms and Interventions section of the Protocol Record."
+        },
+        {
+          "id": "BG001",
+          "title": "Seizure Network Negative Subjects",
+          "description": "Participants in this group encompass all SzNET-Negative subjects, including those who are EEG-Positive and EEG-Negative. These participants will not receive interventions after the initial study indicated rs-fMRI. They will neither receive repeat rs-fMRI or repeat EEG."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "3"
+            },
+            {
+              "groupId": "BG001",
+              "value": "2"
+            },
+            {
+              "groupId": "BG002",
+              "value": "5"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "United States",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Pre and Post-intervention Seizure Networks Power Spectrum Medians",
+          "description": "Power spectral analysis identifies differences in Blood Oxygen Level Dependent (BOLD) changes between different cortical areas, cognitive states, or frequency bands that may reflect a pattern of component frequencies. The power spectrum graph shows the BOLD signal's power density over multiple frequencies, measured in Hz/100. Power Spectrum (PS) is the sum of the PS of the SzNET independent components normalized by their spatial volumes. Functional scans were co-registered to the anatomical T1 image, visually inspected, and subjected to independent component analysis (ICA) using the FMRIB Software Library (FSL) tool MELODIC. ICA was applied to separate the BOLD signal into independent components generated by brain networks, which were evaluated for suspected seizure onset zones (SOZs) based on spatial and temporal features. Pre- and post-intervention Rs-fMRI medians were found from the normalized and volume-adjusted area under the curve of the SzNET PS curve above 6.78 Hz/100.",
+          "populationDescription": "This outcome does not apply to the Seizure Network Negative Subjects; therefore, no data were collected for this group.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "Hz/10^2",
+          "timeFrame": "At the time of the second study rs-fMRI scan, which acquisition can be from 3 to 13 days after the intervention start date.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Seizure Network Positive Subjects",
+              "description": "Participants in this group include all SzNET-Positive subjects, whether EEG-Positive or EEG-Negative. Within six days of their initial rs-fMRI study, they will receive both loading and maintenance doses of two intervention drug regimens from the study's list. For participants with a Glasgow Coma Scale (GCS) score of 9 to 12, the research team will choose one of the two selected ASMs, and will omit its loading dose. Maintenance doses should be administered every 12 hours, starting 12 hours after the loading dose, with a maximum of 19 doses allowed.\n\nA second rs-fMRI and EEG will occur after participants have received at least five maintenance doses. Following these assessments, the use of the intervention drugs as part of the research intervention will cease. However, if medically necessary, these drugs can continue as part of regular therapy. Note that repeat EEG and rs-fMRI assessments must occur no longer than 72 hours after the last dose of the intervention drug regimen.\n\nThe possible intervention drug regimens used were: Phenobarbital Sodium Injection, Levetiracetam, Lacosamide Injectable Product, Valproate Sodium, and fosphenytoin. The key intervention and first option to be considered will be phenobarbital + levetiracetam. For clinical reasons the care team may select any combination of two or more study listed ASM regimens. For further specifics on loading and maintenance dosages please refer to the Arms and Interventions section of the Protocol Record."
+            },
+            {
+              "id": "OG001",
+              "title": "Seizure Network Negative Subjects",
+              "description": "Participants in this group encompass all SzNET-Negative subjects, including those who are EEG-Positive and EEG-Negative. These participants will not receive interventions after the initial study indicated rs-fMRI. They will neither receive repeat rs-fMRI or repeat EEG."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Pre-intervention rs-fMRI",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.66",
+                      "lowerLimit": "-0.45",
+                      "upperLimit": "3.46"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Post-intervention rs-fMRI",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.061",
+                      "lowerLimit": "0.049",
+                      "upperLimit": "3.43"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Pre and Post-intervention Seizure Networks Total Volume Medians",
+          "description": "Rs-fMRI data is collected as 2 runs of 10-minute data collection on a 3T MRI scanner. One volume from the fMRI is a complete slice of the brain's activity at a specific point of time. Over the 20-minute period that the rs-fMRI is performed, many volumes are collected at different time points continuously throughout the scan. These volume elements are measured in units of voxels which are a 3D unit of the MRI image. SzNET total volume (TV) is the sum of the volumes of the SzNET independent components, collected through ICA where independent components generated by brain networks were evaluated for suspected seizure onset zones. The medians from the normalized volume of the total seizure networks, of both pre and post-intervention rs-fMRI, were collected from this data.",
+          "populationDescription": "This outcome does not apply to the Seizure Network Negative Subjects; therefore, no data were collected for this group.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "voxels",
+          "timeFrame": "At the time of the second study rs-fMRI scan, which acquisition can be from 3 to 13 days after the intervention start date.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Seizure Network Positive Subjects",
+              "description": "Participants in this group include all SzNET-Positive subjects, whether EEG-Positive or EEG-Negative. Within six days of their initial rs-fMRI study, they will receive both loading and maintenance doses of two intervention drug regimens from the study's list. For participants with a GCS of 9 to 12, the research team will choose one of the two selected ASMs, and will omit its loading dose. Maintenance doses should be administered every 12 hours, starting 12 hours after the loading dose, with a maximum of 19 doses allowed.\n\nA second rs-fMRI and EEG will occur after participants have received at least five maintenance doses. Following these assessments, the use of the intervention drugs as part of the research intervention will cease. However, if medically necessary, these drugs can continue as part of regular therapy. Note that repeat EEG and rs-fMRI assessments Must occur no longer than 72 hours after the last dose of the intervention drug regimen.\n\nThe possible intervention drug regimens used were: Phenobarbital Sodium Injection, Levetiracetam, Lacosamide Injectable Product, Valproate Sodium, and fosphenytoin. For further specifics on loading and maintenance dosages please refer to the Arms and Interventions section of the Protocol Record."
+            },
+            {
+              "id": "OG001",
+              "title": "Seizure Network Negative Subjects",
+              "description": "Participants in this group encompass all SzNET-Negative subjects, including those who are EEG-Positive and EEG-Negative. These participants will not receive interventions after the initial study indicated rs-fMRI. They will neither receive repeat rs-fMRI or repeat EEG."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Pre-intervention rs-fMRI",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3733.89",
+                      "lowerLimit": "3095.17",
+                      "upperLimit": "6378.14"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Post-intervention rs-fMRI",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3734.00",
+                      "lowerLimit": "3095.00",
+                      "upperLimit": "6378.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Presence of Seizure Networks in the First Resting State Functional MRI",
+          "description": "Binary Variable. The total amount of participants for this outcome measure will include only the subjects enrolled until the first sampling quota is completed. Only the two SzNET+ groups have a minimum enrollment goal. Thus, enrollment will stop once each of the two SzNET+ groups enroll ten patients.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At the time of the first study rs-fMRI scan, which acquisition can be from 1 to 3 days after enrollment.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Seizure Network Positive Subjects",
+              "description": "Participants in this group include all SzNET-Positive subjects, whether EEG-Positive or EEG-Negative. Within six days of their initial rs-fMRI study, they will receive both loading and maintenance doses of two intervention drug regimens from the study's list. For participants with a Glasgow Coma Scale (GCS) score of 9 to 12, the research team will choose one of the two selected ASMs, and will omit its loading dose. Maintenance doses should be administered every 12 hours, starting 12 hours after the loading dose, with a maximum of 19 doses allowed.\n\nA second rs-fMRI and EEG will occur after participants have received at least five maintenance doses. Following these assessments, the use of the intervention drugs as part of the research intervention will cease. However, if medically necessary, these drugs can continue as part of regular therapy. Note that repeat EEG and rs-fMRI assessments must occur no longer than 72 hours after the last dose of the intervention drug regimen.\n\nThe possible intervention drug regimens used were: Phenobarbital Sodium Injection, Levetiracetam, Lacosamide Injectable Product, Valproate Sodium, and fosphenytoin. The key intervention and first option to be considered will be phenobarbital + levetiracetam. For clinical reasons the care team may select any combination of two or more study listed ASM regimens. For further specifics on loading and maintenance dosages please refer to the Arms and Interventions section of the Protocol Record."
+            },
+            {
+              "id": "OG001",
+              "title": "Seizure Network Negative Subjects",
+              "description": "Participants in this group encompass all SzNET-Negative subjects, including those who are EEG-Positive and EEG-Negative. These participants will not receive interventions after the initial study indicated rs-fMRI. They will neither receive repeat rs-fMRI or repeat EEG."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Seizure networks present",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Seizure networks absent",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Follow-up Electroencephalogram Improvement",
+          "description": "Binary variable categorized as \"with improvement\" or \"without improvement\", obtained by expert's overall qualitative assessment comparing the follow-up study EEG and the clinically indicated EEG considered at the enrollment time. The qualitative assessment will be based on the EEG's background and the presence of electrophysiological signs of ictal or interictal activity. These signs are described by the American Clinical Neurophysiology Society as: Epileptiform Discharges Rhythmic and periodic patterns; Electrographic and electroclinical seizures; and Ictal-interictal continuum.",
+          "populationDescription": "Follow-up EEG activity only includes Seizure Network Positive Subjects; therefore, no data were collected for the Seizure Network Negative Subjects arm.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At the time of the follow-up study EEG, which acquisition can be from 3 to 13 days after the intervention start date.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Seizure Network Positive Subjects",
+              "description": "Participants in this group include all SzNET-Positive subjects, whether EEG-Positive or EEG-Negative. Within six days of their initial rs-fMRI study, they will receive both loading and maintenance doses of two intervention drug regimens from the study's list. For participants with a Glasgow Coma Scale (GCS) score of 9 to 12, the research team will choose one of the two selected ASMs, and will omit its loading dose. Maintenance doses should be administered every 12 hours, starting 12 hours after the loading dose, with a maximum of 19 doses allowed.\n\nA second rs-fMRI and EEG will occur after participants have received at least five maintenance doses. Following these assessments, the use of the intervention drugs as part of the research intervention will cease. However, if medically necessary, these drugs can continue as part of regular therapy. Note that repeat EEG and rs-fMRI assessments must occur no longer than 72 hours after the last dose of the intervention drug regimen.\n\nThe possible intervention drug regimens used were: Phenobarbital Sodium Injection, Levetiracetam, Lacosamide Injectable Product, Valproate Sodium, and fosphenytoin. The key intervention and first option to be considered will be phenobarbital + levetiracetam. For clinical reasons the care team may select any combination of two or more study listed ASM regimens. For further specifics on loading and maintenance dosages please refer to the Arms and Interventions section of the Protocol Record."
+            },
+            {
+              "id": "OG001",
+              "title": "Seizure Network Negative Subjects",
+              "description": "Participants in this group encompass all SzNET-Negative subjects, including those who are EEG-Positive and EEG-Negative. These participants will not receive interventions after the initial study indicated rs-fMRI. They will neither receive repeat rs-fMRI or repeat EEG."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "With improvement",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Without improvement",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Connectivity Improvement of Typical Resting State Networks After Intervention",
+          "description": "Binary variable obtained by expert's opinion comparison between the typical resting state networks of the pre and post-intervention resting state functional MRIs",
+          "populationDescription": "Connectivity of typical resting state networks only includes Seizure Network Positive Subjects; therefore, no data were collected for the Seizure Network Negative Subjects arm.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At the time of the second study rs-fMRI scan, which acquisition can be from 3 to 13 days after the intervention start date.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Seizure Network Positive Subjects",
+              "description": "Participants in this group include all SzNET-Positive subjects, whether EEG-Positive or EEG-Negative. Within six days of their initial rs-fMRI study, they will receive both loading and maintenance doses of two intervention drug regimens from the study's list. For participants with a Glasgow Coma Scale (GCS) score of 9 to 12, the research team will choose one of the two selected ASMs, and will omit its loading dose. Maintenance doses should be administered every 12 hours, starting 12 hours after the loading dose, with a maximum of 19 doses allowed.\n\nA second rs-fMRI and EEG will occur after participants have received at least five maintenance doses. Following these assessments, the use of the intervention drugs as part of the research intervention will cease. However, if medically necessary, these drugs can continue as part of regular therapy. Note that repeat EEG and rs-fMRI assessments must occur no longer than 72 hours after the last dose of the intervention drug regimen.\n\nThe possible intervention drug regimens used were: Phenobarbital Sodium Injection, Levetiracetam, Lacosamide Injectable Product, Valproate Sodium, and fosphenytoin. The key intervention and first option to be considered will be phenobarbital + levetiracetam. For clinical reasons the care team may select any combination of two or more study listed ASM regimens. For further specifics on loading and maintenance dosages please refer to the Arms and Interventions section of the Protocol Record."
+            },
+            {
+              "id": "OG001",
+              "title": "Seizure Network Negative Subjects",
+              "description": "Participants in this group encompass all SzNET-Negative subjects, including those who are EEG-Positive and EEG-Negative. These participants will not receive interventions after the initial study indicated rs-fMRI. They will neither receive repeat rs-fMRI or repeat EEG."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Connectivity improvement",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "No connectivity improvement",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Enrollment Rate",
+          "description": "Number of participants enrolled divided by the amount of eligible participants screened.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "The day of enrollment of each patient, and this will be collected through study completion, a duration of 1 year",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Seizure Network Positive Subjects",
+              "description": "All acute brain injury participants who were screened for eligibility."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "74"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Dropout Rate",
+          "description": "Number of dropout participants divided by the amount of enrolled participants.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "from enrollment to the second rs-fMRI acquisition time limit which means from 0 to 19 days from enrollment.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Seizure Network Positive Subjects",
+              "description": "Participants in this group include all SzNET-Positive subjects, whether EEG-Positive or EEG-Negative. Within six days of their initial rs-fMRI study, they will receive both loading and maintenance doses of two intervention drug regimens from the study's list. For participants with a GCS of 9 to 12, the research team will choose one of the two selected ASMs, and will omit its loading dose. Maintenance doses should be administered every 12 hours, starting 12 hours after the loading dose, with a maximum of 19 doses allowed.\n\nA second rs-fMRI and EEG will occur after participants have received at least five maintenance doses. Following these assessments, the use of the intervention drugs as part of the research intervention will cease. However, if medically necessary, these drugs can continue as part of regular therapy. Note that repeat EEG and rs-fMRI assessments Must occur no longer than 72 hours after the last dose of the intervention drug regimen.\n\nThe possible intervention drug regimens used were: Phenobarbital Sodium Injection, Levetiracetam, Lacosamide Injectable Product, Valproate Sodium, and fosphenytoin. For further specifics on loading and maintenance dosages please refer to the Arms and Interventions section of the Protocol Record."
+            },
+            {
+              "id": "OG001",
+              "title": "Seizure Network Negative Subjects",
+              "description": "Participants in this group encompass all SzNET-Negative subjects, including those who are EEG-Positive and EEG-Negative. These participants will not receive interventions after the initial study indicated rs-fMRI. They will neither receive repeat rs-fMRI or repeat EEG."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Adverse events (AEs) temporally associated with the transport (varied up to 30 minutes round trip per scan) and scanning time for the rs-fMRI#1 or rs-fMRI #2 (25 minutes per scan), or during administration of the ASM intervention (up to 72 hours from initiation of ASM treatment prior to rs-fMRI #2). Thus, a total AE observation period of up to 74 hours.",
+      "description": "Adverse event data were collected only for SzNET-positive participants, in accordance with the pre-specified study protocol. These events included any untoward or unfavorable occurrence-such as abnormal signs, symptoms, or diseases-temporally associated with rs-fMRI #1 or #2 procedures or the administration of ASMs during the intervention phase, regardless of their relation to research participation. SzNET-negative participants were assessed solely for all-cause mortality.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Seizure Network Positive Subjects",
+          "description": "Participants in this group include all SzNET-Positive subjects, whether EEG-Positive or EEG-Negative. Within six days of their initial rs-fMRI study, they will receive both loading and maintenance doses of two intervention drug regimens from the study's list. For participants with a GCS of 9 to 12, the research team will choose one of the two selected ASMs, and will omit its loading dose. Maintenance doses should be administered every 12 hours, starting 12 hours after the loading dose, with a maximum of 19 doses allowed.\n\nA second rs-fMRI and EEG will occur after participants have received at least five maintenance doses. Following these assessments, the use of the intervention drugs as part of the research intervention will cease. However, if medically necessary, these drugs can continue as part of regular therapy. Note that repeat EEG and rs-fMRI assessments Must occur no longer than 72 hours after the last dose of the intervention drug regimen.\n\nThe possible intervention drug regimens used were: Phenobarbital Sodium Injection, Levetiracetam, Lacosamide Injectable Product, Valproate Sodium, and fosphenytoin. For further specifics on loading and maintenance dosages please refer to the Arms and Interventions section of the Protocol Record.",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 3,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 3,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 3
+        },
+        {
+          "id": "EG001",
+          "title": "Seizure Network Negative Subjects",
+          "description": "Participants in this group encompass all SzNET-Negative subjects, including those who are EEG-Positive and EEG-Negative. These participants will not receive interventions after the initial study indicated rs-fMRI. They will neither receive repeat rs-fMRI or repeat EEG.",
+          "deathsNumAffected": 2,
+          "deathsNumAtRisk": 2,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 0,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 0
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Meitra Kazemi",
+        "organization": "University of North Carollina at Chapel Hill",
+        "email": "meitra_kazemi@med.unc.edu",
+        "phone": "919-914-9579"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-10-28",
+          "uploadDate": "2025-10-14T15:54",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 1647074
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-10-27",
+            "type": "ESTIMATED"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001930",
+          "term": "Brain Injuries"
+        },
+        {
+          "id": "D000070642",
+          "term": "Brain Injuries, Traumatic"
+        },
+        {
+          "id": "D002545",
+          "term": "Brain Ischemia"
+        },
+        {
+          "id": "D002534",
+          "term": "Hypoxia, Brain"
+        },
+        {
+          "id": "D020925",
+          "term": "Hypoxia-Ischemia, Brain"
+        },
+        {
+          "id": "D006323",
+          "term": "Heart Arrest"
+        },
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        },
+        {
+          "id": "D020300",
+          "term": "Intracranial Hemorrhages"
+        },
+        {
+          "id": "D003128",
+          "term": "Coma"
+        },
+        {
+          "id": "D018458",
+          "term": "Persistent Vegetative State"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D006259",
+          "term": "Craniocerebral Trauma"
+        },
+        {
+          "id": "D020196",
+          "term": "Trauma, Nervous System"
+        },
+        {
+          "id": "D014947",
+          "term": "Wounds and Injuries"
+        },
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D000860",
+          "term": "Hypoxia"
+        },
+        {
+          "id": "D012818",
+          "term": "Signs and Symptoms, Respiratory"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D006470",
+          "term": "Hemorrhage"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D014474",
+          "term": "Unconsciousness"
+        },
+        {
+          "id": "D003244",
+          "term": "Consciousness Disorders"
+        },
+        {
+          "id": "D019954",
+          "term": "Neurobehavioral Manifestations"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D001925",
+          "term": "Brain Damage, Chronic"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D010634",
+          "term": "Phenobarbital"
+        },
+        {
+          "id": "D000077287",
+          "term": "Levetiracetam"
+        },
+        {
+          "id": "D014635",
+          "term": "Valproic Acid"
+        },
+        {
+          "id": "C043114",
+          "term": "fosphenytoin"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001463",
+          "term": "Barbiturates"
+        },
+        {
+          "id": "D011744",
+          "term": "Pyrimidinones"
+        },
+        {
+          "id": "D011743",
+          "term": "Pyrimidines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D000081",
+          "term": "Acetamides"
+        },
+        {
+          "id": "D000577",
+          "term": "Amides"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D000085",
+          "term": "Acetates"
+        },
+        {
+          "id": "D000144",
+          "term": "Acids, Acyclic"
+        },
+        {
+          "id": "D002264",
+          "term": "Carboxylic Acids"
+        },
+        {
+          "id": "D011760",
+          "term": "Pyrrolidinones"
+        },
+        {
+          "id": "D011759",
+          "term": "Pyrrolidines"
+        },
+        {
+          "id": "D010421",
+          "term": "Pentanoic Acids"
+        },
+        {
+          "id": "D014631",
+          "term": "Valerates"
+        },
+        {
+          "id": "D005232",
+          "term": "Fatty Acids, Volatile"
+        },
+        {
+          "id": "D005227",
+          "term": "Fatty Acids"
+        },
+        {
+          "id": "D008055",
+          "term": "Lipids"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

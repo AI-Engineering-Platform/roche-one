@@ -1,0 +1,2123 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04181736",
+      "orgStudyIdInfo": {
+        "id": "49147"
+      },
+      "organization": {
+        "fullName": "Stanford University",
+        "class": "OTHER"
+      },
+      "briefTitle": "The BIomarker Guided (BIG) Study for Depression",
+      "officialTitle": "Precision Mental Health: Evaluating Biotype-guided Interventions for Depression"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-09-14",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-01-17",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-02-12",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2019-11-26",
+      "studyFirstSubmitQcDate": "2019-11-26",
+      "studyFirstPostDateStruct": {
+        "date": "2019-11-29",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-01-18",
+      "resultsFirstSubmitQcDate": "2025-03-07",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-03-20",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-03-07",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-03-20",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Laura Hack",
+        "investigatorTitle": "Laura Hack MD, PhD",
+        "investigatorAffiliation": "Stanford University"
+      },
+      "leadSponsor": {
+        "name": "Stanford University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "Cognitive impairments contribute significantly to psychosocial dysfunction in major depressive disorder (MDD) and respond poorly to conventional antidepressants, yet selective treatments targeted to these impairments are lacking. Our previous research identified a distinct subgroup of depression called \"cognitive biotype+\" that comprises 27% of depressed patients and is characterized by pre-treatment global cognitive impairments and dysfunction in the cognitive control neural circuit. In this study, we evaluated the medication guanfacine immediate release (GIR), an alpha 2A receptor agonist, as a novel treatment for selectively improving cognitive control circuit function, performance on cognitive testing, and clinical measures the cognitive biotype+ subgroup.",
+      "detailedDescription": "The flow of procedures and study visits is as follows:\n\n1. Recruitment and screening: Participants experiencing depressive symptoms and not taking any psychiatric medications as determined by a 5 half-life wash out period will be recruited from the community, including students and employees at Stanford. Recruitment will come primarily from Facebook ads, which will use only IRB approved material. A flyer will also be physically posted on boards in public locations in order to include a variety of sources for the study.\n2. Individuals will need to participate in 3 screening visits in order to enroll in the study. During the first visit, participants will review informed consent, be administered a clinical interview, and be sent instructions for completing cognitive testing at home.\n3. If eligibility after this initial screening visit, the second visit will be a medical screen in order to ensure participants are safe to take GIR and will include standard blood tests, medical history, vitals, and a urine drug test.\n4. If the participant meets medical and cognitive criteria, functional magnetic resonance imaging (fMRI) scans will be undertaken at another study visit at The Stanford Center for Cognitive and Neurobiological Imaging (CNI). Using a participant's task-evoked activity in the dorsolateral prefrontal cortex (dLPFC) and performance on objective cognitive testing, we will apply thresholds using established healthy norms to select participants within the cognitive biotype+ group.\n5. Participants will receive GIR for a period of 8 weeks sent to their place of residence from Mariner pharmacy.\n6. Participants will be seen in-person or virtually by a study clinician at weeks 2, 4, 6, 8, and 10 and an appropriately trained clinical research coordinator at weeks 1, 3, 5, 7, and 9. All subjects will have an fMRI scan after 6-8 weeks of taking GIR. During in-person visits and virtual monitoring, we will assess participants for the following: changes to symptoms, function, and suicidality, adherence to GIR, changes to concomitant medication(s), adverse events (AEs), birth control usage compliance, likelihood of pregnancy (female participants of childbearing potential), and vital signs if appropriate.\n7. If participants wish to continue GIR and their psychiatrist or PCP is willing to prescribe this, they will continue with their current dose for weeks 9 and 10. If they prefer to stop taking GIR and/or they do not have a provider who is willing to continue GIR, the participant will be tapered off the medication."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Major Depressive Disorder"
+      ],
+      "keywords": [
+        "guanfacine",
+        "dorsolateral prefrontal cortex (dLPFC)",
+        "major depressive disorder (MDD)",
+        "cognitive control circuit",
+        "cognitive control behavioral performance"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 28,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Guanfacine Treatment Group",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will be prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study psychiatrists/nurse practitioners. Subjects will start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg.",
+          "interventionNames": [
+            "Drug: Guanfacine Tablets"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Guanfacine Tablets",
+          "description": "Guanfacine immediate release, sold under the brand name Tenex among others, is a medication used to treat high blood pressure and off-label to treat attention deficit hyperactivity disorder (ADHD). It is taken by mouth and will be compounded by a pharmacy to the required doses used in this study.",
+          "armGroupLabels": [
+            "Guanfacine Treatment Group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in Cognitive Control Circuit Function Z-score",
+          "description": "During functional magnetic resonance imaging (fMRI), the cognitive control circuit was engaged by a Go-NoGo task, and circuit activation was quantified by blood flow in three regions of interest in the brain (dorsal anterior cingulate cortex \\[dACC\\], left dorsolateral prefrontal cortex \\[dLPFC\\], and right dLPFC) and the extent of functional connectivity between them. Task-evoked activation and connectivity are expressed as Z-scores, which represent the number of standard deviations the observed value is from the mean of a healthy reference dataset (population mean = 0). There is no fixed minimum or maximum for Z-scores. Standard deviations above the mean (a positive Z-score) indicate that the observed activation or connectivity is higher than the mean of the healthy reference dataset, while standard deviations below the mean (a negative Z-score) indicate it is lower. A negative Z-score indicates a worse outcome. For this study, a Z-score of \\<= -0.5 indicates poor cognitive control.",
+          "timeFrame": "pre-treatment, 8 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Participants With a Score of ≤7 on the 17-item Hamilton Depression Rating Scale (HDRS-17) at Week 8 as a Measure of Depression Remission.",
+          "description": "Possible HDRS-17 scores range from 0 (no depression) to 52 (severe depression).",
+          "timeFrame": "8 weeks"
+        },
+        {
+          "measure": "Number of Participants With a Score ≤5 on the Quick Inventory of Depressive Symptoms-Self Report (QIDS-SR) at Week 8 as a Measure of Depression Remission.",
+          "description": "Possible QIDS-SR scores range from 0 (no depression) to 27 (severe depression).",
+          "timeFrame": "8 weeks"
+        },
+        {
+          "measure": "Number of Participants With a ≥50% Reduction on the 17-item Hamilton Depression Rating Scale (HDRS-17) as a Measure of Depression Response.",
+          "description": "Possible HDRS-17 scores range from 0 (no depression) to 52 (severe depression).",
+          "timeFrame": "pre-treatment, 8 weeks"
+        },
+        {
+          "measure": "Number of Participants With a ≥50% Reduction From Baseline on the Quick Inventory of Depressive Symptoms-Self Report (QIDS-SR) as a Measure of Depression Response.",
+          "description": "Possible QIDS-SR scores range from 0 (no depression) to 27 (severe depression).",
+          "timeFrame": "pre-treatment, 8 weeks"
+        },
+        {
+          "measure": "Change in Depression Scores on the 17-item Hamilton Depression Rating Scale (HDRS-17)",
+          "description": "Possible HDRS-17 scores range from 0 (no depression) to 52 (severe depression).",
+          "timeFrame": "baseline, 2 weeks, 8 weeks"
+        },
+        {
+          "measure": "Change in Depression Scores on the Quick Inventory of Depressive Symptoms-Self Report (QIDS-SR)",
+          "description": "Possible QIDS-SR scores range from 0 (no depression) to 27 (severe depression).",
+          "timeFrame": "pre-treatment, 2 weeks, 4 weeks, 6 weeks, 8 weeks"
+        },
+        {
+          "measure": "Change in Cognitive Control Behavioral Performance Z-score",
+          "description": "Cognitive control behavioral performance was assessed using the WebNeuro computerized battery measuring cognitive control. Test performance is expressed as a composite Z-score, representing deviations from the mean of a healthy reference dataset (population mean = 0). Composite Z-scores were calculated by averaging: Maze (trials completed, completion and path learning time, errors), Digit Span (recall span, correct trials), Verbal Interference (total errors, reaction time), and Switching of Attention (completion time, connection time, errors). For GoNoGo, only reaction times were used as data was collected in-scanner, and data for this measure was normalized to the group. Extreme scores were winsorized to a threshold of 5 standard deviations. Z-scores have no fixed range; positive scores indicate better performance, negative scores indicate worse performance. For this study, a Z-score of \\<= -0.5 indicates poor cognitive control performance.",
+          "timeFrame": "pre-treatment, 8 weeks"
+        },
+        {
+          "measure": "Change in the Satisfaction With Life Scale (SWLS) Score",
+          "description": "Possible scores on the SWLS range from 5 (extreme dissatisfaction) to 35 (extreme satisfaction).",
+          "timeFrame": "pre-treatment, 2 weeks, 8 weeks"
+        },
+        {
+          "measure": "Change in the World Health Organization Quality of Life - Brief (WHOQOL-BREF) Scale Scale Score",
+          "description": "Scores on the WHOQOL-BREF are transformed to a scale of 0 (poor quality of life) to 100 (excellent quality of life).",
+          "timeFrame": "pre-treatment, 2 weeks, 8 weeks"
+        },
+        {
+          "measure": "Change in the Columbia-Suicide Severity Rating Scale (C-SSRS) Ideation Score",
+          "description": "Possible scores on the C-SSRS ideation range from 0 (no suicidal ideation) to 5 (high suicidal ideation).",
+          "timeFrame": "pre-treatment, 8 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* 18-69 years of age (inclusive)\n* Go-NoGo fMRI task-evoked dLPFC ≤ - 0.5 SD below the mean of normative sample\n* Behavioral cognitive control performance ≤ - 0.5 SD below the mean of normative sample on a Maze, Digit Span, and/or Verbal Interference (Stroop) task administered using WebNeuro\n* Score ≥ 14 on the 17-item Hamilton Depression Rating Scale-17 (HDRS-17)\n* Meets DSM-5 diagnostic criteria for current, past, or recurrent nonpsychotic major depressive disorder established by MINI Plus\n* Medication naïve to guanfacine\n* Fluent and literate in English, and show non-impaired intellectual abilities to ensure adequate comprehension of the task instructions\n* Written, informed consent\n* fMRI scanning eligibility, including no evidence of any form of metal embedded in the body (e.g., metal wires, nuts, bolts, screws, plates, sutures), as these produce artifacts when brain imaging. All potential subjects will need to successfully complete the screening forms at the Stanford Center for Cognitive and Neurobiological Imaging (CNI).\n\nExclusion Criteria:\n\n* Presence of suicidal ideations representing imminent risk, defined by a score of \\> 8 on the MINI-Plus, or by clinician judgement\n* Lifetime history of medical illness or injury that may compromise cognitive functioning or interfere with assessments as deemed by the study physician (such as neurological disorders such as seizures or stroke, Parkinson's disease, dementia, or traumatic brain injury)\n* Severe impediment to vision, hearing, and/or hand movement likely to interfere with ability to complete the assessments, or are unable and/or unlikely to follow the study protocols\n* Pregnant, breastfeeding or unwilling or unable to use adequate birth control throughout the study\n* Loss of consciousness for \\> 10 minutes during lifetime\n* Any contraindication to being scanned in the 3.0T scanner at the CNI such as having a pacemaker or implanted device that has not been cleared for scanning at 3.0 Tesla\n* Previous or current DSM-5 bipolar disorder (I, II, not otherwise specified) or psychosis\n* Meets criteria for DSM-5 alcohol or substance use disorder within the last 12 months\n* Meets criteria for current DSM-5 PTSD, OCD, or eating disorder\n* Concurrent participation in other intervention or treatment studies\n* Current use of psychotropic medications. If their usual treating physician is supportive, participants who are currently on psychotropics that can be safely tapered may be tapered off to participate but participant must wait 5 half-lives prior to first scan\n* Current use of a strong CYP3A4 inhibitor or inducer (macrolide/ketolide antibiotics \\[clarithromycin, telithromycin\\], azole antifungals \\[itraconazole, ketoconazole, posaconazole, voriconazole\\], protease inhibitors \\[atazanavir, darunavir, indinavir, lopinavir, nelfinavir, ombitasvir, paritaprevir, ritonavir, saquinavir\\], ceritinib, cobicistat, and idealisib), or inducer (apalutamide, carbamazepine, enzalutamide, fosphenytoin, lumacaftor, lumacaftor-ivacaftor, mitotane, phenobarbital, phenytoin, primidone, rifampin)\n* Hypotension as defined by SBP ≤ 90 and/or DBP ≤60 on 2 of 3 separate measurements at least 5 minutes apart, bradycardia as defined by HR ≤55 on 2 of 3 separate measurements at least 5 minutes apart\n* General medical condition, disease, or neurological disorder as reported by participant or found on in-person screenings that is deemed by the study physicians to be unsafe for GIR treatment, including kidney or liver impairment that is deemed to be unsafe, EKG abnormalities that are deemed to be unsafe, or cardiovascular disease deemed to be unsafe.\n* History of sudden cardiac death in first degree relatives\n* Positive drug screen for any substance deemed by the study physician to be unsafe for use with GIR in combination with other information obtained during screening",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "69 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Laura M Hack, MD, PhD",
+          "affiliation": "Stanford University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Leanne M Williams, PhD",
+          "affiliation": "Stanford University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Stanford Psychiatry",
+          "city": "Palo Alto",
+          "state": "California",
+          "zip": "94304",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.44188,
+            "lon": -122.14302
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Guanfacine Treatment Group",
+          "description": "Participants are prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study clinicians. Participants start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "28"
+                }
+              ]
+            },
+            {
+              "type": "Met Mechanistic Imaging Criteria",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "24"
+                }
+              ]
+            },
+            {
+              "type": "Completed at Least 6 Weeks of Guanfacine",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "17"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "17"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Participants who completed at least 6 weeks of guanfacine.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Guanfacine Treatment Group",
+          "description": "Participants are prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study clinicians. Participants start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "17"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "31.4",
+                      "spread": "11.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Asian",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Black or African American",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Caucasian",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "More than 2 races",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Other",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cognitive Control Circuit Function Z-score",
+          "description": "Task-evoked activation and connectivity are expressed as Z-scores, which represent the number of standard deviations the observed value is from the mean of a healthy reference dataset (population mean = 0). Standard deviations above the mean (a positive Z-score) indicate that the observed activation or connectivity is higher than the mean of the healthy reference dataset, while standard deviations below the mean (a negative Z-score) indicate it is lower. A negative Z-score indicates a worse outcome. For this study, a Z-score of \\<= -0.5 indicates poor cognitive control.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Z-score",
+          "classes": [
+            {
+              "title": "Dorsal anterior cingulate cortex (dACC) activation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "-0.688",
+                      "spread": "0.580"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Left dorsolateral prefrontal cortex (dLPFC) activation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "-0.892",
+                      "spread": "1.205"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Right dLPFC activation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "-0.796",
+                      "spread": "0.233"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Left dLPFC - dACC connectivity",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "-0.017",
+                      "spread": "0.394"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Right dLPFC - dACC connectivity",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0.161",
+                      "spread": "0.564"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "17-item Hamilton Depression Rating Scale (HDRS-17)",
+          "description": "Possible HDRS-17 scores range from 0 (no depression) to 52 (severe depression).",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "score on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "16.765",
+                      "spread": "3.437"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Quick Inventory of Depressive Symptoms-Self Report (QIDS-SR)",
+          "description": "Possible QIDS-SR scores range from 0 (no depression) to 27 (severe depression).",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "score on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13.941",
+                      "spread": "3.848"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cognitive Control Behavioral Performance Z-score",
+          "description": "Test performance is expressed as a composite Z-score, representing deviations from the mean of a healthy reference dataset (population mean = 0). Standard deviations above the mean (a positive Z-score) indicate that the observed performance is higher than the mean of the healthy reference dataset, while standard deviations below the mean (a negative Z-score) indicate it is lower. A negative Z-score indicates a worse outcome. For this study, a Z-score of \\<= -0.5 indicates poor cognitive control performance.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Z-score",
+          "classes": [
+            {
+              "title": "Maze",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0.230",
+                      "spread": "0.568"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Digit Span",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "-0.066",
+                      "spread": "1.507"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Verbal Interference (Stroop) Word",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "-0.674",
+                      "spread": "0.708"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Verbal Interference (Stroop) Color",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0.134",
+                      "spread": "1.168"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Switching of Attention (Trails B)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0.301",
+                      "spread": "0.789"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "GoNoGo Reaction Time",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0",
+                      "spread": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "World Health Organization Quality of Life - Brief (WHOQOL-BREF) Scale Score",
+          "description": "Scores on the WHOQOL-BREF are transformed to a scale of 0 (poor quality of life) to 100 (excellent quality of life).",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "transformed score on a scale",
+          "classes": [
+            {
+              "title": "Physical Health",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "52.647",
+                      "spread": "13.124"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Psychological Health",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "31.294",
+                      "spread": "12.712"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Social Relationships",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "40.059",
+                      "spread": "16.566"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Environment",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "59.706",
+                      "spread": "14.632"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Satisfaction With Life Scale (SWLS) Score",
+          "description": "Possible scores on the SWLS range from 5 (extreme dissatisfaction) to 35 (extreme satisfaction).",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "score on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13.471",
+                      "spread": "4.017"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Columbia-Suicide Severity Rating Scale (C-SSRS) Ideation Score",
+          "description": "Possible scores on the C-SSRS ideation range from 0 (no suicidal ideation) to 5 (high suicidal ideation).",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "score on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0.706",
+                      "spread": "1.047"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change in Cognitive Control Circuit Function Z-score",
+          "description": "During functional magnetic resonance imaging (fMRI), the cognitive control circuit was engaged by a Go-NoGo task, and circuit activation was quantified by blood flow in three regions of interest in the brain (dorsal anterior cingulate cortex \\[dACC\\], left dorsolateral prefrontal cortex \\[dLPFC\\], and right dLPFC) and the extent of functional connectivity between them. Task-evoked activation and connectivity are expressed as Z-scores, which represent the number of standard deviations the observed value is from the mean of a healthy reference dataset (population mean = 0). There is no fixed minimum or maximum for Z-scores. Standard deviations above the mean (a positive Z-score) indicate that the observed activation or connectivity is higher than the mean of the healthy reference dataset, while standard deviations below the mean (a negative Z-score) indicate it is lower. A negative Z-score indicates a worse outcome. For this study, a Z-score of \\<= -0.5 indicates poor cognitive control.",
+          "populationDescription": "Participants who completed at least 6 weeks of guanfacine.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Z-score",
+          "timeFrame": "pre-treatment, 8 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Guanfacine Treatment Group",
+              "description": "Participants are prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study clinicians. Participants start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Change in dorsal anterior cingulate cortex (dACC) activation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.350",
+                      "spread": "0.617"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in left dLPFC activation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.441",
+                      "spread": "1.058"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in right dLPFC Activation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.105",
+                      "spread": "0.361"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in L dLPFC - dACC Connectivity",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.324",
+                      "spread": "0.485"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in R dLPFC - dACC Connectivity",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.153",
+                      "spread": "0.713"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "Test of the effect of guanfacine using a general linear model including a within subjects' effect for treatment (pre- versus post-treatment sessions) and for circuit function, with five repeated measures for each circuit measure defining the cognitive control circuit.",
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.020",
+              "pValueComment": "The a priori threshold for statistical significance was \\<0.05.",
+              "statisticalMethod": "Repeated Measures General Linear Model",
+              "paramType": "F-statistic",
+              "paramValue": "6.621",
+              "ciNumSides": "TWO_SIDED"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With a Score of ≤7 on the 17-item Hamilton Depression Rating Scale (HDRS-17) at Week 8 as a Measure of Depression Remission.",
+          "description": "Possible HDRS-17 scores range from 0 (no depression) to 52 (severe depression).",
+          "populationDescription": "Participants who completed at least 6 weeks of guanfacine.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "8 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Guanfacine Treatment Group",
+              "description": "Participants are prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study clinicians. Participants start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With a Score ≤5 on the Quick Inventory of Depressive Symptoms-Self Report (QIDS-SR) at Week 8 as a Measure of Depression Remission.",
+          "description": "Possible QIDS-SR scores range from 0 (no depression) to 27 (severe depression).",
+          "populationDescription": "Participants who completed at least 6 weeks of guanfacine.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "8 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Guanfacine Treatment Group",
+              "description": "Participants are prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study clinicians. Participants start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With a ≥50% Reduction on the 17-item Hamilton Depression Rating Scale (HDRS-17) as a Measure of Depression Response.",
+          "description": "Possible HDRS-17 scores range from 0 (no depression) to 52 (severe depression).",
+          "populationDescription": "Participants who completed at least 6 weeks of guanfacine.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "pre-treatment, 8 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Guanfacine Treatment Group",
+              "description": "Participants are prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study clinicians. Participants start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With a ≥50% Reduction From Baseline on the Quick Inventory of Depressive Symptoms-Self Report (QIDS-SR) as a Measure of Depression Response.",
+          "description": "Possible QIDS-SR scores range from 0 (no depression) to 27 (severe depression).",
+          "populationDescription": "Participants who completed at least 6 weeks of guanfacine.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "pre-treatment, 8 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Guanfacine Treatment Group",
+              "description": "Participants are prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study clinicians. Participants start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Depression Scores on the 17-item Hamilton Depression Rating Scale (HDRS-17)",
+          "description": "Possible HDRS-17 scores range from 0 (no depression) to 52 (severe depression).",
+          "populationDescription": "Participants who completed at least 6 weeks of guanfacine.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "baseline, 2 weeks, 8 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Guanfacine Treatment Group",
+              "description": "Participants are prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study clinicians. Participants start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Change from baseline to 2 weeks",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.875",
+                      "spread": "3.998"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change from baseline to 8 weeks",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.529",
+                      "spread": "3.023"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "A paired t-test was conducted to evaluate the effect of GIR on changes in HDRS-17 depression scores from pre-treatment to week 2.",
+              "nonInferiorityType": "OTHER",
+              "pValue": "<0.001",
+              "pValueComment": "The a priori threshold for statistical significance was \\<0.05.",
+              "statisticalMethod": "t-test, 2 sided",
+              "paramType": "Cohen's d effect size",
+              "paramValue": "1.470",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "0.937",
+              "ciUpperLimit": "2.002"
+            },
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "A paired t-test was conducted to evaluate the effect of GIR on changes in HDRS-17 depression scores from pre-treatment to post-treatment sessions.",
+              "nonInferiorityType": "OTHER",
+              "pValue": "<0.001",
+              "pValueComment": "The a priori threshold for statistical significance was \\<0.05.",
+              "statisticalMethod": "t-test, 2 sided",
+              "paramType": "Cohen's d effect size",
+              "paramValue": "3.152",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "2.757",
+              "ciUpperLimit": "3.547"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Depression Scores on the Quick Inventory of Depressive Symptoms-Self Report (QIDS-SR)",
+          "description": "Possible QIDS-SR scores range from 0 (no depression) to 27 (severe depression).",
+          "populationDescription": "Participants who received at least 6 weeks of guanfacine.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "pre-treatment, 2 weeks, 4 weeks, 6 weeks, 8 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Guanfacine Treatment Group",
+              "description": "Participants are prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study clinicians. Participants start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Change in QIDS-SR scores from baseline to 2 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "16"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.000",
+                      "spread": "2.633"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in QIDS-SR scores from baseline to 4 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-4.929",
+                      "spread": "2.556"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in QIDS-SR scores from baseline to 6 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-5.200",
+                      "spread": "2.394"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in QIDS-SR scores from baseline to 8 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-5.353",
+                      "spread": "4.286"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "A paired t-test was conducted to evaluate the effect of GIR on changes in QIDS-SR depression scores from pre-treatment to post-treatment sessions.",
+              "nonInferiorityType": "OTHER",
+              "pValue": "< 0.001",
+              "pValueComment": "The a priori threshold for statistical significance was \\<0.05.",
+              "statisticalMethod": "t-test, 2 sided",
+              "paramType": "Cohen's d effect size",
+              "paramValue": "-1.249",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-1.724",
+              "ciUpperLimit": "-0.774"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Cognitive Control Behavioral Performance Z-score",
+          "description": "Cognitive control behavioral performance was assessed using the WebNeuro computerized battery measuring cognitive control. Test performance is expressed as a composite Z-score, representing deviations from the mean of a healthy reference dataset (population mean = 0). Composite Z-scores were calculated by averaging: Maze (trials completed, completion and path learning time, errors), Digit Span (recall span, correct trials), Verbal Interference (total errors, reaction time), and Switching of Attention (completion time, connection time, errors). For GoNoGo, only reaction times were used as data was collected in-scanner, and data for this measure was normalized to the group. Extreme scores were winsorized to a threshold of 5 standard deviations. Z-scores have no fixed range; positive scores indicate better performance, negative scores indicate worse performance. For this study, a Z-score of \\<= -0.5 indicates poor cognitive control performance.",
+          "populationDescription": "Participants who completed at least 6 weeks of guanfacine.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Z-score",
+          "timeFrame": "pre-treatment, 8 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Guanfacine Treatment Group",
+              "description": "Participants are prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study clinicians. Participants start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Change in Maze",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.076",
+                      "spread": "0.859"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in Digit Span",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.332",
+                      "spread": "1.349"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in Verbal Interference (Stroop) Word",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.273",
+                      "spread": "0.336"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Verbal Interference (Stroop) Color",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.082",
+                      "spread": "0.776"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in Switching of Attention (Trails B)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.341",
+                      "spread": "0.798"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in GoNoGo Reaction Time",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.584",
+                      "spread": "2.048"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "Test of the effect of guanfacine using a general linear model including a within subjects' effect for treatment (pre- versus post-treatment sessions) and for cognitive control function, with six repeated measures for behavioral tests of cognitive control.",
+              "nonInferiorityType": "OTHER",
+              "pValue": "<0.001",
+              "pValueComment": "The a priori threshold for statistical significance was \\<0.05.",
+              "statisticalMethod": "Repeated Measures General Linear Model",
+              "paramType": "F-statistic",
+              "paramValue": "19.362",
+              "ciNumSides": "TWO_SIDED"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in the Satisfaction With Life Scale (SWLS) Score",
+          "description": "Possible scores on the SWLS range from 5 (extreme dissatisfaction) to 35 (extreme satisfaction).",
+          "populationDescription": "Participants who completed at least 6 weeks of guanfacine.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "pre-treatment, 2 weeks, 8 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Guanfacine Treatment Group",
+              "description": "Participants are prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study clinicians. Participants start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Change from baseline to 2 weeks",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.104",
+                      "spread": "2.901"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change from baseline to 8 weeks",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.529",
+                      "spread": "2.746"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "A paired t-test was conducted to evaluate the effect of GIR on changes in SWLS scores from pre-treatment to post-treatment sessions.",
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.002",
+              "pValueComment": "The a priori threshold for statistical significance was \\<0.05.",
+              "statisticalMethod": "t-test, 2 sided",
+              "paramType": "Cohen's d effect size",
+              "paramValue": "0.881",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "0.324",
+              "ciUpperLimit": "1.438"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in the World Health Organization Quality of Life - Brief (WHOQOL-BREF) Scale Scale Score",
+          "description": "Scores on the WHOQOL-BREF are transformed to a scale of 0 (poor quality of life) to 100 (excellent quality of life).",
+          "populationDescription": "Participants who completed at least 6 weeks of guanfacine.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a transformed scale",
+          "timeFrame": "pre-treatment, 2 weeks, 8 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Guanfacine Treatment Group",
+              "description": "Participants are prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study clinicians. Participants start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Change in Physical Health from baseline to 2 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "16"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-2.438",
+                      "spread": "1.276"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in Psychological Health from baseline to 2 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "16"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-6.562",
+                      "spread": "2.158"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in Social Relationships from baseline to 2 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "16"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-5.125",
+                      "spread": "1.882"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in Environment from baseline to 2 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "16"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.875",
+                      "spread": "2.802"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in Physical Health from baseline to 8 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-9.235",
+                      "spread": "1.315"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in Psychological Health from baseline to 8 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-15.118",
+                      "spread": "3.909"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in Social Relationships from baseline to 8 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-7.353",
+                      "spread": "3.056"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change in Environment from baseline to 8 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.875",
+                      "spread": "2.802"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "Test of the effect of guanfacine using a general linear model including a within subjects' effect for treatment (pre- versus post-treatment sessions) and for quality with four repeated measures for domains of quality of life.",
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.003",
+              "pValueComment": "The a priori threshold for statistical significance was \\<0.05.",
+              "statisticalMethod": "Repeated Measures General Linear Model",
+              "paramType": "F-statistic",
+              "paramValue": "11.913",
+              "ciNumSides": "TWO_SIDED"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in the Columbia-Suicide Severity Rating Scale (C-SSRS) Ideation Score",
+          "description": "Possible scores on the C-SSRS ideation range from 0 (no suicidal ideation) to 5 (high suicidal ideation).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "pre-treatment, 8 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Guanfacine Treatment Group",
+              "description": "Participants are prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study clinicians. Participants start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.176",
+                      "spread": "0.883"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "A paired t-test was conducted to evaluate the effect of GIR on changes in C-SSRS scores from pre-treatment to post-treatment sessions.",
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.283",
+              "pValueComment": "The a priori threshold for statistical significance was \\<0.05.",
+              "statisticalMethod": "t-test, 2 sided",
+              "paramType": "Cohen's d effect size",
+              "paramValue": "-0.200",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-0.608",
+              "ciUpperLimit": "0.208"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "10 weeks (8 weeks treatment plus 2 week follow-up)",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Guanfacine Treatment Group",
+          "description": "Participants are prescribed tabs containing guanfacine immediate release (GIR) to be taken for 8 weeks and will be monitored by one of the study clinicians. Participants start with 0.5mg GIR nightly and increase by 0.5mg every 3 days with a goal dose of 2mg.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 28,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 28,
+          "otherNumAffected": 25,
+          "otherNumAtRisk": 28
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Increased Suicidality",
+          "organSystem": "Psychiatric disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 28
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Dry Mouth",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 18,
+              "numAtRisk": 28
+            }
+          ]
+        },
+        {
+          "term": "Daytime Fatigue",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 12,
+              "numAtRisk": 28
+            }
+          ]
+        },
+        {
+          "term": "Dizziness",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 28
+            }
+          ]
+        },
+        {
+          "term": "Difficulty Sleeping",
+          "organSystem": "Psychiatric disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 7,
+              "numAtRisk": 28
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 28
+            }
+          ]
+        },
+        {
+          "term": "Paresthesias",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 28
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 28
+            }
+          ]
+        },
+        {
+          "term": "Heart Palpitations",
+          "organSystem": "Cardiac disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 28
+            }
+          ]
+        },
+        {
+          "term": "Reduced Appetite",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 28
+            }
+          ]
+        },
+        {
+          "term": "Transient Tinnitus",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 28
+            }
+          ]
+        },
+        {
+          "term": "Shortness of Breath",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 28
+            }
+          ]
+        },
+        {
+          "term": "Irritability",
+          "organSystem": "Psychiatric disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 28
+            }
+          ]
+        },
+        {
+          "term": "Acid reflux",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 28
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Laura Hack, MD, PhD",
+        "organization": "Stanford University",
+        "email": "lhack@stanford.edu",
+        "phone": "650-724-7478"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-08-31",
+          "uploadDate": "2025-01-17T17:46",
+          "filename": "Prot_000.pdf",
+          "size": 476591
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-10-30",
+          "uploadDate": "2025-01-18T01:58",
+          "filename": "SAP_001.pdf",
+          "size": 175106
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-02-11",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003865",
+          "term": "Depressive Disorder, Major"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003866",
+          "term": "Depressive Disorder"
+        },
+        {
+          "id": "D019964",
+          "term": "Mood Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016316",
+          "term": "Guanfacine"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006146",
+          "term": "Guanidines"
+        },
+        {
+          "id": "D000578",
+          "term": "Amidines"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D010648",
+          "term": "Phenylacetates"
+        },
+        {
+          "id": "D000146",
+          "term": "Acids, Carbocyclic"
+        },
+        {
+          "id": "D002264",
+          "term": "Carboxylic Acids"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

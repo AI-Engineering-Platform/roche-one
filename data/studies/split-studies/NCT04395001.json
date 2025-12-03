@@ -1,0 +1,1341 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04395001",
+      "orgStudyIdInfo": {
+        "id": "IRB00065428"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "1UG3NR019196-01",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/1UG3NR019196-01"
+        }
+      ],
+      "organization": {
+        "fullName": "Wake Forest University Health Sciences",
+        "class": "OTHER"
+      },
+      "briefTitle": "Pain Response Evaluation of a Combined Intervention to Cope Effectively",
+      "officialTitle": "Pain Response Evaluation of a Combined Intervention to Cope Effectively (PRECICE)",
+      "acronym": "PRECICE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-02-24",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-07-18",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-07-18",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-05-15",
+      "studyFirstSubmitQcDate": "2020-05-15",
+      "studyFirstPostDateStruct": {
+        "date": "2020-05-20",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-04-10",
+      "resultsFirstSubmitQcDate": "2025-04-10",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-04-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-09-29",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-10-10",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Wake Forest University Health Sciences",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Institute of Nursing Research (NINR)",
+          "class": "NIH"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this research is is to determine if the combination of non-opioid medication (duloxetine) and web-based pain-coping skills training (PCST) is beneficial for individuals with chronic musculoskeletal pain (CMP).",
+      "detailedDescription": "With this study, the study team hopes to address two important unanswered questions: (1) Does combination treatment consisting of duloxetine and web-based Cognitive Behavioral Therapy (CBT) optimize treatment outcomes? (2) Would adherence-focused guidance delivered by nurse clinician using motivational interviewing (MI) techniques enhance treatment effectiveness? This study is significant because the study team aims to optimize pain-related treatment outcomes at the primary care level where most patients with pain are managed. Importantly, the use of nurse clinician providing adherence-focused guidance (as opposed to content-focused guidance) on the continued practice (or use) of pain coping skills increases the likelihood that the study's intervention is scalable in the future. Effective, accessible and scalable psychoeducational treatments are needed to manage CMP in real world clinic settings."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Pain"
+      ],
+      "keywords": [
+        "non-opioid pain medication",
+        "psychoeducational treatments",
+        "chronic musculoskeletal pain"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "maskingDescription": "The project manager, who is blinded of treatment group assignment, has the primary responsibility of collecting outcome data throughout the study.",
+          "whoMasked": [
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 280,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "behavioral intervention, nurse support plus medication",
+          "type": "EXPERIMENTAL",
+          "description": "Subjects randomized to this arm will receive duloxetine, web-based Cognitive Behavioral Therapy (CBT) and nurse support.",
+          "interventionNames": [
+            "Drug: duloxetine",
+            "Behavioral: Web-based Cognitive Behavioral Therapy (CBT)",
+            "Other: Nurse-delivered Motivational Interviewing"
+          ]
+        },
+        {
+          "label": "behavioral intervention plus medication",
+          "type": "EXPERIMENTAL",
+          "description": "Subjects randomized to this arm will receive duloxetine and web-based Cognitive Behavioral Therapy (CBT).",
+          "interventionNames": [
+            "Drug: duloxetine",
+            "Behavioral: Web-based Cognitive Behavioral Therapy (CBT)"
+          ]
+        },
+        {
+          "label": "medication only",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Subjects randomized to this arm will receive duloxetine only.",
+          "interventionNames": [
+            "Drug: duloxetine"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "duloxetine",
+          "description": "All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.",
+          "armGroupLabels": [
+            "behavioral intervention plus medication",
+            "behavioral intervention, nurse support plus medication",
+            "medication only"
+          ],
+          "otherNames": [
+            "Irenka",
+            "Cymbalta"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Web-based Cognitive Behavioral Therapy (CBT)",
+          "description": "The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT.",
+          "armGroupLabels": [
+            "behavioral intervention plus medication",
+            "behavioral intervention, nurse support plus medication"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Nurse-delivered Motivational Interviewing",
+          "description": "Subjects randomized to the duloxetine and web-based Cognitive Behavioral Therapy (CBT) with nurse support will receive 6 phone calls from MI trained nurse at week 3, 6, 10, 14, 18 and 22. Telephone sessions may run for 20 minutes on the average.",
+          "armGroupLabels": [
+            "behavioral intervention, nurse support plus medication"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Brief Pain Inventory (BPI) Total Pain Severity",
+          "description": "BPI score ranges from 0 to 10 with a higher score denoting a higher pain severity.",
+          "timeFrame": "Baseline"
+        },
+        {
+          "measure": "Brief Pain Inventory (BPI) Total Pain Severity",
+          "description": "BPI score ranges from 0 to 10 with a higher score denoting a higher pain severity.",
+          "timeFrame": "week 13 of treatment phase"
+        },
+        {
+          "measure": "Brief Pain Inventory (BPI)",
+          "description": "BPI score ranges from 0 to 10 with a higher score denoting a higher pain severity.",
+          "timeFrame": "week 25 of treatment phase"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Patient-Reported Outcomes Measurement Information System (PROMIS) - Physical Function",
+          "description": "Adult Self-Reported Measures on physical function. The values of the response to each physical function question will be summed in order to determine the raw score. This must then be converted to the T-score. T-scores are standardized with a mean of 50 and a standard deviation of 10. I.e. a T-score of 40 would be one standard deviation lower than the mean. A higher PROMIS T-score represents more of the concept being measured. For positively-worded concepts like Physical Function a T-score of 60 is one standard deviation better than average. By comparison, a Physical Function T-score of 40 is one SD worse than average.",
+          "timeFrame": "week 25 of treatment phase"
+        },
+        {
+          "measure": "Patient Health Questionnaire 8-Item Depression Scale (PHQ-8)",
+          "description": "Score is the sum of the 8 items. Score ranges from 0-24. A score of 10 or greater is considered major depression, 20 or more is severe major depression.",
+          "timeFrame": "week 25 of treatment phase"
+        },
+        {
+          "measure": "Generalized Anxiety Disorder 7-item Scale (GAD-7)",
+          "description": "Score ranges from 0-24. Scores of 5, 10, and 15 are the respective cut-offs for mild, moderate, and severe anxiety. Further evaluation is recommended when a score of 10 or greater is recorded.",
+          "timeFrame": "week 25 of treatment phase"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* patients at the primary care clinic with daily pain for 3 months or longer affecting the low back, neck, hip, knee or widespread pain;\n* at least moderate in BPI global pain severity\n\nExclusion Criteria:\n\n* uncontrolled hypertension (because duloxetine rarely increases blood pressure)\n* active suicidal ideation\n* planned elective surgery during the study period (to avoid the confounding effect of possible complicated post-surgery recovery course on the primary outcome)\n* ongoing unresolved disability claims\n* inflammatory arthritis (e.g., lupus and ankylosing spondylitis)\n* cancer-related musculoskeletal pain\n* pregnancy\n* history of bipolar disorder or schizophrenia\n* narrow angle glaucoma\n* severe renal impairment (creatinine clearance \\<30)\n* current use of duloxetine\n* current use of any of the following medications (to avoid adverse drug-to-drug interactions): tricyclic antidepressant \\> 25 mg daily dose, monoamine oxidase inhibitors, fluoxetine, sertraline, paroxetine, citalopram, escitalopram, venlafaxine, milnacipran, mirtazapine, gabapentin or aripiprazole, serotonin precursors (e.g., tryptophan), and strong CYP1A2 inhibitors (e.g., ciprofloxacin, other fluoroquinolones, fluvoxamine and verapamil)",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Dennis C Ang, MD",
+          "affiliation": "Wake Forest University Health Sciences",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Wake Forest Baptist Health Department of Rheumatology",
+          "city": "Winston-Salem",
+          "state": "North Carolina",
+          "zip": "27157",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.09986,
+            "lon": -80.24422
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "38762720",
+          "type": "DERIVED",
+          "citation": "Ang DC, Davuluri S, Kaplan S, Keefe F, Rini C, Miles C, Chen H. Duloxetine and cognitive behavioral therapy with phone-based support for the treatment of chronic musculoskeletal pain: study protocol of the PRECICE randomized control trial. Trials. 2024 May 18;25(1):330. doi: 10.1186/s13063-024-08158-x."
+        },
+        {
+          "pmid": "38699346",
+          "type": "DERIVED",
+          "citation": "Ang DC, Davuluri S, Kaplan S, Keefe F, Rini C, Miles C, Chen H. Duloxetine and Cognitive Behavioral Therapy with Phone-based Support for the Treatment of Chronic Musculoskeletal Pain: Study Protocol of the PRECICE Randomized Control Trial. Res Sq [Preprint]. 2024 Apr 15:rs.3.rs-3924330. doi: 10.21203/rs.3.rs-3924330/v1."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Protecting the rights and privacy of our study participants is our first priority. After Internal Review Board approval for data sharing is obtained, a dataset that is de-identified and in accordance with HIPAA and other state and federal right to privacy laws will be developed by the investigators. Data obtained during the study will be made available beginning after publication of the main findings of the study. Notification of availability of de-identified data will be made in the acknowledgement section of all subsequent publications resulting from the study. Data will be provided in standard SAS format. Investigators interested in obtaining de-identified study data will be instructed to send a blank compact disc to the primary investigator for copying.",
+      "timeFrame": "Immediately following publication. No end date.",
+      "accessCriteria": "For individual participant data, meta-analysis"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Behavioral Intervention, Nurse Support Plus Medication",
+          "description": "Subjects randomized to this arm will receive duloxetine, web-based Cognitive Behavioral Therapy (CBT) and nurse support.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT.\n\nNurse-delivered Motivational Interviewing: Subjects randomized to the duloxetine and web-based Cognitive Behavioral Therapy (CBT) with nurse support will receive 6 phone calls from MI trained nurse at week 3, 6, 10, 14, 18 and 22. Telephone sessions may run for 20 minutes on the average."
+        },
+        {
+          "id": "FG001",
+          "title": "Behavioral Intervention Plus Medication",
+          "description": "Subjects randomized to this arm will receive duloxetine and web-based Cognitive Behavioral Therapy (CBT).\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT."
+        },
+        {
+          "id": "FG002",
+          "title": "Medication Only",
+          "description": "Subjects randomized to this arm will receive duloxetine only.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "93"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "93"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "94"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "75"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "79"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "85"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "18"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "14"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "9"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "8"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "9"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "5"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "missed appointment",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Behavioral Intervention, Nurse Support Plus Medication",
+          "description": "Subjects randomized to this arm will receive duloxetine, web-based Cognitive Behavioral Therapy (CBT) and nurse support.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT.\n\nNurse-delivered Motivational Interviewing: Subjects randomized to the duloxetine and web-based Cognitive Behavioral Therapy (CBT) with nurse support will receive 6 phone calls from MI trained nurse at week 3, 6, 10, 14, 18 and 22. Telephone sessions may run for 20 minutes on the average."
+        },
+        {
+          "id": "BG001",
+          "title": "Behavioral Intervention Plus Medication",
+          "description": "Subjects randomized to this arm will receive duloxetine and web-based Cognitive Behavioral Therapy (CBT).\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT."
+        },
+        {
+          "id": "BG002",
+          "title": "Medication Only",
+          "description": "Subjects randomized to this arm will receive duloxetine only.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks."
+        },
+        {
+          "id": "BG003",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "93"
+            },
+            {
+              "groupId": "BG001",
+              "value": "93"
+            },
+            {
+              "groupId": "BG002",
+              "value": "94"
+            },
+            {
+              "groupId": "BG003",
+              "value": "280"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "54",
+                      "spread": "3.2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "56",
+                      "spread": "3.2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "54",
+                      "spread": "3.1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "55",
+                      "spread": "3.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "189"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "28"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "91"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "38"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "116"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "51"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "51"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "51"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "153"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "93"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "93"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "94"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "280"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Brief Pain Inventory (BPI) total pain severity",
+          "description": "Brief Pain Inventory (BPI) score ranges from 0 to 10 with a higher score denoting a higher pain severity.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "units on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6.1",
+                      "spread": "1.6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5.7",
+                      "spread": "2.1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5.8",
+                      "spread": "1.8"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "5.9",
+                      "spread": "1.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Brief Pain Inventory (BPI) Total Pain Severity",
+          "description": "BPI score ranges from 0 to 10 with a higher score denoting a higher pain severity.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Behavioral Intervention, Nurse Support Plus Medication",
+              "description": "Subjects randomized to this arm will receive duloxetine, web-based Cognitive Behavioral Therapy (CBT) and nurse support.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT.\n\nNurse-delivered Motivational Interviewing: Subjects randomized to the duloxetine and web-based Cognitive Behavioral Therapy (CBT) with nurse support will receive 6 phone calls from MI trained nurse at week 3, 6, 10, 14, 18 and 22. Telephone sessions may run for 20 minutes on the average."
+            },
+            {
+              "id": "OG001",
+              "title": "Behavioral Intervention Plus Medication",
+              "description": "Subjects randomized to this arm will receive duloxetine and web-based Cognitive Behavioral Therapy (CBT).\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT."
+            },
+            {
+              "id": "OG002",
+              "title": "Medication Only",
+              "description": "Subjects randomized to this arm will receive duloxetine only.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "93"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "93"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "94"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6.1",
+                      "spread": "1.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5.7",
+                      "spread": "2.1"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "5.8",
+                      "spread": "1.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Brief Pain Inventory (BPI) Total Pain Severity",
+          "description": "BPI score ranges from 0 to 10 with a higher score denoting a higher pain severity.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "week 13 of treatment phase",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Behavioral Intervention, Nurse Support Plus Medication",
+              "description": "Subjects randomized to this arm will receive duloxetine, web-based Cognitive Behavioral Therapy (CBT) and nurse support.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT.\n\nNurse-delivered Motivational Interviewing: Subjects randomized to the duloxetine and web-based Cognitive Behavioral Therapy (CBT) with nurse support will receive 6 phone calls from MI trained nurse at week 3, 6, 10, 14, 18 and 22. Telephone sessions may run for 20 minutes on the average."
+            },
+            {
+              "id": "OG001",
+              "title": "Behavioral Intervention Plus Medication",
+              "description": "Subjects randomized to this arm will receive duloxetine and web-based Cognitive Behavioral Therapy (CBT).\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT."
+            },
+            {
+              "id": "OG002",
+              "title": "Medication Only",
+              "description": "Subjects randomized to this arm will receive duloxetine only.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "93"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "93"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "94"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.7",
+                      "spread": "0.26"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.8",
+                      "spread": ".25"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "3.8",
+                      "spread": ".25"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Brief Pain Inventory (BPI)",
+          "description": "BPI score ranges from 0 to 10 with a higher score denoting a higher pain severity.",
+          "populationDescription": "18 participants in the intervention/nurse/med group did not complete week 25 visit, 14 participants from the intervention/med group did not complete week 25 visit, 9 participants from the med only group did not complete week 25 visit",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "week 25 of treatment phase",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Behavioral Intervention, Nurse Support Plus Medication",
+              "description": "Subjects randomized to this arm will receive duloxetine, web-based Cognitive Behavioral Therapy (CBT) and nurse support.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT.\n\nNurse-delivered Motivational Interviewing: Subjects randomized to the duloxetine and web-based Cognitive Behavioral Therapy (CBT) with nurse support will receive 6 phone calls from MI trained nurse at week 3, 6, 10, 14, 18 and 22. Telephone sessions may run for 20 minutes on the average."
+            },
+            {
+              "id": "OG001",
+              "title": "Behavioral Intervention Plus Medication",
+              "description": "Subjects randomized to this arm will receive duloxetine and web-based Cognitive Behavioral Therapy (CBT).\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT."
+            },
+            {
+              "id": "OG002",
+              "title": "Medication Only",
+              "description": "Subjects randomized to this arm will receive duloxetine only.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "75"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "79"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "85"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.5",
+                      "spread": ".26"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.7",
+                      "spread": ".25"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "3.6",
+                      "spread": ".25"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Patient-Reported Outcomes Measurement Information System (PROMIS) - Physical Function",
+          "description": "Adult Self-Reported Measures on physical function. The values of the response to each physical function question will be summed in order to determine the raw score. This must then be converted to the T-score. T-scores are standardized with a mean of 50 and a standard deviation of 10. I.e. a T-score of 40 would be one standard deviation lower than the mean. A higher PROMIS T-score represents more of the concept being measured. For positively-worded concepts like Physical Function a T-score of 60 is one standard deviation better than average. By comparison, a Physical Function T-score of 40 is one SD worse than average.",
+          "populationDescription": "18 participants in the intervention/nurse/med group did not complete week 25 visit, 14 participants from the intervention/med group did not complete week 25 visit, 9 participants from the med only group did not complete week 25 visit",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "T score",
+          "timeFrame": "week 25 of treatment phase",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Behavioral Intervention, Nurse Support Plus Medication",
+              "description": "Subjects randomized to this arm will receive duloxetine, web-based Cognitive Behavioral Therapy (CBT) and nurse support.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT.\n\nNurse-delivered Motivational Interviewing: Subjects randomized to the duloxetine and web-based Cognitive Behavioral Therapy (CBT) with nurse support will receive 6 phone calls from MI trained nurse at week 3, 6, 10, 14, 18 and 22. Telephone sessions may run for 20 minutes on the average."
+            },
+            {
+              "id": "OG001",
+              "title": "Behavioral Intervention Plus Medication",
+              "description": "Subjects randomized to this arm will receive duloxetine and web-based Cognitive Behavioral Therapy (CBT).\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT."
+            },
+            {
+              "id": "OG002",
+              "title": "Medication Only",
+              "description": "Subjects randomized to this arm will receive duloxetine only.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "75"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "79"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "85"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "39.73",
+                      "spread": "0.82"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "40.2",
+                      "spread": ".79"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "41.0",
+                      "spread": "0.77"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Patient Health Questionnaire 8-Item Depression Scale (PHQ-8)",
+          "description": "Score is the sum of the 8 items. Score ranges from 0-24. A score of 10 or greater is considered major depression, 20 or more is severe major depression.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "week 25 of treatment phase",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Behavioral Intervention, Nurse Support Plus Medication",
+              "description": "Subjects randomized to this arm will receive duloxetine, web-based Cognitive Behavioral Therapy (CBT) and nurse support.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT.\n\nNurse-delivered Motivational Interviewing: Subjects randomized to the duloxetine and web-based Cognitive Behavioral Therapy (CBT) with nurse support will receive 6 phone calls from MI trained nurse at week 3, 6, 10, 14, 18 and 22. Telephone sessions may run for 20 minutes on the average."
+            },
+            {
+              "id": "OG001",
+              "title": "Behavioral Intervention Plus Medication",
+              "description": "Subjects randomized to this arm will receive duloxetine and web-based Cognitive Behavioral Therapy (CBT).\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT."
+            },
+            {
+              "id": "OG002",
+              "title": "Medication Only",
+              "description": "Subjects randomized to this arm will receive duloxetine only.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "93"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "93"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "94"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.7",
+                      "spread": "0.52"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.6",
+                      "spread": "0.5"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "6.1",
+                      "spread": "0.49"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Generalized Anxiety Disorder 7-item Scale (GAD-7)",
+          "description": "Score ranges from 0-24. Scores of 5, 10, and 15 are the respective cut-offs for mild, moderate, and severe anxiety. Further evaluation is recommended when a score of 10 or greater is recorded.",
+          "populationDescription": "18 participants in the intervention/nurse/med group did not complete week 25 visit, 14 participants from the intervention/med group did not complete week 25 visit, 9 participants from the med only group did not complete week 25 visit",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "week 25 of treatment phase",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Behavioral Intervention, Nurse Support Plus Medication",
+              "description": "Subjects randomized to this arm will receive duloxetine, web-based Cognitive Behavioral Therapy (CBT) and nurse support.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT.\n\nNurse-delivered Motivational Interviewing: Subjects randomized to the duloxetine and web-based Cognitive Behavioral Therapy (CBT) with nurse support will receive 6 phone calls from MI trained nurse at week 3, 6, 10, 14, 18 and 22. Telephone sessions may run for 20 minutes on the average."
+            },
+            {
+              "id": "OG001",
+              "title": "Behavioral Intervention Plus Medication",
+              "description": "Subjects randomized to this arm will receive duloxetine and web-based Cognitive Behavioral Therapy (CBT).\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT."
+            },
+            {
+              "id": "OG002",
+              "title": "Medication Only",
+              "description": "Subjects randomized to this arm will receive duloxetine only.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "75"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "79"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "85"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.8",
+                      "spread": "0.41"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.7",
+                      "spread": "0.4"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "4.0",
+                      "spread": "0.39"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "25 weeks",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Behavioral Intervention, Nurse Support Plus Medication",
+          "description": "Subjects randomized to this arm will receive duloxetine, web-based Cognitive Behavioral Therapy (CBT) and nurse support.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT.\n\nNurse-delivered Motivational Interviewing: Subjects randomized to the duloxetine and web-based Cognitive Behavioral Therapy (CBT) with nurse support will receive 6 phone calls from MI trained nurse at week 3, 6, 10, 14, 18 and 22. Telephone sessions may run for 20 minutes on the average.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 93,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 93,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 93
+        },
+        {
+          "id": "EG001",
+          "title": "Behavioral Intervention Plus Medication",
+          "description": "Subjects randomized to this arm will receive duloxetine and web-based Cognitive Behavioral Therapy (CBT).\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.\n\nWeb-based Cognitive Behavioral Therapy (CBT): The web-based CBT program is an automated program (i.e., users learn skills with interactive, personalized training without any therapist contact) that includes 8, 35- to 45-minute training sessions, each of which provides an educational rationale and training in cognitive or behavioral pain coping skill drawn from face-to-face CBT.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 93,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 93,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 93
+        },
+        {
+          "id": "EG002",
+          "title": "Medication Only",
+          "description": "Subjects randomized to this arm will receive duloxetine only.\n\nduloxetine: All participants will receive duloxetine 30 mg once daily for one week and 60 mg once daily for 24 weeks.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 94,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 94,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 94
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dennis C. Ang",
+        "organization": "Wake Forest School of Medicine",
+        "email": "dang@wakehealth.edu",
+        "phone": "3367058701"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2022-10-21",
+          "uploadDate": "2025-04-10T08:47",
+          "filename": "Prot_SAP_001.pdf",
+          "size": 1028329
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2024-03-05",
+          "uploadDate": "2025-01-30T15:13",
+          "filename": "ICF_000.pdf",
+          "size": 164383
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D059350",
+          "term": "Chronic Pain"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010146",
+          "term": "Pain"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000068736",
+          "term": "Duloxetine Hydrochloride"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013876",
+          "term": "Thiophenes"
+        },
+        {
+          "id": "D013457",
+          "term": "Sulfur Compounds"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

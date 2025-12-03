@@ -1,0 +1,4620 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04676646",
+      "orgStudyIdInfo": {
+        "id": "D9480C00018"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2020-003312-27",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "AstraZeneca",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Study to Assess Efficacy and Safety of SZC for the Management of High Potassium in Patients With Symptomatic HFrEF Receiving Spironolactone",
+      "officialTitle": "Phase IV, Double-Blind, Placebo-Controlled, Randomized-Withdrawal Trial Evaluating Sodium Zirconium Cyclosilicate (SZC) for the Management of Hyperkalaemia in Patients With Symptomatic Heart Failure With Reduced Ejection Fraction and Receiving Spironolactone",
+      "acronym": "REALIZE-K"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-03-08",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-07-15",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-07-15",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-12-16",
+      "studyFirstSubmitQcDate": "2020-12-16",
+      "studyFirstPostDateStruct": {
+        "date": "2020-12-21",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-04-03",
+      "resultsFirstSubmitQcDate": "2025-07-08",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-07-09",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-07-08",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-07-09",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "AstraZeneca",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The main objective of this study is to evaluate the efficacy of SZC as compared with placebo in keeping potassium levels within the normal range (3.5-5.0 mEq/L) while on spironolactone ≥25 mg daily without assistance of rescue therapy for hyperkalaemia (HK).",
+      "detailedDescription": "REALIZE-K is a Phase 4, multinational, multicenter, double-blind, placebo-controlled, randomized-withdrawal, parallel-group study that includes the following 3 phases: screening, 4-6 week open-label run-in phase where sodium zirconium cyclosilicate (SZC) and spironolactone will be optimized, followed by a 6-month double-blind, placebo-controlled, randomized withdrawal treatment phase.\n\nPatients meeting the following criteria will enter the 4-6 week open-label run-in phase: symptomatic heart failure with reduced ejection fraction (HFrEF); receiving an angiotensin-converting enzyme inhibitor (ACEi), angiotensin II receptor blocker (ARB), or angiotensin receptor-Neprilysin inhibitor (ARNi); receiving no spironolactone or eplerenone, or receiving low-dose spironolactone (\\<25 mg daily); receiving a beta-blocker unless contraindicated; AND with hyperkalemia (sK+ 5.1-5.9 mEq/L) and an eGFR \\>/= 30 mL/min/1.73m2, OR normokalemic (sK+ 3.5-5.0 mEq/L) and 'at risk' of developing hyperkalemia (ie, history of hyperkalemia within the past 36 months and eGFR \\>/= 30 mL/min/1.73m2, or sK+ 4.5-5.0 mEq/L and eGFR 30-60 mL/min/1.73m2 and/or age \\>75 years).\n\nPatients who are normokalemic on SZC and receiving spironolactone \\>/= 25 mg daily at the end of the open-label run-in phase will enter the 6-month double-blind, placebo-controlled, randomized withdrawal treatment phase. Eligible patients will be randomized 1:1, stratified by run-in phase sK+ cohort."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Hyperkalaemia",
+        "Heart Failure With Reduced Ejection Fraction"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "REALIZE-K is a Phase 4, multinational, multicenter, double-blind, placebo-controlled, randomized-withdrawal, parallel-group study.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "maskingDescription": "All participants entering the double-blind, randomised treatment period will be centrally assigned to randomised study intervention using an Interactive Response Technology/Randomisation and Trial Supply Management (IRT/RTSM). Randomisation will be stratified by the sK+ cohort determined by central laboratory at the start of the open-label phase (Day 1). Before the study is initiated, the telephone number and call-in directions for the IRT and/or the log in information and directions for the RTSM will be provided to each site.\n\nThe IRT/RTSM will provide to the investigator(s) or pharmacists the kit identification number to be allocated to the participant at the dispensing visit. Routines for this will be described in the IRT/RTSM user manual that will be provided to each centre.\n\nThe randomisation code should not be broken except in medical emergencies when the appropriate management of the participant requires knowledge of the treatment randomisation.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 366,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Open-label run-in phase",
+          "type": "EXPERIMENTAL",
+          "description": "Cohort 1 (4 weeks duration): Patients who are hyperkalemic at study entry will begin SZC 10 g TID for up to 48 hours followed by SZC 10 g once daily to achieve and maintain normokalemia. The SZC dose will be adjusted as needed to maintain normokalemia (dose range = 5 g every other day, to 5-15 g once daily).\n\nCohort 2 (up to 6 weeks duration): Patients who develop hyperkalemia during the uptitration of spironolactone will receive SZC 10 g TID for up to 48 hours followed by SZC 10 g once daily to achieve and maintain normokalemia. The SZC dose will be adjusted as needed to maintain normokalemia (dose range = 5 g every other day, to 5-15 g once daily).",
+          "interventionNames": [
+            "Drug: Sodium zirconium cyclosilicate",
+            "Drug: Placebo",
+            "Other: Spironolactone"
+          ]
+        },
+        {
+          "label": "Randomized withdrawal phase (6 months)",
+          "type": "EXPERIMENTAL",
+          "description": "SZC arm and Placebo arm: Patients will continue on the SZC dose they were receiving at the end of the run-in phase.\n\nThe SZC / Placebo dose will be adjusted as needed to maintain normokalemia (dose range = 5 g every other day, to 5-15 g once daily).",
+          "interventionNames": [
+            "Drug: Sodium zirconium cyclosilicate",
+            "Drug: Placebo",
+            "Other: Spironolactone"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Sodium zirconium cyclosilicate",
+          "description": "Investigational medicinal product",
+          "armGroupLabels": [
+            "Open-label run-in phase",
+            "Randomized withdrawal phase (6 months)"
+          ],
+          "otherNames": [
+            "SZC"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Placebo comparator",
+          "armGroupLabels": [
+            "Open-label run-in phase",
+            "Randomized withdrawal phase (6 months)"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Spironolactone",
+          "description": "Background intervention.\n\nDuring the run-in phase, spironolactone will be initiated/uptitrated up to a maximum of 50 mg per day. During the randomized withdrawal phase the spironolactone dose at the end of the run-in phase will be maintained.",
+          "armGroupLabels": [
+            "Open-label run-in phase",
+            "Randomized withdrawal phase (6 months)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Participants Who Achieved Response, Defined as Serum Potassium (sK+) Within 3.5 to 5.0 mEq/L, Spironolactone Greater Than or Equal to 25 mg Daily, no Rescue Therapy for Hyperkalaemia",
+          "description": "The median percentages of participants having a response are presented. Response means all three requirements were met. Non-response was indicated for participants lost to follow-up, including death.\n\nThe treatment effect was analysed using a generalised estimating equation (GEE) model with a binomial family and a log link, a dependent variable of response per visit, fixed independent variables of randomised treatment, subject recruitment country, a per visit indicator variable and open-label period cohort. The common odds ratio was derived together with two-sided 95% confidence intervals.",
+          "timeFrame": "From Month 1 (Visit 9) to Month 6 (Visit 14), up to 6 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Participants Who Achieved Response, Defined as sK+ Within 3.5-5.0 mEq/L, on the Same Dose of Spironolactone as Randomisation, no Rescue Therapy for Hyperkalaemia",
+          "description": "The median percentages of participants who achieved a response are presented. Response means all three requirements were met. Non-response was indicated for participants lost to follow-up, including death.\n\nThe analysis was performed using a GEE model with a binomial family and a log link, a dependent variable of response per visit, fixed independent variables of randomised treatment, subject recruitment country, a per visit indicator variable and open-label period cohort. The common odds ratio was derived together with two-sided 95% confidence intervals.",
+          "timeFrame": "From Month 1 (Visit 9) to Month 6 (Visit 14), up to 6 months"
+        },
+        {
+          "measure": "Participants Who Achieved Response, Defined as Spironolactone Greater Than or Equal to 25 mg Daily",
+          "description": "The median percentages of participants who achieved a response are presented. Response means that the requirement was met. Non-response was indicated for subjects lost to follow-up, including death.\n\nThe analysis was performed using a GEE model with a binomial family and a log link, a dependent variable of response per visit, fixed independent variables of randomised treatment, subject recruitment country, a per visit indicator variable and open-label period cohort. The common odds ratio was derived together with two-sided 95% confidence intervals.",
+          "timeFrame": "From Month 1 (Visit 9) to Month 6 (Visit 14), up to 6 months"
+        },
+        {
+          "measure": "Time to First Hyperkalaemia (sK+ Greater Than 5.0mEq/L) Episode",
+          "description": "The time to first hyperkalaemia episode for participants on SZC compared to placebo during the randomised-withdrawal period, with hyperkalaemia defined as sK+ greater than 5.0 mEq/L as assessed by central laboratory, is presented in median time (days).\n\nThe analysis was performed using a Cox regression model including randomised treatment group and subject recruitment country, adjusted for the stratification factor (hyperkalaemia vs normokalaemia at study entry). Placebo group used as reference level in Cox model.",
+          "timeFrame": "From randomisation to the end of treatment (EOT) visit, up to 6 months"
+        },
+        {
+          "measure": "Time to First Instance of Decrease or Discontinuation of Spironolactone Dose Due to Hyperkalaemia",
+          "description": "The time to first instance of decrease or discontinuation of spironolactone dose due to hyperkalaemia is presented in median time (days).\n\nThe analysis was performed using a Cox regression model, adjusted for the stratification factor (hyperkalaemia vs normokalaemia at study entry).",
+          "timeFrame": "From randomisation to the EOT visit, up to 6 months"
+        },
+        {
+          "measure": "Kansas City Cardiomyopathy Questionnaire Clinical Summary Score (KCCQ-CSS) at EOT",
+          "description": "The KCCQ is a 23-item instrument measuring, from the patients' perspectives, their heart failure-related symptoms, physical and social limitations, self-efficacy, and health-related quality of life (QoL) over the prior 2 weeks. It was scored as follows: Physical Limitation (items 1a-f), Symptom Stability (item 2), Symptom Frequency (items 3, 5, 7, and 9), Symptom Burden (items 4, 6, and 8), Self Efficacy (items 10 and 11), QoL (items 12, 13, and 14), and Social Limitation (items 15a-d). Scores were calculated by summing the responses within each domain and by taking the average. Scale scores were transformed to a 0 to 100 range, with 0 implying the lowest level of functioning and 100 for the highest level of functioning. The CSS was calculated as the average of Physical Limitation Score and Total Symptom Score (TSS) and the TSS was calculated as the average of Symptom Frequency and Symptom Burden Scores.\n\nThe change from randomisation in KCCQ-CSS is reported.",
+          "timeFrame": "At EOT visit (approximately 6 months post-randomisation)"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Location and Severity of Peripheral Oedema",
+          "description": "The location and severity of peripheral oedema that occurred during the randomised-withdrawal phase are presented. Participants with multiple peripheral oedema events were counted only once. The location of oedema is not mutually exclusive so multiple locations may apply for each participant.",
+          "timeFrame": "During the randomised-withdrawal period and up to 14 days after discontinuation of SZC or placebo, up to 6.5 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "INCLUSION CRITERIA\n\n* Adults aged ≥18 years\n* Potassium and estimated glomerular filtration rate (eGFR):\n* Cohort 1: sK+ 5.1-5.9 mEq/L at screening/study enrolment and eGFR ≥30 mL/min/1.73 m2; OR\n* Cohort 2: Normokalaemic (sK+ 3.5-5.0 mEq/L) at screening and 'at risk' of developing HK defined as any of the following:\n* Have a history of HK (sK+ \\>5.0 mEq/L) within the prior 36 months and eGFR ≥30 mL/min/1.73 m2; or\n* sK+ 4.5-5.0 mEq/L and eGFR 30 to 60 mL/min/1.73 m2; or\n* sK+ 4.5-5.0 mEq/L, and age \\>75 years\n* Symptomatic HFrEF (New York Heart Association \\[NYHA\\] class II-IV), which has been present for at least 3 months\n* Left ventricular ejection fraction (LVEF) ≤40%\n* Receiving angiotensin-converting enzyme inhibitor (ACEi), angiotensin II receptor blocker (ARB), or angiotensin receptor-Neprilysin inhibitor (ARNi)\n* Not on or on low-dose spironolactone or eplerenone (\\<25 mg daily)\n* Receiving beta-blocker unless contraindicated\n\nEXCLUSION CRITERIA\n\n* Heart failure due to restrictive cardiomyopathy, active myocarditis, constrictive pericarditis, hypertrophic (obstructive) cardiomyopathy, or severe stenotic valve disease as a primary cause of HF\n* Current inpatient hospitalisation with unstable HF, defined as any of the following:\n* Systolic blood pressure \\<95 mmHg during the 6 hours prior to screening.\n* Intravenous diuretic therapy during the 12 hours prior to screening.\n* Use of intravenous inotropic drugs during the 24 hours prior to screening.\n* Received mechanical circulatory support during the 48 hours prior to screening\n* Previous cardiac transplantation or implantation of a ventricular assistance device (VAD) or similar device, or transplantation or implantation expected after randomisation",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "130 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Research Site",
+          "city": "Fairhope",
+          "state": "Alabama",
+          "zip": "36532",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.52297,
+            "lon": -87.90333
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90033",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Torrance",
+          "state": "California",
+          "zip": "90502",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.83585,
+            "lon": -118.34063
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Evanston",
+          "state": "Illinois",
+          "zip": "60202",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.04114,
+            "lon": -87.69006
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Hazel Crest",
+          "state": "Illinois",
+          "zip": "60429-2196",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.5717,
+            "lon": -87.69449
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Oak Lawn",
+          "state": "Illinois",
+          "zip": "60453",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.71087,
+            "lon": -87.75811
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Kansas City",
+          "state": "Missouri",
+          "zip": "64111",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.09973,
+            "lon": -94.57857
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10029",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Winston-Salem",
+          "state": "North Carolina",
+          "zip": "27157",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.09986,
+            "lon": -80.24422
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Greenville",
+          "state": "South Carolina",
+          "zip": "29605",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.85262,
+            "lon": -82.39401
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77054",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Falls Church",
+          "state": "Virginia",
+          "zip": "22042",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.88233,
+            "lon": -77.17109
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Belo Horizonte",
+          "zip": "30110-017",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -19.92083,
+            "lon": -43.93778
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Bragança Paulista",
+          "zip": "12916-542",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -22.9527,
+            "lon": -46.54418
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Brasília",
+          "zip": "70390-700",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -15.77972,
+            "lon": -47.92972
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Brasília",
+          "zip": "71615-907",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -15.77972,
+            "lon": -47.92972
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Campina Grande do Sul",
+          "zip": "83430-000",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -25.30556,
+            "lon": -49.05528
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Campinas",
+          "zip": "13060-080",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -22.90556,
+            "lon": -47.06083
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Canoas",
+          "zip": "92425-020",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -29.91778,
+            "lon": -51.18361
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Joinville",
+          "zip": "89201-490",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -26.30444,
+            "lon": -48.84556
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Porto Alegre",
+          "zip": "90020-090",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -30.03283,
+            "lon": -51.23019
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Porto Alegre",
+          "zip": "90035-000",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -30.03283,
+            "lon": -51.23019
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Porto Alegre",
+          "zip": "90035-903",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -30.03283,
+            "lon": -51.23019
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Ribeirão Preto",
+          "zip": "14026-020",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -21.1775,
+            "lon": -47.81028
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Salvador",
+          "zip": "41810-011",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -12.97563,
+            "lon": -38.49096
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Santa Cruz do Sul",
+          "zip": "96835-090",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -29.7175,
+            "lon": -52.42583
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "São Paulo",
+          "zip": "01321-001",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -23.5475,
+            "lon": -46.63611
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "São Paulo",
+          "zip": "04556-100",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -23.5475,
+            "lon": -46.63611
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "São Paulo",
+          "zip": "05652-9000",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -23.5475,
+            "lon": -46.63611
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "São Paulo",
+          "zip": "08270-070",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -23.5475,
+            "lon": -46.63611
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Votuporanga",
+          "zip": "15500-003",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -20.42278,
+            "lon": -49.97278
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Cambridge",
+          "state": "Ontario",
+          "zip": "N1R 6V6",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.3601,
+            "lon": -80.31269
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Kitchener",
+          "state": "Ontario",
+          "zip": "N2N 1B2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.42537,
+            "lon": -80.5112
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Scarborough Village",
+          "state": "Ontario",
+          "zip": "M1B 4Z8",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.73899,
+            "lon": -79.22124
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Scarborough Village",
+          "state": "Ontario",
+          "zip": "M1S 4N6",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.73899,
+            "lon": -79.22124
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5B1M8",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Whitby",
+          "state": "Ontario",
+          "zip": "L1N 5T2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.88342,
+            "lon": -78.93287
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Montreal",
+          "state": "Quebec",
+          "zip": "H1T 1C8",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.50884,
+            "lon": -73.58781
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Montreal",
+          "state": "Quebec",
+          "zip": "H2X 3E4",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.50884,
+            "lon": -73.58781
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Québec",
+          "state": "Quebec",
+          "zip": "G1R 2J6",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 46.81228,
+            "lon": -71.21454
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Terrebonne",
+          "state": "Quebec",
+          "zip": "J6V 2H2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.70004,
+            "lon": -73.64732
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Brandýs nad Labem",
+          "zip": "250 01",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.18356,
+            "lon": 14.67244
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Broumov",
+          "zip": "55001",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.58566,
+            "lon": 16.33181
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Hradec Králové",
+          "zip": "500 02",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.20923,
+            "lon": 15.83277
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Jaroměř",
+          "zip": "55101",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.3562,
+            "lon": 15.92136
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Louny",
+          "zip": "440 01",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.35699,
+            "lon": 13.79667
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Ostrava",
+          "zip": "708 52",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 49.83465,
+            "lon": 18.28204
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Uherské Hradiště",
+          "zip": "68601",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 49.06975,
+            "lon": 17.45969
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Budapest",
+          "zip": "1122",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.49835,
+            "lon": 19.04045
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Budapest",
+          "zip": "1204",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.49835,
+            "lon": 19.04045
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Zalaegerszeg",
+          "zip": "8900",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 46.83695,
+            "lon": 16.84401
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Gdynia",
+          "zip": "81-157",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 54.51889,
+            "lon": 18.53188
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Lodz",
+          "zip": "90-553",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.77058,
+            "lon": 19.47395
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Lodz",
+          "zip": "91-002",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.77058,
+            "lon": 19.47395
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Lódz",
+          "zip": "93-513",
+          "country": "Poland"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Skórzewo",
+          "zip": "60-185",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 53.03629,
+            "lon": 17.81889
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Żarów",
+          "zip": "58-130",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.94116,
+            "lon": 16.49466
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "A Coruña",
+          "zip": "15006",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 43.37135,
+            "lon": -8.396
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Almería",
+          "zip": "4009",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 36.83814,
+            "lon": -2.45974
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Barcelona",
+          "zip": "8035",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Barcelona",
+          "zip": "8041",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Bilbao (Vizcaya)",
+          "zip": "48013",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 43.26271,
+            "lon": -2.92528
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Granada",
+          "zip": "18007",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.18817,
+            "lon": -3.60667
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Huelva",
+          "zip": "21005",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.26638,
+            "lon": -6.94004
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Jaén",
+          "zip": "23007",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.76922,
+            "lon": -3.79028
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Lleida",
+          "zip": "25198",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.61674,
+            "lon": 0.62218
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Madrid",
+          "zip": "28041",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Majadahonda",
+          "zip": "28222",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.47353,
+            "lon": -3.87182
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Murcia",
+          "zip": "30120",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.98704,
+            "lon": -1.13004
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Palma de Mallorca",
+          "zip": "07010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.56939,
+            "lon": 2.65024
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Palma de Mallorca",
+          "zip": "07198",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.56939,
+            "lon": 2.65024
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Pamplona",
+          "zip": "31008",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 42.81687,
+            "lon": -1.64323
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Sabadell",
+          "zip": "08208",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.54329,
+            "lon": 2.10942
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Salamanca",
+          "zip": "37007",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.96882,
+            "lon": -5.66388
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Santiago de Compostela",
+          "zip": "15706",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 42.88052,
+            "lon": -8.54569
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Seville",
+          "zip": "41009",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.38283,
+            "lon": -5.97317
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Seville",
+          "zip": "41013",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.38283,
+            "lon": -5.97317
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Valencia",
+          "zip": "46010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Valencia",
+          "zip": "46026",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Zaragoza",
+          "zip": "50009",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.65606,
+            "lon": -0.87734
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Ashington",
+          "zip": "NE63 9JJ",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 55.17719,
+            "lon": -1.56412
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Bridgend",
+          "zip": "CF31 1RQ",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50583,
+            "lon": -3.57722
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Bristol",
+          "zip": "BS105NB",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.45523,
+            "lon": -2.59665
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Glasgow",
+          "zip": "G4 0SF",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 55.86515,
+            "lon": -4.25763
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Leicester",
+          "zip": "LE3 9QP",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 52.6386,
+            "lon": -1.13169
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Liverpool",
+          "zip": "L9 7AL",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.41058,
+            "lon": -2.97794
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Manchester",
+          "zip": "M13 9WL",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.48095,
+            "lon": -2.23743
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Newport",
+          "zip": "NP20 2UB",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.58774,
+            "lon": -2.99835
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Sheffield",
+          "zip": "S5 7AU",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.38297,
+            "lon": -1.4659
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "39566872",
+          "type": "DERIVED",
+          "citation": "Kosiborod MN, Cherney DZI, Desai AS, Testani JM, Verma S, Chinnakondepalli K, Dolling D, Patel S, Dahl M, Eudicone JM, Friberg L, Ouwens M, Antunes MO, Connelly KA, Madrini V Jr, Kuthi L, Lala A, Lorenzo M, Guimaraes PO, Marcos MC, Merkely B, Nunez J, Squire I, Vaclavik J, Wranicz J, Petrie MC. Sodium Zirconium Cyclosilicate for Management of Hyperkalemia During Spironolactone Optimization in Patients With Heart Failure. J Am Coll Cardiol. 2025 Mar 18;85(10):971-984. doi: 10.1016/j.jacc.2024.11.014. Epub 2024 Nov 18."
+        },
+        {
+          "pmid": "38878009",
+          "type": "DERIVED",
+          "citation": "Kosiborod MN, Cherney D, Connelly K, Desai AS, Guimaraes PO, Kuthi L, Lala A, Madrini V Jr, Merkely B, Villota JN, Squire I, Testani JM, Vaclavik J, Verma S, Wranicz J, Dahl M, Eudicone JM, Friberg L, Petrie MC. Sodium Zirconium Cyclosilicate in HFrEF and Hyperkalemia: REALIZE-K Design and Baseline Characteristics. JACC Heart Fail. 2024 Oct;12(10):1707-1716. doi: 10.1016/j.jchf.2024.05.003. Epub 2024 May 13."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "Redacted SAP",
+          "url": "https://filehosting-v2.pharmacm.com/api/Attachment/Download?tenantId=80217111&amp;parentIdentifier=D9480C00018&amp;attachmentIdentifier=e57bd34e-2d30-4052-8cac-bea3b1f3ab81&amp;fileName=D9480C00018_Redacted_SAP.pdf&amp;versionIdentifier="
+        },
+        {
+          "label": "Redacted CSP",
+          "url": "https://filehosting-v2.pharmacm.com/api/Attachment/Download?tenantId=80217111&amp;parentIdentifier=D9480C00018&amp;attachmentIdentifier=77d3fb06-6ea2-4c65-ae70-716e2640df90&amp;fileName=D9480C00018_redacted_CSP.pdf&amp;versionIdentifier="
+        },
+        {
+          "label": "redacted CSR study synopsis",
+          "url": "https://filehosting-v2.pharmacm.com/api/Attachment/Download?tenantId=80217111&amp;parentIdentifier=D9480C00018&amp;attachmentIdentifier=16f75da0-06f2-4e73-ac6f-bb3b1a8310da&amp;fileName=D9480C00018_redacted_CSR_study_synopsis.pdf&amp;versionIdentifier="
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Qualified researchers can request access to anonymized individual patient-level data from AstraZeneca group of companies sponsored clinical trials via the request portal.\n\nAll request will be evaluated as per the AZ disclosure commitment:\n\nhttps://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure. Yes, indicates that AZ are accepting requests for IPD, but this does not mean all requests will be shared.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP"
+      ],
+      "timeFrame": "AstraZeneca will meet or exceed data availability as per the commitments made to the EFPIA Pharma Data Sharing Principles. For details of our timelines, please rerefer to our disclosure commitment at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.",
+      "accessCriteria": "When a request has been approved AstraZeneca will provide access to the deidentified individual patient-level data in an approved sponsored tool . Signed Data Sharing Agreement (non-negotiable contract for data accessors) must be in place before accessing requested information. Additionally, all users will need to accept the terms and conditions of the SAS MSE to gain access. For additional details, please review the Disclosure Statements at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.",
+      "url": "https://astrazenecagroup-dt.pharmacm.com/DT/Home"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "This study consisted of two phases, an open-label run-in phase and a placebo-controlled randomized-withdrawal phase.\n\nOf the 366 participants enrolled in the open-label run-in phase, 203 participants entered into the randomized-withdrawal phase (102 received SZC treatment and 101 received placebo).",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Open-label Run-in Phase",
+          "description": "Participants with symptomatic heart failure with reduced ejection fraction who were taking no or low-dose spironolactone or eplerenone (\\< 25 mg daily) at screening were enrolled and allocated to Cohort 1 (hyperkalaemic at study entry) or Cohort 2 (normokalaemic at study entry)."
+        },
+        {
+          "id": "FG001",
+          "title": "Randomized-withdrawal Phase - SZC Group",
+          "description": "Participants continued on the SZC and spironolactone dose they were receiving at the end of the run-in phase."
+        },
+        {
+          "id": "FG002",
+          "title": "Randomized-withdrawal Phase - Placebo Group",
+          "description": "Participants continued on the placebo and spironolactone dose they were receiving at the end of the run-in phase."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Open-label Run-in Phase",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "366"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "203"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "163"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Death",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Study-specific Withdrawal Criteria",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Failure to Meet Randomization Criteria",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "144"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "8"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawn from study due to withdrawal by co-investigator",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawn from study due to withdrawal by PI",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Randomised-withdrawal Phase",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "102"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "101"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "88"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "87"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "14"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "14"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "5"
+                }
+              ]
+            },
+            {
+              "type": "Death",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Development of Study-specific Withdrawal Criteria",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "4"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawn from study due to PD - Wrong doses of spironolactone",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawn from study due to spironolactone was stopped on May 28, related hyperkalaemia",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawn from study due to the participant did not have enough medication by issues in IWRS",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawn from study due to the patient was random by mistake on this date he was an OLRIF",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Randomized-withdrawal Phase - SZC Group",
+          "description": "Participants continued on the SZC and spironolactone dose they were receiving at the end of the run-in phase."
+        },
+        {
+          "id": "BG001",
+          "title": "Randomized-withdrawal Phase - Placebo Group",
+          "description": "Participants continued on the placebo and spironolactone dose they were receiving at the end of the run-in phase."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "102"
+            },
+            {
+              "groupId": "BG001",
+              "value": "101"
+            },
+            {
+              "groupId": "BG002",
+              "value": "203"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "description": "Age at Screening",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "72.5",
+                      "spread": "7.88"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "69.2",
+                      "spread": "10.46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "70.9",
+                      "spread": "9.39"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Customized",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "18-64 years",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "50"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "65-84 years",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "79"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "63"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "142"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": ">=85 years",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "52"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "76"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "151"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "40"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "27"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "67"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "74"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "136"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "White",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "91"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "94"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "185"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Black or African American",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Asian",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Native Hawaiian or Other Pacific Islander",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "American Indian or Alaskan Native",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Other",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Not Reported",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Country",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "BRA",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "50"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "CAN",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "CZE",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "16"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "ESP",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "59"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "GBR",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "HUN",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "POL",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "USA",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Type 2 diabetes at baseline",
+          "description": "Coded using baseline medical history",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Yes",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "27"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "52"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "No",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "76"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "151"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Participants Who Achieved Response, Defined as Serum Potassium (sK+) Within 3.5 to 5.0 mEq/L, Spironolactone Greater Than or Equal to 25 mg Daily, no Rescue Therapy for Hyperkalaemia",
+          "description": "The median percentages of participants having a response are presented. Response means all three requirements were met. Non-response was indicated for participants lost to follow-up, including death.\n\nThe treatment effect was analysed using a generalised estimating equation (GEE) model with a binomial family and a log link, a dependent variable of response per visit, fixed independent variables of randomised treatment, subject recruitment country, a per visit indicator variable and open-label period cohort. The common odds ratio was derived together with two-sided 95% confidence intervals.",
+          "populationDescription": "Full Analysis Set",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "From Month 1 (Visit 9) to Month 6 (Visit 14), up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Randomized-withdrawal Phase - SZC Group",
+              "description": "Participants continued on the SZC and spironolactone dose they were receiving at the end of the run-in phase."
+            },
+            {
+              "id": "OG001",
+              "title": "Randomized-withdrawal Phase - Placebo Group",
+              "description": "Participants continued on the placebo and spironolactone dose they were receiving at the end of the run-in phase."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "102"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "101"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "35.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.001",
+              "statisticalMethod": "GEE model",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "4.45",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "2.89",
+              "ciUpperLimit": "6.86",
+              "estimateComment": "An odds ratio greater than 1 indicated increased odds of response on SZC compared to placebo."
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Participants Who Achieved Response, Defined as sK+ Within 3.5-5.0 mEq/L, on the Same Dose of Spironolactone as Randomisation, no Rescue Therapy for Hyperkalaemia",
+          "description": "The median percentages of participants who achieved a response are presented. Response means all three requirements were met. Non-response was indicated for participants lost to follow-up, including death.\n\nThe analysis was performed using a GEE model with a binomial family and a log link, a dependent variable of response per visit, fixed independent variables of randomised treatment, subject recruitment country, a per visit indicator variable and open-label period cohort. The common odds ratio was derived together with two-sided 95% confidence intervals.",
+          "populationDescription": "Full Analysis Set",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "From Month 1 (Visit 9) to Month 6 (Visit 14), up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Randomized-withdrawal Phase - SZC Group",
+              "description": "Participants continued on the SZC and spironolactone dose they were receiving at the end of the run-in phase."
+            },
+            {
+              "id": "OG001",
+              "title": "Randomized-withdrawal Phase - Placebo Group",
+              "description": "Participants continued on the placebo and spironolactone dose they were receiving at the end of the run-in phase."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "102"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "101"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "58.2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "22.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.001",
+              "statisticalMethod": "GEE model",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "4.58",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "2.78",
+              "ciUpperLimit": "7.55",
+              "estimateComment": "An odds ratio \\>1 indicated increased odds of response on SZC compared to placebo."
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Participants Who Achieved Response, Defined as Spironolactone Greater Than or Equal to 25 mg Daily",
+          "description": "The median percentages of participants who achieved a response are presented. Response means that the requirement was met. Non-response was indicated for subjects lost to follow-up, including death.\n\nThe analysis was performed using a GEE model with a binomial family and a log link, a dependent variable of response per visit, fixed independent variables of randomised treatment, subject recruitment country, a per visit indicator variable and open-label period cohort. The common odds ratio was derived together with two-sided 95% confidence intervals.",
+          "populationDescription": "Full Analysis Set",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "From Month 1 (Visit 9) to Month 6 (Visit 14), up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Randomized-withdrawal Phase - SZC Group",
+              "description": "Participants continued on the SZC and spironolactone dose they were receiving at the end of the run-in phase."
+            },
+            {
+              "id": "OG001",
+              "title": "Randomized-withdrawal Phase - Placebo Group",
+              "description": "Participants continued on the placebo and spironolactone dose they were receiving at the end of the run-in phase."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "102"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "101"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "81.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "49.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.001",
+              "statisticalMethod": "GEE model",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "4.33",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "2.50",
+              "ciUpperLimit": "7.52",
+              "estimateComment": "An odds ratio greater than 1 indicated increased odds of response on SZC compared to placebo."
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time to First Hyperkalaemia (sK+ Greater Than 5.0mEq/L) Episode",
+          "description": "The time to first hyperkalaemia episode for participants on SZC compared to placebo during the randomised-withdrawal period, with hyperkalaemia defined as sK+ greater than 5.0 mEq/L as assessed by central laboratory, is presented in median time (days).\n\nThe analysis was performed using a Cox regression model including randomised treatment group and subject recruitment country, adjusted for the stratification factor (hyperkalaemia vs normokalaemia at study entry). Placebo group used as reference level in Cox model.",
+          "populationDescription": "Full Analysis Set",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Days",
+          "timeFrame": "From randomisation to the end of treatment (EOT) visit, up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Randomized-withdrawal Phase - SZC Group",
+              "description": "Participants continued on the SZC and spironolactone dose they were receiving at the end of the run-in phase."
+            },
+            {
+              "id": "OG001",
+              "title": "Randomized-withdrawal Phase - Placebo Group",
+              "description": "Participants continued on the placebo and spironolactone dose they were receiving at the end of the run-in phase."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "102"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "101"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65.0",
+                      "lowerLimit": "35.00",
+                      "upperLimit": "98.00"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9.0",
+                      "lowerLimit": "8.00",
+                      "upperLimit": "13.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.001",
+              "statisticalMethod": "Regression, Cox",
+              "paramType": "Hazard Ratio (HR)",
+              "paramValue": "0.51",
+              "ciPctValue": "95",
+              "ciLowerLimit": "0.37",
+              "ciUpperLimit": "0.71",
+              "estimateComment": "A hazard ratio less than 1 favors SZC to be associated with a longer time to first hyperkalaemia episode than placebo."
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time to First Instance of Decrease or Discontinuation of Spironolactone Dose Due to Hyperkalaemia",
+          "description": "The time to first instance of decrease or discontinuation of spironolactone dose due to hyperkalaemia is presented in median time (days).\n\nThe analysis was performed using a Cox regression model, adjusted for the stratification factor (hyperkalaemia vs normokalaemia at study entry).",
+          "populationDescription": "Full Analysis Set",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Days",
+          "timeFrame": "From randomisation to the EOT visit, up to 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Randomized-withdrawal Phase - SZC Group",
+              "description": "Participants continued on the SZC and spironolactone dose they were receiving at the end of the run-in phase."
+            },
+            {
+              "id": "OG001",
+              "title": "Randomized-withdrawal Phase - Placebo Group",
+              "description": "Participants continued on the placebo and spironolactone dose they were receiving at the end of the run-in phase."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "102"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "101"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "NA",
+                      "lowerLimit": "NA",
+                      "upperLimit": "NA",
+                      "comment": "Median time to first event could not be calculated due to the low number of events."
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "NA",
+                      "lowerLimit": "NA",
+                      "upperLimit": "NA",
+                      "comment": "Median time to first event could not be calculated due to the low number of events."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.006",
+              "statisticalMethod": "Regression, Cox",
+              "paramType": "Hazard Ratio (HR)",
+              "paramValue": "0.37",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "0.17",
+              "ciUpperLimit": "0.73",
+              "estimateComment": "A hazard ratio less than 1 favored SZC to be associated with a longer time to first instance of a decrease of spironolactone dose due to hyperkalaemia than placebo."
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Kansas City Cardiomyopathy Questionnaire Clinical Summary Score (KCCQ-CSS) at EOT",
+          "description": "The KCCQ is a 23-item instrument measuring, from the patients' perspectives, their heart failure-related symptoms, physical and social limitations, self-efficacy, and health-related quality of life (QoL) over the prior 2 weeks. It was scored as follows: Physical Limitation (items 1a-f), Symptom Stability (item 2), Symptom Frequency (items 3, 5, 7, and 9), Symptom Burden (items 4, 6, and 8), Self Efficacy (items 10 and 11), QoL (items 12, 13, and 14), and Social Limitation (items 15a-d). Scores were calculated by summing the responses within each domain and by taking the average. Scale scores were transformed to a 0 to 100 range, with 0 implying the lowest level of functioning and 100 for the highest level of functioning. The CSS was calculated as the average of Physical Limitation Score and Total Symptom Score (TSS) and the TSS was calculated as the average of Symptom Frequency and Symptom Burden Scores.\n\nThe change from randomisation in KCCQ-CSS is reported.",
+          "populationDescription": "Full Analysis Set: all participants with more than 50% of responses available at a visit.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "Score on a scale",
+          "timeFrame": "At EOT visit (approximately 6 months post-randomisation)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Randomized-withdrawal Phase - SZC Group",
+              "description": "Participants continued on the SZC and spironolactone dose they were receiving at the end of the run-in phase."
+            },
+            {
+              "id": "OG001",
+              "title": "Randomized-withdrawal Phase - Placebo Group",
+              "description": "Participants continued on the placebo and spironolactone dose they were receiving at the end of the run-in phase."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "72"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "59"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "71.27",
+                      "spread": "2.57"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "72.27",
+                      "spread": "2.36"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.724",
+              "statisticalMethod": "t-test, 2 sided",
+              "paramType": "Least-squares Mean Difference",
+              "paramValue": "-1.01",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-6.64",
+              "ciUpperLimit": "4.63",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "2.84",
+              "estimateComment": "A least-squares mean difference greater than 0 favors SZC compared to placebo."
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Location and Severity of Peripheral Oedema",
+          "description": "The location and severity of peripheral oedema that occurred during the randomised-withdrawal phase are presented. Participants with multiple peripheral oedema events were counted only once. The location of oedema is not mutually exclusive so multiple locations may apply for each participant.",
+          "populationDescription": "Safety Set Randomised",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "During the randomised-withdrawal period and up to 14 days after discontinuation of SZC or placebo, up to 6.5 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Randomized-withdrawal Phase - SZC Group",
+              "description": "Participants continued on the SZC and spironolactone dose they were receiving at the end of the run-in phase."
+            },
+            {
+              "id": "OG001",
+              "title": "Randomized-withdrawal Phase - Placebo Group",
+              "description": "Participants continued on the placebo and spironolactone dose they were receiving at the end of the run-in phase."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "22"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "16"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Location of oedema: pedal oedema",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Location of oedema: ankle oedema",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Location of oedema: pretibial oedema",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Location of oedema: thigh oedema",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pedal oedema - right side: trace",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pedal oedema - right side: mild",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pedal oedema - right side: moderate",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pedal oedema - right side: severe",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pedal oedema - left side: trace",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pedal oedema - left side: mild",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pedal oedema - left side: moderate",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pedal oedema - left side: severe",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of ankle oedema - right side: trace",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of ankle oedema - right side: mild",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of ankle oedema - right side: moderate",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of ankle oedema - right side: severe",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of ankle oedema - left side: trace",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of ankle oedema - left side: mild",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of ankle oedema - left side: moderate",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of ankle oedema - left side: severe",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pretibial edema - right side: trace",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pretibial edema - right side: mild",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pretibial edema - right side: moderate",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pretibial edema - right side: severe",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pretibial edema - left side: trace",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pretibial edema - left side: mild",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pretibial edema - left side: moderate",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of pretibial edema - left side: severe",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of thigh edema - right side: trace",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of thigh edema - right side: mild",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of thigh edema - right side: moderate",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of thigh edema - right side: severe",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of thigh edema - left side: trace",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of thigh edema - left side: mild",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of thigh edema - left side: moderate",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severity of thigh edema - left side: severe",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Open-label Run-in Phase (OLP): includes treatment-emergent adverse events (TEAEs) that occurred during the OLP and all AEs which occurred prior to first dose of SZC which worsen in severity following dosing during the OLP, up to 4-6 weeks Randomised-withdrawal Phase (RWP): includes TEAEs that occurred during the RWP and up to 14 days after discontinuation of SZC/placebo and all AEs which occurred prior to first dose which worsen in severity following dosing during the RWP, up to 6.5 months",
+      "description": "The AEs that occurred during the OLP and RWP are reported. The SZC group and Placebo group represent participants assessed during the RWP.\n\nOLP: Of the 366 participants who enrolled, 4 participants did not receive treatment and were excluded from the analysis.\n\nRWP: Of the 203 participants randomized (102 in the SZC group and 101 in the Placebo group), 1 participant from the SZC group did not receive treatment and was excluded from the analysis.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Open-label Run-in Phase",
+          "description": "Participants with symptomatic heart failure with reduced ejection fraction who were taking no or low-dose spironolactone or eplerenone (\\<25 mg daily) at screening were enrolled and allocated to Cohort 1 (hyperkalaemic at study entry) or Cohort 2 (normokalaemic at study entry).",
+          "deathsNumAffected": 7,
+          "deathsNumAtRisk": 362,
+          "seriousNumAffected": 11,
+          "seriousNumAtRisk": 362,
+          "otherNumAffected": 9,
+          "otherNumAtRisk": 362
+        },
+        {
+          "id": "EG001",
+          "title": "Randomized-withdrawal Phase - SZC Group",
+          "description": "Participants continued on the SZC and spironolactone dose they were receiving at the end of the run-in phase.",
+          "deathsNumAffected": 2,
+          "deathsNumAtRisk": 101,
+          "seriousNumAffected": 23,
+          "seriousNumAtRisk": 101,
+          "otherNumAffected": 20,
+          "otherNumAtRisk": 101
+        },
+        {
+          "id": "EG002",
+          "title": "Randomized-withdrawal Phase - Placebo Group",
+          "description": "Participants continued on the placebo and spironolactone dose they were receiving at the end of the run-in phase.",
+          "deathsNumAffected": 2,
+          "deathsNumAtRisk": 101,
+          "seriousNumAffected": 22,
+          "seriousNumAtRisk": 101,
+          "otherNumAffected": 25,
+          "otherNumAtRisk": 101
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Sudden cardiac death",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Dengue fever",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Lower respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Osteomyelitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Pneumonia",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Pulmonary sepsis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Sepsis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Septic shock",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Angina unstable",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Urinary tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Thoracic vertebral fracture",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hyperkalaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hypoglycaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hypokalaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Fasciitis",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Myositis",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Pancreatic carcinoma",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Syncope",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Acute kidney injury",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Atrial fibrillation",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Chronic kidney disease",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Ureterolithiasis",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Gynaecomastia",
+          "organSystem": "Reproductive system and breast disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Chronic obstructive pulmonary disease",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Pulmonary embolism",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Toe amputation",
+          "organSystem": "Surgical and medical procedures",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Orthostatic hypotension",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Cardiac failure",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 14,
+              "numAffected": 12,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Systolic dysfunction",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Ventricular arrhythmia",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Ventricular tachycardia",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Colitis ulcerative",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Death",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Sudden death",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Cardiac failure acute",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Cardiogenic shock",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Skin laceration",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Diabetic ketoacidosis",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Obstructive pancreatitis",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Oedema peripheral",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hyperkalaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 9,
+              "numAffected": 6,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 16,
+              "numAffected": 12,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 34,
+              "numAffected": 23,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hypokalaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 362
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 101
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 101
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "The Investigator shall be entitled to publish the results of, or make presentations related to, the Study, provided that any publications or presentations to be made within 2 years after completion of the Study shall require the Sponsor's prior written consent."
+      },
+      "pointOfContact": {
+        "title": "Global Clinical Lead",
+        "organization": "AstraZeneca",
+        "email": "information.center@astrazeneca.com",
+        "phone": "18772409479"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-11-09",
+          "uploadDate": "2025-04-03T12:25",
+          "filename": "Prot_000.pdf",
+          "size": 23597339
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-08-06",
+          "uploadDate": "2025-04-03T12:25",
+          "filename": "SAP_001.pdf",
+          "size": 7697818
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "removedCountries": [
+        "Italy",
+        "Ukraine"
+      ],
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-04-23",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006947",
+          "term": "Hyperkalemia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014883",
+          "term": "Water-Electrolyte Imbalance"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000597310",
+          "term": "sodium zirconium cyclosilicate"
+        },
+        {
+          "id": "D013148",
+          "term": "Spironolactone"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007783",
+          "term": "Lactones"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D011283",
+          "term": "Pregnenes"
+        },
+        {
+          "id": "D011278",
+          "term": "Pregnanes"
+        },
+        {
+          "id": "D013256",
+          "term": "Steroids"
+        },
+        {
+          "id": "D000072473",
+          "term": "Fused-Ring Compounds"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

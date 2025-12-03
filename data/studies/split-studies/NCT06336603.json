@@ -1,0 +1,1373 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06336603",
+      "orgStudyIdInfo": {
+        "id": "WIN2022"
+      },
+      "organization": {
+        "fullName": "Sun Pharmaceutical Industries Limited",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study Assessing the Efficacy of Combined Use of Clascoterone 1% Cream and Adapalene 0.3% for the Treatment of Acne",
+      "officialTitle": "The Combination Use of Winlevi and Adapalene 0.3% Gel in Real Life Acne Treatment"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-11-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-10-29",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-10-29",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-03-11",
+      "studyFirstSubmitQcDate": "2024-03-27",
+      "studyFirstPostDateStruct": {
+        "date": "2024-03-29",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-09-22",
+      "resultsFirstSubmitQcDate": "2025-09-22",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-10-09",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-09-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-10-09",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Sun Pharmaceutical Industries Limited",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Winlevi is the first topical anti androgen and sebum inhibitor approved for acne vulgaris. There is no study assessing Winlevi in combination treatment for acne .Therefore this study assesses Winlevi with Adapalene 0.3% gel in combination to emulate real life practice."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Acne Vulgaris"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 20,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Winlevi (clascoterone) 1% & Adapalene 0.3% gel",
+          "type": "EXPERIMENTAL",
+          "description": "Combined use of Winlevi twice daily and Adapalene once daily",
+          "interventionNames": [
+            "Drug: Winlevi (clascoterone) 1% & Adapalene 0.3% gel"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Winlevi (clascoterone) 1% & Adapalene 0.3% gel",
+          "description": "Participants will use Winlevi (clascoterone) 1% twice daily (BID) and Adapalene 0.3% once daily (QD)",
+          "armGroupLabels": [
+            "Winlevi (clascoterone) 1% & Adapalene 0.3% gel"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "The Primary Endpoint of This Study is the Percent of Patients Who Achieve Clear or Almost Clear on IGA at Week 16.",
+          "description": "The investigator will evaluate global acne severity using the Investigator Global Assessment scale, which ranges from 0 to 5, where 0 represents clear skin and 5 represents very severe acne",
+          "timeFrame": "Week 16"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Percent of Total Lesion Reduction at Week 16 Compared to Baseline",
+          "timeFrame": "Week 16"
+        },
+        {
+          "measure": "Percent of Inflammatory Lesion Reduction at Week 16 Compared to Baseline",
+          "timeFrame": "Week 16"
+        },
+        {
+          "measure": "Percent of Non-inflammatory Lesion Reduction at Week 16 Compared to Baseline",
+          "timeFrame": "Week 16"
+        },
+        {
+          "measure": "Tolerability Measures of Erythema Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Lower score represents absence of erythema and higher score represents severe condition.\n\nThe information presented represents the \"Percentage of participant\" with \"Absent or Trace\" erythema at weeks 4,8,12, 16 and 20",
+          "timeFrame": "Week 4,8,12,16, 20"
+        },
+        {
+          "measure": "Tolerability Measures of Dryness Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Lower score represents absence of dryness and higher score represents severe condition.\n\nThe information presented represents the \"Percentage of participant\" with \"Absent or Trace\" Dryness at weeks 4,8,12, 16 and 20",
+          "timeFrame": "Week 4,8,12,16, 20"
+        },
+        {
+          "measure": "Tolerability Measures of Peeling Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Score 0 represents absence of peeling and Score 4 represents 'Extensive peeling'.\n\nThe information presented represents the \"Percentage of participant\" with \"Absent or Trace\" peeling at weeks 4,8,12,16 and 20",
+          "timeFrame": "Week 4,8,12,16, 20"
+        },
+        {
+          "measure": "Assessment of Skin Oiliness Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Score 0 represents absence of Oiliness and Score 4 represents severe condition.\n\nThe information presented represents the \"Percentage of participant\" with \"Absent or Trace\" oiliness at weeks 4,8,12,16 and 20",
+          "timeFrame": "Week 4,8,12,16, 20"
+        },
+        {
+          "measure": "Tolerability Measures of Burning/Stinging Based on 6-point Severity Scale",
+          "description": "The score in the scale ranges from 0-5. Lower score represents absence of discomfort and higher score represents severe condition.\n\nThe information presented represents the \"Percentage of participant\" with \"Absent or Trace\" burning/stinging at weeks 4,8,12,16 and 20",
+          "timeFrame": "Week 4,8,12,16, 20"
+        },
+        {
+          "measure": "Tolerability Measures of Pruritus Based on 6-point Severity Scale",
+          "description": "The score in the scale ranges from 0-5. Lower score represents absence of discomfort and higher score represents severe condition.\n\nThe information presented represents the \"Percentage of participant\" with \"Absent or Trace\" pruritus at weeks 4,8,12,16 and 20",
+          "timeFrame": "Week 4,8,12,16, 20"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\ni. Outpatient, male or female subjects of any race, and at least 12 years of age or older.\n\n* Female subjects of childbearing potential must have a negative urine pregnancy test result at Baseline (test must have a sensitivity of at least 25mIU/ml for human chorionic gonadotropin) and practice a reliable method of contraception throughout the study:\n* A female is considered of childbearing potential unless she is:\n\n  1. postmenopausal for at least 12 months prior to study drug administration;\n  2. without a uterus and/or both ovaries; or\n  3. Has been surgically sterile for at least 6 months prior to study drug administration.\n* Reliable methods of contraception are:\n\n  1. Hormonal methods or intrauterine device in use \\> 90 days prior to study drug administration;\n  2. Barrier methods plus spermicide in use at least 14 days prior to study drug administration; or\n  3. Vasectomized partner (vasectomy must be performed 3 months prior to first study drug administration or in the alternative a zero sperm count will suffice).\n* Exception: Female subjects of childbearing potential who are not sexually active will not be required to practice a reliable method of contraception. These subjects may be enrolled at the Investigator's discretion if they are counseled to remain sexually inactive during the study and understand the possible risks in getting pregnant during the study.\n\nii. Facial acne IGA score of 3 or 4.\n\niii. Able to understand the requirements of the study and sign Informed Consent/HIPAA Authorization forms. Subjects under the legal age of consent in the state where the study is conducted must also have the written, informed consent of a parent or legal guardian.\n\nExclusion Criteria:\n\ni. Female subjects who are pregnant (positive urine pregnancy test), breast-feeding, or who are of childbearing potential and not practicing a reliable method of birth control.\n\nii. Allergy or sensitivity to any component of the test medications (Section 5.2).\n\niii. Subjects who have not complied with the proper wash-out periods for prohibited medications (Supplement I).\n\niv. Medical condition that, in the opinion of the Investigator, contraindicates the subject's participation in the clinical study.\n\nv. Skin disease/disorder that might interfere with the diagnosis or evaluation of acne vulgaris vi. Evidence of recent alcohol or drug abuse. vii. History of poor cooperation, non-compliance with medical treatment, or unreliability.\n\nviii. Exposure to an investigational drug study within 30 days of the Baseline Visit.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "12 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Skin Sciences, PLLC",
+          "city": "Louisville",
+          "state": "Kentucky",
+          "zip": "40217",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.25424,
+            "lon": -85.75941
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Winlevi (Clascoterone) 1% & Adapalene 0.3% Gel",
+          "description": "Combined use of Winlevi twice daily and Adapalene once daily\n\nWinlevi (clascoterone) 1% \\& Adapalene 0.3% gel: Participants will use Winlevi (clascoterone) 1% twice daily (BID) and Adapalene 0.3% once daily (QD)"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "17"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Winlevi (Clascoterone) 1% & Adapalene 0.3% Gel",
+          "description": "Combined use of Winlevi twice daily and Adapalene once daily\n\nWinlevi (clascoterone) 1% \\& Adapalene 0.3% gel: Participants will use Winlevi (clascoterone) 1% twice daily (BID) and Adapalene 0.3% once daily (QD)"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "17"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "22",
+                      "spread": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "White",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Black",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Asian",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hispanic",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "The Primary Endpoint of This Study is the Percent of Patients Who Achieve Clear or Almost Clear on IGA at Week 16.",
+          "description": "The investigator will evaluate global acne severity using the Investigator Global Assessment scale, which ranges from 0 to 5, where 0 represents clear skin and 5 represents very severe acne",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Winlevi (Clascoterone) 1% & Adapalene 0.3% Gel",
+              "description": "Combined use of Winlevi twice daily and Adapalene once daily\n\nWinlevi (clascoterone) 1% \\& Adapalene 0.3% gel: Participants will use Winlevi (clascoterone) 1% twice daily (BID) and Adapalene 0.3% once daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percent of Total Lesion Reduction at Week 16 Compared to Baseline",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Percentage change",
+          "timeFrame": "Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Winlevi (Clascoterone) 1% & Adapalene 0.3% Gel",
+              "description": "Combined use of Winlevi twice daily and Adapalene once daily\n\nWinlevi (clascoterone) 1% \\& Adapalene 0.3% gel: Participants will use Winlevi (clascoterone) 1% twice daily (BID) and Adapalene 0.3% once daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "87.3",
+                      "spread": "11.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "< .001",
+              "statisticalMethod": "Wilcoxon signed rank test"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percent of Inflammatory Lesion Reduction at Week 16 Compared to Baseline",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "percentage change",
+          "timeFrame": "Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Winlevi (Clascoterone) 1% & Adapalene 0.3% Gel",
+              "description": "Combined use of Winlevi twice daily and Adapalene once daily\n\nWinlevi (clascoterone) 1% \\& Adapalene 0.3% gel: Participants will use Winlevi (clascoterone) 1% twice daily (BID) and Adapalene 0.3% once daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "90.5",
+                      "spread": "10.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "< .001",
+              "statisticalMethod": "Wilcoxon signed rank test"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percent of Non-inflammatory Lesion Reduction at Week 16 Compared to Baseline",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "percentage change",
+          "timeFrame": "Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Winlevi (Clascoterone) 1% & Adapalene 0.3% Gel",
+              "description": "Combined use of Winlevi twice daily and Adapalene once daily\n\nWinlevi (clascoterone) 1% \\& Adapalene 0.3% gel: Participants will use Winlevi (clascoterone) 1% twice daily (BID) and Adapalene 0.3% once daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "84.8",
+                      "spread": "13.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "< .001",
+              "statisticalMethod": "Wilcoxon signed rank test"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Tolerability Measures of Erythema Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Lower score represents absence of erythema and higher score represents severe condition.\n\nThe information presented represents the \"Percentage of participant\" with \"Absent or Trace\" erythema at weeks 4,8,12, 16 and 20",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 4,8,12,16, 20",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Winlevi (Clascoterone) 1% & Adapalene 0.3% Gel",
+              "description": "Combined use of Winlevi twice daily and Adapalene once daily\n\nWinlevi (clascoterone) 1% \\& Adapalene 0.3% gel: Participants will use Winlevi (clascoterone) 1% twice daily (BID) and Adapalene 0.3% once daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "76"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "88"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 8",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 16",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "94"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 20",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Tolerability Measures of Dryness Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Lower score represents absence of dryness and higher score represents severe condition.\n\nThe information presented represents the \"Percentage of participant\" with \"Absent or Trace\" Dryness at weeks 4,8,12, 16 and 20",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 4,8,12,16, 20",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Winlevi (Clascoterone) 1% & Adapalene 0.3% Gel",
+              "description": "Combined use of Winlevi twice daily and Adapalene once daily\n\nWinlevi (clascoterone) 1% \\& Adapalene 0.3% gel: Participants will use Winlevi (clascoterone) 1% twice daily (BID) and Adapalene 0.3% once daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 8",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 16",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 20",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Tolerability Measures of Peeling Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Score 0 represents absence of peeling and Score 4 represents 'Extensive peeling'.\n\nThe information presented represents the \"Percentage of participant\" with \"Absent or Trace\" peeling at weeks 4,8,12,16 and 20",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 4,8,12,16, 20",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Winlevi (Clascoterone) 1% & Adapalene 0.3% Gel",
+              "description": "Combined use of Winlevi twice daily and Adapalene once daily\n\nWinlevi (clascoterone) 1% \\& Adapalene 0.3% gel: Participants will use Winlevi (clascoterone) 1% twice daily (BID) and Adapalene 0.3% once daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 8",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 16",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 20",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Assessment of Skin Oiliness Based on 5-point Severity Scale",
+          "description": "The score in the scale ranges from 0-4. Score 0 represents absence of Oiliness and Score 4 represents severe condition.\n\nThe information presented represents the \"Percentage of participant\" with \"Absent or Trace\" oiliness at weeks 4,8,12,16 and 20",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 4,8,12,16, 20",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Winlevi (Clascoterone) 1% & Adapalene 0.3% Gel",
+              "description": "Combined use of Winlevi twice daily and Adapalene once daily\n\nWinlevi (clascoterone) 1% \\& Adapalene 0.3% gel: Participants will use Winlevi (clascoterone) 1% twice daily (BID) and Adapalene 0.3% once daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "76"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 8",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "94"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "94"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 16",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "94"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 20",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "94"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Tolerability Measures of Burning/Stinging Based on 6-point Severity Scale",
+          "description": "The score in the scale ranges from 0-5. Lower score represents absence of discomfort and higher score represents severe condition.\n\nThe information presented represents the \"Percentage of participant\" with \"Absent or Trace\" burning/stinging at weeks 4,8,12,16 and 20",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 4,8,12,16, 20",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Winlevi (Clascoterone) 1% & Adapalene 0.3% Gel",
+              "description": "Combined use of Winlevi twice daily and Adapalene once daily\n\nWinlevi (clascoterone) 1% \\& Adapalene 0.3% gel: Participants will use Winlevi (clascoterone) 1% twice daily (BID) and Adapalene 0.3% once daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 8",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "94"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "94"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 16",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 20",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Tolerability Measures of Pruritus Based on 6-point Severity Scale",
+          "description": "The score in the scale ranges from 0-5. Lower score represents absence of discomfort and higher score represents severe condition.\n\nThe information presented represents the \"Percentage of participant\" with \"Absent or Trace\" pruritus at weeks 4,8,12,16 and 20",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 4,8,12,16, 20",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Winlevi (Clascoterone) 1% & Adapalene 0.3% Gel",
+              "description": "Combined use of Winlevi twice daily and Adapalene once daily\n\nWinlevi (clascoterone) 1% \\& Adapalene 0.3% gel: Participants will use Winlevi (clascoterone) 1% twice daily (BID) and Adapalene 0.3% once daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "94"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "88"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 8",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "88"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "94"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 16",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "94"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 20",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "20 Weeks",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Winlevi (Clascoterone) 1% & Adapalene 0.3% Gel",
+          "description": "Combined use of Winlevi twice daily and Adapalene once daily\n\nWinlevi (clascoterone) 1% \\& Adapalene 0.3% gel: Participants will use Winlevi (clascoterone) 1% twice daily (BID) and Adapalene 0.3% once daily (QD)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 17,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 17,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 17
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Head",
+        "organization": "Regulatory Affairs",
+        "email": "Clinical.Trial@sunpharma.com",
+        "phone": "9122 66455645"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2022-08-02",
+          "uploadDate": "2025-09-22T04:36",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 1780044
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000152",
+          "term": "Acne Vulgaris"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017486",
+          "term": "Acneiform Eruptions"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D012625",
+          "term": "Sebaceous Gland Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C496269",
+          "term": "Clascoterone"
+        },
+        {
+          "id": "D000068816",
+          "term": "Adapalene"
+        },
+        {
+          "id": "D005782",
+          "term": "Gels"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009281",
+          "term": "Naphthalenes"
+        },
+        {
+          "id": "D011084",
+          "term": "Polycyclic Aromatic Hydrocarbons"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D003102",
+          "term": "Colloids"
+        },
+        {
+          "id": "D045424",
+          "term": "Complex Mixtures"
+        },
+        {
+          "id": "D004304",
+          "term": "Dosage Forms"
+        },
+        {
+          "id": "D004364",
+          "term": "Pharmaceutical Preparations"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

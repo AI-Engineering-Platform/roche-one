@@ -1,0 +1,2074 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05855967",
+      "orgStudyIdInfo": {
+        "id": "18528"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "I1F-IN-RHCZ",
+          "type": "OTHER",
+          "domain": "Eli Lilly and Company"
+        }
+      ],
+      "organization": {
+        "fullName": "Eli Lilly and Company",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study of Ixekizumab (LY2439821) in Participants Aged ≥18 Years With Moderate-to-Severe Plaque or Active Psoriatic Arthritis in India",
+      "officialTitle": "A 24-Week Multicenter, Open-label, Single-arm, Phase 4 Study to Evaluate the Safety of Ixekizumab in Patients With Moderate-to-Severe Plaque Psoriasis or Active Psoriatic Arthritis in India"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-08",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-06-27",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-08-08",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-09-23",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-05-04",
+      "studyFirstSubmitQcDate": "2023-05-04",
+      "studyFirstPostDateStruct": {
+        "date": "2023-05-12",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-08-06",
+      "resultsFirstSubmitQcDate": "2025-08-06",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-08-22",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-08-06",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-08-22",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Eli Lilly and Company",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The main purpose of this study is to investigate the safety and tolerability of ixekizumab in participants in India with moderate-to-severe plaque psoriasis (PsO) or active psoriatic arthritis (PsA)"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Plaque Psoriasis",
+        "Psoriatic Arthritis"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 250,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Ixekizumab - PsO With no Active PsA",
+          "type": "EXPERIMENTAL",
+          "description": "Participants with plaque psoriasis (PsO) with no active psoriatic arthritis (PsA) received:\n\n* Ixekizumab 160 milligram (mg) subcutaneous (SC) injection as loading dose at Week 0, followed by;\n* Ixekizumab 80 mg SC injection every 2 weeks (Q2W) at Week 2, 4, 6, 8, and 10\n* Ixekizumab 80 mg SC injection every 4 weeks (Q4W) at Week 12, 16, and 20",
+          "interventionNames": [
+            "Drug: Ixekizumab"
+          ]
+        },
+        {
+          "label": "Ixekizumab - Active PsA",
+          "type": "EXPERIMENTAL",
+          "description": "Participants with active psoriatic arthritis (PsA) with moderate to severe plaque psoriasis (PsO) received:\n\n* Ixekizumab 160 mg SC injection as loading dose at Week 0, followed by;\n* Ixekizumab 80 mg SC injection Q2W at Week 2, 4, 6, 8, and 10\n* Ixekizumab 80 mg SC injection Q4W at Week 12, 16, and 20\n\nParticipants with active PsA without moderate to severe PsO received:\n\n* Ixekizumab 160 mg SC injection as loading dose at Week 0, followed by\n* Ixekizumab 80 mg SC injection Q4W at Week 4, 8, 12, 16, and 20.",
+          "interventionNames": [
+            "Drug: Ixekizumab"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ixekizumab",
+          "description": "Administered SC",
+          "armGroupLabels": [
+            "Ixekizumab - Active PsA",
+            "Ixekizumab - PsO With no Active PsA"
+          ],
+          "otherNames": [
+            "LY2439821"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants Reporting Serious Adverse Events (SAEs), and Treatment Emergent Adverse Events (TEAEs) and AEs of Special Interests (AESIs) From Week 0 to Week 24",
+          "description": "* An SAE is defined as any untoward medical occurrence that, at any dose, meets one or more of the criteria listed: results in death, is life-threatening, requires inpatient hospitalization or prolongation of existing hospitalization, results in persistent disability/incapacity, is a congenital anomaly/birth defect.\n* TEAE is defined as an event that first occurred or worsened in severity after baseline and on or prior to the date of the last visit within the treatment period.",
+          "timeFrame": "Week 0 to Week 24"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "PsO With no Active PsA: Percentage of Participants With PsO Achieving ≥75% Improvement From Baseline in Psoriasis Area and Severity Index (PASI-75) at Week 12",
+          "description": "Participants achieving a PASI-75 without the use of other background antipsoriasis therapy were considered responders. The PASI quantifies the severity of a psoriasis based on lesion severity and the percent of body surface area (BSA) affected. Erythema, thickness, and scaling are scored on a scale of 0 (none) to 4 (very severe) on 4 anatomic regions of the body: head, trunk, upper limbs, and lower limbs. Degree of involvement on each of the 4 anatomic regions is scored on a scale of 0 (no involvement) to 6 (90% to 100% involvement). The sum of severity scores for erythema, thickness, and scaling is multiplied by the degree of involvement for each anatomic region and then multiplied by a constant corresponding to the region's percent BSA (0.1, 0.3, 0.2, and 0.4 for the above 4 regions, respectively). The resultant score for each anatomic region is then summed to yield the final PASI score. It ranges from 0 to 72, with higher scores reflecting greater disease severity.",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "PsO With no Active PsA: Percentage of PsO Participants With a Static Physician Global Assessment (sPGA) Score of 0 (Clear) or 1 (Minimal)",
+          "description": "The sPGA is an assessment by the physician to determine participant's overall psoriatic lesions, at a given time point. For the analysis of responses, the participant's psoriasis indication is assessed on a 5-point scale as: 0 (clear), 1 (minimal), 2 (mild), 3 (moderate), 4 (severe) incorporating an assessment of the severity of the three primary signs of the disease: induration, erythema, and degree of scaling.\n\nThe investigator examines all of the lesions on the participant and assigns a score ranging from 0 to 5 for induration, erythema and degree of scaling. Scores for induration, erythema and scaling are then summed, and the mean of these 3 scores produces the overall sPGA score.\n\nParticipants with an sPGA score of 0 (clear) or 1 (minimal) were considered responders and are reported here.",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Active PsA: Percentage of Active Psoriatic Arthritis Participants Who Achieved 20% Improvement From Baseline in American College of Rheumatology 20 (ACR20) at Week 24",
+          "description": "The ACR 20 is defined as:\n\n* 20% improvement from baseline in both tender joint count (68 counts) and swollen joint count (66 counts)\n* 20% improvements improvement in at least three of the following five items: Patient's global assessment of arthritis pain (measured on a 100-mm visual analog scale \\[VAS\\]); Patient's global assessment of disease activity (measured on a 100-mm VAS); Physician's global assessment of disease activity (measured on a 100-mm VAS); Patient's assessment of physical function as measured by the Health Assessment Questionnaire - Disability Index (HAQ-DI); Acute-phase reactant as measured by high-sensitivity C-reactive protein (hs-CRP) assay.",
+          "timeFrame": "Week 24"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\nAll participants:\n\n* Male or nonpregnant, nonbreastfeeding female participants.\n\nFor PsO Participants:\n\n* Present with chronic PsO based on a confirmed diagnosis of chronic PsO vulgaris for at least 6 months prior to baseline\n* Have ≥10% Body Surface Area (BSA) of psoriasis at screening (Visit 1) and baseline\n* Have both an static Physician's Global Assessment (sPGA) score of ≥3 and Psoriasis Area and Severity Index (PASI) score ≥12 at screening and baseline\n\nFor PsA Participants\n\n* Have a diagnosis of active PsA for at least 6 months (based on a detailed medical history provided by the patient, and a physical exam by the Study Investigator, and/or other evidence such as that provided by joint x-rays, that establishes a history consistent with a diagnosis of active PsA of at least 6 months' duration) and currently meet the Classification for PsA (CASPAR) criteria.\n* Have active PsA defined as the presence of at least 3/68 tender and at least 3/66 swollen joints, as determined by the Tender and Swollen Joint Count Assessment Form at screening and baseline.\n* Presence of active PsO or a documented history of psoriasis.\n\nExclusion Criteria:\n\n* Have previously completed or withdrawn from this study, participated in any other study with ixekizumab, or have participated in any study investigating other IL-17 antagonists.\n* Have a history of drug-induced PsO.\n* Have a known allergy or hypersensitivity to any biologic therapy that would pose an unacceptable risk to the patient if participating in this study.\n* Had any major surgery within 8 weeks prior to baseline (Week 0; Visit 2), or will require such during the study that, in the opinion of the investigator in consultation with Lilly or its designee, would pose an unacceptable risk to the participant\n* Have diagnosis or history of malignant disease within the 5 years prior to baseline\n* Have any other active or recent infection within 4 weeks of baseline\n\nFor PsO Participants:\n\n* Have received systemic non-biologic PsO therapy (within 4 weeks prior to baseline)\n* Have pustular, erythrodermic, and/or guttate forms of PsO\n* Had a clinically significant flare of PsO during the 12 weeks prior to baseline (Week 0).\n* Have allergy to rubber or latex.\n\nFor PsA Participants:\n\n* Have used conventional synthetic disease-modifying antirheumatic drug (csDMARDs) other than methotrexate (MTX), leflunomide, sulfasalazine, or cyclosporine in the 8 weeks prior to baseline\n* Have received treatment with interleukin (IL)17 or IL-12/23 targeted Mab therapy\n* Are currently receiving treatment with any biologic or small molecule therapy for PsA or PsO, including investigational therapies (such as, but not limited to, a tumor necrosis factor inhibitor (TNFi), IL-1 receptor antagonists, IL-6 inhibitor, anti-IL12/23p40, T cell or B cell targeted therapies, phosphodiesterase (PDE) 4 inhibitors, or Janus Kinase (JAK) inhibitors), or have received denosumab.\n* Have had surgical treatment of a joint within 8 weeks prior to baseline or will require such up to Week 24.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+          "affiliation": "Eli Lilly and Company",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "King George Hospital",
+          "city": "Vizag",
+          "state": "Andhra Pradesh",
+          "zip": "530002",
+          "country": "India",
+          "geoPoint": {
+            "lat": 17.68009,
+            "lon": 83.20161
+          }
+        },
+        {
+          "facility": "All India Institute of Medical Sciences",
+          "city": "Raipur",
+          "state": "Chhattisgarh",
+          "zip": "492099",
+          "country": "India",
+          "geoPoint": {
+            "lat": 21.23333,
+            "lon": 81.63333
+          }
+        },
+        {
+          "facility": "V.S. General Hospital",
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "zip": "380006",
+          "country": "India",
+          "geoPoint": {
+            "lat": 23.02579,
+            "lon": 72.58727
+          }
+        },
+        {
+          "facility": "Amber Clinic",
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "zip": "380015",
+          "country": "India",
+          "geoPoint": {
+            "lat": 23.02579,
+            "lon": 72.58727
+          }
+        },
+        {
+          "facility": "B. J. Medical College & Civil Hospital",
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "zip": "380016",
+          "country": "India",
+          "geoPoint": {
+            "lat": 23.02579,
+            "lon": 72.58727
+          }
+        },
+        {
+          "facility": "GMERS Medical College & Hospital",
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "zip": "380060",
+          "country": "India",
+          "geoPoint": {
+            "lat": 23.02579,
+            "lon": 72.58727
+          }
+        },
+        {
+          "facility": "Tristar Hospital",
+          "city": "Surat",
+          "state": "Gujarat",
+          "zip": "395001",
+          "country": "India",
+          "geoPoint": {
+            "lat": 21.19594,
+            "lon": 72.83023
+          }
+        },
+        {
+          "facility": "Father Muller Medical College Hospital",
+          "city": "Mangalore",
+          "state": "Karnataka",
+          "zip": "575002",
+          "country": "India",
+          "geoPoint": {
+            "lat": 12.91723,
+            "lon": 74.85603
+          }
+        },
+        {
+          "facility": "Dr. D. Y. Patil Medical College & Hospital",
+          "city": "Navi Mumbai",
+          "state": "Maharashtra",
+          "zip": "400706",
+          "country": "India",
+          "geoPoint": {
+            "lat": 19.03681,
+            "lon": 73.01582
+          }
+        },
+        {
+          "facility": "Grant Medical Foundation - Ruby Hall Clinic",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "zip": "411001",
+          "country": "India",
+          "geoPoint": {
+            "lat": 18.51957,
+            "lon": 73.85535
+          }
+        },
+        {
+          "facility": "Oyster & Pearl Hospitals (Phadnis Clinic Pvt. Ltd.)",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "zip": "411005",
+          "country": "India",
+          "geoPoint": {
+            "lat": 18.51957,
+            "lon": 73.85535
+          }
+        },
+        {
+          "facility": "Postgraduate Institute of Medical Education & Research",
+          "city": "Chandigarh",
+          "state": "Punjab",
+          "zip": "160012",
+          "country": "India"
+        },
+        {
+          "facility": "Wizderm Specialty Skin And Hair Clinic",
+          "city": "Kolkata",
+          "state": "West Bengal",
+          "zip": "700017",
+          "country": "India",
+          "geoPoint": {
+            "lat": 22.56263,
+            "lon": 88.36304
+          }
+        },
+        {
+          "facility": "Medical College & Hospital",
+          "city": "Kolkata",
+          "state": "West Bengal",
+          "zip": "700073",
+          "country": "India",
+          "geoPoint": {
+            "lat": 22.56263,
+            "lon": 88.36304
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP",
+        "CSR"
+      ],
+      "timeFrame": "Data are available 6 months after the primary publication and approval of the indication studied in the US and European Union (EU), whichever is later. Data will be indefinitely available for requesting.",
+      "accessCriteria": "A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.",
+      "url": "http://vivli.org/"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Ixekizumab - PsO With no Active PsA",
+          "description": "Participants with plaque psoriasis (PsO) with no active psoriatic arthritis (PsA) received:\n\n* Ixekizumab 160 milligram (mg) subcutaneous (SC) injection as loading dose at Week 0, followed by;\n* Ixekizumab 80 mg SC injection every 2 weeks (Q2W) at Week 2, 4, 6, 8, and 10\n* Ixekizumab 80 mg SC injection every 4 weeks (Q4W) at Week 12, 16, and 20"
+        },
+        {
+          "id": "FG001",
+          "title": "Ixekizumab - Active PsA",
+          "description": "Participants with active psoriatic arthritis (PsA) with moderate to severe plaque psoriasis (PsO) received:\n\n* Ixekizumab 160 mg SC injection as loading dose at Week 0, followed by;\n* Ixekizumab 80 mg SC injection Q2W at Week 2, 4, 6, 8, and 10\n* Ixekizumab 80 mg SC injection Q4W at Week 12, 16, and 20\n\nParticipants with active PsA without moderate to severe PsO received:\n\n* Ixekizumab 160 mg SC injection as loading dose at Week 0, followed by\n* Ixekizumab 80 mg SC injection Q4W at Week 4, 8, 12, 16, and 20."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "150"
+                },
+                {
+                  "groupId": "FG001",
+                  "comment": "* PsA participants with PsO = 59\n* PsA participants without PsO = 41",
+                  "numSubjects": "100"
+                }
+              ]
+            },
+            {
+              "type": "Received at Least One Dose of Study Drug",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "150"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "100"
+                }
+              ]
+            },
+            {
+              "type": "Q2W/Q4W Ixekizumab Dosing Regimen",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "150"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "59"
+                }
+              ]
+            },
+            {
+              "type": "Q4W Ixekizumab Dosing Regimen",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "41"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "141"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "94"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "9"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "6"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "5"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "All enrolled participants who received at least one dose of study treatment.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Ixekizumab - PsO With no Active PsA",
+          "description": "Participants with plaque psoriasis (PsO) with no active psoriatic arthritis (PsA) received:\n\n* Ixekizumab 160 mg SC injection as loading dose at Week 0, followed by;\n* Ixekizumab 80 mg SC injection Q2W at Week 2, 4, 6, 8, and 10\n* Ixekizumab 80 mg SC injection Q4W at Week 12, 16, and 20"
+        },
+        {
+          "id": "BG001",
+          "title": "Ixekizumab - Active PsA",
+          "description": "Participants with active psoriatic arthritis (PsA) with moderate to severe plaque psoriasis (PsO) received:\n\n* Ixekizumab 160 mg SC injection as loading dose at Week 0, followed by;\n* Ixekizumab 80 mg SC injection Q2W at Week 2, 4, 6, 8, and 10\n* Ixekizumab 80 mg SC injection Q4W at Week 12, 16, and 20\n\nParticipants with active PsA without moderate to severe PsO received:\n\n* Ixekizumab 160 mg SC injection as loading dose at Week 0, followed by\n* Ixekizumab 80 mg SC injection Q4W at Week 4, 8, 12, 16, and 20."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "150"
+            },
+            {
+              "groupId": "BG001",
+              "value": "100"
+            },
+            {
+              "groupId": "BG002",
+              "value": "250"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "141"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "92"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "233"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "28"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "61"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "122"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "67"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "189"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "28"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "142"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "80"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "222"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "150"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "100"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "250"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "title": "India",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "150"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "100"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "250"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants Reporting Serious Adverse Events (SAEs), and Treatment Emergent Adverse Events (TEAEs) and AEs of Special Interests (AESIs) From Week 0 to Week 24",
+          "description": "* An SAE is defined as any untoward medical occurrence that, at any dose, meets one or more of the criteria listed: results in death, is life-threatening, requires inpatient hospitalization or prolongation of existing hospitalization, results in persistent disability/incapacity, is a congenital anomaly/birth defect.\n* TEAE is defined as an event that first occurred or worsened in severity after baseline and on or prior to the date of the last visit within the treatment period.",
+          "populationDescription": "All participants who received at least 1 dose of study treatment. As per prespecified analysis in the statistical analysis plan, adverse events were collected and analyzed by ixekizumab dosing regimen \\[that is, Q2W/Q4W and Q4W\\].",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "timeFrame": "Week 0 to Week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Q2W/Q4W Ixekizumab Dosing Regimen",
+              "description": "Participants from PsO With no Active PsA arm and Active PsA arm with moderate to severe plaque psoriasis (PsO) who received Q2W/Q4W Ixekizumab dosing regimen."
+            },
+            {
+              "id": "OG001",
+              "title": "Q4W Ixekizumab Dosing Regimen",
+              "description": "Participants from Active PsA arm without moderate to severe PsO who received Q4W Ixekizumab dosing regimen."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "209"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "41"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "SAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "TEAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "AESIs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "PsO With no Active PsA: Percentage of Participants With PsO Achieving ≥75% Improvement From Baseline in Psoriasis Area and Severity Index (PASI-75) at Week 12",
+          "description": "Participants achieving a PASI-75 without the use of other background antipsoriasis therapy were considered responders. The PASI quantifies the severity of a psoriasis based on lesion severity and the percent of body surface area (BSA) affected. Erythema, thickness, and scaling are scored on a scale of 0 (none) to 4 (very severe) on 4 anatomic regions of the body: head, trunk, upper limbs, and lower limbs. Degree of involvement on each of the 4 anatomic regions is scored on a scale of 0 (no involvement) to 6 (90% to 100% involvement). The sum of severity scores for erythema, thickness, and scaling is multiplied by the degree of involvement for each anatomic region and then multiplied by a constant corresponding to the region's percent BSA (0.1, 0.3, 0.2, and 0.4 for the above 4 regions, respectively). The resultant score for each anatomic region is then summed to yield the final PASI score. It ranges from 0 to 72, with higher scores reflecting greater disease severity.",
+          "populationDescription": "All participants with a psoriasis indication, who do not qualify for active psoriatic arthritis (PsA) and had received at least 1 dose of study treatment. As per planned analysis, the outcome measure was planned to be analyzed for participants with plaque psoriasis (PsO) and with no active psoriatic arthritis (PsA).",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participant",
+          "timeFrame": "Week 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ixekizumab - PsO With no Active PsA",
+              "description": "Participants with plaque psoriasis (PsO) with no active psoriatic arthritis (PsA) received:\n\n* Ixekizumab 160 mg SC injection as loading dose at Week 0, followed by;\n* Ixekizumab 80 mg SC injection Q2W at Week 2, 4, 6, 8, and 10\n* Ixekizumab 80 mg SC injection Q4W at Week 12, 16, and 20"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "150"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "86.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "PsO With no Active PsA: Percentage of PsO Participants With a Static Physician Global Assessment (sPGA) Score of 0 (Clear) or 1 (Minimal)",
+          "description": "The sPGA is an assessment by the physician to determine participant's overall psoriatic lesions, at a given time point. For the analysis of responses, the participant's psoriasis indication is assessed on a 5-point scale as: 0 (clear), 1 (minimal), 2 (mild), 3 (moderate), 4 (severe) incorporating an assessment of the severity of the three primary signs of the disease: induration, erythema, and degree of scaling.\n\nThe investigator examines all of the lesions on the participant and assigns a score ranging from 0 to 5 for induration, erythema and degree of scaling. Scores for induration, erythema and scaling are then summed, and the mean of these 3 scores produces the overall sPGA score.\n\nParticipants with an sPGA score of 0 (clear) or 1 (minimal) were considered responders and are reported here.",
+          "populationDescription": "All participants with a psoriasis indication, who do not qualify for active psoriatic arthritis (PsA) and had received at least 1 dose of study treatment. As per planned analysis, the outcome measure was planned to be analyzed for participants with plaque psoriasis (PsO) and with no active psoriatic arthritis (PsA).",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ixekizumab - PsO With no Active PsA",
+              "description": "Participants with plaque psoriasis (PsO) with no active psoriatic arthritis (PsA) received:\n\n* Ixekizumab 160 mg SC injection as loading dose at Week 0, followed by;\n* Ixekizumab 80 mg SC injection Q2W at Week 2, 4, 6, 8, and 10\n* Ixekizumab 80 mg SC injection Q4W at Week 12, 16, and 20"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "150"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Active PsA: Percentage of Active Psoriatic Arthritis Participants Who Achieved 20% Improvement From Baseline in American College of Rheumatology 20 (ACR20) at Week 24",
+          "description": "The ACR 20 is defined as:\n\n* 20% improvement from baseline in both tender joint count (68 counts) and swollen joint count (66 counts)\n* 20% improvements improvement in at least three of the following five items: Patient's global assessment of arthritis pain (measured on a 100-mm visual analog scale \\[VAS\\]); Patient's global assessment of disease activity (measured on a 100-mm VAS); Physician's global assessment of disease activity (measured on a 100-mm VAS); Patient's assessment of physical function as measured by the Health Assessment Questionnaire - Disability Index (HAQ-DI); Acute-phase reactant as measured by high-sensitivity C-reactive protein (hs-CRP) assay.",
+          "populationDescription": "All participants with an active psoriatic arthritis indication who received at least 1 dose of study treatment. As per planned analysis, the outcome measure was planned to be analyzed for participants with active psoriatic Arthritis.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Ixekizumab - Active PsA",
+              "description": "Participants with active psoriatic arthritis (PsA) with moderate to severe plaque psoriasis (PsO) received:\n\n* Ixekizumab 160 mg SC injection as loading dose at Week 0, followed by;\n* Ixekizumab 80 mg SC injection Q2W at Week 2, 4, 6, 8, and 10\n* Ixekizumab 80 mg SC injection Q4W at Week 12, 16, and 20\n\nParticipants with active PsA without moderate to severe PsO received:\n\n* Ixekizumab 160 mg SC injection as loading dose at Week 0, followed by\n* Ixekizumab 80 mg SC injection Q4W at Week 4, 8, 12, 16, and 20."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "100"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "84.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Week 0 up to 36 Weeks",
+      "description": "All enrolled participants who received at least 1 dose of study treatment. As per prespecified analysis in the statistical analysis plan, adverse events were reported by Ixekizumab dosing regimen \\[that is, Q2W/Q4W and Q4W\\].",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Q2W/Q4W Ixekizumab Dosing Regimen",
+          "description": "Participants from PsO with no active PsA arm and active PsA arm with moderate to severe plaque psoriasis (PsO) received Q2W/Q4W Ixekizumab dosing regimen.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 209,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 209,
+          "otherNumAffected": 66,
+          "otherNumAtRisk": 209
+        },
+        {
+          "id": "EG001",
+          "title": "Q4W Ixekizumab Dosing Regimen",
+          "description": "Participants from Active PsA arm without moderate to severe PsO who received Q4W Ixekizumab dosing regimen.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 41,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 41,
+          "otherNumAffected": 9,
+          "otherNumAtRisk": 41
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Gastroenteritis viral",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Eosinophilia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Leukopenia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Dental caries",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Gastrooesophageal reflux disease",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Hyperchlorhydria",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Injection site erythema",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Pain",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 18,
+              "numAffected": 18,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Appendicitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Body tinea",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Gastroenteritis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Influenza",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Latent tuberculosis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 18,
+              "numAffected": 18,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Localised infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Oral candidiasis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Pulmonary tuberculosis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Pyoderma",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Tinea cruris",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Typhoid fever",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Upper respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Urinary tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Alanine aminotransferase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Blood creatine phosphokinase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Blood triglycerides increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "C-reactive protein increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Gamma-glutamyltransferase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Weight decreased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Weight increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Hypertriglyceridaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Type 2 diabetes mellitus",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Arthralgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Cough",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Alopecia",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Dermatitis acneiform",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Dry skin",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Erythema",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Pruritus",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Skin burning sensation",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Skin lesion",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Urticaria",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        },
+        {
+          "term": "Hypertension",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 209
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 41
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "GT60",
+        "restrictiveAgreement": true
+      },
+      "pointOfContact": {
+        "title": "Chief Medical Officer",
+        "organization": "Eli Lilly and Company",
+        "email": "ClinicalTrials.gov@lilly.com",
+        "phone": "800-545-5979"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-02-14",
+          "uploadDate": "2025-07-08T11:25",
+          "filename": "Prot_000.pdf",
+          "size": 1413797
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-11-18",
+          "uploadDate": "2025-07-31T11:32",
+          "filename": "SAP_001.pdf",
+          "size": 820814
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015535",
+          "term": "Arthritis, Psoriatic"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D025242",
+          "term": "Spondylarthropathies"
+        },
+        {
+          "id": "D025241",
+          "term": "Spondylarthritis"
+        },
+        {
+          "id": "D013166",
+          "term": "Spondylitis"
+        },
+        {
+          "id": "D013122",
+          "term": "Spinal Diseases"
+        },
+        {
+          "id": "D001847",
+          "term": "Bone Diseases"
+        },
+        {
+          "id": "D009140",
+          "term": "Musculoskeletal Diseases"
+        },
+        {
+          "id": "D001168",
+          "term": "Arthritis"
+        },
+        {
+          "id": "D007592",
+          "term": "Joint Diseases"
+        },
+        {
+          "id": "D011565",
+          "term": "Psoriasis"
+        },
+        {
+          "id": "D017444",
+          "term": "Skin Diseases, Papulosquamous"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C549079",
+          "term": "ixekizumab"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

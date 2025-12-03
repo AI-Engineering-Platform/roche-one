@@ -1,0 +1,3595 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04998851",
+      "orgStudyIdInfo": {
+        "id": "MN42989"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2021-000063-79",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Hoffmann-La Roche",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study Evaluating B Cell Levels In Infants Of Lactating Women With CIS Or MS Receiving Ocrelizumab",
+      "officialTitle": "A Phase IV Multicenter, Open-Label Study Evaluating B Cell Levels In Infants Of Lactating Women With CIS Or MS Receiving Ocrelizumab",
+      "acronym": "SOPRANINO"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-08",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-09-16",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-03-29",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-01-13",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-08-06",
+      "studyFirstSubmitQcDate": "2021-08-06",
+      "studyFirstPostDateStruct": {
+        "date": "2021-08-10",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-03-26",
+      "resultsFirstSubmitQcDate": "2025-03-26",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-04-16",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-08-20",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-08-21",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Hoffmann-La Roche",
+        "class": "INDUSTRY"
+      },
+      "collaborators": [
+        {
+          "name": "PPD Development, LP",
+          "class": "INDUSTRY"
+        },
+        {
+          "name": "Laboratory Corporation of America",
+          "class": "INDUSTRY"
+        },
+        {
+          "name": "Illingworth Research Group",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study will evaluate the pharmacokinetics of ocrelizumab in the breastmilk of lactating women with clinically isolated syndrome (CIS) or multiple sclerosis (MS) \\[in line with the locally approved indications\\] treated with ocrelizumab, by assessing the concentration of ocrelizumab in mature breastmilk, as well as the corresponding exposure and pharmacodynamic effects (blood B cell levels) in the infants."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Multiple Sclerosis",
+        "Clinically Isolated Syndrome"
+      ],
+      "keywords": [
+        "ocrelizumab, OCREVUS, breastmilk transfer, breast milk transfer, lactation"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "OTHER",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 26,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Women with CIS or MS",
+          "type": "EXPERIMENTAL",
+          "description": "Lactating women with CIS or MS (in line with the locally approved indications) who decided together with their treating physician to continue on, or start treatment with, OCREVUS (ocrelizumab) post-partum. Women resuming treatment with ocrelizumab post-partum will be included only if the last exposure to ocrelizumab occurred more than 3 months before the last menstrual period to exclude any interference between fetal exposure and exposure via lactation.",
+          "interventionNames": [
+            "Drug: Ocrelizumab"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ocrelizumab",
+          "description": "Women will receive the ocrelizumab dose regimen as per the locally-approved label. The ocrelizumab dose will be administered as an initial split dose of two 300 mg infusions separated by 14 days or a single 600 mg infusion according to the local prescribing information.",
+          "armGroupLabels": [
+            "Women with CIS or MS"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Percentage of Infants With B Cell Levels (Cluster of Differentiation 19 [CD19+] Cells) Below the Lower Limit of Normal (LLN) Measured at Day 30 After the Mother's First Ocrelizumab Postpartum Infusion",
+          "description": "Infant blood samples were collected at Day 30 after the mothers received their first postpartum ocrelizumab infusion (regardless of whether women receive a 600 mg or a 2x300 mg dose). The percentage of infants with B cell levels below LLN are reported with the two-sided Clopper Pearson 95% confidence interval (CI). B-cell reference ranges by week of life (absolute and percentage counts) are defined by Borriello et al. 2022.",
+          "timeFrame": "At Day 30"
+        },
+        {
+          "measure": "Estimated Average Oral Daily Infant Dosage (ADID)",
+          "description": "ADID was calculated as the arithmetic mean of the mother's daily ocrelizumab milk concentration (micrograms/milliliters \\[µg/mL\\]) over 60 days post-ocrelizumab infusion 1 multiplied by an estimated infant milk intake of 150 milliliters/kilograms/day (mL/kg/day) and based on the weight \\[kilograms (kg)\\] recorded at the Day 30 visit. Ocrelizumab concentrations reported as below the lower limit of quantification \\[LLQ=160 nanograms/millilitres (ng/mL)\\] are imputed to zero for the calculation ADID.",
+          "timeFrame": "Up to Day 60"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Absolute CD19+ B Cell Count in the Infant",
+          "description": "Infant blood samples were collected at Day 30 after the mothers received their first postpartum ocrelizumab infusion (regardless of whether women receive a 600 mg or a 2x300 mg dose).",
+          "timeFrame": "At Day 30"
+        },
+        {
+          "measure": "Percentage of CD19+ B Cell in the Infant",
+          "description": "Infant blood samples were collected at Day 30 after the mothers received their first postpartum ocrelizumab infusion (regardless of whether women receive a 600 mg or a 2x300 mg dose).",
+          "timeFrame": "At Day 30"
+        },
+        {
+          "measure": "Area Under the Milk Concentration-Time Curve (AUC) of Ocrelizumab in Mature Breastmilk",
+          "timeFrame": "One 600 mg infusion: before infusion and at 24 hours (Day 1), Days 7, 30 and 60 post-infusion; Two 300 mg infusions: before infusion 1 and at 24 hours (Day 1), Days 7, 14, 15 (24 hours after infusion 2), 21, 30 and 60 post-infusion 1"
+        },
+        {
+          "measure": "Average Concentration of Ocrelizumab in Breastmilk (Cmean)",
+          "timeFrame": "One 600 mg infusion: before infusion and at 24 hours (Day 1), Days 7, 30 and 60 post-infusion; Two 300 mg infusions: before infusion 1 and at 24 hours (Day 1), Days 7, 14, 15 (24 hours after infusion 2), 21, 30 and 60 post-infusion 1"
+        },
+        {
+          "measure": "Maximum Concentration (Cmax) of Ocrelizumab in Breastmilk",
+          "timeFrame": "One 600 mg infusion: before infusion and at 24 hours (Day 1), Days 7, 30 and 60 post-infusion; Two 300 mg infusions: before infusion 1 and at 24 hours (Day 1), Days 7, 14, 15 (24 hours after infusion 2), 21, 30 and 60 post-infusion 1"
+        },
+        {
+          "measure": "Time of Maximum Concentration (Tmax) of Ocrelizumab in Breastmilk",
+          "timeFrame": "One 600 mg infusion: before infusion and at 24 hours (Day 1), Days 7, 30 and 60 post-infusion; Two 300 mg infusions: before infusion 1 and at 24 hours (Day 1), Days 7, 14, 15 (24 hours after infusion 2), 21, 30 and 60 post-infusion 1"
+        },
+        {
+          "measure": "Estimated Maximum Oral Daily Infant Dosage (MDID)",
+          "description": "MDID was calculated at the subject level as the peak ocrelizumab milk concentration (μg/mL) multiplied by an estimated infant milk intake of 150 mL/kg/day measured over 60 days after the mother's first postpartum ocrelizumab infusion.",
+          "timeFrame": "Up to Day 60"
+        },
+        {
+          "measure": "Average Relative Infant Dose (RID)",
+          "description": "Average RID over 60 days was calculated as the ADID (mg/kg/day) divided by the maternal dosage (mg/kg/day) over 60 days multiplied by 100.",
+          "timeFrame": "Up to Day 60"
+        },
+        {
+          "measure": "Serum Concentration of Ocrelizumab in the Infant at Day 30",
+          "description": "Serum concentration of ocrelizumab in the infant measured at Day 30 after the mother's first ocrelizumab postpartum infusion. Concentrations reported as below the lower limit of quantification (LLQ=156 ng/mL) are set to zero for calculation of summary statistics.",
+          "timeFrame": "At Day 30"
+        },
+        {
+          "measure": "Percentage of Mothers With Adverse Events (AEs)",
+          "description": "An AE is any untoward medical occurrence in a participant administered a pharmaceutical product and regardless of causal relationship with this treatment. An AE can therefore be any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease temporally associated with the use of a medicinal (investigational) product, whether or not considered related to the medicinal (investigational) product.",
+          "timeFrame": "Up to approximately 73.3 weeks"
+        },
+        {
+          "measure": "Percentage of Infants With AEs",
+          "description": "An AE is any untoward medical occurrence in a participant administered a pharmaceutical product and regardless of causal relationship with this treatment. An AE can therefore be any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease temporally associated with the use of a medicinal (investigational) product, whether or not considered related to the medicinal (investigational) product.",
+          "timeFrame": "Up to approximately 73.3 weeks"
+        },
+        {
+          "measure": "Mean Titers of Measles, Immunoglobin G (IgG) Antibody in Response to Mumps, and Rubella (MMR) Vaccination",
+          "description": "The immune response to MMR vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines. mIU/mL=milli-international units per milliliter.",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)"
+        },
+        {
+          "measure": "Mean Titers of Mumps, IgG Antibody in Response to MMR Vaccination",
+          "description": "The immune response to MMR vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines. RU/mL=relative units per milliliter.",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)"
+        },
+        {
+          "measure": "Mean Titers of Rubella, IgG Antibody in Response to MMR Vaccination",
+          "description": "The immune response to MMR vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines. IU/mL=international units per milliliter.",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)"
+        },
+        {
+          "measure": "Percentage of Infants With Positive Humoral Response to MMR Vaccination",
+          "description": "Percentage of infants with positive humoral response (seroprotective titers as defined for the individual vaccine) was presented for each IgG antibody titer. Seroprotective titer based on vaccine tests for MMR vaccine are as follows: Anti-Measles Vir IgG(-70)CL: ≥ 120 mIU/mL; Anti-MumpsAT Vir iGG(-70)CL: ≥ 17 RU/mL; Anti-Rub Vir IgG(-70)RUOCL: ≥ 10 IU/mL.",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)"
+        },
+        {
+          "measure": "Mean Titers of Corynebacterium Diphtheriae, IgG Antibody in Response to Diphtheria-Tetanus-Pertussis (DTP) Vaccine",
+          "description": "The immune response to DTP vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines.",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)"
+        },
+        {
+          "measure": "Mean Titers of Bordetella Pertussis, IgG Antibody in Response to DTP Vaccine",
+          "description": "The immune response to DTP vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. Cut-off Index (COI) = unitless ratio calculated as the signal intensity of the sample divided by the signal of the assay's cut-off calibrator. It is interpreted as follows:\n\n* COI \\< 0.95: Negative\n* COI 0.95-1.04: Equivocal\n* COI \\> 1.04: Positive The assay used has not been standardized against WHO International Units (IU/mL) for Bordetella pertussis IgG and therefore, cannot be converted to IU/mL. Higher COI values = a stronger antibody signal, but are not directly correlated with clinical protection. Positivity was defined using the manufacturer's COI cut-off (\\>1.04).",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)"
+        },
+        {
+          "measure": "Mean Titers of Tetanus Toxoid, IgG Antibody in Response to DTP Vaccine",
+          "description": "The immune response to DTP vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines.",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)"
+        },
+        {
+          "measure": "Percentage of Infants With Positive Humoral Response to DTP Vaccine",
+          "description": "Percentage of infants with positive humoral response (seroprotective titers as defined for the individual vaccine) was presented for each IgG antibody titer. Seroprotective titer based on vaccine tests for DTP vaccine are as follows: Anti-Diphtheria IgG(-70)CL and Anti-Tetanus Toxoid IgG(-70)RUO: ≥ 0.01 IU/mL; Bordetella pertussis antibodies, IgG: \\> 1.04 COI.",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)"
+        },
+        {
+          "measure": "Mean Titers of Haemophilus Influenzae Type B (Hib), IgG Antibody in Response to Hib Vaccine",
+          "description": "The immune response to Hib vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines.",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)"
+        },
+        {
+          "measure": "Percentage of Infants With Positive Humoral Response to Hib Vaccine",
+          "description": "Percentage of infants with positive humoral response (seroprotective titers as defined for the individual vaccine) was presented for the IgG antibody titer. Seroprotective titer based on vaccine tests for Hib vaccine are as follows: Hib, IgG: ≥ 0.15 µg/mL.",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)"
+        },
+        {
+          "measure": "Mean Titers of Anti-Hepatitis B Surface Antibody in Response to Hepatitis B Virus (HBV) Vaccine",
+          "description": "The immune response to HBV vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines.",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)"
+        },
+        {
+          "measure": "Percentage of Infants With Positive Humoral Response to HBV Vaccine",
+          "description": "Percentage of infants with positive humoral response (seroprotective titers as defined for the individual vaccine) was presented for the IgG antibody titer. Seroprotective titer based on vaccine tests for HBV vaccine are as follows: Anti-HBs: ≥ 10 mIU/mL.",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)"
+        },
+        {
+          "measure": "Mean Titers of Pneumococcal Capsular Polysaccharide, Serotypes, IgG Antibody in Response to 13-valent Pneumococcal Conjugate Vaccine (PCV-13)",
+          "description": "The immune response to PCV-13 vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines.",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)"
+        },
+        {
+          "measure": "Percentage of Infants With Positive Humoral Response to PCV-13",
+          "description": "Percentage of infants with positive humoral response (seroprotective titers as defined for the individual vaccine) was presented for each IgG antibody titer. Seroprotective titer based on vaccine tests for PCV-13 vaccine are as follows: 13 Valent anti-pneumococcal antibody panel: ≥ 0.35 µg/ml.",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Woman is between 18 and 40 years of age at screening\n* Woman is willing to breastfeed for at least 60 days after the first post-partum ocrelizumab infusion (this decision is to be taken prior to and independent from study participation)\n* Woman is willing to provide breastmilk samples\n* Woman has a diagnosis of MS or CIS (in line with the locally approved indications)\n* Woman has delivered a healthy term singleton infant (≥37 weeks gestation)\n* Infant is between 2-24 weeks of age at the time of the mother's first post-partum dose of ocrelizumab\n* For women who received commercial ocrelizumab (OCREVUS) before enrolment: documentation that last exposure to ocrelizumab occurred more than 3 months before the last menstrual period (LMP) and was given at the approved dose of 2 x 300 mg or 1 x 600 mg\n* Woman agrees to use acceptable contraceptive methods during the study\n\nExclusion Criteria related to the Mother:\n\n* Hypersensitivity to ocrelizumab or to any of its excipients\n* Received last dose of ocrelizumab \\<3 months before the LMP or during pregnancy\n* Active infections (may be included once the infection is treated and is resolved; women with bilateral mastitis infection should not have samples collected until the infection is completely resolved)\n* Prior or current history of primary or secondary immunodeficiency, or woman in an otherwise severely immunocompromised state\n* Known active malignancies, or being actively monitored for recurrence of malignancy\n* History of breast implants, breast augmentation, breast reduction surgery or mastectomy\n* Prior or current history of chronic alcohol abuse or drug abuse\n* Positive screening tests for hepatitis B\n* Treatment with a DMT for CIS or MS during pregnancy and/or first weeks post-partum, with the exception of formulations of interferon-beta, glatiramer acetate or pulsed corticosteroids\n* Treatment with drugs known to transfer to the breastmilk and with established or potential deleterious effects for the infant\n* Treatment with any investigational agent within 6 months or five half-lives of the investigational drug prior to the LMP\n\nExclusion Criteria related to the Infant:\n\n* \\>24 weeks of life at the time of the mother's first dose of ocrelizumab\n* Any abnormality that may interfere with breastfeeding or milk absorption\n* Active infection (may be included once the infection resolves)\n* Infant has any other medical condition or abnormality that, in the opinion of the investigator, could compromise the infant's ability to participate in this study, including interference with the interpretation of study results\n* At least one documented brief resolved unexplained event (BRUE), as defined by the 2016 Guidelines of the American Academy of Pediatrics",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "genderBased": true,
+      "genderDescription": "Lactating women with CIS or MS (in line with the locally approved indications) who decided together with their treating physician to continue on, or start treatment with, OCREVUS (ocrelizumab) post-partum. Women resuming treatment with ocrelizumab post-partum will be included only if the last exposure to ocrelizumab occurred more than 3 months before the last menstrual period to exclude any interference between fetal exposure and exposure via lactation.",
+      "minimumAge": "18 Years",
+      "maximumAge": "40 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Clinical Trials",
+          "affiliation": "Hoffmann-La Roche",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of California San Francisco",
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94158",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.77493,
+            "lon": -122.41942
+          }
+        },
+        {
+          "facility": "University Of Colorado",
+          "city": "Aurora",
+          "state": "Colorado",
+          "zip": "80045",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.72943,
+            "lon": -104.83192
+          }
+        },
+        {
+          "facility": "Northwestern Memorial Hospital",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60611-2987",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "Brigham and Womens Hospital",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "Memorial Healthcare Institute for Neurosciences and Multiple Sclerosis",
+          "city": "Owosso",
+          "state": "Michigan",
+          "zip": "48867",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.9978,
+            "lon": -84.17664
+          }
+        },
+        {
+          "facility": "Hospital of the University of Pennsylvania",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95238,
+            "lon": -75.16362
+          }
+        },
+        {
+          "facility": "Hosp. Clinico San Carlos",
+          "city": "Madrid",
+          "zip": "28040",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Queen Mary University of London",
+          "city": "London",
+          "zip": "EC1M 6BQ",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "For eligible studies, qualified researchers may request access to individual patient level clinical data. See Roche's commitment to transparency of clinical study information here: https://go.roche.com/data\\_sharing"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Lactating mothers with clinically isolated syndrome (CIS) or multiple sclerosis (MS) who, in consultation with their treating physician, chose to continue or start postpartum treatment with commercial ocrelizumab were enrolled in this study. This study included a 60-day treatment and sampling period followed by an 11-month vaccination period.",
+      "recruitmentDetails": "A total of 13 mother-infant pairs took part in the study across 7 sites in the United States, Spain, and the United Kingdom from 16 September 2021 to 13 January 2025.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Mothers",
+          "description": "Lactating mothers initiating ocrelizumab received two doses of 300 milligrams (mg), as an intravenous (IV) infusion on Day 1 and Day 14, and mothers resuming ocrelizumab received a single dose of 600 mg, as an IV infusion on Day 1 at the discretion of the physicians, in accordance with local prescribing information."
+        },
+        {
+          "id": "FG001",
+          "title": "Infants",
+          "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of measles, mumps, and rubella (MMR) vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Treatment and Sampling Period (60 Days)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "13"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "13"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "12"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "12"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vaccination Period (11 Months)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "12"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "12"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "11"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Safety Analysis Set Mothers (SAFM) included all mothers who met the eligibility criteria and received any post-partum dose of ocrelizumab. Safety Analysis Set Infants (SAFI) included all the infants of women in the Full Analysis Set Mothers (FASM) population. As consent for race and ethnicity was not obtained, this data has not been reported.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Mothers",
+          "description": "Lactating mothers initiating ocrelizumab received two doses of 300 mg, as an IV infusion on Day 1 and Day 14, and mothers resuming ocrelizumab received a single dose of 600 mg, as an IV infusion on Day 1 at the discretion of the physicians, in accordance with local prescribing information."
+        },
+        {
+          "id": "BG001",
+          "title": "Infants",
+          "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "13"
+            },
+            {
+              "groupId": "BG001",
+              "value": "13"
+            },
+            {
+              "groupId": "BG002",
+              "value": "26"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Preterm newborn infants (gestational age <37 weeks)",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Newborns (0-27 days)",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                },
+                {
+                  "title": "Infants and toddlers (28 days-23 months)",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "Children (2-11 years)",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Adolescents (12-17 years)",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Adults (18-64 years)",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13"
+                    }
+                  ]
+                },
+                {
+                  "title": "From 65-84 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "85 years and over",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Not reported",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "26"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Infants With B Cell Levels (Cluster of Differentiation 19 [CD19+] Cells) Below the Lower Limit of Normal (LLN) Measured at Day 30 After the Mother's First Ocrelizumab Postpartum Infusion",
+          "description": "Infant blood samples were collected at Day 30 after the mothers received their first postpartum ocrelizumab infusion (regardless of whether women receive a 600 mg or a 2x300 mg dose). The percentage of infants with B cell levels below LLN are reported with the two-sided Clopper Pearson 95% confidence interval (CI). B-cell reference ranges by week of life (absolute and percentage counts) are defined by Borriello et al. 2022.",
+          "populationDescription": "Full Analysis Set Infants (FASI) included all the infants of women in the FASM population. Overall number of participants analyzed is the number of participants with data available for analyses.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "At Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "30.85"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Estimated Average Oral Daily Infant Dosage (ADID)",
+          "description": "ADID was calculated as the arithmetic mean of the mother's daily ocrelizumab milk concentration (micrograms/milliliters \\[µg/mL\\]) over 60 days post-ocrelizumab infusion 1 multiplied by an estimated infant milk intake of 150 milliliters/kilograms/day (mL/kg/day) and based on the weight \\[kilograms (kg)\\] recorded at the Day 30 visit. Ocrelizumab concentrations reported as below the lower limit of quantification \\[LLQ=160 nanograms/millilitres (ng/mL)\\] are imputed to zero for the calculation ADID.",
+          "populationDescription": "Pharmacokinetic Analysis Set Mothers (PASM) included all mothers in the FASM with a breastmilk sample to allow measurement of ocrelizumab concentration.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "micrograms (µg)",
+          "timeFrame": "Up to Day 60",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mothers",
+              "description": "Lactating mothers initiating ocrelizumab received two doses of 300 mg, as an IV infusion on Day 1 and Day 14, and mothers resuming ocrelizumab received a single dose of 600 mg, as an IV infusion on Day 1 at the discretion of the physicians, in accordance with local prescribing information."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "12"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64.50",
+                      "lowerLimit": "21.415",
+                      "upperLimit": "107.587"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Absolute CD19+ B Cell Count in the Infant",
+          "description": "Infant blood samples were collected at Day 30 after the mothers received their first postpartum ocrelizumab infusion (regardless of whether women receive a 600 mg or a 2x300 mg dose).",
+          "populationDescription": "FASI included all the infants of women in the FASM population. Overall number of participants analyzed is the number of participants with data available for analyses.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "cells per microliter (cells/µL)",
+          "timeFrame": "At Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1431.50",
+                      "lowerLimit": "869.0",
+                      "upperLimit": "2241.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of CD19+ B Cell in the Infant",
+          "description": "Infant blood samples were collected at Day 30 after the mothers received their first postpartum ocrelizumab infusion (regardless of whether women receive a 600 mg or a 2x300 mg dose).",
+          "populationDescription": "FASI included all the infants of women in the FASM population. Overall number of participants analyzed is the number of participants with data available for analyses.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "percentage of cells",
+          "timeFrame": "At Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "21.80",
+                      "lowerLimit": "10.0",
+                      "upperLimit": "31.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Area Under the Milk Concentration-Time Curve (AUC) of Ocrelizumab in Mature Breastmilk",
+          "populationDescription": "PASM included all mothers in the FASM with a breastmilk sample to allow measurement of ocrelizumab concentration.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "micrograms/millilitres*day (μg/mL*day)",
+          "timeFrame": "One 600 mg infusion: before infusion and at 24 hours (Day 1), Days 7, 30 and 60 post-infusion; Two 300 mg infusions: before infusion 1 and at 24 hours (Day 1), Days 7, 14, 15 (24 hours after infusion 2), 21, 30 and 60 post-infusion 1",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mothers",
+              "description": "Lactating mothers initiating ocrelizumab received two doses of 300 mg, as an IV infusion on Day 1 and Day 14, and mothers resuming ocrelizumab received a single dose of 600 mg, as an IV infusion on Day 1 at the discretion of the physicians, in accordance with local prescribing information."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "12"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.98",
+                      "spread": "4.93"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Average Concentration of Ocrelizumab in Breastmilk (Cmean)",
+          "populationDescription": "PASM included all mothers in the FASM with a breastmilk sample to allow measurement of ocrelizumab concentration.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "μg/mL",
+          "timeFrame": "One 600 mg infusion: before infusion and at 24 hours (Day 1), Days 7, 30 and 60 post-infusion; Two 300 mg infusions: before infusion 1 and at 24 hours (Day 1), Days 7, 14, 15 (24 hours after infusion 2), 21, 30 and 60 post-infusion 1",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mothers",
+              "description": "Lactating mothers initiating ocrelizumab received two doses of 300 mg, as an IV infusion on Day 1 and Day 14, and mothers resuming ocrelizumab received a single dose of 600 mg, as an IV infusion on Day 1 at the discretion of the physicians, in accordance with local prescribing information."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "12"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.074",
+                      "spread": "0.077"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Maximum Concentration (Cmax) of Ocrelizumab in Breastmilk",
+          "populationDescription": "PASM included all mothers in the FASM with a breastmilk sample to allow measurement of ocrelizumab concentration.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "μg/mL",
+          "timeFrame": "One 600 mg infusion: before infusion and at 24 hours (Day 1), Days 7, 30 and 60 post-infusion; Two 300 mg infusions: before infusion 1 and at 24 hours (Day 1), Days 7, 14, 15 (24 hours after infusion 2), 21, 30 and 60 post-infusion 1",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mothers",
+              "description": "Lactating mothers initiating ocrelizumab received two doses of 300 mg, as an IV infusion on Day 1 and Day 14, and mothers resuming ocrelizumab received a single dose of 600 mg, as an IV infusion on Day 1 at the discretion of the physicians, in accordance with local prescribing information."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "12"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.18",
+                      "spread": "0.15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time of Maximum Concentration (Tmax) of Ocrelizumab in Breastmilk",
+          "populationDescription": "PASM included all mothers in the FASM with a breastmilk sample to allow measurement of ocrelizumab concentration.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "days",
+          "timeFrame": "One 600 mg infusion: before infusion and at 24 hours (Day 1), Days 7, 30 and 60 post-infusion; Two 300 mg infusions: before infusion 1 and at 24 hours (Day 1), Days 7, 14, 15 (24 hours after infusion 2), 21, 30 and 60 post-infusion 1",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mothers",
+              "description": "Lactating mothers initiating ocrelizumab received two doses of 300 mg, as an IV infusion on Day 1 and Day 14, and mothers resuming ocrelizumab received a single dose of 600 mg, as an IV infusion on Day 1 at the discretion of the physicians, in accordance with local prescribing information."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "12"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.97",
+                      "lowerLimit": "0.00",
+                      "upperLimit": "59.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Estimated Maximum Oral Daily Infant Dosage (MDID)",
+          "description": "MDID was calculated at the subject level as the peak ocrelizumab milk concentration (μg/mL) multiplied by an estimated infant milk intake of 150 mL/kg/day measured over 60 days after the mother's first postpartum ocrelizumab infusion.",
+          "populationDescription": "PASM included all mothers in the FASM with a breastmilk sample to allow measurement of ocrelizumab concentration.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "µg",
+          "timeFrame": "Up to Day 60",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mothers",
+              "description": "Lactating mothers initiating ocrelizumab received two doses of 300 mg, as an IV infusion on Day 1 and Day 14, and mothers resuming ocrelizumab received a single dose of 600 mg, as an IV infusion on Day 1 at the discretion of the physicians, in accordance with local prescribing information."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "12"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "153.20",
+                      "spread": "137.15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Average Relative Infant Dose (RID)",
+          "description": "Average RID over 60 days was calculated as the ADID (mg/kg/day) divided by the maternal dosage (mg/kg/day) over 60 days multiplied by 100.",
+          "populationDescription": "PASM included all mothers in the FASM with a breastmilk sample to allow measurement of ocrelizumab concentration.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "percentage",
+          "timeFrame": "Up to Day 60",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mothers",
+              "description": "Lactating mothers initiating ocrelizumab received two doses of 300 mg, as an IV infusion on Day 1 and Day 14, and mothers resuming ocrelizumab received a single dose of 600 mg, as an IV infusion on Day 1 at the discretion of the physicians, in accordance with local prescribing information."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "12"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.50",
+                      "spread": "0.58"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Serum Concentration of Ocrelizumab in the Infant at Day 30",
+          "description": "Serum concentration of ocrelizumab in the infant measured at Day 30 after the mother's first ocrelizumab postpartum infusion. Concentrations reported as below the lower limit of quantification (LLQ=156 ng/mL) are set to zero for calculation of summary statistics.",
+          "populationDescription": "Pharmacokinetic Analysis Set Infants (PASI) included all infants in the FASI with a serum sample to allow measurement of ocrelizumab concentration.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "µg/mL",
+          "timeFrame": "At Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "NA",
+                      "spread": "NA",
+                      "comment": "Mean and standard deviation was not evaluable as the samples were below the limit of quantification (BLQ)."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Mothers With Adverse Events (AEs)",
+          "description": "An AE is any untoward medical occurrence in a participant administered a pharmaceutical product and regardless of causal relationship with this treatment. An AE can therefore be any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease temporally associated with the use of a medicinal (investigational) product, whether or not considered related to the medicinal (investigational) product.",
+          "populationDescription": "Safety Analysis Set Mothers (SAFM) included all mothers who met the eligibility criteria and received any post-partum dose of ocrelizumab.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Up to approximately 73.3 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mothers",
+              "description": "Lactating mothers initiating ocrelizumab received two doses of 300 mg, as an IV infusion on Day 1 and Day 14, and mothers resuming ocrelizumab received a single dose of 600 mg, as an IV infusion on Day 1 at the discretion of the physicians, in accordance with local prescribing information."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "13"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "76.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Infants With AEs",
+          "description": "An AE is any untoward medical occurrence in a participant administered a pharmaceutical product and regardless of causal relationship with this treatment. An AE can therefore be any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease temporally associated with the use of a medicinal (investigational) product, whether or not considered related to the medicinal (investigational) product.",
+          "populationDescription": "Safety Analysis Set Infants (SAFI) included all the infants of women in the FASM population.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of infants",
+          "timeFrame": "Up to approximately 73.3 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "13"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "92.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Titers of Measles, Immunoglobin G (IgG) Antibody in Response to Mumps, and Rubella (MMR) Vaccination",
+          "description": "The immune response to MMR vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines. mIU/mL=milli-international units per milliliter.",
+          "populationDescription": "Antibody Immune Response Analysis Set of Infants (AIRI) included all infants in the SAFI for whom any serum titers of antibody immune response to vaccinations were available.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mIU/mL",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2590.91",
+                      "spread": "2210.74"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Titers of Mumps, IgG Antibody in Response to MMR Vaccination",
+          "description": "The immune response to MMR vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines. RU/mL=relative units per milliliter.",
+          "populationDescription": "AIRI included all infants in the SAFI for whom any serum titers of antibody immune response to vaccinations were available. Overall number analyzed are the number of infants with data available for analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "RU/mL",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "49.53",
+                      "spread": "30.72"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Titers of Rubella, IgG Antibody in Response to MMR Vaccination",
+          "description": "The immune response to MMR vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines. IU/mL=international units per milliliter.",
+          "populationDescription": "AIRI included all infants in the SAFI for whom any serum titers of antibody immune response to vaccinations were available. Overall number analyzed are the number of infants with data available for analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "IU/mL",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "94.21",
+                      "spread": "51.39"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Infants With Positive Humoral Response to MMR Vaccination",
+          "description": "Percentage of infants with positive humoral response (seroprotective titers as defined for the individual vaccine) was presented for each IgG antibody titer. Seroprotective titer based on vaccine tests for MMR vaccine are as follows: Anti-Measles Vir IgG(-70)CL: ≥ 120 mIU/mL; Anti-MumpsAT Vir iGG(-70)CL: ≥ 17 RU/mL; Anti-Rub Vir IgG(-70)RUOCL: ≥ 10 IU/mL.",
+          "populationDescription": "AIRI included all infants in the SAFI for whom any serum titers of antibody immune response to vaccinations were available. Number analyzed refers to infants with data available for the specified IgG antibody titer.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of infants",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Measles, IgG",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Mumps, IgG",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "77.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Rubella, IgG",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Titers of Corynebacterium Diphtheriae, IgG Antibody in Response to Diphtheria-Tetanus-Pertussis (DTP) Vaccine",
+          "description": "The immune response to DTP vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines.",
+          "populationDescription": "AIRI included all infants in the SAFI for whom any serum titers of antibody immune response to vaccinations were available. Overall number analyzed are the number of infants with data available for analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "IU/mL",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.94",
+                      "spread": "3.13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Titers of Bordetella Pertussis, IgG Antibody in Response to DTP Vaccine",
+          "description": "The immune response to DTP vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. Cut-off Index (COI) = unitless ratio calculated as the signal intensity of the sample divided by the signal of the assay's cut-off calibrator. It is interpreted as follows:\n\n* COI \\< 0.95: Negative\n* COI 0.95-1.04: Equivocal\n* COI \\> 1.04: Positive The assay used has not been standardized against WHO International Units (IU/mL) for Bordetella pertussis IgG and therefore, cannot be converted to IU/mL. Higher COI values = a stronger antibody signal, but are not directly correlated with clinical protection. Positivity was defined using the manufacturer's COI cut-off (\\>1.04).",
+          "populationDescription": "AIRI included all infants in the SAFI for whom any serum titers of antibody immune response to vaccinations were available. Overall number analyzed are the number of infants with data available for analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "COI",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.12",
+                      "spread": "0.82"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Titers of Tetanus Toxoid, IgG Antibody in Response to DTP Vaccine",
+          "description": "The immune response to DTP vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines.",
+          "populationDescription": "AIRI included all infants in the SAFI for whom any serum titers of antibody immune response to vaccinations were available. Overall number analyzed are the number of infants with data available for analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "IU/mL",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "6"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.23",
+                      "spread": "0.43"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Infants With Positive Humoral Response to DTP Vaccine",
+          "description": "Percentage of infants with positive humoral response (seroprotective titers as defined for the individual vaccine) was presented for each IgG antibody titer. Seroprotective titer based on vaccine tests for DTP vaccine are as follows: Anti-Diphtheria IgG(-70)CL and Anti-Tetanus Toxoid IgG(-70)RUO: ≥ 0.01 IU/mL; Bordetella pertussis antibodies, IgG: \\> 1.04 COI.",
+          "populationDescription": "AIRI included all infants in the SAFI for whom any serum titers of antibody immune response to vaccinations were available. Overall number analyzed are the number of infants with data available for analysis. Number analyzed refers to infants with data available for the specified IgG antibody titer.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of infants",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Corynebacterium Diphtheriae, IgG",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Bordetella Pertussis, IgG",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "50"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Tetanus Toxoid, IgG",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Titers of Haemophilus Influenzae Type B (Hib), IgG Antibody in Response to Hib Vaccine",
+          "description": "The immune response to Hib vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines.",
+          "populationDescription": "AIRI included all infants in the SAFI for whom any serum titers of antibody immune response to vaccinations were available. Overall number analyzed are the number of infants with data available for analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "micrograms per milliliter (ug/mL)",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.05",
+                      "spread": "4.13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Infants With Positive Humoral Response to Hib Vaccine",
+          "description": "Percentage of infants with positive humoral response (seroprotective titers as defined for the individual vaccine) was presented for the IgG antibody titer. Seroprotective titer based on vaccine tests for Hib vaccine are as follows: Hib, IgG: ≥ 0.15 µg/mL.",
+          "populationDescription": "AIRI included all infants in the SAFI for whom any serum titers of antibody immune response to vaccinations were available. Overall number analyzed are the number of infants with data available for analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of infants",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "80"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Titers of Anti-Hepatitis B Surface Antibody in Response to Hepatitis B Virus (HBV) Vaccine",
+          "description": "The immune response to HBV vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines.",
+          "populationDescription": "AIRI included all infants in the SAFI for whom any serum titers of antibody immune response to vaccinations were available. Overall number analyzed are the number of infants with data available for analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mIU/mL",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "7"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1158.01",
+                      "spread": "1263.32"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Infants With Positive Humoral Response to HBV Vaccine",
+          "description": "Percentage of infants with positive humoral response (seroprotective titers as defined for the individual vaccine) was presented for the IgG antibody titer. Seroprotective titer based on vaccine tests for HBV vaccine are as follows: Anti-HBs: ≥ 10 mIU/mL.",
+          "populationDescription": "AIRI included all infants in the SAFI for whom any serum titers of antibody immune response to vaccinations were available. Overall number analyzed are the number of infants with data available for analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of infants",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "7"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Titers of Pneumococcal Capsular Polysaccharide, Serotypes, IgG Antibody in Response to 13-valent Pneumococcal Conjugate Vaccine (PCV-13)",
+          "description": "The immune response to PCV-13 vaccine was assessed 1 month after the first dose of MMR vaccine (if the first dose is administered at 11 months of age or later) or 1 month after the second dose of MMR vaccine (if the first dose is administered before 11 months of age), or at Month 13 of chronological age if MMR vaccine was not planned to be administered. This was to evaluate whether infants can mount humoral immune responses to clinically relevant vaccines.",
+          "populationDescription": "AIRI included all infants in the SAFI for whom any serum titers of antibody immune response to vaccinations were available. Overall number analyzed are the number of infants with data available for analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "ug/mL",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 1, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.80",
+                      "spread": "6.38"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 3, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.56",
+                      "spread": "3.16"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 4, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8.28",
+                      "spread": "9.18"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 5, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.98",
+                      "spread": "15.72"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 6A, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "27.28",
+                      "spread": "34.50"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 6B, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "27.02",
+                      "spread": "70.85"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 7F, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.44",
+                      "spread": "14.11"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 9V, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.21",
+                      "spread": "3.66"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 14, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14.93",
+                      "spread": "14.49"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 18C, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.62",
+                      "spread": "11.47"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 19A, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.70",
+                      "spread": "1.41"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 19F, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "45.83",
+                      "spread": "80.11"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 23F, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10.50",
+                      "spread": "13.17"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Infants With Positive Humoral Response to PCV-13",
+          "description": "Percentage of infants with positive humoral response (seroprotective titers as defined for the individual vaccine) was presented for each IgG antibody titer. Seroprotective titer based on vaccine tests for PCV-13 vaccine are as follows: 13 Valent anti-pneumococcal antibody panel: ≥ 0.35 µg/ml.",
+          "populationDescription": "AIRI included all infants in the SAFI for whom any serum titers of antibody immune response to vaccinations were available. Overall number analyzed are the number of infants with data available for analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of infants",
+          "timeFrame": "Up to 1 month after the first or second dose of MMR vaccine (at approximately Month 13)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Infants",
+              "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 1, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "80"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 3, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "70"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 4, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "80"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 5, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "90"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 6A, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 6B, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "80"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 7F, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 9V, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "90"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 14, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 18C, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "80"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 19A, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 19F, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pneumococcal Capsular Polysaccharide, Serotype 23F, IgG",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "80"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Mothers and Infants: Up to approximately 73.3 weeks",
+      "description": "SAFM included all mothers who met the eligibility criteria and received any post-partum dose of ocrelizumab. SAFI included all the infants of women in the FASM population.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Mothers",
+          "description": "Lactating mothers initiating ocrelizumab received two doses of 300 mg, as an IV infusion on Day 1 and Day 14, and mothers resuming ocrelizumab received a single dose of 600 mg, as an IV infusion on Day 1 at the discretion of the physicians, in accordance with local prescribing information.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 13,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 13,
+          "otherNumAffected": 10,
+          "otherNumAtRisk": 13
+        },
+        {
+          "id": "EG001",
+          "title": "Infants",
+          "description": "Infants of mothers who received commercial IV ocrelizumab at the discretion of the physicians, in accordance with local prescribing information were observed until the last visit which was at 1 month (+ 30 days) after the first dose of MMR vaccine (if first dose is administered at 11 months of age or later) or 1 month (+ 30 days) after second dose of MMR vaccine (if first dose is administered before 11 months of age), or at Month 13 of chronological age (+ 30 days) if MMR vaccine is not planned to be administered.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 13,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 13,
+          "otherNumAffected": 12,
+          "otherNumAtRisk": 13
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Vertigo positional",
+          "organSystem": "Ear and labyrinth disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Strabismus",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Oral pruritus",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Teething",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Pain",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Drug hypersensitivity",
+          "organSystem": "Immune system disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Bronchiolitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "COVID-19",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 4,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Conjunctivitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Ear infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Gastroenteritis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Hand-foot-and-mouth disease",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Influenza",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Mastitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 3,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 3,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Oral herpes",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Otitis media",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Parainfluenzae virus infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Respiratory syncytial virus infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Rhinovirus infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Suspected COVID-19",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Upper respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Urinary tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Vaginal infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Varicella",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Infusion related reaction",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Weight decreased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Myalgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Neck pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Pain in extremity",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Basal cell carcinoma",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Haemangioma",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Multiple sclerosis pseudo relapse",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Paraesthesia",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Dysmenorrhoea",
+          "organSystem": "Reproductive system and breast disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Nasal congestion",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Throat irritation",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Upper respiratory tract congestion",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Dermatitis contact",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Dermatitis diaper",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Eczema",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Rash",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Skin fissures",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Gastroenteritis viral",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Infected dermal cyst",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Tonsillitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Vulvovaginal candidiasis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Vulvovaginal mycotic infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        },
+        {
+          "term": "Tenosynovitis stenosans",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "The Study being conducted under this Agreement is part of the Overall Study. Investigator is free to publish in reputable journals or to present at professional conferences the results of the Study, but only after the first publication or presentation that involves the Overall Study. The Sponsor may request that Confidential Information be deleted and/or the publication be postponed in order to protect the Sponsor's intellectual property rights."
+      },
+      "pointOfContact": {
+        "title": "Medical Communications",
+        "organization": "Hoffmann-La Roche",
+        "email": "genentech@druginfo.com",
+        "phone": "800 821-8590"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-12-20",
+          "uploadDate": "2025-07-08T01:58",
+          "filename": "Prot_002.pdf",
+          "size": 5262969
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2025-02-19",
+          "uploadDate": "2025-03-26T16:03",
+          "filename": "SAP_001.pdf",
+          "size": 1468095
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "removedCountries": [
+        "Australia",
+        "Canada",
+        "France",
+        "Germany",
+        "Italy",
+        "Switzerland"
+      ]
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D009103",
+          "term": "Multiple Sclerosis"
+        },
+        {
+          "id": "D001942",
+          "term": "Breast Feeding"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D020278",
+          "term": "Demyelinating Autoimmune Diseases, CNS"
+        },
+        {
+          "id": "D020274",
+          "term": "Autoimmune Diseases of the Nervous System"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D003711",
+          "term": "Demyelinating Diseases"
+        },
+        {
+          "id": "D001327",
+          "term": "Autoimmune Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D005247",
+          "term": "Feeding Behavior"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C533411",
+          "term": "ocrelizumab"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

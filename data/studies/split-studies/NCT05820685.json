@@ -1,0 +1,2787 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05820685",
+      "orgStudyIdInfo": {
+        "id": "HSC-MS-22-0499"
+      },
+      "organization": {
+        "fullName": "The University of Texas Health Science Center, Houston",
+        "class": "OTHER"
+      },
+      "briefTitle": "Dronabinol On the Pain Experience",
+      "officialTitle": "Dronabinol On the Pain Experience (DOPE): a Pragmatic Randomized Clinical Trial",
+      "acronym": "DOPE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-05",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Study concluded because of drug shortage",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-07-27",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-04-29",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-04-29",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-04-06",
+      "studyFirstSubmitQcDate": "2023-04-06",
+      "studyFirstPostDateStruct": {
+        "date": "2023-04-20",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-04-23",
+      "resultsFirstSubmitQcDate": "2025-05-22",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-06-11",
+        "type": "ACTUAL"
+      },
+      "dispFirstSubmitDate": "2024-12-19",
+      "dispFirstPostDateStruct": {
+        "date": "2025-06-11",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-05-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-06-11",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "John Andrew Harvin",
+        "investigatorTitle": "Associate Professor",
+        "investigatorAffiliation": "The University of Texas Health Science Center, Houston"
+      },
+      "leadSponsor": {
+        "name": "The University of Texas Health Science Center, Houston",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "The Eastern Association for the Surgery of Trauma",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to identify the effect dronabinol has on opioid exposure when used as an adjunct to the current standard multi-modal pain regimen (MMPR)"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Trauma Injury"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 484,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Standard of Care",
+          "type": "ACTIVE_COMPARATOR",
+          "interventionNames": [
+            "Drug: Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol)"
+          ]
+        },
+        {
+          "label": "Standard of Care + Dronabinol",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol)",
+            "Drug: Dronabinol"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol)",
+          "description": "Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.",
+          "armGroupLabels": [
+            "Standard of Care",
+            "Standard of Care + Dronabinol"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Dronabinol",
+          "description": "Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement.",
+          "armGroupLabels": [
+            "Standard of Care + Dronabinol"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Total Morphine Milligram Equivalents (MME) Per Day",
+          "description": "This will be calculated by calculated by taking the total of MMEs from all opioids received and dividing by length of stay",
+          "timeFrame": "From time of admission to time of discharge (about 11 days after admission)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Total Morphine Milligram Equivalents (MME) Over Hospital Stay",
+          "description": "This will be calculated by calculated by taking the total of MMEs from all opioids received",
+          "timeFrame": "From time of admission to time of discharge (about 11 days after admission)"
+        },
+        {
+          "measure": "Pain as Assessed by the Defense and Veterans Pain Rating Scale (DVPRS)",
+          "description": "This is a 4 item questionnaire and each is scored from 0(no pain) to 10( as bad as it could be, nothing else matters), enhanced with functional word descriptor anchors at each pain level and \"traffic light\" color coded bars to delineate levels of pain; mild (1 to 4, green), moderate (5 to 6, yellow), and severe (7 to 10, red) pain a higher number indicating more pain Average pain score during the course of the hospital stay will be reported.",
+          "timeFrame": "From time of admission to time of discharge (about 11 days after admission)"
+        },
+        {
+          "measure": "Number of Participants Discharged Form Hospital With a Prescription for an Opioid Medication",
+          "timeFrame": "Discharge (about 11 days after admission)"
+        },
+        {
+          "measure": "Number of Participants Discharged Form Hospital Without a Prescription for an Opioid Medication",
+          "timeFrame": "Discharge (about 11 days after admission)"
+        },
+        {
+          "measure": "Number of Participants That Have Incidences of Opioid-related Complications, Such as Ileus, Aspiration, Unplanned Intubation, Unplanned Admission to an Intensive Care Unit, and Use of an Opioid-reversal Agent.",
+          "timeFrame": "From time of admission to time of discharge (about 11 days after admission)"
+        },
+        {
+          "measure": "Hospital Length of Stay",
+          "timeFrame": "From time of admission to time of discharge (about 11 days after admission)"
+        },
+        {
+          "measure": "Number of Hospital Free Days",
+          "description": "This will be calculated as (30 days-length of stay (LOS))",
+          "timeFrame": "30 days"
+        },
+        {
+          "measure": "ICU Length of Stay (Participants With >0 ICU Days)",
+          "timeFrame": "From time of admission to ICU to time of discharge from ICU (about 12 days after admission)"
+        },
+        {
+          "measure": "Number of Days on a Ventilator (Participants With > 0 Days on a Ventilator)",
+          "timeFrame": "From time of intubation to time of extubation (about 14 days after admission)"
+        },
+        {
+          "measure": "Number of ICU Free Days (Participants With >0 ICU Days)",
+          "description": "This will be calculated as (30 days-number of days in ICU)",
+          "timeFrame": "30 days"
+        },
+        {
+          "measure": "Number of Ventilator Free Days (Participants With >0 Days on a Ventilator)",
+          "description": "This will be calculated as (30 days-number of days spent on ventilator)",
+          "timeFrame": "30 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* patients admitted to the floor, Surgical Intermediate Medical Unit (SIMU), Shock-Trauma ICU (STICU) at Memorial Herman Hospital-Texas Medical Center(MHH-TMC)\n\nExclusion Criteria:\n\n* Pregnant\n* Prisoner\n* Patients placed in observation unit\n* Non-acute trauma\n* Admitted with primary burn injury\n* Expired prior to admission\n* Moribund\n* Discharge from emergency department\n* Left against medical advice",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "16 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "John Harvin, MD, FACS",
+          "affiliation": "The University of Texas Health Science Center, Houston",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "The University of Texas Health Science Center at Houston",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Standard of Care",
+          "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+        },
+        {
+          "id": "FG001",
+          "title": "Standard of Care + Dronabinol",
+          "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "241"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "243"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "235"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "234"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "9"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Includes all participant who completed the study.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Standard of Care",
+          "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+        },
+        {
+          "id": "BG001",
+          "title": "Standard of Care + Dronabinol",
+          "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "235"
+            },
+            {
+              "groupId": "BG001",
+              "value": "234"
+            },
+            {
+              "groupId": "BG002",
+              "value": "469"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "38",
+                      "lowerLimit": "27",
+                      "upperLimit": "59"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "38",
+                      "lowerLimit": "27",
+                      "upperLimit": "52"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "38",
+                      "lowerLimit": "27",
+                      "upperLimit": "55"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "67"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "127"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "175"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "167"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "342"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "66"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "77"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "143"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "66"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "130"
+                    }
+                  ]
+                },
+                {
+                  "title": "Hispanic",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "83"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "83"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "166"
+                    }
+                  ]
+                },
+                {
+                  "title": "Other",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "30"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Score on Abbreviated Injury Scale (AIS) - Head",
+          "description": "The AIS classifies individual injuries by body region as follows: 0 = No Injury; 1 = Minor; 2 = Moderate; 3 = Serious; 4 = Severe; 5 = Critical; 6 = Maximal (currently untreatable)",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "score on a scale",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Score on Abbreviated Injury Scale (AIS) - Chest",
+          "description": "The AIS classifies individual injuries by body region as follows: 0 = No Injury; 1 = Minor; 2 = Moderate; 3 = Serious; 4 = Severe; 5 = Critical; 6 = Maximal (currently untreatable)",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "score on a scale",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1",
+                      "lowerLimit": "0",
+                      "upperLimit": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2",
+                      "lowerLimit": "0",
+                      "upperLimit": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1",
+                      "lowerLimit": "0",
+                      "upperLimit": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Score on Abbreviated Injury Scale (AIS) - Abdomen",
+          "description": "The AIS classifies individual injuries by body region as follows: 0 = No Injury; 1 = Minor; 2 = Moderate; 3 = Serious; 4 = Severe; 5 = Critical; 6 = Maximal (currently untreatable)",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "score on a scale",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Score on Abbreviated Injury Scale (AIS) - Extremity",
+          "description": "The AIS classifies individual injuries by body region as follows: 0 = No Injury; 1 = Minor; 2 = Moderate; 3 = Serious; 4 = Severe; 5 = Critical; 6 = Maximal (currently untreatable)",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "score on a scale",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2",
+                      "lowerLimit": "0",
+                      "upperLimit": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2",
+                      "lowerLimit": "0",
+                      "upperLimit": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2",
+                      "lowerLimit": "0",
+                      "upperLimit": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Injury Severity Score (ISS)",
+          "description": "The Injury Severity Score (ISS) assesses the combined effects of injuries in multiple anatomical locations and ranges from from 1 to 75, with 75 being the most severe.",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "score on a scale",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "17",
+                      "lowerLimit": "9",
+                      "upperLimit": "22"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "14",
+                      "lowerLimit": "9",
+                      "upperLimit": "19"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14",
+                      "lowerLimit": "9",
+                      "upperLimit": "21"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of Participants with a blunt injury",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "181"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "175"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "356"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of Participants with Rib Fractures",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "102"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "100"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "202"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of participants with flail segment",
+          "description": "Flail segment is the condition of having three or more contiguous ribs fractured in two or more places",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "25"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of participants with long bone fracture",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "79"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "72"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "151"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of participants with vertebral body fracture",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "43"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of participants with pelvis or acetabulum fracture",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "49"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "37"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "86"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of participants with traumatic brain injury",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "57"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of participants who underwent laparotomy procedure",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "54"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of participants who underwent thoracotomy procedure",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of participants who underwent amputation procedure",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of participants who underwent any procedure",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "181"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "184"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "365"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of Participants With Prior Opioid Use",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "145"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "151"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "296"
+                    }
+                  ]
+                },
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "84"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "68"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "152"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "21"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of Participants with a History of Smoking",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "149"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "146"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "295"
+                    }
+                  ]
+                },
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "76"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "76"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "152"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "22"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of Participants with a Positive Alcohol Screen",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "91"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "85"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "176"
+                    }
+                  ]
+                },
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "37"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "72"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Performed",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "107"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "114"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "221"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of Participants with a Positive Drug Screen",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "145"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "140"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "285"
+                    }
+                  ]
+                },
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "83"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Performed",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "55"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "101"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of rib fractures (all participants)",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "rib fractures",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "number of rib fractures (only participants with rib fractures)",
+          "populationDescription": "102 participant in the Standard of Care arm had rib fractures. 100 participant in the Standard of Care + Dronabinol arm had rib fractures. This baseline measure is for participants with rib fractures.",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "rib fractures",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "102"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "100"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "202"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5",
+                      "lowerLimit": "2",
+                      "upperLimit": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4",
+                      "lowerLimit": "2",
+                      "upperLimit": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5",
+                      "lowerLimit": "2",
+                      "upperLimit": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unit of admission",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "235"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "234"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "469"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Floor",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "164"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "167"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "331"
+                    }
+                  ]
+                },
+                {
+                  "title": "Intermediate unit",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "63"
+                    }
+                  ]
+                },
+                {
+                  "title": "Intensive care unit",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "65"
+                    }
+                  ]
+                },
+                {
+                  "title": "Other",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Total Morphine Milligram Equivalents (MME) Per Day",
+          "description": "This will be calculated by calculated by taking the total of MMEs from all opioids received and dividing by length of stay",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "MME Per Day",
+          "timeFrame": "From time of admission to time of discharge (about 11 days after admission)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Standard of Care",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            },
+            {
+              "id": "OG001",
+              "title": "Standard of Care + Dronabinol",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "235"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "234"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "15",
+                      "lowerLimit": "9",
+                      "upperLimit": "25"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "17",
+                      "lowerLimit": "10",
+                      "upperLimit": "26"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Total Morphine Milligram Equivalents (MME) Over Hospital Stay",
+          "description": "This will be calculated by calculated by taking the total of MMEs from all opioids received",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "Morphine Milligram Equivalents (MME)",
+          "timeFrame": "From time of admission to time of discharge (about 11 days after admission)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Standard of Care",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            },
+            {
+              "id": "OG001",
+              "title": "Standard of Care + Dronabinol",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "235"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "234"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "99",
+                      "lowerLimit": "50",
+                      "upperLimit": "197"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "99",
+                      "lowerLimit": "48",
+                      "upperLimit": "182"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Pain as Assessed by the Defense and Veterans Pain Rating Scale (DVPRS)",
+          "description": "This is a 4 item questionnaire and each is scored from 0(no pain) to 10( as bad as it could be, nothing else matters), enhanced with functional word descriptor anchors at each pain level and \"traffic light\" color coded bars to delineate levels of pain; mild (1 to 4, green), moderate (5 to 6, yellow), and severe (7 to 10, red) pain a higher number indicating more pain Average pain score during the course of the hospital stay will be reported.",
+          "populationDescription": "Data were not collected for this outcome measure because it was not charted by the bedside nurse.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "From time of admission to time of discharge (about 11 days after admission)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Standard of Care",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            },
+            {
+              "id": "OG001",
+              "title": "Standard of Care + Dronabinol",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Discharged Form Hospital With a Prescription for an Opioid Medication",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Discharge (about 11 days after admission)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Standard of Care",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            },
+            {
+              "id": "OG001",
+              "title": "Standard of Care + Dronabinol",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "235"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "234"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "133"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "144"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Discharged Form Hospital Without a Prescription for an Opioid Medication",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Discharge (about 11 days after admission)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Standard of Care",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            },
+            {
+              "id": "OG001",
+              "title": "Standard of Care + Dronabinol",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "235"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "234"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "102"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "90"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants That Have Incidences of Opioid-related Complications, Such as Ileus, Aspiration, Unplanned Intubation, Unplanned Admission to an Intensive Care Unit, and Use of an Opioid-reversal Agent.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From time of admission to time of discharge (about 11 days after admission)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Standard of Care",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            },
+            {
+              "id": "OG001",
+              "title": "Standard of Care + Dronabinol",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "235"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "234"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Hospital Length of Stay",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "days",
+          "timeFrame": "From time of admission to time of discharge (about 11 days after admission)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Standard of Care",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            },
+            {
+              "id": "OG001",
+              "title": "Standard of Care + Dronabinol",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "235"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "234"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6",
+                      "lowerLimit": "4",
+                      "upperLimit": "11"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6",
+                      "lowerLimit": "3",
+                      "upperLimit": "9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Hospital Free Days",
+          "description": "This will be calculated as (30 days-length of stay (LOS))",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "Days",
+          "timeFrame": "30 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Standard of Care",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            },
+            {
+              "id": "OG001",
+              "title": "Standard of Care + Dronabinol",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "235"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "234"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "24",
+                      "lowerLimit": "19",
+                      "upperLimit": "26"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "24",
+                      "lowerLimit": "21",
+                      "upperLimit": "27"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "ICU Length of Stay (Participants With >0 ICU Days)",
+          "populationDescription": "Only the participants with \\> 0 ICU days were analyzed for this outcome measure.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "days",
+          "timeFrame": "From time of admission to ICU to time of discharge from ICU (about 12 days after admission)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Standard of Care",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            },
+            {
+              "id": "OG001",
+              "title": "Standard of Care + Dronabinol",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "39"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "42"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5",
+                      "lowerLimit": "3",
+                      "upperLimit": "12"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6",
+                      "lowerLimit": "3",
+                      "upperLimit": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Days on a Ventilator (Participants With > 0 Days on a Ventilator)",
+          "populationDescription": "Only the participants with \\> 0 days on a ventilator were analyzed for this outcome measure.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "days",
+          "timeFrame": "From time of intubation to time of extubation (about 14 days after admission)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Standard of Care",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            },
+            {
+              "id": "OG001",
+              "title": "Standard of Care + Dronabinol",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "23"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "23"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3",
+                      "lowerLimit": "2",
+                      "upperLimit": "11"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6",
+                      "lowerLimit": "3",
+                      "upperLimit": "14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of ICU Free Days (Participants With >0 ICU Days)",
+          "description": "This will be calculated as (30 days-number of days in ICU)",
+          "populationDescription": "Only the participants with \\> 0 ICU days were analyzed for this outcome measure.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "days",
+          "timeFrame": "30 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Standard of Care",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            },
+            {
+              "id": "OG001",
+              "title": "Standard of Care + Dronabinol",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "39"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "42"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "25",
+                      "lowerLimit": "18",
+                      "upperLimit": "27"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "25",
+                      "lowerLimit": "20",
+                      "upperLimit": "27"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Ventilator Free Days (Participants With >0 Days on a Ventilator)",
+          "description": "This will be calculated as (30 days-number of days spent on ventilator)",
+          "populationDescription": "Only the participants with \\> 0 days on a ventilator were analyzed for this outcome measure.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "days",
+          "timeFrame": "30 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Standard of Care",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            },
+            {
+              "id": "OG001",
+              "title": "Standard of Care + Dronabinol",
+              "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "23"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "23"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "27",
+                      "lowerLimit": "19",
+                      "upperLimit": "28"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "24",
+                      "lowerLimit": "16",
+                      "upperLimit": "27"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "From hospital admission up to hospital discharge (about 11 days)",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Standard of Care",
+          "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.",
+          "deathsNumAffected": 5,
+          "deathsNumAtRisk": 235,
+          "seriousNumAffected": 10,
+          "seriousNumAtRisk": 235,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 235
+        },
+        {
+          "id": "EG001",
+          "title": "Standard of Care + Dronabinol",
+          "description": "Standard of Care (acetaminophen +naproxen +gabapentin + as needed oxycodone or Tramadol): Participants will receive acetaminophen 1000 mg every six hours, naproxen 500 mg every 12 hours, and gabapentin 300 mg every eight hours. Participants will also receive Oxycodone 5 mg or Tramadol 50 mg every six hours as needed for breakthrough pain. Providers will have the ability to adjust this pain regimen based on clinical judgement.\n\nDronabinol: Participants will receive Dronabinol 10 mg every 12 hours scheduled. Providers will have the ability to adjust this pain regimen based on clinical judgement.",
+          "deathsNumAffected": 4,
+          "deathsNumAtRisk": 234,
+          "seriousNumAffected": 13,
+          "seriousNumAtRisk": 234,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 234
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Unplanned intubation",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 235
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 4,
+              "numAtRisk": 234
+            }
+          ]
+        },
+        {
+          "term": "Unplanned ICU",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 235
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 13,
+              "numAtRisk": 234
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "John Harvin, MD, FACS",
+        "organization": "The University of Texas Health Science Center at Houston",
+        "email": "John.Harvin@uth.tmc.edu",
+        "phone": "713-500-7244"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-04-24",
+          "uploadDate": "2025-04-23T12:12",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 731768
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-05-14",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000081084",
+          "term": "Accidental Injuries"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014947",
+          "term": "Wounds and Injuries"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D059039",
+          "term": "Standard of Care"
+        },
+        {
+          "id": "D014147",
+          "term": "Tramadol"
+        },
+        {
+          "id": "D013759",
+          "term": "Dronabinol"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D019984",
+          "term": "Quality Indicators, Health Care"
+        },
+        {
+          "id": "D011787",
+          "term": "Quality of Health Care"
+        },
+        {
+          "id": "D006298",
+          "term": "Health Services Administration"
+        },
+        {
+          "id": "D017530",
+          "term": "Health Care Quality, Access, and Evaluation"
+        },
+        {
+          "id": "D003511",
+          "term": "Cyclohexanols"
+        },
+        {
+          "id": "D000441",
+          "term": "Hexanols"
+        },
+        {
+          "id": "D005233",
+          "term": "Fatty Alcohols"
+        },
+        {
+          "id": "D000438",
+          "term": "Alcohols"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D004123",
+          "term": "Dimethylamines"
+        },
+        {
+          "id": "D008744",
+          "term": "Methylamines"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D008055",
+          "term": "Lipids"
+        },
+        {
+          "id": "D002186",
+          "term": "Cannabinoids"
+        },
+        {
+          "id": "D013729",
+          "term": "Terpenes"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

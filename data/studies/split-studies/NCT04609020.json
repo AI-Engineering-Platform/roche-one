@@ -1,0 +1,1417 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04609020",
+      "orgStudyIdInfo": {
+        "id": "CMO-MA-FAS-0580"
+      },
+      "organization": {
+        "fullName": "Allergan",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Study to Evaluate Subject Satisfaction With Facial Appearance and Impact of Combined Facial Treatment",
+      "officialTitle": "Prospective, Multi-site Study to Evaluate Subject Satisfaction With Facial Appearance Overall and the Aesthetic and Psychosocial Impact of Combined Facial Treatment"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-02-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-05-10",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-05-10",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-10-06",
+      "studyFirstSubmitQcDate": "2020-10-23",
+      "studyFirstPostDateStruct": {
+        "date": "2020-10-30",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-05-02",
+      "resultsFirstSubmitQcDate": "2025-06-02",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-06-17",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-06-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-06-17",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Allergan",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": true,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The primary objective of this study is to quantify the psychological, social, and emotional impact of comprehensive aesthetic treatment with a portfolio of the Sponsor's products by measuring the change in subject's satisfaction with facial appearance from baseline (before any treatment) to the final study visit"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Facial Rhytides",
+        "Skin Folds",
+        "Loss of Volume and Skin Quality"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 64,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "HArmonyCA, Juvederm, BOTOX",
+          "type": "EXPERIMENTAL",
+          "description": "All treatments will be administered according to the respective label and according to an agreed upon treatment plan between the subject and Health Care Provider. If required: HarmonyCA Lidocaine will be administered at Visit 1, Juvéderm filler injections (JUVÉDERM VOLBELLA with Lidocaine, and/or JUVÉDERM VOLIFT with Lidocaine, and/or JUVÉDERM VOLUMA with Lidocaine, and/or JUVÉDERM VOLITE with Lidocaine and/or JUVÉDERM VOLUX with Lidocaine) will be administered at Visit 3, BOTOX will be administered at Visit 5. Touch-ups may be performed as required by subject's treatment plan after each study visit.",
+          "interventionNames": [
+            "Device: JUVÉDERM",
+            "Drug: BOTOX",
+            "Device: HArmonyCA Lidocaine"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "JUVÉDERM",
+          "description": "JUVÉDERM VOLBELLA with Lidocaine Treatment of any fine lines and medium-sized skin depressions. Can also be used for enhancement and pouting of the lips to correct structural defects such as asymmetry, contour deformities, volume loss. JUVÉDERM VOLIFT with Lidocaine Intended for the treatment of any deep skin depressions due to conditions such as premature aging. Can also be used for face contouring and volume restoration to correct facial structural defects such as asymmetry, contour deformities, volume loss in the lips, cheeks, chin, lower face. JUVÉDERM VOLUMA with Lidocaine Intended to restore volume of the face JUVÉDERM VOLITE with Lidocaine Intended for treatment, by filling, of superficial cutaneous depressions such as fine lines and for additional improvement of skin quality attributes such as hydration and elasticity. JUVÉDERM VOLUX with Lidocaine Intended to restore and generate facial volume in chin and mandible areas",
+          "armGroupLabels": [
+            "HArmonyCA, Juvederm, BOTOX"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "BOTOX",
+          "description": "Indicated for the treatment of hyperkinetic facial lines.",
+          "armGroupLabels": [
+            "HArmonyCA, Juvederm, BOTOX"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "HArmonyCA Lidocaine",
+          "description": "HArmonyCa Lidocaine injectable gel is a dermal filler intended for facial soft tissue augmentation.",
+          "armGroupLabels": [
+            "HArmonyCA, Juvederm, BOTOX"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change From Baseline in the Rasch-transformed Score of the FACE-Q Satisfaction With Facial Appearance Scale.",
+          "description": "The FACE-Q questionnaire focuses on patient's satisfaction with facial appearance at the final study visit compared to before starting study treatment and is a 10- item questionnaire. Overall scores range from 0 to 100 with higher scores representing higher satisfaction.",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change From Baseline in the FACE-Q Aging Appraisal",
+          "description": "The FACE-Q questionnaire is a 7-item questionnaire with overall scores that range from 0 to 100 and higher scores reflecting a better outcome.",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)"
+        },
+        {
+          "measure": "Change From Baseline in the Rasch-transformed Score of the FACE-Q Psychological Function Scale",
+          "description": "The FACE-Q questionnaire is a 10-item questionnaire with overall scores that range from 0 to 100 and higher scores reflecting a better outcome.",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)"
+        },
+        {
+          "measure": "Change From Baseline in the Rasch-transformed Score of the FACE-Q Social Function Scale",
+          "description": "The FACE-Q questionnaire is a 8-item questionnaire with overall scores that range from 0 to 100 and higher scores reflecting a better outcome.",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)"
+        },
+        {
+          "measure": "Change From Baseline in the Rasch-transformed Score of the FACE-Q Satisfaction With Skin",
+          "description": "The FACE-Q questionnaire is a 12- item questionnaire. Overall scores range from 0 to 100 with higher scores representing higher satisfaction.",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)"
+        },
+        {
+          "measure": "Change From Baseline Self-Perception of Age",
+          "description": "Subject's assessment of self-perception of age as measured by SPA. Subject's selected one of 3 options based on how they felt their facial appearance looked compared to their age on the day they completed the assessment, writing in the number of years when appropriate.",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)"
+        },
+        {
+          "measure": "Investigator's Assessment Using Global Aesthetic Improvement Scale (GAIS)",
+          "description": "Five point ordinal scale measuring the change in facial aesthetic improvement from -2 (Much Worse) to 2 (Much Improved) assessed by the Investigator.",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)"
+        },
+        {
+          "measure": "Subject's Assessment Using Global Aesthetic Improvement Scale (GAIS)",
+          "description": "Five point ordinal scale measuring the change in facial aesthetic improvement from -2 (Much Worse) to 2 (Much Improved) assessed by the subject.",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)"
+        },
+        {
+          "measure": "Change From Baseline to End of Study of Periorbital Aesthetic Appearance Questionnaire (PAAQ)",
+          "description": "Questionnaire evaluating the subject's overall eye appearance from 0 (Never) to 4 (All of the Time) for each of the 9 items. All items were transformed to a scale from 0 (no negative impact) to 100 (high negative impact).\n\nTotal transformed score is based on 9 individual items each item has a range of 0 to 4, the transformed score ranges from 0 to 100.\n\nPsychological domain is based on the average of the sum of transformed scores of individual items 2, 4, 6, 7, and 8. Score will also range from 0 to 100 with same interpretation as the total transformed score.\n\nAppearance domain is based on the average of the sum of transformed scores of individual items 1, 3, and 5. Score will also range from 0 to 100 with same interpretation as the total transformed score.\n\nCoping domain is the transformed score of item 9. Score will also range from 0 to 100 with same interpretation as the total transformed score.",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Accept the obligation not to receive any other facial procedures or treatments at any time during the study that are not related to the study\n* Women of childbearing potential must have a negative urine pregnancy test before each injectable treatment and practice a reliable method of contraception throughout the study\n* Willing to avoid direct and prolonged sun exposure to the facial skin, which includes tanning beds, for the duration of the study\n* Must qualify to receive BOTOX treatments, in at least one area, as per the approved Product Monograph including treatment of hyperkinetic lines for the glabellar, crow's feet, and forehead lines:\n\n  * Glabellar injection: glabellar rhytides characterized as moderate or severe during maximum muscle contraction on the evaluation of the facial wrinkle scale (FWS)\n  * CFLs characterized as 2 (moderate) or 3 (severe) during maximum smile on the evaluation of the FWS\n  * Forehead lines (FHLs) of moderate to 3 severe rating at maximum eyebrow elevation as assessed using the FWS\n\nExclusion Criteria:\n\n* Body mass index (BMI) \\> 30 kg/m2\n* Known allergy or sensitivity to the study products or their components\n* Pregnant, lactating, or planning to become pregnant at any time during the study\n* Received BOTOX or treatment with any other botulinum toxin product for any condition within 6 months before enrollment\n* Received (or is planning to receive) anti-coagulation, antiplatelet or thrombolytic medications (e.g., warfarin) or other substances known to increase coagulation time from 10 days prior to injection and up to 3 days post-injection\n* Undergone plastic surgery of the face and/or neck, tissue grafting, or tissue augmentation with silicone, fat, or other permanent dermal fillers, or be planning to undergo any of these procedures at any time during the study\n* Has undergone temporary or semi-permanent facial or neck dermal filler treatment (e.g., hyaluronic acid, calcium hydroxylapatite, poly-L-lactic acid) within 12 months before enrollment\n* Received mesotherapy, skin resurfacing (laser, photomodulation, intense pulsed light, radio frequency, dermabrasion, chemical peel, or non-ablative procedures) in the face or neck within 6 months prior to study enrollment\n* Marked facial asymmetry, brow or eyelid ptosis, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin, or an inability to substantially lessen the resting GLs and CFLs/facial rhytides by physically spreading them apart\n* Lip tattoos, facial hair or scars that would interfere with visualization of the lips and perioral area for the effectiveness assessments\n* At any proposed injection site, presence of inflammation, infection at any injection site or systemic infection (study entry may be postponed until one week following recovery), noticeable acne scarring, cancerous or pre-cancerous lesion, or unhealed wound or have undergone radiation treatment in the area to be treated\n* Received any investigational product within 60 days prior to study enrollment or planning to participate in another investigation during the course of this study\n* Current use of oral corticosteroids\n* Current use of nonsteroidal anti-inflammatory drugs (NSAIDs) (e.g., aspirin, ibuprofen), from 10 days prior to injection up to 3 days post-injection\n* Prescription topical retinoid therapy and/or topical hormone cream applied to the face, for potential subjects who have not been on a consistent dose regimen for at least 6 months prior to enrollment and who are unable to maintain regimen for the study\n* Systemic retinoid therapy within one year prior to study enrollment\n* History or current symptoms of dysphagia\n* Medical condition that may increase the risk of exposure to botulinum toxin including diagnosed myasthenia gravis, Eaton-Lambert Syndrome, amyotrophic lateral sclerosis, or any other disease that might interfere with neuromuscular function\n* Profound atrophy/excessive weakness of muscles in target areas of injection\n* History of facial nerve palsy\n* Anticipated need for treatment with botulinum toxin of any serotype for any reason during the study (other than study treatment)\n* Very thin skin in the mid-facial region\n* Tendency to accumulate fluid in the lower eyelids, or large infraorbital fat pads, i.e., significant convexity or projection from the infraorbital fat pads\n* Mid-face volume deficit due to congenital defect, trauma, abnormalities in adipose tissue related to immune-mediated diseases such as generalized lipodystrophy (e.g., juvenile dermatomyositis), partial lipodystrophy (e.g., Barraquer-Simons syndrome), inherited disease, or human immunodeficiency virus-related disease\n* Undergone oral surgery or other dental procedures (e.g., tooth extraction, orthodontia, or implantation) within 30 days prior to enrollment or be planning to undergo any of these procedures during the study\n* Subjects with neuromuscular disorders including generalized muscle weakness, diplopia, ptosis, dysphonia, dysarthria, severe dysphagia, and respiratory compromise\n* Subjects with a history of allergies",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "35 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "ALLERGAN INC.",
+          "affiliation": "Allergan",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Hospital Regional da Asa Norte - Brasilia /ID# 239161",
+          "city": "Brasília",
+          "state": "Federal District",
+          "zip": "70710-100",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -15.77972,
+            "lon": -47.92972
+          }
+        },
+        {
+          "facility": "Hospital do Servidor Publico Municipal - Sao Paulo /ID# 239165",
+          "city": "Niterói",
+          "state": "Rio de Janeiro",
+          "zip": "24230-052",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -22.88333,
+            "lon": -43.10361
+          }
+        },
+        {
+          "facility": "Universidade de Sao Paulo - Sao Paulo /ID# 239163",
+          "city": "Rio de Janeiro",
+          "zip": "22440-032",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -22.90642,
+            "lon": -43.18223
+          }
+        },
+        {
+          "facility": "Dermick Clinica de Dermatologia - Niteroi/Rio de Janeiro /ID# 239166",
+          "city": "São Paulo",
+          "zip": "04004-030",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -23.5475,
+            "lon": -46.63611
+          }
+        },
+        {
+          "facility": "BRAVOMED Dermatology - Rio de Janeiro /ID# 239160",
+          "city": "São Paulo",
+          "zip": "04023-062",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -23.5475,
+            "lon": -46.63611
+          }
+        },
+        {
+          "facility": "Universidade Federal de Sao Paulo - Sao Paulo /ID# 239156",
+          "city": "São Paulo",
+          "zip": "05005-001",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -23.5475,
+            "lon": -46.63611
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "AbbVie is committed to responsible data sharing regarding the clinical trials we sponsor. This includes access to anonymized, individual and trial-level data (analysis data sets), as well as other information (e.g., protocols, analyses plans, clinical study reports), as long as the trials are not part of an ongoing or planned regulatory submission. This includes requests for clinical trial data for unlicensed products and indications.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP",
+        "CSR"
+      ],
+      "timeFrame": "For details on when studies are available for sharing visit https://vivli.org/ourmember/abbvie/",
+      "accessCriteria": "Access to this clinical trial data can be requested by any qualified researchers who engage in rigorous independent scientific research, and will be provided following review and approval of a research proposal and statistical analysis plan and execution of a data sharing statement. Data requests can be submitted at any time after approval in the US and/or EU and a primary manuscript is accepted for publication. For more information on the process, or to submit a request, visit the following link https://www.abbvieclinicaltrials.com/hcp/data-sharing/",
+      "url": "https://vivli.org/ourmember/abbvie/"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "HArmonyCA",
+          "description": "All treatments will be administered according to the respective label and according to an agreed upon treatment plan between the subject and Health Care Provider. If required: HarmonyCA Lidocaine will be administered at Visit 1, Juvéderm filler injections (JUVÉDERM VOLBELLA with Lidocaine, and/or JUVÉDERM VOLIFT with Lidocaine, and/or JUVÉDERM VOLUMA with Lidocaine, and/or JUVÉDERM VOLITE with Lidocaine and/or JUVÉDERM VOLUX with Lidocaine) will be administered at Visit 3, BOTOX will be administered at Visit 5. Touch-ups may be performed as required by subject's treatment plan after each study visit.\n\nDevice: HArmonyCa Lidocaine injectable gel is a dermal filler intended for facial soft tissue augmentation."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "comment": "A total of 65 subjects were screened and 64 subjects were enrolled in the study. There was 1 screen failure due to \"other: pause in study recruitment\".",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "64"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "64"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "HArmonyCA",
+          "description": "All treatments will be administered according to the respective label and according to an agreed upon treatment plan between the subject and Health Care Provider. If required: HarmonyCA Lidocaine will be administered at Visit 1, Juvéderm filler injections (JUVÉDERM VOLBELLA with Lidocaine, and/or JUVÉDERM VOLIFT with Lidocaine, and/or JUVÉDERM VOLUMA with Lidocaine, and/or JUVÉDERM VOLITE with Lidocaine and/or JUVÉDERM VOLUX with Lidocaine) will be administered at Visit 3, BOTOX will be administered at Visit 5. Touch-ups may be performed as required by subject's treatment plan after each study visit.\n\nDevice: HArmonyCa Lidocaine injectable gel is a dermal filler intended for facial soft tissue augmentation."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "64"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "48.4",
+                      "spread": "7.37"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "51"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change From Baseline in the Rasch-transformed Score of the FACE-Q Satisfaction With Facial Appearance Scale.",
+          "description": "The FACE-Q questionnaire focuses on patient's satisfaction with facial appearance at the final study visit compared to before starting study treatment and is a 10- item questionnaire. Overall scores range from 0 to 100 with higher scores representing higher satisfaction.",
+          "populationDescription": "Evaluable population",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HArmonyCA",
+              "description": "All treatments will be administered according to the respective label and according to an agreed upon treatment plan between the subject and Health Care Provider. If required: HarmonyCA Lidocaine will be administered at Visit 1, Juvéderm filler injections (JUVÉDERM VOLBELLA with Lidocaine, and/or JUVÉDERM VOLIFT with Lidocaine, and/or JUVÉDERM VOLUMA with Lidocaine, and/or JUVÉDERM VOLITE with Lidocaine and/or JUVÉDERM VOLUX with Lidocaine) will be administered at Visit 3, BOTOX will be administered at Visit 5. Touch-ups may be performed as required by subject's treatment plan after each study visit.\n\nDevice: HArmonyCa Lidocaine injectable gel is a dermal filler intended for facial soft tissue augmentation."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "62"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "46.6",
+                      "spread": "23.61"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "pValueComment": "P-value is calculated based on 1-sided t-test or Wilcoxon signed-rank test (if the normality assumption is not met) at 0.025 significance level.",
+              "statisticalMethod": "t-test, 1 sided",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "46.6",
+              "ciPctValue": "97.5",
+              "ciNumSides": "ONE_SIDED",
+              "ciLowerLimit": "40.58",
+              "dispersionType": "STANDARD_DEVIATION",
+              "dispersionValue": "23.61"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in the FACE-Q Aging Appraisal",
+          "description": "The FACE-Q questionnaire is a 7-item questionnaire with overall scores that range from 0 to 100 and higher scores reflecting a better outcome.",
+          "populationDescription": "Evaluable population",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HArmonyCA",
+              "description": "All treatments will be administered according to the respective label and according to an agreed upon treatment plan between the subject and Health Care Provider. If required: HarmonyCA Lidocaine will be administered at Visit 1, Juvéderm filler injections (JUVÉDERM VOLBELLA with Lidocaine, and/or JUVÉDERM VOLIFT with Lidocaine, and/or JUVÉDERM VOLUMA with Lidocaine, and/or JUVÉDERM VOLITE with Lidocaine and/or JUVÉDERM VOLUX with Lidocaine) will be administered at Visit 3, BOTOX will be administered at Visit 5. Touch-ups may be performed as required by subject's treatment plan after each study visit.\n\nDevice: HArmonyCa Lidocaine injectable gel is a dermal filler intended for facial soft tissue augmentation."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "62"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "35.3",
+                      "spread": "22.36"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "pValueComment": "P-value is calculated based on 1-sided t-test or Wilcoxon signed-rank test (if the normality assumption is not met) at 0.025 significance level.",
+              "statisticalMethod": "t-test, 1 sided",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "35.3",
+              "ciPctValue": "97.5",
+              "ciNumSides": "ONE_SIDED",
+              "ciLowerLimit": "29.61",
+              "dispersionType": "STANDARD_DEVIATION",
+              "dispersionValue": "22.36"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in the Rasch-transformed Score of the FACE-Q Psychological Function Scale",
+          "description": "The FACE-Q questionnaire is a 10-item questionnaire with overall scores that range from 0 to 100 and higher scores reflecting a better outcome.",
+          "populationDescription": "Evaluable population",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HArmonyCA",
+              "description": "All treatments will be administered according to the respective label and according to an agreed upon treatment plan between the subject and Health Care Provider. If required: HarmonyCA Lidocaine will be administered at Visit 1, Juvéderm filler injections (JUVÉDERM VOLBELLA with Lidocaine, and/or JUVÉDERM VOLIFT with Lidocaine, and/or JUVÉDERM VOLUMA with Lidocaine, and/or JUVÉDERM VOLITE with Lidocaine and/or JUVÉDERM VOLUX with Lidocaine) will be administered at Visit 3, BOTOX will be administered at Visit 5. Touch-ups may be performed as required by subject's treatment plan after each study visit.\n\nDevice: HArmonyCa Lidocaine injectable gel is a dermal filler intended for facial soft tissue augmentation."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "62"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "27.6",
+                      "spread": "23.23"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "pValueComment": "P-value is calculated based on 1-sided t-test or Wilcoxon signed-rank test (if the normality assumption is not met) at 0.025 significance level.",
+              "statisticalMethod": "t-test, 1 sided",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "27.6",
+              "ciPctValue": "97.5",
+              "ciNumSides": "ONE_SIDED",
+              "ciLowerLimit": "21.50",
+              "dispersionType": "STANDARD_DEVIATION",
+              "dispersionValue": "23.23"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in the Rasch-transformed Score of the FACE-Q Social Function Scale",
+          "description": "The FACE-Q questionnaire is a 8-item questionnaire with overall scores that range from 0 to 100 and higher scores reflecting a better outcome.",
+          "populationDescription": "Evaluable population",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HArmonyCA",
+              "description": "All treatments will be administered according to the respective label and according to an agreed upon treatment plan between the subject and Health Care Provider. If required: HarmonyCA Lidocaine will be administered at Visit 1, Juvéderm filler injections (JUVÉDERM VOLBELLA with Lidocaine, and/or JUVÉDERM VOLIFT with Lidocaine, and/or JUVÉDERM VOLUMA with Lidocaine, and/or JUVÉDERM VOLITE with Lidocaine and/or JUVÉDERM VOLUX with Lidocaine) will be administered at Visit 3, BOTOX will be administered at Visit 5. Touch-ups may be performed as required by subject's treatment plan after each study visit.\n\nDevice: HArmonyCa Lidocaine injectable gel is a dermal filler intended for facial soft tissue augmentation."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "62"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "22.9",
+                      "spread": "20.56"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "pValueComment": "P-value is calculated based on 1-sided t-test or Wilcoxon signed-rank test (if the normality assumption is not met) at 0.025 significance level.",
+              "statisticalMethod": "t-test, 1 sided",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "22.9",
+              "ciPctValue": "97.5",
+              "ciNumSides": "ONE_SIDED",
+              "ciLowerLimit": "17.65",
+              "dispersionType": "STANDARD_DEVIATION",
+              "dispersionValue": "20.56"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in the Rasch-transformed Score of the FACE-Q Satisfaction With Skin",
+          "description": "The FACE-Q questionnaire is a 12- item questionnaire. Overall scores range from 0 to 100 with higher scores representing higher satisfaction.",
+          "populationDescription": "Evaluable population",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HArmonyCA",
+              "description": "All treatments will be administered according to the respective label and according to an agreed upon treatment plan between the subject and Health Care Provider. If required: HarmonyCA Lidocaine will be administered at Visit 1, Juvéderm filler injections (JUVÉDERM VOLBELLA with Lidocaine, and/or JUVÉDERM VOLIFT with Lidocaine, and/or JUVÉDERM VOLUMA with Lidocaine, and/or JUVÉDERM VOLITE with Lidocaine and/or JUVÉDERM VOLUX with Lidocaine) will be administered at Visit 3, BOTOX will be administered at Visit 5. Touch-ups may be performed as required by subject's treatment plan after each study visit.\n\nDevice: HArmonyCa Lidocaine injectable gel is a dermal filler intended for facial soft tissue augmentation."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "62"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "43.1",
+                      "spread": "22.25"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "pValueComment": "P-value is calculated based on 1-sided t-test or Wilcoxon signed-rank test (if the normality assumption is not met) at 0.025 significance level.",
+              "statisticalMethod": "t-test, 1 sided",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "43.1",
+              "ciPctValue": "97.5",
+              "ciNumSides": "ONE_SIDED",
+              "ciLowerLimit": "37.48",
+              "dispersionType": "STANDARD_DEVIATION",
+              "dispersionValue": "22.25"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline Self-Perception of Age",
+          "description": "Subject's assessment of self-perception of age as measured by SPA. Subject's selected one of 3 options based on how they felt their facial appearance looked compared to their age on the day they completed the assessment, writing in the number of years when appropriate.",
+          "populationDescription": "Evaluable Population",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "years",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HArmonyCA",
+              "description": "All treatments will be administered according to the respective label and according to an agreed upon treatment plan between the subject and Health Care Provider. If required: HarmonyCA Lidocaine will be administered at Visit 1, Juvéderm filler injections (JUVÉDERM VOLBELLA with Lidocaine, and/or JUVÉDERM VOLIFT with Lidocaine, and/or JUVÉDERM VOLUMA with Lidocaine, and/or JUVÉDERM VOLITE with Lidocaine and/or JUVÉDERM VOLUX with Lidocaine) will be administered at Visit 3, BOTOX will be administered at Visit 5. Touch-ups may be performed as required by subject's treatment plan after each study visit.\n\nDevice: HArmonyCa Lidocaine injectable gel is a dermal filler intended for facial soft tissue augmentation."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "I look ___ years younger",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.0",
+                      "lowerLimit": "0",
+                      "upperLimit": "13"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "I look ___ years older",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "lowerLimit": "0",
+                      "upperLimit": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Investigator's Assessment Using Global Aesthetic Improvement Scale (GAIS)",
+          "description": "Five point ordinal scale measuring the change in facial aesthetic improvement from -2 (Much Worse) to 2 (Much Improved) assessed by the Investigator.",
+          "populationDescription": "Evaluable population",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HArmonyCA",
+              "description": "All treatments will be administered according to the respective label and according to an agreed upon treatment plan between the subject and Health Care Provider. If required: HarmonyCA Lidocaine will be administered at Visit 1, Juvéderm filler injections (JUVÉDERM VOLBELLA with Lidocaine, and/or JUVÉDERM VOLIFT with Lidocaine, and/or JUVÉDERM VOLUMA with Lidocaine, and/or JUVÉDERM VOLITE with Lidocaine and/or JUVÉDERM VOLUX with Lidocaine) will be administered at Visit 3, BOTOX will be administered at Visit 5. Touch-ups may be performed as required by subject's treatment plan after each study visit.\n\nDevice: HArmonyCa Lidocaine injectable gel is a dermal filler intended for facial soft tissue augmentation."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "62"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Much Improved",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "47"
+                    }
+                  ]
+                },
+                {
+                  "title": "Improved",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "15"
+                    }
+                  ]
+                },
+                {
+                  "title": "No Change",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Worse",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Much Worse",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Subject's Assessment Using Global Aesthetic Improvement Scale (GAIS)",
+          "description": "Five point ordinal scale measuring the change in facial aesthetic improvement from -2 (Much Worse) to 2 (Much Improved) assessed by the subject.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HArmonyCA",
+              "description": "All treatments will be administered according to the respective label and according to an agreed upon treatment plan between the subject and Health Care Provider. If required: HarmonyCA Lidocaine will be administered at Visit 1, Juvéderm filler injections (JUVÉDERM VOLBELLA with Lidocaine, and/or JUVÉDERM VOLIFT with Lidocaine, and/or JUVÉDERM VOLUMA with Lidocaine, and/or JUVÉDERM VOLITE with Lidocaine and/or JUVÉDERM VOLUX with Lidocaine) will be administered at Visit 3, BOTOX will be administered at Visit 5. Touch-ups may be performed as required by subject's treatment plan after each study visit.\n\nDevice: HArmonyCa Lidocaine injectable gel is a dermal filler intended for facial soft tissue augmentation."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "62"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Much Improved",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "51"
+                    }
+                  ]
+                },
+                {
+                  "title": "Improved",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "No Change",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Worse",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Much Worse",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline to End of Study of Periorbital Aesthetic Appearance Questionnaire (PAAQ)",
+          "description": "Questionnaire evaluating the subject's overall eye appearance from 0 (Never) to 4 (All of the Time) for each of the 9 items. All items were transformed to a scale from 0 (no negative impact) to 100 (high negative impact).\n\nTotal transformed score is based on 9 individual items each item has a range of 0 to 4, the transformed score ranges from 0 to 100.\n\nPsychological domain is based on the average of the sum of transformed scores of individual items 2, 4, 6, 7, and 8. Score will also range from 0 to 100 with same interpretation as the total transformed score.\n\nAppearance domain is based on the average of the sum of transformed scores of individual items 1, 3, and 5. Score will also range from 0 to 100 with same interpretation as the total transformed score.\n\nCoping domain is the transformed score of item 9. Score will also range from 0 to 100 with same interpretation as the total transformed score.",
+          "populationDescription": "Evaluable population",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Visit 0 (Day 1) to Visit 7 (Up to approximately 5 months)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HArmonyCA",
+              "description": "All treatments will be administered according to the respective label and according to an agreed upon treatment plan between the subject and Health Care Provider. If required: HarmonyCA Lidocaine will be administered at Visit 1, Juvéderm filler injections (JUVÉDERM VOLBELLA with Lidocaine, and/or JUVÉDERM VOLIFT with Lidocaine, and/or JUVÉDERM VOLUMA with Lidocaine, and/or JUVÉDERM VOLITE with Lidocaine and/or JUVÉDERM VOLUX with Lidocaine) will be administered at Visit 3, BOTOX will be administered at Visit 5. Touch-ups may be performed as required by subject's treatment plan after each study visit.\n\nDevice: HArmonyCa Lidocaine injectable gel is a dermal filler intended for facial soft tissue augmentation."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "62"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Change from Baseline Transformed Total Score",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-40.3",
+                      "lowerLimit": "-86",
+                      "upperLimit": "39"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change from Baseline Psychological Domain",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-40.0",
+                      "lowerLimit": "-90",
+                      "upperLimit": "45"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change from Baseline Appearance Domain",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-45.8",
+                      "lowerLimit": "-100",
+                      "upperLimit": "42"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change from Baseline Coping Domain",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-50.0",
+                      "lowerLimit": "-100",
+                      "upperLimit": "25"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "1",
+      "timeFrame": "All-cause mortality and adverse event tables include events reported from the time of informed consent to the end of the study. The median time on follow-up was 147 days for HArmonyCA.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "HArmonyCA",
+          "description": "All treatments will be administered according to the respective label and according to an agreed upon treatment plan between the subject and Health Care Provider. If required: HarmonyCA Lidocaine will be administered at Visit 1, Juvéderm filler injections (JUVÉDERM VOLBELLA with Lidocaine, and/or JUVÉDERM VOLIFT with Lidocaine, and/or JUVÉDERM VOLUMA with Lidocaine, and/or JUVÉDERM VOLITE with Lidocaine and/or JUVÉDERM VOLUX with Lidocaine) will be administered at Visit 3, BOTOX will be administered at Visit 5. Touch-ups may be performed as required by subject's treatment plan after each study visit.\n\nDevice: HArmonyCa Lidocaine injectable gel is a dermal filler intended for facial soft tissue augmentation.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 64,
+          "seriousNumAffected": 2,
+          "seriousNumAtRisk": 64,
+          "otherNumAffected": 8,
+          "otherNumAtRisk": 64
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "PYELONEPHRITIS",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            }
+          ]
+        },
+        {
+          "term": "RHABDOMYOLYSIS",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "PERIORBITAL OEDEMA",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            }
+          ]
+        },
+        {
+          "term": "DIARRHOEA",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            }
+          ]
+        },
+        {
+          "term": "LIP OEDEMA",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            }
+          ]
+        },
+        {
+          "term": "VOMITING",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            }
+          ]
+        },
+        {
+          "term": "INJECTION SITE BRUISING",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            }
+          ]
+        },
+        {
+          "term": "INJECTION SITE INDURATION",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            }
+          ]
+        },
+        {
+          "term": "INJECTION SITE NODULE",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            }
+          ]
+        },
+        {
+          "term": "INJECTION SITE OEDEMA",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 64
+            }
+          ]
+        },
+        {
+          "term": "OEDEMA PERIPHERAL",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            }
+          ]
+        },
+        {
+          "term": "DENGUE FEVER",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            }
+          ]
+        },
+        {
+          "term": "GASTROENTERITIS VIRAL",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            }
+          ]
+        },
+        {
+          "term": "UPPER RESPIRATORY TRACT INFECTION",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            }
+          ]
+        },
+        {
+          "term": "HYPOGLYCAEMIA",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "ABBVIE CALL CENTER",
+        "organization": "AbbVie",
+        "email": "abbvieclinicaltrials@abbvie.com",
+        "phone": "844-663-3742"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2021-10-18",
+          "uploadDate": "2025-05-02T16:21",
+          "filename": "Prot_000.pdf",
+          "size": 10997559
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-06-05",
+          "uploadDate": "2025-05-02T16:23",
+          "filename": "SAP_001.pdf",
+          "size": 793260
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-05-18",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D019274",
+          "term": "Botulinum Toxins, Type A"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001905",
+          "term": "Botulinum Toxins"
+        },
+        {
+          "id": "D008666",
+          "term": "Metalloendopeptidases"
+        },
+        {
+          "id": "D010450",
+          "term": "Endopeptidases"
+        },
+        {
+          "id": "D010447",
+          "term": "Peptide Hydrolases"
+        },
+        {
+          "id": "D006867",
+          "term": "Hydrolases"
+        },
+        {
+          "id": "D004798",
+          "term": "Enzymes"
+        },
+        {
+          "id": "D045762",
+          "term": "Enzymes and Coenzymes"
+        },
+        {
+          "id": "D045726",
+          "term": "Metalloproteases"
+        },
+        {
+          "id": "D001426",
+          "term": "Bacterial Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D001427",
+          "term": "Bacterial Toxins"
+        },
+        {
+          "id": "D014118",
+          "term": "Toxins, Biological"
+        },
+        {
+          "id": "D001685",
+          "term": "Biological Factors"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

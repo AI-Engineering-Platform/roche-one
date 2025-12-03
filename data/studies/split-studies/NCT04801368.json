@@ -1,0 +1,1157 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04801368",
+      "orgStudyIdInfo": {
+        "id": "20-010842"
+      },
+      "organization": {
+        "fullName": "Mayo Clinic",
+        "class": "OTHER"
+      },
+      "briefTitle": "Randomized Trial of Ropivacaine & Bupivacaine for Inflatable Penile Prosthesis",
+      "officialTitle": "A Randomized-Controlled Trial Comparing Long-acting and Short-acting Local Anesthetics at the Time of Penile Prosthesis Placement",
+      "acronym": "ROVEX-IPP"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-10-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-01-07",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-01-08",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-02-19",
+      "studyFirstSubmitQcDate": "2021-03-15",
+      "studyFirstPostDateStruct": {
+        "date": "2021-03-17",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-12-04",
+      "resultsFirstSubmitQcDate": "2025-01-14",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-02-04",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-01-14",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-02-04",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Matthew (Matt) J. Ziegelmann",
+        "investigatorTitle": "Principal Investigator",
+        "investigatorAffiliation": "Mayo Clinic"
+      },
+      "leadSponsor": {
+        "name": "Mayo Clinic",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this research is to determine the effects of penile ring block for local anesthesia with liposomal bupivacaine vs ropivacaine mixture in subjects undergoing surgery for Penile Prosthesis Placement."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Erectile Dysfunction"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "The two anesthetics being used in the study are FDA approved and used in standard practice for the procedure. Subjects will be blindly assigned to one of two study groups at the initial phase of the study.",
+        "primaryPurpose": "BASIC_SCIENCE",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "maskingDescription": "Patient is blind to local anesthetic being administered.",
+          "whoMasked": [
+            "PARTICIPANT"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 20,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Receiving Ropivacaine",
+          "type": "EXPERIMENTAL",
+          "description": "Patients receiving Ropivacaine.",
+          "interventionNames": [
+            "Drug: Randomization of two local anesthetics."
+          ]
+        },
+        {
+          "label": "Receiving Liposomal Bupivacaine",
+          "type": "EXPERIMENTAL",
+          "description": "Patients receiving Liposomal Bupivacaine.",
+          "interventionNames": [
+            "Drug: Randomization of two local anesthetics."
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Randomization of two local anesthetics.",
+          "description": "Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine.",
+          "armGroupLabels": [
+            "Receiving Liposomal Bupivacaine",
+            "Receiving Ropivacaine"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Visual-analogue Pain Scale",
+          "description": "Visual-analogue pain scale is a tool used to measure pain intensity at a specific timepoint, asking a patient to use visuals to rate their pain on a scale of 1 to 10.\n\nResults are reported as units on a scale, minimum 1 (experiencing the least amount of pain possible) to maximum of 10 (experiencing an unbearably high amount of pain).\n\nLower scores provide a better outcome for the patient as they are experiencing less pain post-operatively.",
+          "timeFrame": "post-operative day 3"
+        },
+        {
+          "measure": "Visual-analogue Pain Scale",
+          "description": "Visual-analogue pain scale is a tool used to measure pain intensity at a specific timepoint, asking a patient to use visuals to rate their pain on a scale of 1 to 10.\n\nResults are reported as units on a scale, minimum 1 (experiencing the least amount of pain possible) to maximum of 10 (experiencing an unbearably high amount of pain).\n\nLower scores provide a better outcome for the patient as they are experiencing less pain post-operatively.",
+          "timeFrame": "post-operative day 7"
+        },
+        {
+          "measure": "Visual-analogue Pain Scale",
+          "description": "Visual-analogue pain scale is a tool used to measure pain intensity at a specific timepoint, asking a patient to use visuals to rate their pain on a scale of 1 to 10.\n\nResults are reported as units on a scale, minimum 1 (experiencing the least amount of pain possible) to maximum of 10 (experiencing an unbearably high amount of pain).\n\nLower scores provide a better outcome for the patient as they are experiencing less pain post-operatively.",
+          "timeFrame": "post-operative day 14"
+        },
+        {
+          "measure": "Visual-analogue Anxiety Scale",
+          "description": "Visual-analogue anxiety scale is a tool used to measure anxiety intensity at a specific timepoint, asking a patient to use visuals to rate their current anxiety on a scale of 1 to 10.\n\nResults are reported as units on a scale, minimum 1 (experiencing the least amount of anxiety possible) to maximum of 10 (experiencing an unbearably high amount of anxiety).\n\nLower scores provide a better outcome for the patient as they are experiencing less anxiety post-operatively.",
+          "timeFrame": "post-operative day 3"
+        },
+        {
+          "measure": "Visual-analogue Anxiety Scale",
+          "description": "Visual-analogue anxiety scale is a tool used to measure anxiety intensity at a specific timepoint, asking a patient to use visuals to rate their current anxiety on a scale of 1 to 10.\n\nResults are reported as units on a scale, minimum 1 (experiencing the least amount of anxiety possible) to maximum of 10 (experiencing an unbearably high amount of anxiety).\n\nLower scores provide a better outcome for the patient as they are experiencing less anxiety post-operatively.",
+          "timeFrame": "post-operative day 7"
+        },
+        {
+          "measure": "Visual-analogue Anxiety Scale",
+          "description": "Visual-analogue anxiety scale is a tool used to measure anxiety intensity at a specific timepoint, asking a patient to use visuals to rate their current anxiety on a scale of 1 to 10.\n\nResults are reported as units on a scale, minimum 1 (experiencing the least amount of anxiety possible) to maximum of 10 (experiencing an unbearably high amount of anxiety).\n\nLower scores provide a better outcome for the patient as they are experiencing less anxiety post-operatively.",
+          "timeFrame": "post-operative day 14"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Men undergoing 3-piece penile prosthesis placement under general anesthesia at Mayo Clinic - Rochester.\n* ≥ 18 years old.\n\nExclusion Criteria:\n\n* History of opioid exposure within the preceding 90 days prior to surgery (based on patient-report, review of the electronic medical record, and NMP prescribing database review)\n* Current or prior history of alcohol or drug abuse (illicit or prescription)\n* History of chronic pain conditions (chronic musculoskeletal pain, fibromyalgia, central sensitization, chronic pelvic pain syndrome, etc.)\n* History of cardiac arrhythmia or untreated severe cardiovascular disease\n* Uncontrolled hypertension\n* Hepatic insufficiency\n* Renal insufficiency (CKD stage IIIa or greater)\n* Current anti-platelet or anti-coagulation therapy with plans to continue at the time of prosthesis placement\n* Poorly controlled diabetes mellitus (defined as HgbA1c \\> 8.5 within 30 days of surgery)\n* Concurrent adjunctive operative procedures planned at the time of penile prosthesis placement (examples: male urethral sling, Peyronie's disease straightening with penile plication or incision/grafting)\n* Concurrent non-prosthetic surgery planned at the time of penile prosthesis placement (examples: circumcision, hernia repair, hydrocelectomy, etc.)\n* Planned infrapubic or subcoronal incision at the time of penile prosthesis placement\n* Patients who will be undergoing prosthesis placement using local, monitored, or spinal anesthesia (i.e. non-general anesthesia)\n* Allergy or history of intolerance to any local anesthetic agents included in the protocol\n* History of prior penile prosthesis or artificial urinary sphincter surgery\n* Revision penile prosthesis surgery",
+      "healthyVolunteers": true,
+      "sex": "MALE",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Matthew J Ziegelmann, MD",
+          "affiliation": "Mayo Clinic",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Mayo Clinic in Rochester",
+          "city": "Rochester",
+          "state": "Minnesota",
+          "zip": "55905",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 44.02163,
+            "lon": -92.4699
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Receiving Ropivacaine",
+          "description": "Patients receiving Ropivacaine intra-operatively.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine.\n\nDosage depends on subjects height, weight, and other health factors"
+        },
+        {
+          "id": "FG001",
+          "title": "Receiving Liposomal Bupivacaine",
+          "description": "Patients receiving Liposomal Bupivacaine intra-operatively.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine.\n\nDosage depends on subjects height, weight, and other health factors"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "14"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "14"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Receiving Ropivacaine",
+          "description": "Patients receiving Ropivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine."
+        },
+        {
+          "id": "BG001",
+          "title": "Receiving Liposomal Bupivacaine",
+          "description": "Patients receiving Liposomal Bupivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "5"
+            },
+            {
+              "groupId": "BG001",
+              "value": "14"
+            },
+            {
+              "groupId": "BG002",
+              "value": "19"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "17"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "17"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "State Trait Anxiety Inventory",
+          "description": "The State-Trait Anxiety Inventory (STAI) is a survey that measures a person's tendency to experience anxiety when faced with stress. Results are reported as units on a scale, minimum 20 (scoring low on a tendency to experience anxiety when faced with stress) to maximum of 80 (scoring high on a tendency to experience anxiety when faced with stress).\n\nResults may impact a subject's tendency to score higher on later measures, hence why this scale is used at a baseline visit.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "units on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "27",
+                      "spread": "12.96"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "30.3",
+                      "spread": "11.24"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "29.39",
+                      "spread": "11.44"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pain Catastrophizing Scale",
+          "description": "The Pain Catastrophizing Scale is a questionnaire that measures how much someone catastrophizes about pain. Results are reported as units on a scale, minimum 0 (scoring low on a tendency to catastrophize pain, or rate pain as more tolerable than other people) to maximum of 52 (scoring high on a tendency to catastrophize pain, or rate pain as less tolerable than other people).\n\nResults may impact a subject's tendency to score higher on later pain measures, hence why this scale is used at a baseline visit.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "units on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1.6",
+                      "spread": "2.07"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4.08",
+                      "spread": "5.75"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3.39",
+                      "spread": "5.07"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Visual-analogue Pain Scale",
+          "description": "Visual-analogue pain scale is a tool used to measure pain intensity at a specific timepoint, asking a patient to use visuals to rate their pain on a scale of 1 to 10.\n\nResults are reported as units on a scale, minimum 1 (experiencing the least amount of pain possible) to maximum of 10 (experiencing an unbearably high amount of pain).\n\nLower scores provide a better outcome for the patient as they are experiencing less pain post-operatively.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "post-operative day 3",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Receiving Ropivacaine",
+              "description": "Patients receiving Ropivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine."
+            },
+            {
+              "id": "OG001",
+              "title": "Receiving Liposomal Bupivacaine",
+              "description": "Patients receiving Liposomal Bupivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "14"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6",
+                      "lowerLimit": "4",
+                      "upperLimit": "8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4",
+                      "lowerLimit": "1",
+                      "upperLimit": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Visual-analogue Pain Scale",
+          "description": "Visual-analogue pain scale is a tool used to measure pain intensity at a specific timepoint, asking a patient to use visuals to rate their pain on a scale of 1 to 10.\n\nResults are reported as units on a scale, minimum 1 (experiencing the least amount of pain possible) to maximum of 10 (experiencing an unbearably high amount of pain).\n\nLower scores provide a better outcome for the patient as they are experiencing less pain post-operatively.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "post-operative day 7",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Receiving Ropivacaine",
+              "description": "Patients receiving Ropivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine."
+            },
+            {
+              "id": "OG001",
+              "title": "Receiving Liposomal Bupivacaine",
+              "description": "Patients receiving Liposomal Bupivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "14"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6",
+                      "lowerLimit": "3",
+                      "upperLimit": "9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.1",
+                      "lowerLimit": "1",
+                      "upperLimit": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Visual-analogue Pain Scale",
+          "description": "Visual-analogue pain scale is a tool used to measure pain intensity at a specific timepoint, asking a patient to use visuals to rate their pain on a scale of 1 to 10.\n\nResults are reported as units on a scale, minimum 1 (experiencing the least amount of pain possible) to maximum of 10 (experiencing an unbearably high amount of pain).\n\nLower scores provide a better outcome for the patient as they are experiencing less pain post-operatively.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "post-operative day 14",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Receiving Ropivacaine",
+              "description": "Patients receiving Ropivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine."
+            },
+            {
+              "id": "OG001",
+              "title": "Receiving Liposomal Bupivacaine",
+              "description": "Patients receiving Liposomal Bupivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "14"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.8",
+                      "lowerLimit": "1",
+                      "upperLimit": "5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.56",
+                      "lowerLimit": "1",
+                      "upperLimit": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Visual-analogue Anxiety Scale",
+          "description": "Visual-analogue anxiety scale is a tool used to measure anxiety intensity at a specific timepoint, asking a patient to use visuals to rate their current anxiety on a scale of 1 to 10.\n\nResults are reported as units on a scale, minimum 1 (experiencing the least amount of anxiety possible) to maximum of 10 (experiencing an unbearably high amount of anxiety).\n\nLower scores provide a better outcome for the patient as they are experiencing less anxiety post-operatively.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "post-operative day 3",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Receiving Ropivacaine",
+              "description": "Patients receiving Ropivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine."
+            },
+            {
+              "id": "OG001",
+              "title": "Receiving Liposomal Bupivacaine",
+              "description": "Patients receiving Liposomal Bupivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "14"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4",
+                      "lowerLimit": "2",
+                      "upperLimit": "6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.43",
+                      "lowerLimit": "1",
+                      "upperLimit": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Visual-analogue Anxiety Scale",
+          "description": "Visual-analogue anxiety scale is a tool used to measure anxiety intensity at a specific timepoint, asking a patient to use visuals to rate their current anxiety on a scale of 1 to 10.\n\nResults are reported as units on a scale, minimum 1 (experiencing the least amount of anxiety possible) to maximum of 10 (experiencing an unbearably high amount of anxiety).\n\nLower scores provide a better outcome for the patient as they are experiencing less anxiety post-operatively.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "post-operative day 7",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Receiving Ropivacaine",
+              "description": "Patients receiving Ropivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine."
+            },
+            {
+              "id": "OG001",
+              "title": "Receiving Liposomal Bupivacaine",
+              "description": "Patients receiving Liposomal Bupivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "14"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4",
+                      "lowerLimit": "1",
+                      "upperLimit": "7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.22",
+                      "lowerLimit": "1",
+                      "upperLimit": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Visual-analogue Anxiety Scale",
+          "description": "Visual-analogue anxiety scale is a tool used to measure anxiety intensity at a specific timepoint, asking a patient to use visuals to rate their current anxiety on a scale of 1 to 10.\n\nResults are reported as units on a scale, minimum 1 (experiencing the least amount of anxiety possible) to maximum of 10 (experiencing an unbearably high amount of anxiety).\n\nLower scores provide a better outcome for the patient as they are experiencing less anxiety post-operatively.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "post-operative day 14",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Receiving Ropivacaine",
+              "description": "Patients receiving Ropivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine."
+            },
+            {
+              "id": "OG001",
+              "title": "Receiving Liposomal Bupivacaine",
+              "description": "Patients receiving Liposomal Bupivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "14"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2",
+                      "lowerLimit": "1",
+                      "upperLimit": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.44",
+                      "lowerLimit": "1",
+                      "upperLimit": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "1 YEARS, 3 MONTHS",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Receiving Ropivacaine",
+          "description": "Patients receiving Ropivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 5,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 5,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 5
+        },
+        {
+          "id": "EG001",
+          "title": "Receiving Liposomal Bupivacaine",
+          "description": "Patients receiving Liposomal Bupivacaine.\n\nRandomization of two local anesthetics.: Patients will be blinded and randomized to two different arms. One receiving ropivacaine, one receiving liposomal bupivacaine.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 14,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 14,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 14
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Dr. Matthew Ziegelmann",
+        "organization": "Mayo Clinic",
+        "email": "Ziegelmann.Matthew@mayo.edu",
+        "phone": "507-266-3982"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2021-07-21",
+          "uploadDate": "2024-11-27T11:37",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 706188
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2024-12-27",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D007172",
+          "term": "Erectile Dysfunction"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D005832",
+          "term": "Genital Diseases, Male"
+        },
+        {
+          "id": "D000091662",
+          "term": "Genital Diseases"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D012735",
+          "term": "Sexual Dysfunction, Physiological"
+        },
+        {
+          "id": "D052801",
+          "term": "Male Urogenital Diseases"
+        },
+        {
+          "id": "D020018",
+          "term": "Sexual Dysfunctions, Psychological"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

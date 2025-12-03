@@ -1,0 +1,1541 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05118204",
+      "orgStudyIdInfo": {
+        "id": "2021-13311"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "1RM1DA055437-01",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/1RM1DA055437-01"
+        }
+      ],
+      "organization": {
+        "fullName": "Montefiore Medical Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "Randomized Trial of Buprenorphine Microdose Inductions During Hospitalization",
+      "officialTitle": "Randomized Trial of Buprenorphine Microdose Inductions During Hospitalization",
+      "acronym": "Micro-bupe"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-10",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Difficulty recruiting and enrolling participants",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-09-29",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-10-23",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-04-09",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-09-23",
+      "studyFirstSubmitQcDate": "2021-11-08",
+      "studyFirstPostDateStruct": {
+        "date": "2021-11-11",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-10-21",
+      "resultsFirstSubmitQcDate": "2025-10-21",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-10-31",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-10-21",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-10-31",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Montefiore Medical Center",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Institute on Drug Abuse (NIDA)",
+          "class": "NIH"
+        },
+        {
+          "name": "Weill Medical College of Cornell University",
+          "class": "OTHER"
+        },
+        {
+          "name": "Wake Forest University",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Investigators will test a novel protocol for starting BUP (buprenorphine-naloxone) treatment. The BUP microdose induction protocol has participants start very low doses of BUP without stopping other opioids that they are taking. The treatment as usual (TAU) has participants stop other opioids and experience opioid withdrawal before starting BUP. Investigators propose to test BUP microdose inductions vs. TAU in a randomized controlled trial.",
+      "detailedDescription": "Investigators will conduct a hybrid type 1 effectiveness-implementation study, using a pragmatic, open-label, randomized controlled trial (RCT). Investigators will randomize 270 hospitalized patients with (a) chronic pain and (b) opioid misuse or opioid use disorder (OUD) to a 5-day BUP microdose induction protocol (without stopping full agonists) or 2-day standard induction (with stopping full agonists), and then link participants to outpatient BUP treatment when they are released from the hospital. Study assessment visits will occur at baseline, 1 week, and 1, 3, and 6 months. Assessments will include interviews and urine drug tests to determine whether participants start BUP, continue BUP, have improvements in pain and decrease illicit opioid use. During induction and 3-months of follow-up, investigators will also collect data on mobile devices to assess opioid withdrawal, opioid craving, pain, and anxiety. These data will allow investigators to assess whether BUP microdosing targets of engagement-opioid- and pain-related symptoms-mediate OUD outcomes. Exploratory analyses will also examine pain as a trigger for opioid relapse.\n\nAim 1: To test the effectiveness of BUP microdose induction (vs. TAU) on OUD outcomes.\n\nH1: The microdose arm (vs. TAU) will have better BUP treatment uptake and retention, and less illicit opioid use.\n\nH2: Improvements in H1 will be mediated by opioid- and pain-related symptoms.\n\nAim 2: To test the effectiveness of microdosing (vs. TAU) on pain outcomes. H3: The microdose arm (vs. TAU) will have less pain intensity and interference, and improved quality of life.\n\nH4: Improvements in H3 will be mediated by OUD outcomes.\n\nAim 3: To inform future implementation and dissemination efforts, investigators will:\n\n3a) Examine factors influencing reach, adoption, implementation, and maintenance of BUP microdosing. Investigators will use qualitative and quantitative methods to describe multi-level factors influencing these domains; 3b) Calculate the cost and examine cost-effectiveness of BUP microdosing. H5: Compared with TAU, BUP microdosing will be cost-effective from a societal and a health sector perspective."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Substance Use Disorders",
+        "Opioid-use Disorder",
+        "Chronic Pain"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 23,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "BUP microdose induction",
+          "type": "EXPERIMENTAL",
+          "description": "Participants in this arm will receive a novel BUP microdose induction protocol.",
+          "interventionNames": [
+            "Drug: BUP microdose induction",
+            "Behavioral: Linkage to outpatient BUP treatment"
+          ]
+        },
+        {
+          "label": "Treatment As Usual (TAU)",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants in this arm will receive standard BUP induction protocol.",
+          "interventionNames": [
+            "Drug: TAU",
+            "Behavioral: Linkage to outpatient BUP treatment"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "BUP microdose induction",
+          "description": "Participants will be started on a 5-day BUP microdose induction protocol (without stopping full agonists).\n\nDay 1: participants will receive buprenorphine (Belbuca) 225 mcg mg every 12 hours Day 2: participants will receive buprenorphine (Belbuca) 450 mcg every 8 hours Day 3: participants will receive buprenorphine-naloxone 2-0.5 mg every 8 hours Day 4: participants will receive buprenorphine-naloxone 4-1 mg every 8 hours Day 5: participants will receive buprenorphine-naloxone 8-2 mg every 12 hours",
+          "armGroupLabels": [
+            "BUP microdose induction"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "TAU",
+          "description": "2-day standard BUP induction protocol (with stopping full agonists) Day 1: hold all opioids Day 2: buprenorphine-naloxone 2-0.5 mg every 6 hours Day 3: buprenorphine-naloxone 8-2 mg every 12 hours",
+          "armGroupLabels": [
+            "Treatment As Usual (TAU)"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Linkage to outpatient BUP treatment",
+          "description": "Participants will be given an expedited appointment (within 2 weeks) to continue BUP treatment at a Montefiore community health center",
+          "armGroupLabels": [
+            "BUP microdose induction",
+            "Treatment As Usual (TAU)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "BUP Treatment Uptake",
+          "description": "The percentage of participants who start BUP treatment, defined as receiving BUP 7 days after the baseline visit, will be reported for each arm.",
+          "timeFrame": "7 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Illicit Opioid Use",
+          "description": "The mean number of days of illicit opioid use, defined as self-reported use of heroin, fentanyl, or non-prescribed opioid analgesics in the prior 30 days based on the Addiction Severity Index, will be reported for each arm.",
+          "timeFrame": "1, 3, and 6 months"
+        },
+        {
+          "measure": "BUP Retention in Care",
+          "description": "The percentage of participants who are retained in BUP treatment, defined as having a BUP prescription written 180-210 days (6-month retention) after enrollment, will be reported for each arm.",
+          "timeFrame": "1, 3, and 6 months"
+        },
+        {
+          "measure": "Pain Intensity",
+          "description": "Mean pain intensity score, measured using the Brief Pain Inventory (BPI), will be reported for each study arm.",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "Pain Interference",
+          "description": "Mean pain interference score, measured using the pain interference scale from the BPI, which is a 7-item instrument measuring the impact of pain on daily activities and physical functioning, will be reported for each study arm.",
+          "timeFrame": "3 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* Opioid misuse or OUD\n* Chronic pain\n* Currently taking opioids\n* Fluency in English or Spanish\n* Planned hospitalization for ≥ 48 hours\n\nExclusion Criteria:\n\n* Current OUD treatment (BUP, methadone, naltrexone)\n* Severe alcohol or benzodiazepine use disorder\n* Hypersensitivity to BUP or naloxone\n* Pain due to malignancy\n* Severe untreated mental illness (suicidality, psychosis)\n* Pregnancy\n* Unable to consent due to pain or cognitive impairment",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Aaron Fox, MD",
+          "affiliation": "Montefiore Medical Center",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Montefiore Medical Center",
+          "city": "The Bronx",
+          "state": "New York",
+          "zip": "10467",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.84985,
+            "lon": -73.86641
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "BUP Microdose Induction",
+          "description": "Participants in this arm will receive a novel Buprenorphine (BUP) microdose induction protocol.\n\nBUP microdose induction: Participants will be started on a 5-day BUP microdose induction protocol (without stopping full agonists).\n\nDay 1: participants will receive buprenorphine (Belbuca) 225 mcg mg every 12 hours Day 2: participants will receive buprenorphine (Belbuca) 450 mcg every 8 hours Day 3: participants will receive buprenorphine-naloxone 2-0.5 mg every 8 hours Day 4: participants will receive buprenorphine-naloxone 4-1 mg every 8 hours Day 5: participants will receive buprenorphine-naloxone 8-2 mg every 12 hours\n\nLinkage to outpatient BUP treatment: Participants will be given an expedited appointment (within 2 weeks) to continue BUP treatment at a Montefiore community health center"
+        },
+        {
+          "id": "FG001",
+          "title": "Treatment As Usual (TAU)",
+          "description": "Participants in this arm will receive standard BUP induction protocol.\n\nTreatment As Usual (TAU): 2-day standard BUP induction protocol (with stopping full agonists) Day 1: hold all opioids Day 2: buprenorphine-naloxone 2-0.5 mg every 6 hours Day 3: buprenorphine-naloxone 8-2 mg every 12 hours\n\nLinkage to outpatient BUP treatment: Participants will be given an expedited appointment (within 2 weeks) to continue BUP treatment at a Montefiore community health center"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "12"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "11"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "9"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "7"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "BUP Microdose Induction",
+          "description": "Participants in this arm will receive a novel BUP microdose induction protocol.\n\nBUP microdose induction: Participants will be started on a 5-day BUP microdose induction protocol (without stopping full agonists).\n\nDay 1: participants will receive buprenorphine (Belbuca) 225 mcg mg every 12 hours Day 2: participants will receive buprenorphine (Belbuca) 450 mcg every 8 hours Day 3: participants will receive buprenorphine-naloxone 2-0.5 mg every 8 hours Day 4: participants will receive buprenorphine-naloxone 4-1 mg every 8 hours Day 5: participants will receive buprenorphine-naloxone 8-2 mg every 12 hours\n\nLinkage to outpatient BUP treatment: Participants will be given an expedited appointment (within 2 weeks) to continue BUP treatment at a Montefiore community health center"
+        },
+        {
+          "id": "BG001",
+          "title": "Treatment As Usual (TAU)",
+          "description": "Participants in this arm will receive standard BUP induction protocol.\n\nTAU: 2-day standard BUP induction protocol (with stopping full agonists) Day 1: hold all opioids Day 2: buprenorphine-naloxone 2-0.5 mg every 6 hours Day 3: buprenorphine-naloxone 8-2 mg every 12 hours\n\nLinkage to outpatient BUP treatment: Participants will be given an expedited appointment (within 2 weeks) to continue BUP treatment at a Montefiore community health center"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "12"
+            },
+            {
+              "groupId": "BG001",
+              "value": "11"
+            },
+            {
+              "groupId": "BG002",
+              "value": "23"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45.4",
+                      "spread": "16.6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "49.4",
+                      "spread": "15.4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "47.3",
+                      "spread": "15.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opioid Use Disorder status",
+          "description": "Participants were placed in 2 categories: a) opioid use disorder moderate or severe; b) opioid use disorder mild or opioid misuse. Opioid use disorder (OUD) was defined by Diagnostic and Statistical Manual, version 5 criteria based on number of criteria met (2-3 criteria = OUD mild, 4-5 criteria = OUD moderate, 6+ criteria = OUD severe). Opioid misuse was defined as heroin use or prescription opioid misuse defined as: 1) use without a prescription; 2) use in greater amounts, more often, or longer than instructed; or 3) use in any other way than instructed by the prescribing clinician.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Opioid use disorder moderate or severe",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "Opioid use disorder mild or Opioid misuse",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "BUP Treatment Uptake",
+          "description": "The percentage of participants who start BUP treatment, defined as receiving BUP 7 days after the baseline visit, will be reported for each arm.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "7 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "BUP Microdose Induction",
+              "description": "Participants in this arm will receive a novel BUP microdose induction protocol.\n\nBUP microdose induction: Participants will be started on a 5-day BUP microdose induction protocol (without stopping full agonists).\n\nDay 1: participants will receive buprenorphine (Belbuca) 225 mcg mg every 12 hours Day 2: participants will receive buprenorphine (Belbuca) 450 mcg every 8 hours Day 3: participants will receive buprenorphine-naloxone 2-0.5 mg every 8 hours Day 4: participants will receive buprenorphine-naloxone 4-1 mg every 8 hours Day 5: participants will receive buprenorphine-naloxone 8-2 mg every 12 hours\n\nLinkage to outpatient BUP treatment: Participants will be given an expedited appointment (within 2 weeks) to continue BUP treatment at a Montefiore community health center"
+            },
+            {
+              "id": "OG001",
+              "title": "Treatment As Usual (TAU)",
+              "description": "Participants in this arm will receive standard BUP induction protocol.\n\nTAU: 2-day standard BUP induction protocol (with stopping full agonists) Day 1: hold all opioids Day 2: buprenorphine-naloxone 2-0.5 mg every 6 hours Day 3: buprenorphine-naloxone 8-2 mg every 12 hours\n\nLinkage to outpatient BUP treatment: Participants will be given an expedited appointment (within 2 weeks) to continue BUP treatment at a Montefiore community health center"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "12"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "1.00",
+              "statisticalMethod": "Fisher Exact",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "0.91",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "0.050",
+              "ciUpperLimit": "16.540",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "1.346"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Illicit Opioid Use",
+          "description": "The mean number of days of illicit opioid use, defined as self-reported use of heroin, fentanyl, or non-prescribed opioid analgesics in the prior 30 days based on the Addiction Severity Index, will be reported for each arm.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "1, 3, and 6 months",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "BUP Retention in Care",
+          "description": "The percentage of participants who are retained in BUP treatment, defined as having a BUP prescription written 180-210 days (6-month retention) after enrollment, will be reported for each arm.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "1, 3, and 6 months",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Pain Intensity",
+          "description": "Mean pain intensity score, measured using the Brief Pain Inventory (BPI), will be reported for each study arm.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "3 months",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Pain Interference",
+          "description": "Mean pain interference score, measured using the pain interference scale from the BPI, which is a 7-item instrument measuring the impact of pain on daily activities and physical functioning, will be reported for each study arm.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "3 months",
+          "denomUnitsSelected": "Participants"
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Up to approximately 6 months (24 weeks)",
+      "description": "A structured form was used to collect adverse event information at week 1, 4, 12, 24 study visits. A researcher asked participants whether they had experienced: abscess, asthenia, chills, fever, flu syndrome, headache, infection, injury/accident, pain, abdominal pain, back pain, withdrawal syndrome, constipation, diarrhea, dyspepsia, nausea, vomiting, anxiety, depression, dizziness, insomnia, nervousness, somnolence, cough, pharyngitis, rhinitis, sweating, lacrimation, vasodilation, fatigue.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "BUP Microdose Induction",
+          "description": "Participants in this arm will receive a novel BUP microdose induction protocol.\n\nBUP microdose induction: Participants will be started on a 5-day BUP microdose induction protocol (without stopping full agonists).\n\nDay 1: participants will receive buprenorphine (Belbuca) 225 mcg mg every 12 hours Day 2: participants will receive buprenorphine (Belbuca) 450 mcg every 8 hours Day 3: participants will receive buprenorphine-naloxone 2-0.5 mg every 8 hours Day 4: participants will receive buprenorphine-naloxone 4-1 mg every 8 hours Day 5: participants will receive buprenorphine-naloxone 8-2 mg every 12 hours\n\nLinkage to outpatient BUP treatment: Participants will be given an expedited appointment (within 2 weeks) to continue BUP treatment at a Montefiore community health center",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 12,
+          "seriousNumAffected": 8,
+          "seriousNumAtRisk": 12,
+          "otherNumAffected": 12,
+          "otherNumAtRisk": 12
+        },
+        {
+          "id": "EG001",
+          "title": "Treatment As Usual (TAU)",
+          "description": "Participants in this arm will receive standard BUP induction protocol.\n\nTAU: 2-day standard BUP induction protocol (with stopping full agonists) Day 1: hold all opioids Day 2: buprenorphine-naloxone 2-0.5 mg every 6 hours Day 3: buprenorphine-naloxone 8-2 mg every 12 hours\n\nLinkage to outpatient BUP treatment: Participants will be given an expedited appointment (within 2 weeks) to continue BUP treatment at a Montefiore community health center",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 11,
+          "seriousNumAffected": 6,
+          "seriousNumAtRisk": 11,
+          "otherNumAffected": 11,
+          "otherNumAtRisk": 11
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Hospitalization",
+          "organSystem": "Surgical and medical procedures",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Participants self-reported whether they were admitted to the hospital for any medical or surgical reason.",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 13,
+              "numAffected": 5,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 20,
+              "numAffected": 6,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Overdose",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Suicidal ideation",
+          "organSystem": "Psychiatric disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Participants endorsing, \"thoughts that you would be better off dead, or of hurting yourself,\" as part of the 9-item Patient Health Questionnaire (PHQ-9) assessment were considered to have suicidal ideation",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 11
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Abscess",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Asthenia",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 7,
+              "numAffected": 4,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Chills",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 8,
+              "numAffected": 4,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 8,
+              "numAffected": 4,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Fever",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Flu Syndrome",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 4,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 18,
+              "numAffected": 9,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 3,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Infection",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Accidental Injury",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 3,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Pain - general",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 26,
+              "numAffected": 11,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 27,
+              "numAffected": 11,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Pain - abdominal",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 9,
+              "numAffected": 5,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 3,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Pain - back",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 19,
+              "numAffected": 7,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 26,
+              "numAffected": 10,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Withdrawal syndrome",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 8,
+              "numAffected": 3,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 9,
+              "numAffected": 7,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 15,
+              "numAffected": 7,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Diarrhea",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 7,
+              "numAffected": 4,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 4,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Acid Reflux",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 19,
+              "numAffected": 9,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 12,
+              "numAffected": 7,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 7,
+              "numAffected": 5,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 8,
+              "numAffected": 6,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Anxiety",
+          "organSystem": "Psychiatric disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 21,
+              "numAffected": 8,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 16,
+              "numAffected": 7,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Depression",
+          "organSystem": "Psychiatric disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 17,
+              "numAffected": 7,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 14,
+              "numAffected": 6,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Dizziness",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 4,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 6,
+              "numAffected": 5,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Insomnia",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 24,
+              "numAffected": 10,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 11,
+              "numAffected": 6,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Nervousness",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 13,
+              "numAffected": 6,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 11,
+              "numAffected": 5,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Somnolence",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 9,
+              "numAffected": 5,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Coughing",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 4,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 3,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Pharyngitis",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 3,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Rhinitis",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 7,
+              "numAffected": 4,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 2,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Sweating",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 4,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 7,
+              "numAffected": 5,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Lacrimation",
+          "organSystem": "Eye disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 2,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Vasodilation",
+          "organSystem": "Vascular disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 11
+            }
+          ]
+        },
+        {
+          "term": "Fatigue",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 16,
+              "numAffected": 8,
+              "numAtRisk": 12
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 10,
+              "numAffected": 6,
+              "numAtRisk": 11
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Aaron Fox",
+        "organization": "Albert Einstein College of Medicine",
+        "email": "adfox@montefiore.org",
+        "phone": "718-920-7173"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2022-12-02",
+          "uploadDate": "2025-10-10T17:53",
+          "filename": "Prot_SAP_001.pdf",
+          "size": 374710
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2024-07-24",
+          "uploadDate": "2025-06-06T16:03",
+          "filename": "ICF_000.pdf",
+          "size": 155474
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D019966",
+          "term": "Substance-Related Disorders"
+        },
+        {
+          "id": "D009293",
+          "term": "Opioid-Related Disorders"
+        },
+        {
+          "id": "D059350",
+          "term": "Chronic Pain"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D064419",
+          "term": "Chemically-Induced Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        },
+        {
+          "id": "D000079524",
+          "term": "Narcotic-Related Disorders"
+        },
+        {
+          "id": "D010146",
+          "term": "Pain"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

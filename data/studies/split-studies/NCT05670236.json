@@ -1,0 +1,969 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05670236",
+      "orgStudyIdInfo": {
+        "id": "32283"
+      },
+      "organization": {
+        "fullName": "The Cleveland Clinic",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effect of Knee Pain on Walking Biomechanics",
+      "officialTitle": "Effect of Knee Pain on Walking Biomechanics"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-01-25",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-07-19",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-07-19",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-11-29",
+      "studyFirstSubmitQcDate": "2022-12-20",
+      "studyFirstPostDateStruct": {
+        "date": "2023-01-04",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-09-02",
+      "resultsFirstSubmitQcDate": "2025-10-15",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-10-29",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-10-15",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-10-29",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Daniel Corrigan",
+        "investigatorTitle": "Assistant Professor",
+        "investigatorAffiliation": "The Cleveland Clinic"
+      },
+      "leadSponsor": {
+        "name": "The Cleveland Clinic",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The goal of this study is to determine if pain in one knee influences loading of the other knee during different types of walking. The main questions it aims to answer are:\n\n* How does unilateral knee pain affect contralateral knee joint loading during different types of walking?\n* Does movement and loading change at the hips, knees, and ankles during prolonged walking in persons with painful knee osteoarthritis?\n\nParticipants will:\n\n* Fill out questionnaires/surveys\n* Complete clinical examinations\n* Walking on a treadmill under different types of walking conditions\n* Receive two knee injections For comparison purposes, researchers will also enroll healthy participants.",
+      "detailedDescription": "This study will evaluate the effects of unilateral knee pain on contralateral knee joint loading during different types of walking. Thirty adults with unilateral symptomatic knee osteoarthritis will complete four, 1.5-hour study visits. The first and third visits will include level, inclined, and declined walking at comfortable, fast, and slow speeds. The second and fourth visits will include a 30-minute walk. There will be at least two days between visits. The only difference between each pair of visits is that one visit will involve walking with unilateral knee pain (painful walking) and the other visit will involve walking without unilateral knee pain (nonpainful walking). Individuals will be recruited based on the presence of unilateral knee pain so the painful walking will be representative of their typical walking. For the visits with nonpainful walking, the third and fourth visits, pain will be alleviated by performing an intraarticular injection with a local anesthetic (lidocaine hydrochloride). All walking will be performed in a three-dimensional motion capture environment on a split-belt treadmill that is instrumented with force plates.\n\nA cohort of 30 healthy individuals will complete the same walking conditions at two, 1.5-hour study visits. The healthy control group will not receive intraarticular knee injections. The purpose of this cohort is to better understand how walking mechanics in individuals with unilateral knee osteoarthritis compare to similar individuals without knee osteoarthritis."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Osteoarthritis, Knee"
+      ],
+      "keywords": [
+        "Gait",
+        "Pain",
+        "Osteoarthritis",
+        "Biomechanics"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Arm 1: Clinically defined unilateral symptomatic knee osteoarthritis;\n\nArm 2: Healthy Controls",
+        "primaryPurpose": "OTHER",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 55,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Knee Osteoarthritis",
+          "type": "EXPERIMENTAL",
+          "description": "Individuals with clinically defined unilateral symptomatic knee osteoarthritis.",
+          "interventionNames": [
+            "Drug: Lidocaine Hydrochloride"
+          ]
+        },
+        {
+          "label": "Healthy",
+          "type": "NO_INTERVENTION",
+          "description": "Individuals who serve as healthy controls."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Lidocaine Hydrochloride",
+          "description": "10 mL of 1% lidocaine hydrochloride for each intraarticular knee injection",
+          "armGroupLabels": [
+            "Knee Osteoarthritis"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in Medial Knee Contact Forces During Walking",
+          "description": "Contact forces estimated with musculoskeletal modeling",
+          "timeFrame": "Change from before treatment (approximately 1 week prior to the injection visit) to 30 minutes after treatment (the injection)."
+        },
+        {
+          "measure": "Change in Lateral Knee Contact Forces During Walking",
+          "description": "Contact forces estimated with musculoskeletal modeling",
+          "timeFrame": "Change from before treatment (approximately 1 week prior to the injection visit) to 30 minutes after treatment (the injection)."
+        },
+        {
+          "measure": "Change in Patellofemoral Knee Contact Forces During Walking",
+          "description": "Contact forces estimated with musculoskeletal modeling",
+          "timeFrame": "Change from before treatment (approximately 1 week prior to the injection visit) to 30 minutes after treatment (the injection)."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria for Knee Osteoarthritis Arm:\n\n* At least 45 years old\n* Unilateral knee pain with walking that averages at least 3 out of 10 on a numeric pain rating scale\n* Unilateral knee stiffness that lasts less than 30 minutes after periods of inactivity\n* Unilateral symptoms on most days for at least the past 3 months\n\nExclusion Criteria for Knee Osteoarthritis Arm:\n\n* History of knee replacement surgery\n* Opiate use within the past 3 months\n* Narcotic use within the past 3 months\n* Known medical condition that affects walking mechanics, besides knee osteoarthritis\n* Known medical condition that affects pain perception\n* Inability to walk for 30 minutes without using an assistive device\n* Body weight greater than 300 pounds\n* Known allergy to adhesives\n* High risk for a cardiovascular event\n* Currently pregnant\n* Anticoagulant use within the past 3 months\n* Intraarticular knee injection within the past 3 months\n* Known history of hypersensitivity to local anesthetics of the amide type\n* History of lower body pain or injury, besides knee osteoarthritis, within the past 6 months\n\nInclusion Criteria for Healthy Arm:\n\n* At least 45 years old\n* No lower body pain or injury within the past 6 months\n\nExclusion Criteria for Healthy Arm:\n\n* History of knee replacement surgery\n* Opiate use within the past 3 months\n* Narcotic use within the past 3 months\n* Known medical condition that affects walking mechanics\n* Known medical condition that affects pain perception\n* Inability to walk for 30 minutes without using an assistive device\n* Body weight greater than 300 pounds\n* Known allergy to adhesives\n* High risk for a cardiovascular event\n* Currently pregnant",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "45 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Patrick Corrigan, DPT, PhD",
+          "affiliation": "The Cleveland Clinic",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Cleveland Clinic",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.4995,
+            "lon": -81.69541
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Knee Osteoarthritis",
+          "description": "Individuals with clinically defined unilateral symptomatic knee osteoarthritis.\n\nLidocaine Hydrochloride: 10 mL of 1% lidocaine hydrochloride for each intraarticular knee injection"
+        },
+        {
+          "id": "FG001",
+          "title": "Healthy",
+          "description": "Individuals who serve as healthy controls."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "comment": "Baseline Testing",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "30"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "25"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "comment": "Entire Protocol",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "23"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "24"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Knee Osteoarthritis",
+          "description": "Individuals with clinically defined unilateral symptomatic knee osteoarthritis.\n\nLidocaine Hydrochloride: 10 mL of 1% lidocaine hydrochloride for each intraarticular knee injection"
+        },
+        {
+          "id": "BG001",
+          "title": "Healthy",
+          "description": "Individuals who serve as healthy controls."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "30"
+            },
+            {
+              "groupId": "BG001",
+              "value": "25"
+            },
+            {
+              "groupId": "BG002",
+              "value": "55"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "62.3",
+                      "spread": "8.5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "57.9",
+                      "spread": "7.8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "60.3",
+                      "spread": "8.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "37"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "54"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "44"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "55"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Height",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "cm",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "169.2",
+                      "spread": "10.0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "171.1",
+                      "spread": "8.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "170.1",
+                      "spread": "9.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Weight",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kg",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "81.7",
+                      "spread": "20.7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "77.5",
+                      "spread": "17.7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "79.8",
+                      "spread": "19.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change in Medial Knee Contact Forces During Walking",
+          "description": "Contact forces estimated with musculoskeletal modeling",
+          "populationDescription": "The healthy control group did not receive a treatment. Therefore, no change was expected or measured.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "bodyweights",
+          "timeFrame": "Change from before treatment (approximately 1 week prior to the injection visit) to 30 minutes after treatment (the injection).",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Knee Osteoarthritis",
+              "description": "Individuals with clinically defined unilateral symptomatic knee osteoarthritis.\n\nLidocaine Hydrochloride: 10 mL of 1% lidocaine hydrochloride for each intraarticular knee injection"
+            },
+            {
+              "id": "OG001",
+              "title": "Healthy",
+              "description": "Individuals who serve as healthy controls."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "24"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.04",
+                      "spread": "0.02"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Change in Lateral Knee Contact Forces During Walking",
+          "description": "Contact forces estimated with musculoskeletal modeling",
+          "populationDescription": "The healthy control group did not receive a treatment. Therefore, no change was expected or measured.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "bodyweights",
+          "timeFrame": "Change from before treatment (approximately 1 week prior to the injection visit) to 30 minutes after treatment (the injection).",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Knee Osteoarthritis",
+              "description": "Individuals with clinically defined unilateral symptomatic knee osteoarthritis.\n\nLidocaine Hydrochloride: 10 mL of 1% lidocaine hydrochloride for each intraarticular knee injection"
+            },
+            {
+              "id": "OG001",
+              "title": "Healthy",
+              "description": "Individuals who serve as healthy controls."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "24"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.02",
+                      "spread": "0.03"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Change in Patellofemoral Knee Contact Forces During Walking",
+          "description": "Contact forces estimated with musculoskeletal modeling",
+          "populationDescription": "The healthy control group did not receive a treatment. Therefore, no change was expected or measured.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "bodyweights",
+          "timeFrame": "Change from before treatment (approximately 1 week prior to the injection visit) to 30 minutes after treatment (the injection).",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Knee Osteoarthritis",
+              "description": "Individuals with clinically defined unilateral symptomatic knee osteoarthritis.\n\nLidocaine Hydrochloride: 10 mL of 1% lidocaine hydrochloride for each intraarticular knee injection"
+            },
+            {
+              "id": "OG001",
+              "title": "Healthy",
+              "description": "Individuals who serve as healthy controls."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "24"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.01",
+                      "spread": "0.01"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Adverse event data were collected at each study visit. All study visits occurred within a one-month period.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Knee Osteoarthritis",
+          "description": "Individuals with clinically defined unilateral symptomatic knee osteoarthritis.\n\nLidocaine Hydrochloride: 10 mL of 1% lidocaine hydrochloride for each intraarticular knee injection",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 30,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 30,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 30
+        },
+        {
+          "id": "EG001",
+          "title": "Healthy",
+          "description": "Individuals who serve as healthy controls.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 25,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 25,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 25
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dr. Patrick Corrigan",
+        "organization": "Cleveland Clinic Foundation",
+        "email": "corrigd4@ccf.org",
+        "phone": "216-618-9932"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-07-09",
+          "uploadDate": "2025-09-02T12:13",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 332125
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2022-11-29",
+          "uploadDate": "2025-09-02T12:21",
+          "filename": "ICF_001.pdf",
+          "size": 10157182
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-09-19",
+            "type": "ESTIMATED"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D020370",
+          "term": "Osteoarthritis, Knee"
+        },
+        {
+          "id": "D010146",
+          "term": "Pain"
+        },
+        {
+          "id": "D010003",
+          "term": "Osteoarthritis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001168",
+          "term": "Arthritis"
+        },
+        {
+          "id": "D007592",
+          "term": "Joint Diseases"
+        },
+        {
+          "id": "D009140",
+          "term": "Musculoskeletal Diseases"
+        },
+        {
+          "id": "D012216",
+          "term": "Rheumatic Diseases"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D008012",
+          "term": "Lidocaine"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000083",
+          "term": "Acetanilides"
+        },
+        {
+          "id": "D000813",
+          "term": "Anilides"
+        },
+        {
+          "id": "D000577",
+          "term": "Amides"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D000814",
+          "term": "Aniline Compounds"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,1237 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05889468",
+      "orgStudyIdInfo": {
+        "id": "Pro00112143"
+      },
+      "organization": {
+        "fullName": "Duke University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Postpartum ASA and NT-proBNP",
+      "officialTitle": "The Association Between Postpartum Aspirin Use and NT-proBNP Levels as a Marker for Maternal Health Outcomes."
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-05",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-07-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-05-21",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-05-21",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-05-25",
+      "studyFirstSubmitQcDate": "2023-05-25",
+      "studyFirstPostDateStruct": {
+        "date": "2023-06-05",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-05-20",
+      "resultsFirstSubmitQcDate": "2025-05-20",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-06-04",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-05-20",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-06-04",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Duke University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study is a double-blinded randomized-controlled trial in which patients will be randomized to 81 mg of aspirin or placebo to be continued for 6 weeks' postpartum. The purpose of this study is to compare NT-proBNP levels at the 4-6 week postpartum visit between groups. There is currently no data on the maternal health effects associated with continuation of low-dose aspirin in the postpartum period. This study aims to fill a gap in the knowledge regarding the utility of low-dose aspirin following delivery."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Blood Pressure"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Treatment Arm vs Placebo Arm",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "maskingDescription": "1:1 fashion to aspirin 81 mg vs identical-appearing placebo to be continued for 6 weeks' postpartum. Patients will receive these medications prior to hospital discharge. Both the patient and provider will be blinded to their assigned group. NT-proBNP levels will be drawn at the 4-6-week postpartum visit. NT-proBNP levels will be compared between groups.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 114,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Treatment Group",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "The treatment group will be provided with a 6-week supply of 81 mg of aspirin prior to discharge from the delivery admission. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal.",
+          "interventionNames": [
+            "Drug: Aspirin 81Mg Ec Tab"
+          ]
+        },
+        {
+          "label": "Placebo Group",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "The control group will receive a 6-week supply of placebo medication from the Investigational Pharmacy prior to discharge. The placebo will be identically appearing to the 81 mg aspirin. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal.",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Aspirin 81Mg Ec Tab",
+          "description": "Participant may be provided with a 6-week supply of 81 mg of aspirin prior to discharge from the delivery admission.",
+          "armGroupLabels": [
+            "Treatment Group"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Participant may be provided with a 6-week supply of placebo to discharge from the delivery admission.",
+          "armGroupLabels": [
+            "Placebo Group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "NT-proBNP Levels at 4-6 Weeks Postpartum",
+          "description": "The primary outcome for this analysis was NT-proBNP levels collected at the postpartum visit. Patients were reminded of this appointment the day prior to their scheduled follow-up visit. NT-proBNP levels were drawn at the 4-6 week postpartum visit. If patient did not present to their scheduled appointment, attempts were made to contact the patient and reschedule the visit and collect the lab sample for completion of the study.",
+          "timeFrame": "4-6 weeks postpartum"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Participants With Preeclampsia Diagnosis Postpartum",
+          "timeFrame": "6 weeks postpartum"
+        },
+        {
+          "measure": "Number of Participants With Eclampsia",
+          "timeFrame": "4-6 weeks postpartum"
+        },
+        {
+          "measure": "Number of Participants With Hospital Readmission for Blood Pressure Monitoring or Cardiovascular Disease Work-up Indications",
+          "timeFrame": "6 weeks postpartum"
+        },
+        {
+          "measure": "Number of Participants Requiring Initiation or Increase in Blood Pressure Medications",
+          "timeFrame": "4-6 weeks postpartum"
+        },
+        {
+          "measure": "Number of Participants With Hospital Readmission for Bleeding-related Complications",
+          "timeFrame": "4-6 weeks postpartum"
+        },
+        {
+          "measure": "Number of Participants Needing Blood Transfusion(s)",
+          "timeFrame": "4-6 weeks postpartum"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* 18 years of age and older\n* English-speaking\n* postpartum\n* have met USPSTF recommendations for low-dose aspirin use during pregnancy: \\>1 high risk factor (history of preeclampsia in prior pregnancy, multifetal gestational, chronic hypertension, preexisting diabetes, renal disease, autoimmune disease) or \\>2 moderate risk factors (nulliparity, obesity, family history of preeclampsia, sociodemographic characteristics, age 35 years or older, or personal history factors) and reported at least 50% compliance with aspirin during pregnancy.\n\nExclusion Criteria:\n\n* hypersensitivity reaction to aspirin or other salicylates,\n* history of gastrointestinal bleeding\n* history of gastric or duodenal ulcers\n* severe hepatic dysfunction\n* bleeding disorders and diathesis\n* known cardiac dysfunction with reduced ejection fraction, or are taking or prescribed ACE inhibitors.\n* Patients who required ICU level care during their pregnancy will be excluded.",
+      "healthyVolunteers": true,
+      "sex": "FEMALE",
+      "minimumAge": "18 Years",
+      "maximumAge": "60 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Brenna Hughes, MD",
+          "affiliation": "Duke University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Duke University",
+          "city": "Durham",
+          "state": "North Carolina",
+          "zip": "27705",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.99403,
+            "lon": -78.89862
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Four participants were consented but did not start the study because they did not deliver within the Duke Hospital System or required Intensive Care Unit (ICU) admission during their delivery hospitalization.",
+      "recruitmentDetails": "Patients meeting inclusion criteria were approached for enrollment during routine prenatal visits at Duke Perinatal Clinic and on Duke Birthing Center's Labor and Delivery Unit.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Treatment Group",
+          "description": "The treatment group will be provided with a 6-week supply of 81 mg of aspirin prior to discharge from the delivery admission. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo Group",
+          "description": "The control group will receive a 6-week supply of placebo medication from the Investigational Pharmacy prior to discharge. The placebo will be identically appearing to the 81 mg aspirin. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "55"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "55"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "44"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "51"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "9"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Treatment Group",
+          "description": "The treatment group will be provided with a 6-week supply of 81 mg of aspirin prior to discharge from the delivery admission. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo Group",
+          "description": "The control group will receive a 6-week supply of placebo medication from the Investigational Pharmacy prior to discharge. The placebo will be identically appearing to the 81 mg aspirin. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "55"
+            },
+            {
+              "groupId": "BG001",
+              "value": "55"
+            },
+            {
+              "groupId": "BG002",
+              "value": "110"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "31.8",
+                      "spread": "5.4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32.2",
+                      "spread": "5.9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "32.0",
+                      "spread": "5.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "55"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "55"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "110"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "57"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "51"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "96"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "NT-proBNP Levels at 4-6 Weeks Postpartum",
+          "description": "The primary outcome for this analysis was NT-proBNP levels collected at the postpartum visit. Patients were reminded of this appointment the day prior to their scheduled follow-up visit. NT-proBNP levels were drawn at the 4-6 week postpartum visit. If patient did not present to their scheduled appointment, attempts were made to contact the patient and reschedule the visit and collect the lab sample for completion of the study.",
+          "populationDescription": "Participants who completed the study.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "pg/mL",
+          "timeFrame": "4-6 weeks postpartum",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Group",
+              "description": "The treatment group will be provided with a 6-week supply of 81 mg of aspirin prior to discharge from the delivery admission. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo Group",
+              "description": "The control group will receive a 6-week supply of placebo medication from the Investigational Pharmacy prior to discharge. The placebo will be identically appearing to the 81 mg aspirin. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "36.5",
+                      "lowerLimit": "36.0",
+                      "upperLimit": "61.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "39.5",
+                      "lowerLimit": "36.0",
+                      "upperLimit": "74.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "This was an intention-to-treat analysis.",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.49",
+              "statisticalMethod": "Wilcoxon (Mann-Whitney)",
+              "statisticalComment": "Wilcoxon rank sum test, a non-parametric test, was used since the empirical distribution of data did not follow the normality assumption."
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Preeclampsia Diagnosis Postpartum",
+          "populationDescription": "Participants who completed the study.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "6 weeks postpartum",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Group",
+              "description": "The treatment group will be provided with a 6-week supply of 81 mg of aspirin prior to discharge from the delivery admission. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo Group",
+              "description": "The control group will receive a 6-week supply of placebo medication from the Investigational Pharmacy prior to discharge. The placebo will be identically appearing to the 81 mg aspirin. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Intention-to-treat analysis",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.32",
+              "statisticalMethod": "Fisher Exact"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Eclampsia",
+          "populationDescription": "Participants who completed the study.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "4-6 weeks postpartum",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Group",
+              "description": "The treatment group will be provided with a 6-week supply of 81 mg of aspirin prior to discharge from the delivery admission. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo Group",
+              "description": "The control group will receive a 6-week supply of placebo medication from the Investigational Pharmacy prior to discharge. The placebo will be identically appearing to the 81 mg aspirin. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Hospital Readmission for Blood Pressure Monitoring or Cardiovascular Disease Work-up Indications",
+          "populationDescription": "Participants who completed the study.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "6 weeks postpartum",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Group",
+              "description": "The treatment group will be provided with a 6-week supply of 81 mg of aspirin prior to discharge from the delivery admission. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo Group",
+              "description": "The control group will receive a 6-week supply of placebo medication from the Investigational Pharmacy prior to discharge. The placebo will be identically appearing to the 81 mg aspirin. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Intention-to-treat analysis",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": ">0.99",
+              "statisticalMethod": "Fisher Exact"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Requiring Initiation or Increase in Blood Pressure Medications",
+          "populationDescription": "Participants who completed the study.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "4-6 weeks postpartum",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Group",
+              "description": "The treatment group will be provided with a 6-week supply of 81 mg of aspirin prior to discharge from the delivery admission. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo Group",
+              "description": "The control group will receive a 6-week supply of placebo medication from the Investigational Pharmacy prior to discharge. The placebo will be identically appearing to the 81 mg aspirin. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Intention-to-treat analysis",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": ">0.99",
+              "statisticalMethod": "Fisher Exact"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Hospital Readmission for Bleeding-related Complications",
+          "populationDescription": "Participants who completed the study.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "4-6 weeks postpartum",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Group",
+              "description": "The treatment group will be provided with a 6-week supply of 81 mg of aspirin prior to discharge from the delivery admission. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo Group",
+              "description": "The control group will receive a 6-week supply of placebo medication from the Investigational Pharmacy prior to discharge. The placebo will be identically appearing to the 81 mg aspirin. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Needing Blood Transfusion(s)",
+          "populationDescription": "Participants who completed the study.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "4-6 weeks postpartum",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Group",
+              "description": "The treatment group will be provided with a 6-week supply of 81 mg of aspirin prior to discharge from the delivery admission. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo Group",
+              "description": "The control group will receive a 6-week supply of placebo medication from the Investigational Pharmacy prior to discharge. The placebo will be identically appearing to the 81 mg aspirin. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "4-6 weeks postpartum",
+      "description": "Prespecified minor adverse events included GI symptoms or minor bleeding events. Major bleeding, defined by ISTH as 1) fatal bleeding, 2) symptomatic bleeding in a critical organ, or 3) bleeding causing a fall in hemoglobin level of 20 g/l or more or leading to transfusion of 2 or more units of whole blood or red cells, as well as anaphylactic reactions, unexpected hospitalizations, and death were reported as major adverse events.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Treatment Group",
+          "description": "The treatment group will be provided with a 6-week supply of 81 mg of aspirin prior to discharge from the delivery admission. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal.\n\nAspirin 81Mg Ec Tab: Participant may be provided with a 6-week supply of 81 mg of aspirin prior to discharge from the delivery admission.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 55,
+          "seriousNumAffected": 5,
+          "seriousNumAtRisk": 55,
+          "otherNumAffected": 2,
+          "otherNumAtRisk": 55
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo Group",
+          "description": "The control group will receive a 6-week supply of placebo medication from the Investigational Pharmacy prior to discharge. The placebo will be identically appearing to the 81 mg aspirin. Patients will be scheduled for a 4-6 week postpartum clinic appointment, which is standard for these patients outside of this proposal.\n\nPlacebo: Participant may be provided with a 6-week supply of placebo to discharge from the delivery admission.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 55,
+          "seriousNumAffected": 6,
+          "seriousNumAtRisk": 55,
+          "otherNumAffected": 5,
+          "otherNumAtRisk": 55
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Unexpected hospitalization (preeclampsia or cardiovascular-related)",
+          "organSystem": "Cardiac disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 55
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 55
+            }
+          ]
+        },
+        {
+          "term": "Unexpected hospitalization (bleeding related)",
+          "organSystem": "Blood and lymphatic system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 55
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 55
+            }
+          ]
+        },
+        {
+          "term": "Unexpected hospitalization (infection or wound complication)",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 55
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 55
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Gastrointestinal symptoms",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 55
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 55
+            }
+          ]
+        },
+        {
+          "term": "Postpartum triage visit",
+          "organSystem": "Pregnancy, puerperium and perinatal conditions",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 55
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 4,
+              "numAtRisk": 55
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Brenna L. Hughes, MD, MSc",
+        "organization": "Duke University Medical Center",
+        "email": "brenna.hughes@duke.edu",
+        "phone": "919-684-8111"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-05-01",
+          "uploadDate": "2025-05-07T14:17",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 148580
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001241",
+          "term": "Aspirin"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012459",
+          "term": "Salicylates"
+        },
+        {
+          "id": "D062385",
+          "term": "Hydroxybenzoates"
+        },
+        {
+          "id": "D010636",
+          "term": "Phenols"
+        },
+        {
+          "id": "D001555",
+          "term": "Benzene Derivatives"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

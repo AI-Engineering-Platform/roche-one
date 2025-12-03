@@ -1,0 +1,2609 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05687032",
+      "orgStudyIdInfo": {
+        "id": "B1931034"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "NCT05687032",
+          "type": "REGISTRY",
+          "domain": "ClinicalTrials.gov"
+        }
+      ],
+      "organization": {
+        "fullName": "Pfizer",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study of Inotuzumab Ozogamicin in Chinese Patients With Relapsed or Refractory Acute Lymphoblastic Leukemia",
+      "officialTitle": "A PHASE 4, OPEN-LABEL, SINGLE-ARM, MULTICENTER STUDY OF INOTUZUMAB OZOGAMICIN IN CHINESE ADULT PATIENTS WITH RELAPSED OR REFRACTORY CD22-POSITIVE ACUTE LYMPHOBLASTIC LEUKEMIA (ALL)"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-02-24",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-08-07",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-11-07",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-01-06",
+      "studyFirstSubmitQcDate": "2023-01-06",
+      "studyFirstPostDateStruct": {
+        "date": "2023-01-17",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-07-22",
+      "resultsFirstSubmitQcDate": "2025-07-22",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-08-07",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-09-09",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-10",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Pfizer",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This is an open-label, single-arm, multicenter study in Chinese patients with relapsed or refractory CD22-positive B-cell ALL. The objective of the study is to confirm the efficacy, safety, and PK of inotuzumab ozogamicin in patients with relapsed or refractory B-cell ALL from mainland China."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Acute Lymphoblastic Leukemia"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 44,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "inotuzumab ozogamicin",
+          "type": "EXPERIMENTAL",
+          "description": "Dose: inotuzumab ozogamicin 0.8-0.5 mg/m\\^2 IV, weekly, 3 times per cycle Cycle length: 21-28 days Total number of cycles: 6",
+          "interventionNames": [
+            "Drug: inotuzumab ozogamicin"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "inotuzumab ozogamicin",
+          "description": "Given IV",
+          "armGroupLabels": [
+            "inotuzumab ozogamicin"
+          ],
+          "otherNames": [
+            "Besponsa"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Percentage of Participants With Complete Remission (CR) or Complete Remission With Incomplete Hematological Recovery (CRi) as Per Investigator's Assessment According to a Modified Cheson Criteria",
+          "description": "CR: disappearance of leukemia as indicated by \\<5% marrow blasts and the absence of peripheral blood leukemic blasts, with recovery of hematopoiesis defined by absolute neutrophil count (ANC) \\>=1000 per microliter (/mcL) and platelets \\>=100,000/mcL. C1 extramedullary disease (EMD) status was required (disappearance of all measurable and non-measurable EMD with the exception of lesions for which following must be true: participants with at least 1 measurable lesion, all nodal masses \\>1.5 centimeter (cm) in greatest transverse diameter (GTD) at baseline regressed to \\<=1.5 cm in GTD and nodal masses \\>=1 cm and \\<=1.5 cm in GTD at baseline must have regressed to \\<1 cm GTD or reduced by 75% in sum of products of greatest diameters (SPD). No new lesions. Spleen and other previously enlarged organs must have regressed in size and must not be palpable. All diseases were assessed using the same technique as at baseline. CRi: CR except with ANC \\<1000/mcL and/or platelets \\<100,000/mcL.",
+          "timeFrame": "From InO treatment initiation on Day 1 to CR or CRi (maximum up to 30.1 weeks of treatment exposure)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Duration of Remission (DoR)",
+          "description": "DoR: from date of first CR/CRi to date of disease progression (objective progression, relapse from CR/CRi), death due to any cause, whichever occurred first. CR: disappearance of leukemia as indicated by \\<5% marrow blasts and absence of peripheral blood leukemic blasts, with recovery of hematopoiesis defined by ANC \\>=1000 per microliter (/mcL) and platelets \\>=10\\^5/mcL. C1 EMD status was required (disappearance of all measurable and non-measurable EMD with the exception of lesions for which following must be true: participants with at least 1 measurable lesion, all nodal masses \\>1.5 cm in GTD at baseline regressed to \\<=1.5 cm in GTD and nodal masses \\>=1 cm and \\<=1.5 cm in GTD at baseline must have regressed to \\<1 cm GTD or reduced by 75% in SPD. No new lesions. Spleen and other previously enlarged organs must have regressed in size and must not be palpable. All diseases must be assessed using same technique as at baseline. CRi: CR except with ANC \\<1000/mcL and/or platelets \\<10\\^5/mcL.",
+          "timeFrame": "From date of first response in responders (CR/CRi) to the date of disease progression (objective progression, relapse from CR/CRi), death due to any cause, whichever occurred first (including post-study treatment follow-up disease assessment)"
+        },
+        {
+          "measure": "Percentage of Participants With Minimal Residual Disease (MRD) Negativity Among Who Achieved CR/CRi",
+          "description": "MRD negativity was defined as malignant B lymphocytes occurring at frequency \\<10\\^4. CR: disappearance of leukemia as indicated by \\<5% marrow blasts and absence of peripheral blood leukemic blasts, with recovery of hematopoiesis defined by ANC \\>=1000 per microliter (/mcL) and platelets \\>=10\\^5/mcL. C1 EMD status was required (disappearance of all measurable and non-measurable EMD with the exception of lesions for which following must be true: participants with at least 1 measurable lesion, all nodal masses \\>1.5 cm in GTD at baseline regressed to \\<=1.5 cm in GTD and nodal masses \\>=1 cm and \\<=1.5 cm in GTD at baseline must have regressed to \\<1 cm GTD or reduced by 75% in SPD. No new lesions. Spleen and other previously enlarged organs must have regressed in size and must not be palpable. All diseases must be assessed using same technique as at baseline. CRi: CR except with ANC \\<1000/mcL and/or platelets \\<10\\^5/mcL.",
+          "timeFrame": "From CR/CRi till MRD negativity achieved (maximum up to 30.1 weeks of treatment exposure)"
+        },
+        {
+          "measure": "Progression-free Survival (PFS)",
+          "description": "PFS: from date of first dose to date of disease progression (objective progression, relapse from CR/CRi), or death due to any cause, whichever occurred first. CR: disappearance of leukemia as indicated by \\<5% marrow blasts and absence of peripheral blood leukemic blasts, with recovery of hematopoiesis defined by ANC \\>=1000 per microliter (/mcL) and platelets \\>=10\\^5/mcL. C1 EMD status was required (disappearance of all measurable and non-measurable EMD with the exception of lesions for which following must be true: participants with at least 1 measurable lesion, all nodal masses \\>1.5 cm in GTD at baseline regressed to \\<=1.5 cm in GTD and nodal masses \\>=1 cm and \\<=1.5 cm in GTD at baseline must have regressed to \\<1 cm GTD or reduced by 75% in SPD. No new lesions. Spleen and other previously enlarged organs must have regressed in size and must not be palpable. All diseases must be assessed using same technique as at baseline. CRi: CR except with ANC \\<1000/mcL and/or platelets \\<10\\^5/mcL.",
+          "timeFrame": "From date of first dose to the date of disease progression (objective progression, relapse from CR/CRi), or death due to any cause, whichever occurred first"
+        },
+        {
+          "measure": "Overall Survival (OS)",
+          "description": "OS was defined as the time from date of first dose to the date of death due to any cause. Participants without confirmation of death were to be censored on date of last contact.",
+          "timeFrame": "From date of first dose to the date of death due to any cause or censoring, whichever occurred first"
+        },
+        {
+          "measure": "Number of Participants Who Proceeded to Hematopoietic Stem Cell Transplantation (HSCT)",
+          "description": "Participants who proceeded to HSCT was reported. HSCT is a procedure where multipotent hematopoietic stem cells are transplanted from sources such as bone marrow, peripheral blood, or umbilical cord blood. These stem cells can replicate inside a participant and produce additional normal blood cells.",
+          "timeFrame": "From InO treatment initiation till study completion"
+        },
+        {
+          "measure": "Number of Participants With Treatment Emergent Adverse Events (TEAEs) Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Version 5",
+          "description": "An AE was defined as any untoward medical occurrence in a participant temporally associated with the use of study intervention, whether or not considered related to the study intervention. AEs included both serious and all non-serious adverse events. SAE was defined as any untoward medical occurrence that, at any dose resulted in any of the following outcomes: death; life-threatening; required inpatient hospitalization or prolongation of existing hospitalization; persistent or significant disability/incapacity; congenital anomaly/birth defect; or that was considered as an important medical event. According to NCI CTCAE version 5: Grade 1= mild AE; Grade 2= moderate AE; Grade 3=severe AE; Grade 4= life-threatening consequences and urgent intervention indicated; Grade 5= death related to AE. An AE was considered treatment-emergent relative to a given treatment if the event start date is during the on-treatment period (including on the date of first dose).",
+          "timeFrame": "From InO treatment initiation till study completion"
+        },
+        {
+          "measure": "Number of Participants With Treatment Emergent Serious Adverse Events (TESAEs) Based on NCI CTCAE Version 5",
+          "description": "An AE was defined as any untoward medical occurrence in a participant temporally associated with the use of study intervention, whether or not considered related to the study intervention. An SAE was defined as any untoward medical occurrence that, at any dose resulted in any of the following outcomes: death; life-threatening; required inpatient hospitalization or prolongation of existing hospitalization; persistent or significant disability/incapacity; congenital anomaly/birth defect; or that was considered as an important medical event. According to NCI CTCAE version 5: Grade 1= mild AE; Grade 2= moderate AE; Grade 3=severe AE; Grade 4= life-threatening consequences and urgent intervention indicated, Grade 5= death related to AE. An AE was considered treatment-emergent relative to a given treatment if the event start date is during the on-treatment period (including on the date of first dose).",
+          "timeFrame": "From InO treatment initiation till study completion"
+        },
+        {
+          "measure": "Number of Participants With TEAEs - Treatment Related Based on NCI CTCAE Version 5",
+          "description": "An AE was defined as any untoward medical occurrence in a participant temporally associated with use of study intervention, whether or not considered related to study intervention. AEs included both serious and all non-serious adverse events. SAE was defined as any untoward medical occurrence that, at any dose resulted in any of following outcomes: death; life-threatening; required inpatient hospitalization or prolongation of existing hospitalization; persistent or significant disability/incapacity; congenital anomaly/birth defect; or that was considered as an important medical event. According to NCI CTCAE version 5: Grade 1= mild AE; Grade 2= moderate AE; Grade 3=severe AE; Grade 4= life-threatening consequences and urgent intervention indicated, Grade 5= death related to AE. An AE was considered treatment-emergent relative to a given treatment if event start date is during on-treatment period (including on date of first dose). Relatedness to study drug was assessed by investigator.",
+          "timeFrame": "From InO treatment initiation till study completion"
+        },
+        {
+          "measure": "Number of Participants With AEs According to Severity Based on NCI CTCAE Version 5",
+          "description": "An AE was defined as any untoward medical occurrence in a participant temporally associated with the use of study intervention, whether or not considered related to the study intervention. According to NCI CTCAE version 5: Grade 1= mild AE; Grade 2= moderate AE; Grade 3=severe AE; Grade 4= life-threatening consequences and urgent intervention indicated, Grade 5= death related to AE.",
+          "timeFrame": "From InO treatment initiation till study completion"
+        },
+        {
+          "measure": "Number of Participants With Hematology Laboratory Parameters of Grade <=2 at Baseline to Grade 3 or 4 Post-Baseline",
+          "description": "Hematology parameters included white blood cell count (with differential including blast count1), hemoglobin and platelet count. Grade 2: moderate; minimal, local or noninvasive intervention indicated; Grade 3: severe or medically significant but not immediately life-threatening; hospitalization or prolongation of hospitalization indicated; disabling; limiting self-care; Grade 4: life-threatening consequences.",
+          "timeFrame": "From InO treatment initiation till study completion"
+        },
+        {
+          "measure": "Number of Participants With Hematology Chemistry Parameters of Grade <=2 at Baseline to Grade 3 or 4 Post-Baseline",
+          "description": "Chemistry parameters included sodium, potassium, magnesium, calcium, creatinine, albumin, alanine aminotransferase, aspartate aminotransferase, glucose, phosphorus, total bilirubin, direct bilirubin only if total is elevated, blood urea nitrogen or urea, uric acid or urate, alkaline phosphatase, lactate dehydrogenase, gamma glutamyl transpeptidase, total protein, amylase and/or lipase. Grade 2: moderate; minimal, local or noninvasive intervention indicated; Grade 3: severe or medically significant but not immediately life-threatening; hospitalization or prolongation of hospitalization indicated; disabling; limiting self-care; Grade 4: life-threatening consequences.",
+          "timeFrame": "From InO treatment initiation till study completion"
+        },
+        {
+          "measure": "Number of Participants With Veno-occlusive Disease (VOD)",
+          "description": "Criteria for VOD were defined as (i) classical VOD (first 21 days after HSCT): bilirubin greater than or equal to 2 mg/dL and two (or more) of the following criteria must also be present; painful hepatomegaly, weight gain \\>5%, ascites. (ii) late onset VOD (\\>21 days after HSCT): classical VOD beyond day 21 or histologically proven VOD; or two or more of the following criteria must be present: bilirubin \\>2 mg/dL; painful hepatomegaly; weight gain \\>5%; ascites.",
+          "timeFrame": "From InO treatment initiation till study completion"
+        },
+        {
+          "measure": "Maximum Plasma Concentration (Cmax) of InO on Day 1 of Cycle 1 and Cycle 4",
+          "description": "Cmax was defined as maximum observed plasma concentration. Cmax was observed directly from data.",
+          "timeFrame": "Cycle 1: Pre-dose (0 hour), 1, 2 and 4 hours post-dose on Day 1; Cycle 4: Pre-dose (0 hour), and 1 hour post-dose on Day 1"
+        },
+        {
+          "measure": "Pre-dose Concentration (Ctrough) of InO on Day 1 of Cycle 4",
+          "description": "Ctrough was observed directly from data.",
+          "timeFrame": "Pre-dose (0 hour) on Day 1 of Cycle 4"
+        },
+        {
+          "measure": "Number of Participants With Positive Anti-drug Antibodies (ADA) and Neutralizing Antibodies (NAb) to InO",
+          "description": "A participant was ADA or NAb positive if (i) baseline titer was missing or negative and participant had \\>=1 post treatment positive titer (treatment-induced), or (ii) positive titer at baseline and had a \\>=0.602 unit increase in titer (log10) from baseline in \\>=1 post-treatment sample (treatment-boosted).",
+          "timeFrame": "From InO treatment initiation till study completion"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female participants, age 18 years or older at screening.\n* Relapsed or refractory CD22-positive ALL.\n* Subjects with Philadelphia chromosome-positive (Ph+) ALL must have failed standard treatment with at least one tyrosine kinase inhibitor.\n* Patients in Salvage 1 with late relapse should be deemed poor candidates for reinduction with initial therapy.\n* Patients with lymphoblastic lymphoma and bone marrow involvement ≥5% lymphoblasts by morphologic assessment.\n* ECOG performance status 0-2.\n* Adequate renal and hepatic function, and negative pregnancy test for women of childbearing potential.\n\nExclusion Criteria:\n\n* Subjects with isolated extramedullary relapse or active central nervous system (CNS) leukemia.\n* Prior allogeneic hematopoietic stem cell transplant (HSCT) or other anti-CD22 immunotherapy within 4 months, or active graft versus host disease (GvHD) at study entry.\n* Evidence or history of veno-occlusive disease (VOD) or sinusoidal obstruction syndrome (SOS).",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Pfizer CT.gov Call Center",
+          "affiliation": "Pfizer",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Peking University Third Hospital",
+          "city": "Beijing",
+          "state": "Beijing Municipality",
+          "zip": "100191",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        },
+        {
+          "facility": "Fujian Medical University Union Hospital",
+          "city": "Fuzhou",
+          "state": "Fujian",
+          "zip": "350000",
+          "country": "China",
+          "geoPoint": {
+            "lat": 26.06139,
+            "lon": 119.30611
+          }
+        },
+        {
+          "facility": "Guangzhou First People's Hospital",
+          "city": "Guangzhou",
+          "state": "Guangdong",
+          "zip": "510180",
+          "country": "China",
+          "geoPoint": {
+            "lat": 23.11667,
+            "lon": 113.25
+          }
+        },
+        {
+          "facility": "NanFang Hospital of Southern Medical University",
+          "city": "Guangzhou",
+          "state": "Guangdong",
+          "zip": "510515",
+          "country": "China",
+          "geoPoint": {
+            "lat": 23.11667,
+            "lon": 113.25
+          }
+        },
+        {
+          "facility": "Sun Yat-sen University Cancer Center",
+          "city": "Guangzhou",
+          "state": "Guangdong",
+          "zip": "510700",
+          "country": "China",
+          "geoPoint": {
+            "lat": 23.11667,
+            "lon": 113.25
+          }
+        },
+        {
+          "facility": "The First Hospital of Harbin",
+          "city": "Harbin",
+          "state": "Heilongjiang",
+          "zip": "150010",
+          "country": "China",
+          "geoPoint": {
+            "lat": 45.75,
+            "lon": 126.65
+          }
+        },
+        {
+          "facility": "Henan Cancer Hospital",
+          "city": "Zhengzhou",
+          "state": "Henan",
+          "zip": "450008",
+          "country": "China",
+          "geoPoint": {
+            "lat": 34.75778,
+            "lon": 113.64861
+          }
+        },
+        {
+          "facility": "Union Hospital, Tongji Medical College of Huazhong University of Science & Technology",
+          "city": "Wuhan",
+          "state": "Hubei",
+          "zip": "430022",
+          "country": "China",
+          "geoPoint": {
+            "lat": 30.58333,
+            "lon": 114.26667
+          }
+        },
+        {
+          "facility": "Tongji Hospital, Tongji Medical College,Huazhong University of Science and Technology",
+          "city": "Wuhan",
+          "state": "Hubei",
+          "zip": "430030",
+          "country": "China",
+          "geoPoint": {
+            "lat": 30.58333,
+            "lon": 114.26667
+          }
+        },
+        {
+          "facility": "The First Affiliated Hospital of Soochow University",
+          "city": "Suzhou",
+          "state": "Jiangsu",
+          "zip": "215006",
+          "country": "China",
+          "geoPoint": {
+            "lat": 31.30408,
+            "lon": 120.59538
+          }
+        },
+        {
+          "facility": "The First Hospital of Jilin University",
+          "city": "Changchun",
+          "state": "Jilin",
+          "zip": "130021",
+          "country": "China",
+          "geoPoint": {
+            "lat": 43.88,
+            "lon": 125.32278
+          }
+        },
+        {
+          "facility": "West China Hospital of Sichuan University",
+          "city": "Chengdu",
+          "state": "Sichuan",
+          "zip": "610041",
+          "country": "China",
+          "geoPoint": {
+            "lat": 30.66667,
+            "lon": 104.06667
+          }
+        },
+        {
+          "facility": "Institute of Hematology and Blood Diseases Hospital, Chinese Academy of Medical Sciences",
+          "city": "Tianjin",
+          "state": "Tianjin Municipality",
+          "zip": "300020",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.14222,
+            "lon": 117.17667
+          }
+        },
+        {
+          "facility": "The first Affiliated Hospital, Zhejiang University School of Medicine",
+          "city": "Hangzhou",
+          "state": "Zhejiang",
+          "zip": "310003",
+          "country": "China",
+          "geoPoint": {
+            "lat": 30.29365,
+            "lon": 120.16142
+          }
+        },
+        {
+          "facility": "The First Affiliated Hospital of Wenzhou Medical College",
+          "city": "Wenzhou",
+          "state": "Zhejiang",
+          "zip": "325000",
+          "country": "China",
+          "geoPoint": {
+            "lat": 27.99942,
+            "lon": 120.66682
+          }
+        },
+        {
+          "facility": "Institute of Hematology and Blood Diseases Hospital, Chinese Academy of Medical Sciences",
+          "city": "Tianjin",
+          "zip": "301600",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.14222,
+            "lon": 117.17667
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "To obtain contact information for a study center near you, click here.",
+          "url": "https://pmiform.com/clinical-trial-info-request?StudyID=B1931034"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical\\_trials/trial\\_data\\_and\\_results/data\\_requests.",
+      "url": "https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Results are reported at Primary Completion Date, and data is disclosed for only those outcome measures whose analysis were final. Remaining outcome measures' data would be reported upon their complete analyses at study completion.",
+      "recruitmentDetails": "A total of 44 participants were assigned to and received study treatment.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Inotuzumab Ozogamicin (InO)",
+          "description": "Participants received intravenous (IV) infusion of InO as 0.8 milligram per square meter (mg/m\\^2) on Week 1, 0.5 mg/m\\^2 on Week2 and 3 every 21-28 days cycle. After Cycle 1: a) participants who achieved desired response, received IV infusion of InO as 0.5 mg/m\\^2 on Week 1, Week2 and 3 of subsequent cycles (1 cycle = 28 days); b) participants who did not achieve desired response, received IV infusion of InO as 0.8 mg/m\\^2 on Week 1 and 0.5 mg/m\\^2 on Week2 and 3 of subsequent cycles (1 cycle = 28 days). Participants who did not achieve desired response within 3 cycles discontinued treatment. Desired response was complete remission or complete remission with incomplete hematologic recovery."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Treatment Phase",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "44"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "13"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "31"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "13"
+                }
+              ]
+            },
+            {
+              "type": "Death",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Physician Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "Progressive disease",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "9"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Follow-Up Phase",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "comment": "Participants who entered follow-up phase.",
+                  "numSubjects": "42"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "42"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Death",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "16"
+                }
+              ]
+            },
+            {
+              "type": "Ongoing",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "26"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Inotuzumab Ozogamicin (InO)",
+          "description": "Participants received IV infusion of InO as 0.8 mg/m\\^2 on Week 1, 0.5 mg/m\\^2 on Week2 and 3 every 21-28 days cycle. After Cycle 1: a) participants who achieved desired response, received IV infusion of InO as 0.5 mg/m\\^2 on Week 1, Week2 and 3 of subsequent cycles (1 cycle = 28 days); b) participants who did not achieve desired response, received IV infusion of InO as 0.8 mg/m\\^2 on Week 1 and 0.5 mg/m\\^2 on Week2 and 3 of subsequent cycles (1 cycle = 28 days). Participants who did not achieve desired response within 3 cycles discontinued treatment. Desired response was complete remission or complete remission with incomplete hematologic recovery."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "44"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Age",
+              "categories": [
+                {
+                  "title": "18 to less than 45 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "22"
+                    }
+                  ]
+                },
+                {
+                  "title": "45 to less than 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "14"
+                    }
+                  ]
+                },
+                {
+                  "title": "Greater than or equal to 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "22"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "22"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "description": "Race is reported",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Race - Asian",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "44"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Racial Designation",
+          "description": "Participant in one category is reported under 'Not disclosed' to avoid risk of identification of participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Han Chinese",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "43"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not disclosed",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Eastern Cooperative Oncology Group (ECOG) Performance Status (PS)",
+          "description": "Number of participants with ECOG PS reported;measured on 4-point grade scale:0=fully active,able to carry all pre disease performance without restriction;1=restricted in physically strenuous activity,ambulatory,able to carry out work of light or sedentary nature;2=ambulatory,capable of all self-care but unable to carry out any work activities,up and about more than 50% of waking hours;3=capable of only limited self-care,confined to bed or chair more than 50% of waking hours;4=completely disabled,cannot carry any self-care,confined to bed or chair.Only grades with non-zero values reported here.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Grade 0",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "Grade 1",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "29"
+                    }
+                  ]
+                },
+                {
+                  "title": "Grade 2",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cytogenetics Characteristics",
+          "description": "Cytogenetic characteristics included Philadelphia chromosome positive (Ph+), Translocation (T) \\[4;11\\], positive de novo pure chromosome 9p deletion (DEL) \\[9P\\] and other. One participant could have more than one abnormal cytogenetics.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Abnormal: Ph-positive",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Abnormal: T(4;11)-positive",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Abnormal: DEL(9P)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Abnormal: Other",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "16"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Normal",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Unknown",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of Participants According to Salvage Therapy",
+          "description": "Salvage therapy was used when participants did not respond to all other standard treatments.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Salvage Therapy 1",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "title": "Salvage Therapy 2",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "21"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of Participants With Prior Transplant",
+          "description": "Number of participants who received Hematopoietic Stem Cell Transplant (HSCT) prior to InO were reported in this outcome measure.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Participants With Complete Remission (CR) or Complete Remission With Incomplete Hematological Recovery (CRi) as Per Investigator's Assessment According to a Modified Cheson Criteria",
+          "description": "CR: disappearance of leukemia as indicated by \\<5% marrow blasts and the absence of peripheral blood leukemic blasts, with recovery of hematopoiesis defined by absolute neutrophil count (ANC) \\>=1000 per microliter (/mcL) and platelets \\>=100,000/mcL. C1 extramedullary disease (EMD) status was required (disappearance of all measurable and non-measurable EMD with the exception of lesions for which following must be true: participants with at least 1 measurable lesion, all nodal masses \\>1.5 centimeter (cm) in greatest transverse diameter (GTD) at baseline regressed to \\<=1.5 cm in GTD and nodal masses \\>=1 cm and \\<=1.5 cm in GTD at baseline must have regressed to \\<1 cm GTD or reduced by 75% in sum of products of greatest diameters (SPD). No new lesions. Spleen and other previously enlarged organs must have regressed in size and must not be palpable. All diseases were assessed using the same technique as at baseline. CRi: CR except with ANC \\<1000/mcL and/or platelets \\<100,000/mcL.",
+          "populationDescription": "Safety population included all enrolled participants who received at least 1 dose of study intervention. Data collected after the end of treatment or after new anti-cancer therapy was excluded.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "From InO treatment initiation on Day 1 to CR or CRi (maximum up to 30.1 weeks of treatment exposure)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Inotuzumab Ozogamicin (InO)",
+              "description": "Participants received IV infusion of InO as 0.8 mg/m\\^2 on Week 1, 0.5 mg/m\\^2 on Week2 and 3 every 21-28 days cycle. After Cycle 1: a) participants who achieved desired response, received IV infusion of InO as 0.5 mg/m\\^2 on Week 1, Week2 and 3 of subsequent cycles (1 cycle = 28 days); b) participants who did not achieve desired response, received IV infusion of InO as 0.8 mg/m\\^2 on Week 1 and 0.5 mg/m\\^2 on Week2 and 3 of subsequent cycles (1 cycle = 28 days). Participants who did not achieve desired response within 3 cycles discontinued treatment. Desired response was complete remission or complete remission with incomplete hematologic recovery."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "CR/CRi",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "81.8",
+                      "lowerLimit": "70.4",
+                      "upperLimit": "93.2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "CR",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "47.7",
+                      "lowerLimit": "33.0",
+                      "upperLimit": "62.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "CRi",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "34.1",
+                      "lowerLimit": "20.1",
+                      "upperLimit": "48.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Duration of Remission (DoR)",
+          "description": "DoR: from date of first CR/CRi to date of disease progression (objective progression, relapse from CR/CRi), death due to any cause, whichever occurred first. CR: disappearance of leukemia as indicated by \\<5% marrow blasts and absence of peripheral blood leukemic blasts, with recovery of hematopoiesis defined by ANC \\>=1000 per microliter (/mcL) and platelets \\>=10\\^5/mcL. C1 EMD status was required (disappearance of all measurable and non-measurable EMD with the exception of lesions for which following must be true: participants with at least 1 measurable lesion, all nodal masses \\>1.5 cm in GTD at baseline regressed to \\<=1.5 cm in GTD and nodal masses \\>=1 cm and \\<=1.5 cm in GTD at baseline must have regressed to \\<1 cm GTD or reduced by 75% in SPD. No new lesions. Spleen and other previously enlarged organs must have regressed in size and must not be palpable. All diseases must be assessed using same technique as at baseline. CRi: CR except with ANC \\<1000/mcL and/or platelets \\<10\\^5/mcL.",
+          "populationDescription": "Safety population included all enrolled participants who received at least 1 dose of study intervention.",
+          "reportingStatus": "NOT_POSTED",
+          "anticipatedPostingDate": "2026-11",
+          "timeFrame": "From date of first response in responders (CR/CRi) to the date of disease progression (objective progression, relapse from CR/CRi), death due to any cause, whichever occurred first (including post-study treatment follow-up disease assessment)",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants With Minimal Residual Disease (MRD) Negativity Among Who Achieved CR/CRi",
+          "description": "MRD negativity was defined as malignant B lymphocytes occurring at frequency \\<10\\^4. CR: disappearance of leukemia as indicated by \\<5% marrow blasts and absence of peripheral blood leukemic blasts, with recovery of hematopoiesis defined by ANC \\>=1000 per microliter (/mcL) and platelets \\>=10\\^5/mcL. C1 EMD status was required (disappearance of all measurable and non-measurable EMD with the exception of lesions for which following must be true: participants with at least 1 measurable lesion, all nodal masses \\>1.5 cm in GTD at baseline regressed to \\<=1.5 cm in GTD and nodal masses \\>=1 cm and \\<=1.5 cm in GTD at baseline must have regressed to \\<1 cm GTD or reduced by 75% in SPD. No new lesions. Spleen and other previously enlarged organs must have regressed in size and must not be palpable. All diseases must be assessed using same technique as at baseline. CRi: CR except with ANC \\<1000/mcL and/or platelets \\<10\\^5/mcL.",
+          "populationDescription": "Safety population included all enrolled participants who received at least 1 dose of study intervention. Here, \"Overall Number of Participants Analyzed\" signifies participants who achieved CR/CRi and were evaluated for this outcome measure.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "From CR/CRi till MRD negativity achieved (maximum up to 30.1 weeks of treatment exposure)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Inotuzumab Ozogamicin (InO)",
+              "description": "Participants received IV infusion of InO as 0.8 mg/m\\^2 on Week 1, 0.5 mg/m\\^2 on Week2 and 3 every 21-28 days cycle. After Cycle 1: a) participants who achieved desired response, received IV infusion of InO as 0.5 mg/m\\^2 on Week 1, Week2 and 3 of subsequent cycles (1 cycle = 28 days); b) participants who did not achieve desired response, received IV infusion of InO as 0.8 mg/m\\^2 on Week 1 and 0.5 mg/m\\^2 on Week2 and 3 of subsequent cycles (1 cycle = 28 days). Participants who did not achieve desired response within 3 cycles discontinued treatment. Desired response was complete remission or complete remission with incomplete hematologic recovery."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "36"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "69.4",
+                      "lowerLimit": "51.9",
+                      "upperLimit": "83.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Progression-free Survival (PFS)",
+          "description": "PFS: from date of first dose to date of disease progression (objective progression, relapse from CR/CRi), or death due to any cause, whichever occurred first. CR: disappearance of leukemia as indicated by \\<5% marrow blasts and absence of peripheral blood leukemic blasts, with recovery of hematopoiesis defined by ANC \\>=1000 per microliter (/mcL) and platelets \\>=10\\^5/mcL. C1 EMD status was required (disappearance of all measurable and non-measurable EMD with the exception of lesions for which following must be true: participants with at least 1 measurable lesion, all nodal masses \\>1.5 cm in GTD at baseline regressed to \\<=1.5 cm in GTD and nodal masses \\>=1 cm and \\<=1.5 cm in GTD at baseline must have regressed to \\<1 cm GTD or reduced by 75% in SPD. No new lesions. Spleen and other previously enlarged organs must have regressed in size and must not be palpable. All diseases must be assessed using same technique as at baseline. CRi: CR except with ANC \\<1000/mcL and/or platelets \\<10\\^5/mcL.",
+          "populationDescription": "Safety population included all enrolled participants who received at least 1 dose of study intervention.",
+          "reportingStatus": "NOT_POSTED",
+          "anticipatedPostingDate": "2026-11",
+          "timeFrame": "From date of first dose to the date of disease progression (objective progression, relapse from CR/CRi), or death due to any cause, whichever occurred first",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Overall Survival (OS)",
+          "description": "OS was defined as the time from date of first dose to the date of death due to any cause. Participants without confirmation of death were to be censored on date of last contact.",
+          "populationDescription": "Safety population included all enrolled participants who received at least 1 dose of study intervention.",
+          "reportingStatus": "NOT_POSTED",
+          "anticipatedPostingDate": "2026-11",
+          "timeFrame": "From date of first dose to the date of death due to any cause or censoring, whichever occurred first",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Who Proceeded to Hematopoietic Stem Cell Transplantation (HSCT)",
+          "description": "Participants who proceeded to HSCT was reported. HSCT is a procedure where multipotent hematopoietic stem cells are transplanted from sources such as bone marrow, peripheral blood, or umbilical cord blood. These stem cells can replicate inside a participant and produce additional normal blood cells.",
+          "populationDescription": "Safety population included all enrolled participants who received at least 1 dose of study intervention.",
+          "reportingStatus": "NOT_POSTED",
+          "anticipatedPostingDate": "2026-11",
+          "timeFrame": "From InO treatment initiation till study completion",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Treatment Emergent Adverse Events (TEAEs) Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Version 5",
+          "description": "An AE was defined as any untoward medical occurrence in a participant temporally associated with the use of study intervention, whether or not considered related to the study intervention. AEs included both serious and all non-serious adverse events. SAE was defined as any untoward medical occurrence that, at any dose resulted in any of the following outcomes: death; life-threatening; required inpatient hospitalization or prolongation of existing hospitalization; persistent or significant disability/incapacity; congenital anomaly/birth defect; or that was considered as an important medical event. According to NCI CTCAE version 5: Grade 1= mild AE; Grade 2= moderate AE; Grade 3=severe AE; Grade 4= life-threatening consequences and urgent intervention indicated; Grade 5= death related to AE. An AE was considered treatment-emergent relative to a given treatment if the event start date is during the on-treatment period (including on the date of first dose).",
+          "populationDescription": "Safety population included all enrolled participants who received at least 1 dose of study intervention.",
+          "reportingStatus": "NOT_POSTED",
+          "anticipatedPostingDate": "2026-11",
+          "timeFrame": "From InO treatment initiation till study completion",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Treatment Emergent Serious Adverse Events (TESAEs) Based on NCI CTCAE Version 5",
+          "description": "An AE was defined as any untoward medical occurrence in a participant temporally associated with the use of study intervention, whether or not considered related to the study intervention. An SAE was defined as any untoward medical occurrence that, at any dose resulted in any of the following outcomes: death; life-threatening; required inpatient hospitalization or prolongation of existing hospitalization; persistent or significant disability/incapacity; congenital anomaly/birth defect; or that was considered as an important medical event. According to NCI CTCAE version 5: Grade 1= mild AE; Grade 2= moderate AE; Grade 3=severe AE; Grade 4= life-threatening consequences and urgent intervention indicated, Grade 5= death related to AE. An AE was considered treatment-emergent relative to a given treatment if the event start date is during the on-treatment period (including on the date of first dose).",
+          "populationDescription": "Safety population included all enrolled participants who received at least 1 dose of study intervention.",
+          "reportingStatus": "NOT_POSTED",
+          "anticipatedPostingDate": "2026-11",
+          "timeFrame": "From InO treatment initiation till study completion",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With TEAEs - Treatment Related Based on NCI CTCAE Version 5",
+          "description": "An AE was defined as any untoward medical occurrence in a participant temporally associated with use of study intervention, whether or not considered related to study intervention. AEs included both serious and all non-serious adverse events. SAE was defined as any untoward medical occurrence that, at any dose resulted in any of following outcomes: death; life-threatening; required inpatient hospitalization or prolongation of existing hospitalization; persistent or significant disability/incapacity; congenital anomaly/birth defect; or that was considered as an important medical event. According to NCI CTCAE version 5: Grade 1= mild AE; Grade 2= moderate AE; Grade 3=severe AE; Grade 4= life-threatening consequences and urgent intervention indicated, Grade 5= death related to AE. An AE was considered treatment-emergent relative to a given treatment if event start date is during on-treatment period (including on date of first dose). Relatedness to study drug was assessed by investigator.",
+          "populationDescription": "Safety population included all enrolled participants who received at least 1 dose of study intervention.",
+          "reportingStatus": "NOT_POSTED",
+          "anticipatedPostingDate": "2026-11",
+          "timeFrame": "From InO treatment initiation till study completion",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With AEs According to Severity Based on NCI CTCAE Version 5",
+          "description": "An AE was defined as any untoward medical occurrence in a participant temporally associated with the use of study intervention, whether or not considered related to the study intervention. According to NCI CTCAE version 5: Grade 1= mild AE; Grade 2= moderate AE; Grade 3=severe AE; Grade 4= life-threatening consequences and urgent intervention indicated, Grade 5= death related to AE.",
+          "populationDescription": "Safety population included all enrolled participants who received at least 1 dose of study intervention.",
+          "reportingStatus": "NOT_POSTED",
+          "anticipatedPostingDate": "2026-11",
+          "timeFrame": "From InO treatment initiation till study completion",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Hematology Laboratory Parameters of Grade <=2 at Baseline to Grade 3 or 4 Post-Baseline",
+          "description": "Hematology parameters included white blood cell count (with differential including blast count1), hemoglobin and platelet count. Grade 2: moderate; minimal, local or noninvasive intervention indicated; Grade 3: severe or medically significant but not immediately life-threatening; hospitalization or prolongation of hospitalization indicated; disabling; limiting self-care; Grade 4: life-threatening consequences.",
+          "populationDescription": "Safety population included all enrolled participants who received at least 1 dose of study intervention.",
+          "reportingStatus": "NOT_POSTED",
+          "anticipatedPostingDate": "2026-11",
+          "timeFrame": "From InO treatment initiation till study completion",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Hematology Chemistry Parameters of Grade <=2 at Baseline to Grade 3 or 4 Post-Baseline",
+          "description": "Chemistry parameters included sodium, potassium, magnesium, calcium, creatinine, albumin, alanine aminotransferase, aspartate aminotransferase, glucose, phosphorus, total bilirubin, direct bilirubin only if total is elevated, blood urea nitrogen or urea, uric acid or urate, alkaline phosphatase, lactate dehydrogenase, gamma glutamyl transpeptidase, total protein, amylase and/or lipase. Grade 2: moderate; minimal, local or noninvasive intervention indicated; Grade 3: severe or medically significant but not immediately life-threatening; hospitalization or prolongation of hospitalization indicated; disabling; limiting self-care; Grade 4: life-threatening consequences.",
+          "populationDescription": "Safety population included all enrolled participants who received at least 1 dose of study intervention.",
+          "reportingStatus": "NOT_POSTED",
+          "anticipatedPostingDate": "2026-11",
+          "timeFrame": "From InO treatment initiation till study completion",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Veno-occlusive Disease (VOD)",
+          "description": "Criteria for VOD were defined as (i) classical VOD (first 21 days after HSCT): bilirubin greater than or equal to 2 mg/dL and two (or more) of the following criteria must also be present; painful hepatomegaly, weight gain \\>5%, ascites. (ii) late onset VOD (\\>21 days after HSCT): classical VOD beyond day 21 or histologically proven VOD; or two or more of the following criteria must be present: bilirubin \\>2 mg/dL; painful hepatomegaly; weight gain \\>5%; ascites.",
+          "populationDescription": "Safety population included all enrolled participants who received at least 1 dose of study intervention.",
+          "reportingStatus": "NOT_POSTED",
+          "anticipatedPostingDate": "2026-11",
+          "timeFrame": "From InO treatment initiation till study completion",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Maximum Plasma Concentration (Cmax) of InO on Day 1 of Cycle 1 and Cycle 4",
+          "description": "Cmax was defined as maximum observed plasma concentration. Cmax was observed directly from data.",
+          "populationDescription": "Pharmacokinetic (PK) concentration population included subset of the safety analysis set and included participants who had at least one post-dose concentration measurement above the lower limit of quantitation (LLQ) for inotuzumab ozogamicin. Here, 'Number Analyzed' signifies participants evaluable at specific timepoints.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Nanogram per milliliter",
+          "timeFrame": "Cycle 1: Pre-dose (0 hour), 1, 2 and 4 hours post-dose on Day 1; Cycle 4: Pre-dose (0 hour), and 1 hour post-dose on Day 1",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Inotuzumab Ozogamicin (InO)",
+              "description": "Participants received IV infusion of InO as 0.8 mg/m\\^2 on Week 1, 0.5 mg/m\\^2 on Week2 and 3 every 21-28 days cycle. After Cycle 1: a) participants who achieved desired response, received IV infusion of InO as 0.5 mg/m\\^2 on Week 1, Week2 and 3 of subsequent cycles (1 cycle = 28 days); b) participants who did not achieve desired response, received IV infusion of InO as 0.8 mg/m\\^2 on Week 1 and 0.5 mg/m\\^2 on Week2 and 3 of subsequent cycles (1 cycle = 28 days). Participants who did not achieve desired response within 3 cycles discontinued treatment. Desired response was complete remission or complete remission with incomplete hematologic recovery."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Day 1_Cycle 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "44"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "273.3",
+                      "spread": "105.53"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Day 1_Cycle 4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "22"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "342.6",
+                      "spread": "409.97"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Pre-dose Concentration (Ctrough) of InO on Day 1 of Cycle 4",
+          "description": "Ctrough was observed directly from data.",
+          "populationDescription": "PK concentration population included subset of the safety analysis set and included participants who had at least one post-dose concentration measurement above the LLQ for inotuzumab ozogamicin. Here, 'Overall Number of Participants Analyzed' signifies participants evaluable for this outcome measure.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Nanogram per milliliter",
+          "timeFrame": "Pre-dose (0 hour) on Day 1 of Cycle 4",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Inotuzumab Ozogamicin (InO)",
+              "description": "Participants received IV infusion of InO as 0.8 mg/m\\^2 on Week 1, 0.5 mg/m\\^2 on Week2 and 3 every 21-28 days cycle. After Cycle 1: a) participants who achieved desired response, received IV infusion of InO as 0.5 mg/m\\^2 on Week 1, Week2 and 3 of subsequent cycles (1 cycle = 28 days); b) participants who did not achieve desired response, received IV infusion of InO as 0.8 mg/m\\^2 on Week 1 and 0.5 mg/m\\^2 on Week2 and 3 of subsequent cycles (1 cycle = 28 days). Participants who did not achieve desired response within 3 cycles discontinued treatment. Desired response was complete remission or complete remission with incomplete hematologic recovery."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "22"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "85.33",
+                      "spread": "30.493"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Positive Anti-drug Antibodies (ADA) and Neutralizing Antibodies (NAb) to InO",
+          "description": "A participant was ADA or NAb positive if (i) baseline titer was missing or negative and participant had \\>=1 post treatment positive titer (treatment-induced), or (ii) positive titer at baseline and had a \\>=0.602 unit increase in titer (log10) from baseline in \\>=1 post-treatment sample (treatment-boosted).",
+          "populationDescription": "Immunogenicity population included subset of the safety analysis set and included participants who received at least 1 dose of investigational product (inotuzumab ozogamicin) and had at least one ADA or NAb sample collected for immunogenicity.",
+          "reportingStatus": "NOT_POSTED",
+          "anticipatedPostingDate": "2026-11",
+          "timeFrame": "From InO treatment initiation till study completion",
+          "denomUnitsSelected": "Participants"
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "From first dose of study drug up to 9 weeks after the last dose of the study drug (maximum up to 39.1 weeks)",
+      "description": "Same event may appear as both SAE and non-SAE but are distinct events. An event may be categorized as serious in 1 participant and non-serious in another, or a participant may have experienced both SAE and non-SAE. Safety population included all enrolled participants who received at least 1 dose of study intervention.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Inotuzumab Ozogamicin (InO)",
+          "description": "Participants received IV infusion of InO as 0.8 mg/m\\^2 on Week 1, 0.5 mg/m\\^2 on Week2 and 3 every 21-28 days cycle. After Cycle 1: a) participants who achieved desired response, received IV infusion of InO as 0.5 mg/m\\^2 on Week 1, Week2 and 3 of subsequent cycles (1 cycle = 28 days); b) participants who did not achieve desired response, received IV infusion of InO as 0.8 mg/m\\^2 on Week 1 and 0.5 mg/m\\^2 on Week2 and 3 of subsequent cycles (1 cycle = 28 days). Participants who did not achieve desired response within 3 cycles discontinued treatment. Desired response was complete remission or complete remission with incomplete hematologic recovery.",
+          "deathsNumAffected": 17,
+          "deathsNumAtRisk": 44,
+          "seriousNumAffected": 20,
+          "seriousNumAtRisk": 44,
+          "otherNumAffected": 44,
+          "otherNumAtRisk": 44
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Anaemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Febrile neutropenia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Leukostasis syndrome",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Myelosuppression",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Cardiac failure acute",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Cardiopulmonary failure",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Disease progression",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Drug-induced liver injury",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Liver injury",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Venoocclusive liver disease",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Bronchopulmonary aspergillosis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "COVID-19",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Gastroenteritis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Pneumocystis jirovecii pneumonia",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Pneumonia",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Soft tissue infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Blood bilirubin increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Neutrophil count decreased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Platelet count decreased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "White blood cell count decreased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Tumour lysis syndrome",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Acute lymphocytic leukaemia",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Asthma",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Emphysema",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 44
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Anaemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 31,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Coagulopathy",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Leukocytosis",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Leukopenia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 7,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Abdominal distension",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 9,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 17,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Chest discomfort",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Fatigue",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Oedema peripheral",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 16,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Hepatic function abnormal",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Hyperbilirubinaemia",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "COVID-19",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Febrile infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Influenza",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Pneumonia",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 10,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Upper respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Urinary tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Activated partial thromboplastin time prolonged",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Alanine aminotransferase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 13,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Alpha hydroxybutyrate dehydrogenase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Aspartate aminotransferase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 24,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Blood alkaline phosphatase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Blood bilirubin increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 22,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Blood lactate dehydrogenase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 23,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Electrocardiogram QT prolonged",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Electrocardiogram T wave abnormal",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Eosinophil count decreased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Fibrin D dimer increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Gamma-glutamyltransferase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Lipase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Lymphocyte count decreased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 35,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Lymphocyte count increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Monocyte count decreased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Monocyte count increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Neutrophil count decreased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 42,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Platelet count decreased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 41,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Weight decreased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Weight increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "White blood cell count decreased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 39,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Decreased appetite",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Fluid retention",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Hypercholesterolaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 7,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Hyperglycaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 10,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Hyperphosphataemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Hypertriglyceridaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Hyperuricaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 16,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Hypoalbuminaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 18,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Hypocalcaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 17,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Hypochloraemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Hypokalaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 27,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Hypomagnesaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 13,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Hyponatraemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Hypoproteinaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Sodium retention",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Back pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Dizziness",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Insomnia",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 44
+            }
+          ]
+        },
+        {
+          "term": "Rash",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA v27.0",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 44
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "Pfizer has the right to review disclosures, requesting a delay of less than 60 days. Investigator will postpone single center publications until after disclosure of pooled data (all sites), less than 12 months from study completion/termination at all participating sites. Investigator may not disclose previously undisclosed confidential information other than study results."
+      },
+      "pointOfContact": {
+        "title": "Pfizer ClinicalTrials.gov Call Center",
+        "organization": "Pfizer Inc.",
+        "email": "ClinicalTrials.gov_Inquiries@pfizer.com",
+        "phone": "1-800-718-1021"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-05-15",
+          "uploadDate": "2025-07-22T06:17",
+          "filename": "Prot_000.pdf",
+          "size": 14645800
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-08-19",
+          "uploadDate": "2025-07-22T06:17",
+          "filename": "SAP_001.pdf",
+          "size": 340159
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D054198",
+          "term": "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007945",
+          "term": "Leukemia, Lymphoid"
+        },
+        {
+          "id": "D007938",
+          "term": "Leukemia"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D008232",
+          "term": "Lymphoproliferative Disorders"
+        },
+        {
+          "id": "D008206",
+          "term": "Lymphatic Diseases"
+        },
+        {
+          "id": "D007160",
+          "term": "Immunoproliferative Disorders"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080045",
+          "term": "Inotuzumab Ozogamicin"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000080084",
+          "term": "Calicheamicins"
+        },
+        {
+          "id": "D000617",
+          "term": "Aminoglycosides"
+        },
+        {
+          "id": "D006027",
+          "term": "Glycosides"
+        },
+        {
+          "id": "D002241",
+          "term": "Carbohydrates"
+        },
+        {
+          "id": "D061067",
+          "term": "Antibodies, Monoclonal, Humanized"
+        },
+        {
+          "id": "D000911",
+          "term": "Antibodies, Monoclonal"
+        },
+        {
+          "id": "D000906",
+          "term": "Antibodies"
+        },
+        {
+          "id": "D007136",
+          "term": "Immunoglobulins"
+        },
+        {
+          "id": "D007162",
+          "term": "Immunoproteins"
+        },
+        {
+          "id": "D001798",
+          "term": "Blood Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D012712",
+          "term": "Serum Globulins"
+        },
+        {
+          "id": "D005916",
+          "term": "Globulins"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

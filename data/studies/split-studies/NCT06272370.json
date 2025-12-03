@@ -1,0 +1,1327 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06272370",
+      "orgStudyIdInfo": {
+        "id": "PLACER-2021C3-24737-IC"
+      },
+      "organization": {
+        "fullName": "DARTNet Institute",
+        "class": "OTHER_GOV"
+      },
+      "briefTitle": "Individualizing Treatment for Asthma in Primary Care",
+      "officialTitle": "Individualizing Treatment for Asthma in Primary Care",
+      "acronym": "iTREAT-PC"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-02",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-02-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-09-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-12-31",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-02-10",
+      "studyFirstSubmitQcDate": "2024-02-20",
+      "studyFirstPostDateStruct": {
+        "date": "2024-02-22",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-02-18",
+      "resultsFirstSubmitQcDate": "2025-04-18",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-04-20",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-04-20",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "DARTNet Institute",
+        "class": "OTHER_GOV"
+      },
+      "collaborators": [
+        {
+          "name": "Penn State University",
+          "class": "OTHER"
+        },
+        {
+          "name": "Icahn School of Medicine at Mount Sinai",
+          "class": "OTHER"
+        },
+        {
+          "name": "University of Colorado, Denver",
+          "class": "OTHER"
+        },
+        {
+          "name": "RAND",
+          "class": "OTHER"
+        },
+        {
+          "name": "University of Washington",
+          "class": "OTHER"
+        },
+        {
+          "name": "Rutgers University",
+          "class": "OTHER"
+        },
+        {
+          "name": "University of North Carolina",
+          "class": "OTHER"
+        },
+        {
+          "name": "Brigham and Women's Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Reliant Medical Group",
+          "class": "OTHER"
+        },
+        {
+          "name": "Kelsey Research Foundation",
+          "class": "OTHER"
+        },
+        {
+          "name": "Wake Forest University Health Sciences",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a patient level randomized trial for teenagers and adults with asthma who will be randomized to four arms - enhance usual care, rescue inhaled corticosteroids, azithromycin and both rescue inhaled corticosteroids and azithromycin. Participants in all arms will be offered access to an online asthma symptom monitoring system.",
+      "detailedDescription": "Design. Current activities consist of a Feasibility study to test all activities prior to the full study. The Feasibility study will involve only 5 centers and each participant will be involved for only 3 months. The study will consist of a four arm, patient level randomized trial (N=125). Comparators: Rescue Inhaled Corticosteroids (R-ICS) versus azithromycin versus R-ICS plus azithromycin versus enhanced usual care patients. All arms will include home monitoring of asthma symptoms using various approaches. R-ICS therapy will consist of a corticosteriod/formoterol inhaler, or a stand-alone ICS inhaler used with usual rescue therapy or when available a combination corticosteroid/albuterol inhaler, the initial azithromycin dose will be 500mg (10mg/Kg) three times a week and may be titrated down to 250mg (10mg/Kg) three times per week for side effects. Exacerbations will be blindly adjudicated. Individuals who experience three exacerbations in \\< 12 months in the full study will have their treatments \"stepped-up,\"unless in the dual treatment arm; control participants going to R-ICS and single therapy participants to dual therapy. In the full study, after a step-up participants will be followed for an additional 12 months. There will be no step-up during the Feasibility phase. Individuals completing either of the azithromycin arms will be offered 6 additional months of follow-up after stopping the azithromycin only."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Asthma",
+        "Bronchial Diseases",
+        "Respiratory Tract Infections",
+        "Lung Diseases, Obstructive",
+        "Lung Diseases",
+        "Respiratory Hypersensitivity",
+        "Immune System Diseases"
+      ],
+      "keywords": [
+        "asthma"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "patient randomized trial of three different drug combinations",
+        "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 103,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Enhanced Usual Care",
+          "type": "OTHER",
+          "description": "Participants will be asked to use an online Asthma Symptom Monitoring tool to enhance communication with the medical team as well as self-awareness of their asthma symptoms. There are no \"study drugs\" in this arm. All 4 arms of the study will use these tools",
+          "interventionNames": [
+            "Other: Asthma Symptom Monitoring online tools"
+          ]
+        },
+        {
+          "label": "Rescue Inhaled Corticosteroids",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants in this arm will either have budesonide/formoterol (Symbicort) or mometasone/formoterol (Dulera), or a stand-alone ICS (beclomethasone/QVAR, or budesonide/Pulmicort, or fluticasone Flovent HFA, Flovent Diskus, ArmonAir RespiClick, Arnuity Ellipta, or mometasone, Asmanex HFA, Asmanex Twisthaler or ciclesodine Alvesco HFA) added to the participants usual treatment or a combination inhaler of corticosteroid and albuterol (AirSupra) that was recently approved",
+          "interventionNames": [
+            "Drug: Inhaled Steroids"
+          ]
+        },
+        {
+          "label": "Azithromycin",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants will use azithromycin (Zithromax) 500mg three times a week (10mg.kg for participants under 50Kg) which can be dropped to 250 mg three times a week for dose related side effects",
+          "interventionNames": [
+            "Drug: Azithromycin Pill"
+          ]
+        },
+        {
+          "label": "Rescue Inhaled Corticosteroids and azithromycin",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "This arm includes both the inhaled corticosteroid comparator and the azithromycin comparator as described in those two arms Participants in this arm will either have budesonide/formoterol (Symbicort) or mometasone/formoterol (Dulera), or a stand-alone ICS (beclomethasone/QVAR, or budesonide/Pulmicort, or fluticasone Flovent HFA, Flovent Diskus, ArmonAir RespiClick, Arnuity Ellipta, or mometasone, Asmanex HFA, Asmanex Twisthaler or ciclesodine Alvesco HFA) added to the participants usual treatment or a combination inhaler of corticosteroid and albuterol (AirSupra) that was recently approved AND Participants will use azithromycin (Zithromax) 500mg three times a week (10mg.kg for participants under 50Kg) which can be dropped to 250 mg three times a week for dose related side effects",
+          "interventionNames": [
+            "Drug: Inhaled Steroids",
+            "Drug: Azithromycin Pill"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Asthma Symptom Monitoring online tools",
+          "description": "All participants will be provided access to the Asthma Symptom Monitoring tools and 3/4's will be randomized to one of the other three arms above",
+          "armGroupLabels": [
+            "Enhanced Usual Care"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Inhaled Steroids",
+          "description": "participants will use either a combination of budesonide/formoterol or mometasone/formoterol as both controller and rescue therapy or a stand alone inhaled steroid (beclomethasone, budesonide, fluticasone, mometasone, ciclesodine) of their choice with their current reliever therapy or be converted to budesonide/albuterol as rescue therapy",
+          "armGroupLabels": [
+            "Rescue Inhaled Corticosteroids",
+            "Rescue Inhaled Corticosteroids and azithromycin"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Azithromycin Pill",
+          "description": "Participants will take 500mg of azithromycin three times a week or 10mg/kg if under 50Kg which may be reduced to 250mg/Kg for side effects",
+          "armGroupLabels": [
+            "Azithromycin",
+            "Rescue Inhaled Corticosteroids and azithromycin"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Asthma Control as Measured by the Asthma Control Test (ACT)",
+          "description": "Asthma control represents the degree to which impairment (impact of asthma on patient's daily life) is minimized and the goals of therapy are met. The Asthma Control Test is a participant administered tool for assessing the level of asthma control. Total scores range from 5 to 25, with a score of 20 to 25 indicating well-controlled asthma, a score of 16 to 19 indicating asthma that was not well controlled, and a score of 5 to 15 indicating very poorly controlled asthma. The Asthma Control Test has a score range of 5 to 25 with higher scores indicating better control.",
+          "timeFrame": "Follow up is up to 3 months."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Asthma Quality of Life Questionnaire (AQLQ) as Measured by the Juniper Mini Asthma Quality of Life Questionnaire",
+          "description": "The Asthma Quality of Life Questionnaire is a participant-administered tool for assessing functional impairment. Total scores range from 1 to 7, with a score of 7=no impairment and 1=maximum impairment.",
+          "timeFrame": "Total follow-up period is up to 3 months per participant."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. A clinical asthma diagnosis for at least 1 year;\n2. 12-75 years of age;\n3. A current ACT total score of \\<20 OR an exacerbation requiring 72 hours or more of parenteral steroids or a hospitalization of at least 24 hours \\> 30 days and \\< 365 days prior to enrollment;\n4. Able to provide consent (adolescents: assent) in English or Spanish; (i.e., cognitively impaired individuals are deemed not to be able to provide consent and thus do not meet inclusion criteria.)\n5. Patients with a coexisting clinical diagnosis of COPD are eligible if they meet any one of the following criteria: (i) Never smoker without secondary lung disease causing airway obstruction. (ii) Current or former smoker with obstruction on PFTs, but normal diffusing capacity of the lungs for carbon monoxide (DLCO) in the past 24 months.\n\nExclusion Criteria:\n\n1. Life expectancy \\<1 year (operationalized by the question to the patient's asthma care clinician \"Would you be surprised if this person died in the next 12 months? If yes - include, if no - exclude);\n2. No ICS prescribed for the individual (does not have to be using the ICS inhaler);\n3. Active treatment for hematological or solid organ cancer other than basal cell or skin squamous cell cancer;\n4. Allergy to macrolides or conditions for which macrolide administration may possibly be hazardous (e.g., acute or chronic hepatitis, cirrhosis, or other liver disease; end-stage renal disease; uncorrected hypokalemia or hypomagnesemia; clinically significant bradycardia; or history of prolonged cardiac repolarization and QT interval or torsades de pointes);\n5. On daily or every other day oral steroids for any reason;\n6. Currently on R-ICS or AZ therapy. Individuals on biologics can be enrolled if they have been on a stable dose for \\> 6 months and meet the ACT or exacerbation criteria as well as all other criteria.\n7. On a medication with known risk (i.e., that is associated with prolonged QT and associated with torsades de pointes even when taken as recommended) or possible risk (i.e., can cause prolonged QT but lacks evidence for risk of torsades de pointes when taken as recommended) - Full lists in Appendix 1.\n8. Specified medications for which close monitoring has been recommended in the setting of macrolide administration (digoxin, warfarin, theophylline, ergotamine or dihydroergotamine, cyclosporine, hexobarbital, phenytoin or nelfinavir).",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "12 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Wilson D Pace, MD",
+          "affiliation": "DARTNet Institute",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "David T Mauger, PhD",
+          "affiliation": "Penn State University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "DARTNet Insitute",
+          "city": "Aurora",
+          "state": "Colorado",
+          "zip": "80045",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.72943,
+            "lon": -104.83192
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "35213105",
+          "type": "BACKGROUND",
+          "citation": "Israel E, Cardet JC, Carroll JK, Fuhlbrigge AL, She L, Rockhold FW, Maher NE, Fagan M, Forth VE, Yawn BP, Arias Hernandez P, Kruse JM, Manning BK, Rodriguez-Louis J, Shields JB, Ericson B, Colon-Moya AD, Madison S, Coyne-Beasley T, Hammer GM, Kaplan BM, Rand CS, Robles J, Thompson O, Wechsler ME, Wisnivesky JP, McKee MD, Jariwala SP, Jerschow E, Busse PJ, Kaelber DC, Nazario S, Hernandez ML, Apter AJ, Chang KL, Pinto-Plata V, Stranges PM, Hurley LP, Trevor J, Casale TB, Chupp G, Riley IL, Shenoy K, Pasarica M, Calderon-Candelario RA, Tapp H, Baydur A, Pace WD. Reliever-Triggered Inhaled Glucocorticoid in Black and Latinx Adults with Asthma. N Engl J Med. 2022 Apr 21;386(16):1505-1518. doi: 10.1056/NEJMoa2118813. Epub 2022 Feb 26."
+        },
+        {
+          "pmid": "31917651",
+          "type": "BACKGROUND",
+          "citation": "Ray A, Camiolo M, Fitzpatrick A, Gauthier M, Wenzel SE. Are We Meeting the Promise of Endotypes and Precision Medicine in Asthma? Physiol Rev. 2020 Jul 1;100(3):983-1017. doi: 10.1152/physrev.00023.2019. Epub 2020 Jan 9."
+        },
+        {
+          "pmid": "33326352",
+          "type": "BACKGROUND",
+          "citation": "Wenzel SE. Severe Adult Asthmas: Integrating Clinical Features, Biology, and Therapeutics to Improve Outcomes. Am J Respir Crit Care Med. 2021 Apr 1;203(7):809-821. doi: 10.1164/rccm.202009-3631CI."
+        },
+        {
+          "pmid": "33637072",
+          "type": "BACKGROUND",
+          "citation": "Calmes D, Huynen P, Paulus V, Henket M, Guissard F, Moermans C, Louis R, Schleich F. Chronic infection with Chlamydia pneumoniae in asthma: a type-2 low infection related phenotype. Respir Res. 2021 Feb 26;22(1):72. doi: 10.1186/s12931-021-01635-w."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "Global Initiative for Asthma. Global strategy for asthma management and prevention 2023 report. Accessed February 10, 2024. https://ginasthma.org/2023-gina-main-report/"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Enhanced Usual Care",
+          "description": "Participants will be asked to use an online Asthma Symptom Monitoring tool to enhance communication with the medical team as well as self-awareness of their asthma symptoms. There are no \"study drugs\" in this arm. All 4 arms of the study will use these tools\n\nAsthma Symptom Monitoring online tools: All participants will be provided access to the Asthma Symptom Monitoring tools and 3/4's will be randomized to one of the other three arms above"
+        },
+        {
+          "id": "FG001",
+          "title": "Rescue Inhaled Corticosteroids",
+          "description": "Participants in this arm will either have budesonide/formoterol (Symbicort) or mometasone/formoterol (Dulera), or a stand-alone ICS (beclomethasone/QVAR, or budesonide/Pulmicort, or fluticasone Flovent HFA, Flovent Diskus, ArmonAir RespiClick, Arnuity Ellipta, or mometasone, Asmanex HFA, Asmanex Twisthaler or ciclesodine Alvesco HFA) added to the participants usual treatment or a combination inhaler of corticosteroid and albuterol (AirSupra) that was recently approved\n\nInhaled Steroids: participants will use either a combination of budesonide/formoterol or mometasone/formoterol as both controller and rescue therapy or a stand alone inhaled steroid (beclomethasone, budesonide, fluticasone, mometasone, ciclesodine) of their choice with their current reliever therapy or be converted to budesonide/albuterol as rescue therapy"
+        },
+        {
+          "id": "FG002",
+          "title": "Azithromycin",
+          "description": "Participants will use azithromycin (Zithromax) 500mg three times a week (10mg.kg for participants under 50Kg) which can be dropped to 250 mg three times a week for dose related side effects\n\nAzithromycin Pill: Participants will take 500mg of azithromycin three times a week or 10mg/kg if under 50Kg which may be reduced to 250mg/Kg for side effects"
+        },
+        {
+          "id": "FG003",
+          "title": "Rescue Inhaled Corticosteroids and Azithromycin",
+          "description": "This arm includes both the inhaled corticosteroid comparator and the azithromycin comparator as described in those two arms Participants in this arm will either have budesonide/formoterol (Symbicort) or mometasone/formoterol (Dulera), or a stand-alone ICS (beclomethasone/QVAR, or budesonide/Pulmicort, or fluticasone Flovent HFA, Flovent Diskus, ArmonAir RespiClick, Arnuity Ellipta, or mometasone, Asmanex HFA, Asmanex Twisthaler or ciclesodine Alvesco HFA) added to the participants usual treatment or a combination inhaler of corticosteroid and albuterol (AirSupra) that was recently approved AND Participants will use azithromycin (Zithromax) 500mg three times a week (10mg.kg for participants under 50Kg) which can be dropped to 250 mg three times a week for dose related side effects\n\nInhaled Steroids: participants will use either a combination of budesonide/formoterol or mometasone/formoterol as both controller and rescue therapy or a stand alone inhaled steroid (beclomethasone, budesonide, fluticasone, mometasone, ciclesodine) of their choice with their current reliever therapy or be converted to budesonide/albuterol as rescue therapy\n\nAzithromycin Pill: Participants will take 500mg of azithromycin three times a week or 10mg/kg if under 50Kg which may be reduced to 250mg/Kg for side effects"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "26"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "27"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "25"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "25"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "26"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "24"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "24"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "24"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Enhanced Usual Care",
+          "description": "Participants will be asked to use an online Asthma Symptom Monitoring tool to enhance communication with the medical team as well as self-awareness of their asthma symptoms. There are no \"study drugs\" in this arm. All 4 arms of the study will use these tools\n\nAsthma Symptom Monitoring online tools: All participants will be provided access to the Asthma Symptom Monitoring tools and 3/4's will be randomized to one of the other three arms above"
+        },
+        {
+          "id": "BG001",
+          "title": "Rescue Inhaled Corticosteroids",
+          "description": "Participants in this arm will either have budesonide/formoterol (Symbicort) or mometasone/formoterol (Dulera), or a stand-alone ICS (beclomethasone/QVAR, or budesonide/Pulmicort, or fluticasone Flovent HFA, Flovent Diskus, ArmonAir RespiClick, Arnuity Ellipta, or mometasone, Asmanex HFA, Asmanex Twisthaler or ciclesodine Alvesco HFA) added to the participants usual treatment or a combination inhaler of corticosteroid and albuterol (AirSupra) that was recently approved\n\nInhaled Steroids: participants will use either a combination of budesonide/formoterol or mometasone/formoterol as both controller and rescue therapy or a stand alone inhaled steroid (beclomethasone, budesonide, fluticasone, mometasone, ciclesodine) of their choice with their current reliever therapy or be converted to budesonide/albuterol as rescue therapy"
+        },
+        {
+          "id": "BG002",
+          "title": "Azithromycin",
+          "description": "Participants will use azithromycin (Zithromax) 500mg three times a week (10mg.kg for participants under 50Kg) which can be dropped to 250 mg three times a week for dose related side effects\n\nAzithromycin Pill: Participants will take 500mg of azithromycin three times a week or 10mg/kg if under 50Kg which may be reduced to 250mg/Kg for side effects"
+        },
+        {
+          "id": "BG003",
+          "title": "Rescue Inhaled Corticosteroids and Azithromycin",
+          "description": "This arm includes both the inhaled corticosteroid comparator and the azithromycin comparator as described in those two arms Participants in this arm will either have budesonide/formoterol (Symbicort) or mometasone/formoterol (Dulera), or a stand-alone ICS (beclomethasone/QVAR, or budesonide/Pulmicort, or fluticasone Flovent HFA, Flovent Diskus, ArmonAir RespiClick, Arnuity Ellipta, or mometasone, Asmanex HFA, Asmanex Twisthaler or ciclesodine Alvesco HFA) added to the participants usual treatment or a combination inhaler of corticosteroid and albuterol (AirSupra) that was recently approved AND Participants will use azithromycin (Zithromax) 500mg three times a week (10mg.kg for participants under 50Kg) which can be dropped to 250 mg three times a week for dose related side effects\n\nInhaled Steroids: participants will use either a combination of budesonide/formoterol or mometasone/formoterol as both controller and rescue therapy or a stand alone inhaled steroid (beclomethasone, budesonide, fluticasone, mometasone, ciclesodine) of their choice with their current reliever therapy or be converted to budesonide/albuterol as rescue therapy\n\nAzithromycin Pill: Participants will take 500mg of azithromycin three times a week or 10mg/kg if under 50Kg which may be reduced to 250mg/Kg for side effects"
+        },
+        {
+          "id": "BG004",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "26"
+            },
+            {
+              "groupId": "BG001",
+              "value": "27"
+            },
+            {
+              "groupId": "BG002",
+              "value": "25"
+            },
+            {
+              "groupId": "BG003",
+              "value": "25"
+            },
+            {
+              "groupId": "BG004",
+              "value": "103"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "36.64",
+                      "spread": "20.24"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "44.78",
+                      "spread": "16.87"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "42.80",
+                      "spread": "19.19"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45.72",
+                      "spread": "20.03"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "42.53",
+                      "spread": "19.13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "76"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "27"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "30"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "73"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "48"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "31"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "17"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "27"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "103"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Baseline ACT",
+          "description": "The Asthma Control Test is a participant-administered tool for assessing the level of asthma control.Total scores range from 5 to 25, with a score of 20 to 25 indicating well-controlled asthma, a score of 16 to 19 indicating asthma that was not well controlled, and a score of 5 to 15 indicating very poorly controlled asthma. The minimal clinically important difference is 3 points.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "units on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "17.50",
+                      "spread": "4.04"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "17.88",
+                      "spread": "3.98"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "15.64",
+                      "spread": "4.55"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "14.79",
+                      "spread": "5.08"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "16.50",
+                      "spread": "4.54"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Baseline AQLQ",
+          "description": "The Asthma Quality of Life Questionnaire is a participant-administered tool for assessing functional impairment. Total scores range from 1 to 7, with a score of 7=no impairment and 1=maximum impairment.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "units on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5.28",
+                      "spread": "1.17"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5.18",
+                      "spread": "1.14"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4.56",
+                      "spread": "1.21"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "4.54",
+                      "spread": "1.27"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "4.90",
+                      "spread": "1.23"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Asthma Control as Measured by the Asthma Control Test (ACT)",
+          "description": "Asthma control represents the degree to which impairment (impact of asthma on patient's daily life) is minimized and the goals of therapy are met. The Asthma Control Test is a participant administered tool for assessing the level of asthma control. Total scores range from 5 to 25, with a score of 20 to 25 indicating well-controlled asthma, a score of 16 to 19 indicating asthma that was not well controlled, and a score of 5 to 15 indicating very poorly controlled asthma. The Asthma Control Test has a score range of 5 to 25 with higher scores indicating better control.",
+          "populationDescription": "Participants with analyzable follow-up data at 3 months.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Follow up is up to 3 months.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Enhanced Usual Care",
+              "description": "Participants will be asked to use an online Asthma Symptom Monitoring tool to enhance communication with the medical team as well as self-awareness of their asthma symptoms. There are no \"study drugs\" in this arm. All 4 arms of the study will use these tools\n\nAsthma Symptom Monitoring online tools: All participants will be provided access to the Asthma Symptom Monitoring tools and 3/4's will be randomized to one of the other three arms above"
+            },
+            {
+              "id": "OG001",
+              "title": "Rescue Inhaled Corticosteroids",
+              "description": "Participants in this arm will either have budesonide/formoterol (Symbicort) or mometasone/formoterol (Dulera), or a stand-alone ICS (beclomethasone/QVAR, or budesonide/Pulmicort, or fluticasone Flovent HFA, Flovent Diskus, ArmonAir RespiClick, Arnuity Ellipta, or mometasone, Asmanex HFA, Asmanex Twisthaler or ciclesodine Alvesco HFA) added to the participants usual treatment or a combination inhaler of corticosteroid and albuterol (AirSupra) that was recently approved\n\nInhaled Steroids: participants will use either a combination of budesonide/formoterol or mometasone/formoterol as both controller and rescue therapy or a stand alone inhaled steroid (beclomethasone, budesonide, fluticasone, mometasone, ciclesodine) of their choice with their current reliever therapy or be converted to budesonide/albuterol as rescue therapy"
+            },
+            {
+              "id": "OG002",
+              "title": "Azithromycin",
+              "description": "Participants will use azithromycin (Zithromax) 500mg three times a week (10mg.kg for participants under 50Kg) which can be dropped to 250 mg three times a week for dose related side effects\n\nAzithromycin Pill: Participants will take 500mg of azithromycin three times a week or 10mg/kg if under 50Kg which may be reduced to 250mg/Kg for side effects"
+            },
+            {
+              "id": "OG003",
+              "title": "Rescue Inhaled Corticosteroids and Azithromycin",
+              "description": "This arm includes both the inhaled corticosteroid comparator and the azithromycin comparator as described in those two arms Participants in this arm will either have budesonide/formoterol (Symbicort) or mometasone/formoterol (Dulera), or a stand-alone ICS (beclomethasone/QVAR, or budesonide/Pulmicort, or fluticasone Flovent HFA, Flovent Diskus, ArmonAir RespiClick, Arnuity Ellipta, or mometasone, Asmanex HFA, Asmanex Twisthaler or ciclesodine Alvesco HFA) added to the participants usual treatment or a combination inhaler of corticosteroid and albuterol (AirSupra) that was recently approved AND Participants will use azithromycin (Zithromax) 500mg three times a week (10mg.kg for participants under 50Kg) which can be dropped to 250 mg three times a week for dose related side effects\n\nInhaled Steroids: participants will use either a combination of budesonide/formoterol or mometasone/formoterol as both controller and rescue therapy or a stand alone inhaled steroid (beclomethasone, budesonide, fluticasone, mometasone, ciclesodine) of their choice with their current reliever therapy or be converted to budesonide/albuterol as rescue therapy\n\nAzithromycin Pill: Participants will take 500mg of azithromycin three times a week or 10mg/kg if under 50Kg which may be reduced to 250mg/Kg for side effects"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "26"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "24"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "24"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "24"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18.77",
+                      "spread": "3.82"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "18.96",
+                      "spread": "3.72"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "20.45",
+                      "spread": "3.46"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "20.14",
+                      "spread": "3.47"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Asthma Quality of Life Questionnaire (AQLQ) as Measured by the Juniper Mini Asthma Quality of Life Questionnaire",
+          "description": "The Asthma Quality of Life Questionnaire is a participant-administered tool for assessing functional impairment. Total scores range from 1 to 7, with a score of 7=no impairment and 1=maximum impairment.",
+          "populationDescription": "Participants with analyzable survey data at 3 months.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Total follow-up period is up to 3 months per participant.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Enhanced Usual Care",
+              "description": "Participants will be asked to use an online Asthma Symptom Monitoring tool to enhance communication with the medical team as well as self-awareness of their asthma symptoms. There are no \"study drugs\" in this arm. All 4 arms of the study will use these tools\n\nAsthma Symptom Monitoring online tools: All participants will be provided access to the Asthma Symptom Monitoring tools and 3/4's will be randomized to one of the other three arms above"
+            },
+            {
+              "id": "OG001",
+              "title": "Rescue Inhaled Corticosteroids",
+              "description": "Participants in this arm will either have budesonide/formoterol (Symbicort) or mometasone/formoterol (Dulera), or a stand-alone ICS (beclomethasone/QVAR, or budesonide/Pulmicort, or fluticasone Flovent HFA, Flovent Diskus, ArmonAir RespiClick, Arnuity Ellipta, or mometasone, Asmanex HFA, Asmanex Twisthaler or ciclesodine Alvesco HFA) added to the participants usual treatment or a combination inhaler of corticosteroid and albuterol (AirSupra) that was recently approved\n\nInhaled Steroids: participants will use either a combination of budesonide/formoterol or mometasone/formoterol as both controller and rescue therapy or a stand alone inhaled steroid (beclomethasone, budesonide, fluticasone, mometasone, ciclesodine) of their choice with their current reliever therapy or be converted to budesonide/albuterol as rescue therapy"
+            },
+            {
+              "id": "OG002",
+              "title": "Azithromycin",
+              "description": "Participants will use azithromycin (Zithromax) 500mg three times a week (10mg.kg for participants under 50Kg) which can be dropped to 250 mg three times a week for dose related side effects\n\nAzithromycin Pill: Participants will take 500mg of azithromycin three times a week or 10mg/kg if under 50Kg which may be reduced to 250mg/Kg for side effects"
+            },
+            {
+              "id": "OG003",
+              "title": "Rescue Inhaled Corticosteroids and Azithromycin",
+              "description": "This arm includes both the inhaled corticosteroid comparator and the azithromycin comparator as described in those two arms Participants in this arm will either have budesonide/formoterol (Symbicort) or mometasone/formoterol (Dulera), or a stand-alone ICS (beclomethasone/QVAR, or budesonide/Pulmicort, or fluticasone Flovent HFA, Flovent Diskus, ArmonAir RespiClick, Arnuity Ellipta, or mometasone, Asmanex HFA, Asmanex Twisthaler or ciclesodine Alvesco HFA) added to the participants usual treatment or a combination inhaler of corticosteroid and albuterol (AirSupra) that was recently approved AND Participants will use azithromycin (Zithromax) 500mg three times a week (10mg.kg for participants under 50Kg) which can be dropped to 250 mg three times a week for dose related side effects\n\nInhaled Steroids: participants will use either a combination of budesonide/formoterol or mometasone/formoterol as both controller and rescue therapy or a stand alone inhaled steroid (beclomethasone, budesonide, fluticasone, mometasone, ciclesodine) of their choice with their current reliever therapy or be converted to budesonide/albuterol as rescue therapy\n\nAzithromycin Pill: Participants will take 500mg of azithromycin three times a week or 10mg/kg if under 50Kg which may be reduced to 250mg/Kg for side effects"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "26"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "24"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "25"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "24"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.25",
+                      "spread": "1.26"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5.3",
+                      "spread": "1.34"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "5.59",
+                      "spread": "1"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "5.27",
+                      "spread": "1.14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Nine months",
+      "description": "Does not differ from clinicaltrials.gov definitions.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Enhanced Usual Care",
+          "description": "Participants will be asked to use an online Asthma Symptom Monitoring tool to enhance communication with the medical team as well as self-awareness of their asthma symptoms. There are no \"study drugs\" in this arm. All 4 arms of the study will use these tools\n\nAsthma Symptom Monitoring online tools: All participants will be provided access to the Asthma Symptom Monitoring tools and 3/4's will be randomized to one of the other three arms above",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 26,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 26,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 26
+        },
+        {
+          "id": "EG001",
+          "title": "Rescue Inhaled Corticosteroids",
+          "description": "Participants in this arm will either have budesonide/formoterol (Symbicort) or mometasone/formoterol (Dulera), or a stand-alone ICS (beclomethasone/QVAR, or budesonide/Pulmicort, or fluticasone Flovent HFA, Flovent Diskus, ArmonAir RespiClick, Arnuity Ellipta, or mometasone, Asmanex HFA, Asmanex Twisthaler or ciclesodine Alvesco HFA) added to the participants usual treatment or a combination inhaler of corticosteroid and albuterol (AirSupra) that was recently approved\n\nInhaled Steroids: participants will use either a combination of budesonide/formoterol or mometasone/formoterol as both controller and rescue therapy or a stand alone inhaled steroid (beclomethasone, budesonide, fluticasone, mometasone, ciclesodine) of their choice with their current reliever therapy or be converted to budesonide/albuterol as rescue therapy",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 27,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 27,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 27
+        },
+        {
+          "id": "EG002",
+          "title": "Azithromycin",
+          "description": "Participants will use azithromycin (Zithromax) 500mg three times a week (10mg.kg for participants under 50Kg) which can be dropped to 250 mg three times a week for dose related side effects\n\nAzithromycin Pill: Participants will take 500mg of azithromycin three times a week or 10mg/kg if under 50Kg which may be reduced to 250mg/Kg for side effects",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 25,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 25,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 25
+        },
+        {
+          "id": "EG003",
+          "title": "Rescue Inhaled Corticosteroids and Azithromycin",
+          "description": "This arm includes both the inhaled corticosteroid comparator and the azithromycin comparator as described in those two arms Participants in this arm will either have budesonide/formoterol (Symbicort) or mometasone/formoterol (Dulera), or a stand-alone ICS (beclomethasone/QVAR, or budesonide/Pulmicort, or fluticasone Flovent HFA, Flovent Diskus, ArmonAir RespiClick, Arnuity Ellipta, or mometasone, Asmanex HFA, Asmanex Twisthaler or ciclesodine Alvesco HFA) added to the participants usual treatment or a combination inhaler of corticosteroid and albuterol (AirSupra) that was recently approved AND Participants will use azithromycin (Zithromax) 500mg three times a week (10mg.kg for participants under 50Kg) which can be dropped to 250 mg three times a week for dose related side effects\n\nInhaled Steroids: participants will use either a combination of budesonide/formoterol or mometasone/formoterol as both controller and rescue therapy or a stand alone inhaled steroid (beclomethasone, budesonide, fluticasone, mometasone, ciclesodine) of their choice with their current reliever therapy or be converted to budesonide/albuterol as rescue therapy\n\nAzithromycin Pill: Participants will take 500mg of azithromycin three times a week or 10mg/kg if under 50Kg which may be reduced to 250mg/Kg for side effects",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 25,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 25,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 25
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "We approached the feasibility phase with a focus on testing processes and answering the questions posed by the Patient-centered Outcome Research Institute study reviewers. These were: 1) Could we find eligible people willing to be randomized? 2) Would participants be able to obtain their R-ICS? 3) Would participants use the ASM system? 4) Would participants complete outcome questionnaires? Results from the feasibility study will be used to inform the main study."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Wilson Pace, MD",
+        "organization": "DARTNet Institute",
+        "email": "Wilson.pace@dartnet.info",
+        "phone": "800-434-0278",
+        "phoneExt": "12"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-07-23",
+          "uploadDate": "2025-04-18T09:59",
+          "filename": "Prot_SAP_003.pdf",
+          "size": 1298095
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-03-10",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001249",
+          "term": "Asthma"
+        },
+        {
+          "id": "D001982",
+          "term": "Bronchial Diseases"
+        },
+        {
+          "id": "D012141",
+          "term": "Respiratory Tract Infections"
+        },
+        {
+          "id": "D008173",
+          "term": "Lung Diseases, Obstructive"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012130",
+          "term": "Respiratory Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D017963",
+          "term": "Azithromycin"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D004917",
+          "term": "Erythromycin"
+        },
+        {
+          "id": "D018942",
+          "term": "Macrolides"
+        },
+        {
+          "id": "D061065",
+          "term": "Polyketides"
+        },
+        {
+          "id": "D007783",
+          "term": "Lactones"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

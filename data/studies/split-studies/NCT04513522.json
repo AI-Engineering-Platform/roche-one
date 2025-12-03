@@ -1,0 +1,2103 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04513522",
+      "orgStudyIdInfo": {
+        "id": "CA209-7C9"
+      },
+      "organization": {
+        "fullName": "Bristol-Myers Squibb",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Evaluate the Safety and Efficacy of Nivolumab With Ipilimumab in Participants With Untreated Advanced Kidney Cancer Conducted in India",
+      "officialTitle": "A Phase 4 Study of Nivolumab in Combination With Ipilimumab in Patients With Previously Untreated Advanced Renal Cell Carcinoma and Intermediate-or Poor-risk Factors Conducted in India",
+      "acronym": "CheckMate 7C9"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-12-17",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-01-04",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-01-04",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-08-13",
+      "studyFirstSubmitQcDate": "2020-08-13",
+      "studyFirstPostDateStruct": {
+        "date": "2020-08-14",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-12-10",
+      "resultsFirstSubmitQcDate": "2025-07-09",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-07-11",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-07-09",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-07-11",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Bristol-Myers Squibb",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to assess the safety and efficacy of nivolumab combined with ipilimumab in intermediate and poor-risk participants with previously untreated advanced renal cell carcinoma (RCC) or metastatic RCC (mRCC) in India."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Kidney Neoplasms"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 101,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Nivolumab + ipilimumab",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Biological: Nivolumab",
+            "Biological: Ipilimumab"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Nivolumab",
+          "description": "Specified dose on specified days",
+          "armGroupLabels": [
+            "Nivolumab + ipilimumab"
+          ],
+          "otherNames": [
+            "BMS-936558",
+            "Opdivo"
+          ]
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Ipilimumab",
+          "description": "Specified dose on specified days",
+          "armGroupLabels": [
+            "Nivolumab + ipilimumab"
+          ],
+          "otherNames": [
+            "BMS-734016",
+            "Yervoy"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Total Number of Participants Experiencing High Grade Immune-Mediated Adverse Events (IMAE)",
+          "description": "IMAEs are a type of adverse event that occurs when the immune system reacts against the body's own tissues, including diarrhea/colitis, hepatitis, pneumonitis, nephritis and renal dysfunction, rash, and endocrine (adrenal insufficiency, hypophysitis, hypothyroidism/thyroiditis, hyperthyroidism, and diabetes mellitus). IMAE analyses includes events, regardless of causality, which occurred during the study and follow-up. Only participants who received immune-modulating medication for treatment of the event are reported, with the exception of endocrine events, which will be included regardless of treatment since these events are often managed without immunosuppression.\n\nHigh grade (Grade 3 to 4 and Grade 5) IMAEs are reported. IMAEs are graded on a scale from 1 to 5, in which Grade 3 is severe or medically significant but not immediately life-threatening; Grade 4 events may require hospitalization; Grade 5 events are fatal.",
+          "timeFrame": "From first dose until 100 days after the last dose or for a maximum of 52 weeks from the date of the first on-study dose of nivolumab, whichever occurs earlier."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Time to Onset of High Grade Immune-Mediated Adverse Event (IMAE)",
+          "description": "Time to onset is defined as the time between the day of the first dose of study treatment and the onset date of the earliest AE (Grades 3-5) in this category. All IMAEs that occurred between first dose and 100 days past last dose are recorded. IMAEs are a type of adverse event that occurs when the immune system reacts against the body's own tissues. IMAE analyses includes events, regardless of causality, which occurred during the study and follow-up. Only participants who received immune-modulating medication for treatment of the event are reported, with the exception of endocrine events, which will be included regardless of treatment since these events are often managed without immunosuppression.\n\nHigh grade (Grades 3 through 5) IMAEs are reported. IMAEs are graded on a scale from 1 to 5, in which Grade 3 is severe or medically significant but not immediately life-threatening; Grade 4 events may require hospitalization; Grade 5 events are fatal.",
+          "timeFrame": "From first dose until onset of IMAE (up to approximately 15 months)"
+        },
+        {
+          "measure": "Time to Resolution of High Grade Immune-Mediated Adverse Event (IMAE)",
+          "description": "Time to resolution of IMAEs is defined as the longest time from onset to complete resolution or improvement to the grade at baseline among all clustered AEs experienced by the participant in this category per adverse event criteria category. Events which worsened into grade 5 events (death) or have a resolution date equal to the date of death are considered unresolved. If a clustered AE is considered as unresolved, the resolution date will be censored to the last known alive date. Improvement to the grade at baseline implies that all different events in the clustered adverse event should at least have improved to the corresponding (i.e. with same preferred term) baseline grade.\n\nHigh grade (Grades 3 through 5) IMAEs are reported. IMAEs are graded on a scale from 1 to 5, in which Grade 3 is severe or medically significant but not immediately life-threatening; Grade 4 events may require hospitalization; Grade 5 events are fatal.",
+          "timeFrame": "From first dose until resolution of IMAE (up to approximately 15 months)"
+        },
+        {
+          "measure": "The Number of Participants Who Received Immune-Modulating Medication",
+          "description": "Immune modulating medications are medications entered on an immune modulating medication form or available from the most current pre-defined list of immune modulating medications. This list is revisited whenever UMC WHO releases a new version and updated accordingly.",
+          "timeFrame": "From first dose up to 100 days after last dose (up to approximately 15 months)"
+        },
+        {
+          "measure": "Objective Response Rate (ORR)",
+          "description": "Objective Response Rate (ORR) was defined as the number of participants with a best overall response of confirmed Complete Response (CR) or Partial Response (PR) (per RECIST 1.1 criteria) divided by the number of all treated participants. RECIST 1.1 = Response Evaluation Criteria in Solid Tumors. CR= Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\< 10 mm. PR= At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters.",
+          "timeFrame": "From first dose up to 100 days after last dose (up to approximately 15 months)"
+        },
+        {
+          "measure": "Time to Response (TTR)",
+          "description": "TTR is defined as the time from the date of first dose to the date of the first confirmed documented response (CR or PR). For the non-responders, TTR was censored at the maximum time of response + 1 day of all participants.\n\nCR= Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\< 10 mm. PR= At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters.",
+          "timeFrame": "From first dose to the date of CR or PR (up to approximately 15 months)"
+        },
+        {
+          "measure": "Duration of Response (DoR)",
+          "description": "Duration of Response (DOR) is defined as the time between the date of first documented response (CR or PR) that was subsequently confirmed to the date of the first documented progression as determined using RECIST 1.1, or death due to any cause, whichever occurs first. For participants who neither progress nor die, the duration of response will be censored on the date of their last evaluable tumor assessment. For participants who start subsequent therapy before progression or die, the duration of response will be censored on the date of their last evaluable tumor assessment conducted on or prior to the initiation of the subsequent therapy.\n\nCR= Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\< 10 mm. PR= At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters. Analysis based on Kaplan Meier estimates.",
+          "timeFrame": "From first documented response (CR or PR) up to first documented progression or death due to any cause, whichever occurs first (up to approximately 3 years)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological confirmation of renal cell carcinoma (RCC) with clear cell component including participants who may have sarcomatoid features\n* Qualifies as intermediate or poor risk by meeting at least one of the prognostic factors as per the International Metastatic RCC Database Consortium (IMDC) criteria\n* Indian participants with Indian ethnicity living in India\n* No prior systemic therapy for RCC\n* Measurable disease lesion by computed tomography (CT) or magnetic resonance imaging (MRI) per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria\n\nExclusion Criteria:\n\n* Participants with active, untreated, symptomatic central nervous system (CNS) metastases\n* Major surgery less than 28 days prior to the first dose of study treatment\n* Participants with an autoimmune disease, or any other condition, requiring systemic treatment with either corticosteroids or other immunosuppressive medications\n\nOther protocol-defined inclusion/exclusion criteria apply",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Bristol-Myers Squibb",
+          "affiliation": "Bristol-Myers Squibb",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Local Institution - 0005",
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "zip": "380054",
+          "country": "India",
+          "geoPoint": {
+            "lat": 23.02579,
+            "lon": 72.58727
+          }
+        },
+        {
+          "facility": "Local Institution - 0011",
+          "city": "Trivandrum",
+          "state": "Kerala",
+          "zip": "695011",
+          "country": "India",
+          "geoPoint": {
+            "lat": 8.4855,
+            "lon": 76.94924
+          }
+        },
+        {
+          "facility": "Local Institution - 0013",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "zip": "400 057",
+          "country": "India",
+          "geoPoint": {
+            "lat": 19.07283,
+            "lon": 72.88261
+          }
+        },
+        {
+          "facility": "Local Institution - 0001",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "zip": "400012",
+          "country": "India",
+          "geoPoint": {
+            "lat": 19.07283,
+            "lon": 72.88261
+          }
+        },
+        {
+          "facility": "Local Institution - 0007",
+          "city": "New Delhi",
+          "state": "National Capital Territory of Delhi",
+          "zip": "110029",
+          "country": "India",
+          "geoPoint": {
+            "lat": 28.62137,
+            "lon": 77.2148
+          }
+        },
+        {
+          "facility": "Local Institution - 0006",
+          "city": "Bangalore",
+          "zip": "560017",
+          "country": "India",
+          "geoPoint": {
+            "lat": 12.97194,
+            "lon": 77.59369
+          }
+        },
+        {
+          "facility": "Local Institution - 0017",
+          "city": "Delhi",
+          "zip": "110085",
+          "country": "India",
+          "geoPoint": {
+            "lat": 28.65195,
+            "lon": 77.23149
+          }
+        },
+        {
+          "facility": "Local Institution - 0002",
+          "city": "Karnataka",
+          "zip": "560027",
+          "country": "India"
+        },
+        {
+          "facility": "Local Institution - 0019",
+          "city": "Kolkata",
+          "zip": "711103",
+          "country": "India",
+          "geoPoint": {
+            "lat": 22.56263,
+            "lon": 88.36304
+          }
+        },
+        {
+          "facility": "Local Institution - 0016",
+          "city": "Mumbai",
+          "zip": "400053",
+          "country": "India",
+          "geoPoint": {
+            "lat": 19.07283,
+            "lon": 72.88261
+          }
+        },
+        {
+          "facility": "Local Institution - 0012",
+          "city": "Pune",
+          "zip": "411001",
+          "country": "India",
+          "geoPoint": {
+            "lat": 18.51957,
+            "lon": 73.85535
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "BMS Clinical Trial Information",
+          "url": "https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html"
+        },
+        {
+          "label": "BMS Clinical Trial Patient Recruiting",
+          "url": "https://www.BMSClinicalTrials.com"
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Nivolumab + Ipilimumab",
+          "description": "Participants received nivolumab 3mg/kg Q3W combined with ipilimumab 1mg/kg Q3W for 4 doses followed by nivolumab 3mg/kg Q2W for up to 52 weeks."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "101"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "36"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "65"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Other reasons",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Adverse event unrelated to study drug",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "9"
+                }
+              ]
+            },
+            {
+              "type": "Study drug toxicity",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "14"
+                }
+              ]
+            },
+            {
+              "type": "Disease progression",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "39"
+                }
+              ]
+            },
+            {
+              "type": "Participants withdrew consent",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "All treated participants",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Nivolumab + Ipilimumab",
+          "description": "Participants received nivolumab 3mg/kg Q3W combined with ipilimumab 1mg/kg Q3W for 4 doses followed by nivolumab 3mg/kg Q2W for up to 52 weeks."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "101"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "56.0",
+                      "spread": "9.99"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "22"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "79"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Asian Indian",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "101"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Total Number of Participants Experiencing High Grade Immune-Mediated Adverse Events (IMAE)",
+          "description": "IMAEs are a type of adverse event that occurs when the immune system reacts against the body's own tissues, including diarrhea/colitis, hepatitis, pneumonitis, nephritis and renal dysfunction, rash, and endocrine (adrenal insufficiency, hypophysitis, hypothyroidism/thyroiditis, hyperthyroidism, and diabetes mellitus). IMAE analyses includes events, regardless of causality, which occurred during the study and follow-up. Only participants who received immune-modulating medication for treatment of the event are reported, with the exception of endocrine events, which will be included regardless of treatment since these events are often managed without immunosuppression.\n\nHigh grade (Grade 3 to 4 and Grade 5) IMAEs are reported. IMAEs are graded on a scale from 1 to 5, in which Grade 3 is severe or medically significant but not immediately life-threatening; Grade 4 events may require hospitalization; Grade 5 events are fatal.",
+          "populationDescription": "All treated participants",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From first dose until 100 days after the last dose or for a maximum of 52 weeks from the date of the first on-study dose of nivolumab, whichever occurs earlier.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Nivolumab + Ipilimumab",
+              "description": "Participants received nivolumab 3mg/kg Q3W combined with ipilimumab 1mg/kg Q3W for 4 doses followed by nivolumab 3mg/kg Q2W for up to 52 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "101"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Pneumonitis Grade 3-4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Nephritis and Renal Dysfunction Grade 3-4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Rash Grade 3-4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Adrenal Insufficiency Grade 3-4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Diarrhea/Colitis Grade 3-5",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hepatitis Grade 3-5",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Nephritis and Renal Dysfunction Grade 5",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Rash Grade 5",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hypersensitivity Grade 3-5",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Adrenal Insufficiency Grade 5",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hypothyroidism/Thyroiditis Grade 3-5",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Diabetes Mellitus Grade 3-5",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hyperthyroidism Grade 3-5",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hypophysitis Grade 3-5",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time to Onset of High Grade Immune-Mediated Adverse Event (IMAE)",
+          "description": "Time to onset is defined as the time between the day of the first dose of study treatment and the onset date of the earliest AE (Grades 3-5) in this category. All IMAEs that occurred between first dose and 100 days past last dose are recorded. IMAEs are a type of adverse event that occurs when the immune system reacts against the body's own tissues. IMAE analyses includes events, regardless of causality, which occurred during the study and follow-up. Only participants who received immune-modulating medication for treatment of the event are reported, with the exception of endocrine events, which will be included regardless of treatment since these events are often managed without immunosuppression.\n\nHigh grade (Grades 3 through 5) IMAEs are reported. IMAEs are graded on a scale from 1 to 5, in which Grade 3 is severe or medically significant but not immediately life-threatening; Grade 4 events may require hospitalization; Grade 5 events are fatal.",
+          "populationDescription": "All treated participants who experienced at least 1 IMAE",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "Weeks",
+          "timeFrame": "From first dose until onset of IMAE (up to approximately 15 months)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Nivolumab + Ipilimumab",
+              "description": "Participants received nivolumab 3mg/kg Q3W combined with ipilimumab 1mg/kg Q3W for 4 doses followed by nivolumab 3mg/kg Q2W for up to 52 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "ADRENAL INSUFFICIENCY",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.9",
+                      "lowerLimit": "9.9",
+                      "upperLimit": "9.9"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "PNEUMONITIS",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7.29",
+                      "lowerLimit": "1.4",
+                      "upperLimit": "13.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "NEPHRITIS AND RENAL DYSFUNCTION",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "20.00",
+                      "lowerLimit": "20.0",
+                      "upperLimit": "20.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "RASH",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29.21",
+                      "lowerLimit": "29.0",
+                      "upperLimit": "29.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time to Resolution of High Grade Immune-Mediated Adverse Event (IMAE)",
+          "description": "Time to resolution of IMAEs is defined as the longest time from onset to complete resolution or improvement to the grade at baseline among all clustered AEs experienced by the participant in this category per adverse event criteria category. Events which worsened into grade 5 events (death) or have a resolution date equal to the date of death are considered unresolved. If a clustered AE is considered as unresolved, the resolution date will be censored to the last known alive date. Improvement to the grade at baseline implies that all different events in the clustered adverse event should at least have improved to the corresponding (i.e. with same preferred term) baseline grade.\n\nHigh grade (Grades 3 through 5) IMAEs are reported. IMAEs are graded on a scale from 1 to 5, in which Grade 3 is severe or medically significant but not immediately life-threatening; Grade 4 events may require hospitalization; Grade 5 events are fatal.",
+          "populationDescription": "All treated participants who experienced at least 1 IMAE that was resolved. Participants who experienced an IMAE that did not resolve were censored.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "Weeks",
+          "timeFrame": "From first dose until resolution of IMAE (up to approximately 15 months)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Nivolumab + Ipilimumab",
+              "description": "Participants received nivolumab 3mg/kg Q3W combined with ipilimumab 1mg/kg Q3W for 4 doses followed by nivolumab 3mg/kg Q2W for up to 52 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "ADRENAL INSUFFICIENCY",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.1",
+                      "lowerLimit": "1.1",
+                      "upperLimit": "1.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "RASH",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10.07",
+                      "lowerLimit": "5.0",
+                      "upperLimit": "15.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "The Number of Participants Who Received Immune-Modulating Medication",
+          "description": "Immune modulating medications are medications entered on an immune modulating medication form or available from the most current pre-defined list of immune modulating medications. This list is revisited whenever UMC WHO releases a new version and updated accordingly.",
+          "populationDescription": "All treated participants",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From first dose up to 100 days after last dose (up to approximately 15 months)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Nivolumab + Ipilimumab",
+              "description": "Participants received nivolumab 3mg/kg Q3W combined with ipilimumab 1mg/kg Q3W for 4 doses followed by nivolumab 3mg/kg Q2W for up to 52 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "101"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "38"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Objective Response Rate (ORR)",
+          "description": "Objective Response Rate (ORR) was defined as the number of participants with a best overall response of confirmed Complete Response (CR) or Partial Response (PR) (per RECIST 1.1 criteria) divided by the number of all treated participants. RECIST 1.1 = Response Evaluation Criteria in Solid Tumors. CR= Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\< 10 mm. PR= At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters.",
+          "populationDescription": "All response evaluable participants - a total of 16 participants were excluded from \"all response evaluable participants\" population as they did not have measurable disease at baseline or at least 1 evaluable on-study assessment",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "From first dose up to 100 days after last dose (up to approximately 15 months)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Nivolumab + Ipilimumab",
+              "description": "Participants received nivolumab 3mg/kg Q3W combined with ipilimumab 1mg/kg Q3W for 4 doses followed by nivolumab 3mg/kg Q2W for up to 52 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "85"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "37.6",
+                      "lowerLimit": "27.4",
+                      "upperLimit": "48.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time to Response (TTR)",
+          "description": "TTR is defined as the time from the date of first dose to the date of the first confirmed documented response (CR or PR). For the non-responders, TTR was censored at the maximum time of response + 1 day of all participants.\n\nCR= Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\< 10 mm. PR= At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters.",
+          "populationDescription": "All confirmed responders",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "Months",
+          "timeFrame": "From first dose to the date of CR or PR (up to approximately 15 months)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Nivolumab + Ipilimumab",
+              "description": "Participants received nivolumab 3mg/kg Q3W combined with ipilimumab 1mg/kg Q3W for 4 doses followed by nivolumab 3mg/kg Q2W for up to 52 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "32"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.79",
+                      "lowerLimit": "2.3",
+                      "upperLimit": "10.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Duration of Response (DoR)",
+          "description": "Duration of Response (DOR) is defined as the time between the date of first documented response (CR or PR) that was subsequently confirmed to the date of the first documented progression as determined using RECIST 1.1, or death due to any cause, whichever occurs first. For participants who neither progress nor die, the duration of response will be censored on the date of their last evaluable tumor assessment. For participants who start subsequent therapy before progression or die, the duration of response will be censored on the date of their last evaluable tumor assessment conducted on or prior to the initiation of the subsequent therapy.\n\nCR= Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\< 10 mm. PR= At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters. Analysis based on Kaplan Meier estimates.",
+          "populationDescription": "All treated participants who have measurable disease at baseline and at least one on-study assessment",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "Months",
+          "timeFrame": "From first documented response (CR or PR) up to first documented progression or death due to any cause, whichever occurs first (up to approximately 3 years)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Nivolumab + Ipilimumab",
+              "description": "Participants received nivolumab 3mg/kg Q3W combined with ipilimumab 1mg/kg Q3W for 4 doses followed by nivolumab 3mg/kg Q2W for up to 52 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "NA",
+                      "lowerLimit": "1.3",
+                      "upperLimit": "9.9",
+                      "comment": "Median not calculated due to not reaching the KM 50% threshold"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Participants were assessed for all-cause mortality from their randomization to study completion, (up to approximately 3 years). SAEs and Other AEs were assessed from first dose to 100 days following last dose (up to approximately 15 months)",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Nivolumab + Ipilimumab",
+          "description": "Participants received nivolumab 3mg/kg Q3W combined with ipilimumab 1mg/kg Q3W for 4 doses followed by nivolumab 3mg/kg Q2W for up to 52 weeks.",
+          "deathsNumAffected": 11,
+          "deathsNumAtRisk": 101,
+          "seriousNumAffected": 37,
+          "seriousNumAtRisk": 101,
+          "otherNumAffected": 80,
+          "otherNumAtRisk": 101
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Anaemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Acute coronary syndrome",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Cardiac arrest",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Myocardial infarction",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Myocardial ischaemia",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Myocarditis",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Adrenal insufficiency",
+          "organSystem": "Endocrine disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hyperthyroidism",
+          "organSystem": "Endocrine disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Abdominal pain",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Stomatitis",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Death",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Multiple organ dysfunction syndrome",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Bile duct stone",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Contrast media reaction",
+          "organSystem": "Immune system disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Bronchitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Gastroenteritis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Sepsis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Septic shock",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Staphylococcal sepsis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Upper respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Electrolyte imbalance",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hypocalcaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hypoglycaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hypokalaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hyponatraemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Pain in extremity",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Malignant neoplasm progression",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Metastases to central nervous system",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Rectal adenocarcinoma",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Altered state of consciousness",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Guillain-Barre syndrome",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hemiparesis",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hemiplegia",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Acute kidney injury",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Renal impairment",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Acquired hydrocele",
+          "organSystem": "Reproductive system and breast disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Dyspnoea",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Immune-mediated lung disease",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Pleural effusion",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Pneumonitis",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Respiratory distress",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 101
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Anaemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 14,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hyperthyroidism",
+          "organSystem": "Endocrine disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 10,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hypothyroidism",
+          "organSystem": "Endocrine disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 10,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 9,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 12,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Asthenia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 19,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Fatigue",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Pain",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 17,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Blood creatinine increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 10,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Weight increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Decreased appetite",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 7,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hyperglycaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Hyponatraemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 9,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Back pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 13,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Cough",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 25,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Dyspnoea",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Pruritus",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 21,
+              "numAtRisk": 101
+            }
+          ]
+        },
+        {
+          "term": "Rash",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "26.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 12,
+              "numAtRisk": 101
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "Bristol-Myers Squibb Co. agreements with investigators vary; constant is our right to embargo communications regarding trial results prior to public release for a period ≤60 days from submittal for review. We will not prohibit investigators from publishing, but will prohibit the disclosure of previously undisclosed confidential information other than study results, and request postponement of single-center publications until after disclosure of the clinical trial's primary publication"
+      },
+      "pointOfContact": {
+        "title": "Bristol-Myers Squibb Study Director",
+        "organization": "Bristol-Myers Squibb",
+        "email": "Clinical.Trials@bms.com",
+        "phone": "Please Email"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-11-10",
+          "uploadDate": "2024-12-10T09:58",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 6260031
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2024-12-31",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D007680",
+          "term": "Kidney Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014571",
+          "term": "Urologic Neoplasms"
+        },
+        {
+          "id": "D014565",
+          "term": "Urogenital Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D007674",
+          "term": "Kidney Diseases"
+        },
+        {
+          "id": "D014570",
+          "term": "Urologic Diseases"
+        },
+        {
+          "id": "D052801",
+          "term": "Male Urogenital Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000077594",
+          "term": "Nivolumab"
+        },
+        {
+          "id": "D000074324",
+          "term": "Ipilimumab"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D061067",
+          "term": "Antibodies, Monoclonal, Humanized"
+        },
+        {
+          "id": "D000911",
+          "term": "Antibodies, Monoclonal"
+        },
+        {
+          "id": "D000906",
+          "term": "Antibodies"
+        },
+        {
+          "id": "D007136",
+          "term": "Immunoglobulins"
+        },
+        {
+          "id": "D007162",
+          "term": "Immunoproteins"
+        },
+        {
+          "id": "D001798",
+          "term": "Blood Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D012712",
+          "term": "Serum Globulins"
+        },
+        {
+          "id": "D005916",
+          "term": "Globulins"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -25,7 +25,8 @@ def setup_logging(log_level: str):
 def parse_and_split_studies():
     """
     Read JSON files from data/studies/combined-studies/ folder,
-    extract individual studies, and save them to data/studies/split-studies/
+    extract individual studies, and save them to data/studies/split-studies/.
+    Only saves studies where hasResults is true.
     """
     # Get the project root directory (parent of src)
     project_root = Path(__file__).parent.parent.parent
@@ -51,16 +52,15 @@ def parse_and_split_studies():
         logging.info(f"Processing {json_file.name}...")
         
         try:
-            # Read the JSON file
+            # Read the JSON file (expecting a list of studies)
             with open(json_file, 'r', encoding='utf-8') as f:
-                data = json.load(f)
+                studies = json.load(f)
             
-            # Extract studies list
-            if "studies" not in data:
-                logging.warning(f"No 'studies' property found in {json_file.name}")
+            # Validate that the data is a list
+            if not isinstance(studies, list):
+                logging.warning(f"Expected a list of studies in {json_file.name}, got {type(studies).__name__}")
                 continue
             
-            studies = data["studies"]
             logging.info(f"Found {len(studies)} study(ies)")
             
             # Process each study
@@ -71,6 +71,13 @@ def parse_and_split_studies():
                     
                     if not nct_id:
                         logging.warning(f"Study missing nctId, skipping...")
+                        continue
+                    
+                    # Check if study has results
+                    has_results = study.get("hasResults", False)
+                    # logging.info(f"Study {nct_id} results = {has_results}")
+                    if not has_results:
+                        logging.debug(f"Study {nct_id} does not have results (hasResults=false), skipping...")
                         continue
                     
                     # Create output filename using nctId

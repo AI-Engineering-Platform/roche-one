@@ -1,0 +1,4390 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05478499",
+      "orgStudyIdInfo": {
+        "id": "IM011-220"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2022-000797-26",
+          "type": "EUDRACT_NUMBER"
+        },
+        {
+          "id": "U1111-1274-7417",
+          "type": "REGISTRY",
+          "domain": "WHO"
+        }
+      ],
+      "organization": {
+        "fullName": "Bristol-Myers Squibb",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Efficacy and Safety of Deucravacitinib Versus Placebo in Participants With Moderate-to-severe Scalp Psoriasis",
+      "officialTitle": "A Phase 3B/4, Multicenter, Randomized, Double-blind Placebo-controlled Study to Evaluate the Efficacy and Safety of Deucravacitinib in Participants With Moderate-to-severe Scalp Psoriasis (PSORIATYK SCALP)"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-10-06",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-01-11",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-10-17",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-07-27",
+      "studyFirstSubmitQcDate": "2022-07-27",
+      "studyFirstPostDateStruct": {
+        "date": "2022-07-28",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-01-10",
+      "resultsFirstSubmitQcDate": "2025-03-06",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-03-13",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-09-30",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-10-28",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Bristol-Myers Squibb",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to compare the efficacy and safety of deucravacitinib to placebo in participants with moderate-to-severe scalp psoriasis."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Psoriasis"
+      ],
+      "keywords": [
+        "Scalp Psoriasis",
+        "BMS-986165",
+        "Deucravacitinib",
+        "Psoriasis",
+        "Psoriasis Special Sites"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 154,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Deucravacitinib",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: Deucravacitinib"
+          ]
+        },
+        {
+          "label": "Placebo then Deucravacitinib",
+          "type": "PLACEBO_COMPARATOR",
+          "interventionNames": [
+            "Drug: Deucravacitinib",
+            "Other: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Deucravacitinib",
+          "description": "Specified dose on specified days",
+          "armGroupLabels": [
+            "Deucravacitinib",
+            "Placebo then Deucravacitinib"
+          ],
+          "otherNames": [
+            "BMS-986165"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo",
+          "description": "Specified dose on specified days",
+          "armGroupLabels": [
+            "Placebo then Deucravacitinib"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Percentage of Participants With a Scalp-specific Physician Global Assessment Score of 0 or 1 (Ss-PGA 0/1) at Week 16",
+          "description": "ss-PGA 0/1 response as a percentage of participants with an ss-PGA score of 0 (clear) or 1 (almost clear) with at least a 2-point reduction from baseline at Week 16. Scalp lesions are evaluated in terms of clinical signs of redness, thickness, and scaliness and scored on the following 5-point ss-PGA scale: 0 = absence of disease, 1 = very mild disease, 2 = mild disease, 3 = moderate disease, 4 = severe disease.",
+          "timeFrame": "Baseline and Week 16"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Percentage of Participants With a Psoriasis Scalp Severity Index 90 (PSSI 90) at Week 16",
+          "description": "PSSI 90 response as a percentage of participants who achieve at least 90% improvement from baseline in the PSSI score at Week 16. PSSI assesses severity of scalp disease in participants with scalp involvement with a 5-point Likert-type scale on the clinical parameters of erythema, induration, and desquamation. The scores are summed and multiplied by an integer (0 to 6) that represents the area of affected scalp. The PSSI score ranges from 0 to 72 with higher scores indicating more severe symptoms.",
+          "timeFrame": "Baseline and Week 16"
+        },
+        {
+          "measure": "Change From Baseline in Scalp-specific Itch Numerical Rating Scale (NRS) Score at Week 16",
+          "description": "Change from baseline in scalp-specific itch numerical rating scale (NRS) score at week 16. The scalp-specific itch NRS is an 11-point horizontal scale anchored at 0 and 10 with 0 representing \"no scalp itch\" and 10 representing \"worst scalp itch imaginable.\". Overall severity of a participant's itching from scalp psoriasis is indicated by selecting the number that best describes the worst level of scalp itching within the past 24 hours.",
+          "timeFrame": "Baseline and Week 16"
+        },
+        {
+          "measure": "Percentage of Participants With a Static Physician Global Assessment Score of 0 or 1 (s-PGA 0/1) at Week 16",
+          "description": "s-PGA 0/1 response as a percentage of participants with an s-PGA score of 0 (clear) or 1 (almost clear) with at least a 2-point reduction from baseline at Week 16. The s-PGA is a 5-point scale of an average assessment of all psoriatic lesions based on erythema, scale, and induration. The s-PGA measure determines psoriasis severity at a single point in time (without taking into account the baseline disease condition) as clear (0), almost clear (1), mild (2), moderate (3), or severe (4).",
+          "timeFrame": "Baseline and Week 16"
+        },
+        {
+          "measure": "Number of Participants Experiencing Treatment Emergent Adverse Events (TEAEs)",
+          "description": "An Adverse Event (AE) is defined as any new untoward medical occurrence or worsening of a pre-existing medical condition in a clinical investigation participant administered study treatment that does not necessarily have a causal relation with this treatment.",
+          "timeFrame": "From week 0 through week 16"
+        },
+        {
+          "measure": "Number of Participants Experiencing Serious Treatment Emergent Adverse Events (TEAEs)",
+          "description": "A Serious Adverse Event (SAE) is defined as any untoward medical occurrence that, at any dose results in death, is life-threatening, requires inpatient hospitalization or causes prolongation of existing hospitalization.",
+          "timeFrame": "From week 0 through week 16"
+        },
+        {
+          "measure": "Number of Participants Experiencing Laboratory Test Results of Worst Toxicity Grade",
+          "description": "Laboratory test results summary of Worst toxicity grade in SI units for hematology and chemistry using the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. Grade 1= mild and asymptomatic; Grade 2= moderate requiring minimal, local or noninvasive intervention; Grade 3= severe or medically significant but not immediately life-threatening; Grade 4= events are usually severe enough to require hospitalization.",
+          "timeFrame": "Week 0 through Week 16"
+        },
+        {
+          "measure": "Number of Participants Experiencing Laboratory Abnormalities in Potential Drug-Induced Liver Injury Tests",
+          "description": "Number of participants with laboratory abnormalities in potential drug-induced liver injury tests.\n\nALT=alanine aminotransferase AST=aspartate aminotransferase ULN=upper limit of normal",
+          "timeFrame": "Week 0 through Week 16"
+        },
+        {
+          "measure": "Number of Participants With Abnormalities in Vital Signs",
+          "description": "Number of participants with abnormalities in vital signs including heart rate, systolic blood pressure, and diastolic blood pressure.",
+          "timeFrame": "Week 0 through Week 16"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Men and women diagnosed with stable plaque psoriasis with scalp involvement for 6 months or more. Stable psoriasis is defined as no morphology changes or significant flares of disease activity in the opinion of the Investigator\n2. Deemed by the Investigator to be a candidate for phototherapy or systemic therapy\n3. Moderate-to-severe scalp psoriasis as defined by scalp-specific Physician's Global Assessment (ss-PGA) ≥ 3; ≥ 20% scalp surface area (SSA); Psoriasis Scalp Severity Index (PSSI) ≥ 12 at the Screening visit and Day 1\n4. ≥ 3% of Body Surface Area (BSA) involvement at the Screening visit and Day 1\n5. Evidence of plaque psoriasis in a non-scalp area\n6. Failed to respond to, or intolerant of ≥ 1 topical therapy for scalp psoriasis\n\nExclusion Criteria:\n\n* Target Disease Exceptions:\n\n  1. Has nonplaque psoriasis (ie, guttate, inverse, pustular, erythrodermic or drug-induced psoriasis) at Screening or Day 1 Other protocol-defined inclusion/exclusion criteria apply",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Bristol-Myers Squibb",
+          "affiliation": "Bristol-Myers Squibb",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Local Institution - 0001",
+          "city": "Hot Springs",
+          "state": "Arkansas",
+          "zip": "71913",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.5037,
+            "lon": -93.05518
+          }
+        },
+        {
+          "facility": "Local Institution - 0007",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46256",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "Local Institution - 0041",
+          "city": "Louisville",
+          "state": "Kentucky",
+          "zip": "40217",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.25424,
+            "lon": -85.75941
+          }
+        },
+        {
+          "facility": "Local Institution - 0022",
+          "city": "Rockville",
+          "state": "Maryland",
+          "zip": "20850",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.084,
+            "lon": -77.15276
+          }
+        },
+        {
+          "facility": "Local Institution - 0008",
+          "city": "Beverly",
+          "state": "Massachusetts",
+          "zip": "01915",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.55843,
+            "lon": -70.88005
+          }
+        },
+        {
+          "facility": "Local Institution - 0047",
+          "city": "Bloomfield Hills",
+          "state": "Michigan",
+          "zip": "48302",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.58364,
+            "lon": -83.24549
+          }
+        },
+        {
+          "facility": "Local Institution - 0002",
+          "city": "New Brighton",
+          "state": "Minnesota",
+          "zip": "55432",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 45.06552,
+            "lon": -93.20189
+          }
+        },
+        {
+          "facility": "Local Institution - 0049",
+          "city": "East Windsor",
+          "state": "New Jersey",
+          "zip": "08520",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.268,
+            "lon": -74.54043
+          }
+        },
+        {
+          "facility": "Local Institution - 0051",
+          "city": "Kew Gardens",
+          "state": "New York",
+          "zip": "11415",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -73.83097
+          }
+        },
+        {
+          "facility": "Local Institution - 0003",
+          "city": "Portland",
+          "state": "Oregon",
+          "zip": "97201",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 45.52345,
+            "lon": -122.67621
+          }
+        },
+        {
+          "facility": "Local Institution - 0005",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15213",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        },
+        {
+          "facility": "Local Institution - 0033",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77004",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Local Institution - 0004",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "Local Institution - 0006",
+          "city": "Norfolk",
+          "state": "Virginia",
+          "zip": "23502",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.84681,
+            "lon": -76.28522
+          }
+        },
+        {
+          "facility": "Local Institution - 0019",
+          "city": "Paris",
+          "zip": "75010",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Local Institution - 0040",
+          "city": "Romans-sur-Isère",
+          "zip": "26102",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.0496,
+            "lon": 5.06602
+          }
+        },
+        {
+          "facility": "Local Institution - 0044",
+          "city": "Rouen",
+          "zip": "76031",
+          "country": "France",
+          "geoPoint": {
+            "lat": 49.44313,
+            "lon": 1.09932
+          }
+        },
+        {
+          "facility": "Local Institution - 0038",
+          "city": "Witten",
+          "state": "Deutschland",
+          "zip": "58454",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.44362,
+            "lon": 7.35258
+          }
+        },
+        {
+          "facility": "Local Institution - 0013",
+          "city": "Frankfurt am Main",
+          "state": "Hesse",
+          "zip": "60590",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.11552,
+            "lon": 8.68417
+          }
+        },
+        {
+          "facility": "Local Institution - 0048",
+          "city": "Hamburg",
+          "zip": "20246",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.55073,
+            "lon": 9.99302
+          }
+        },
+        {
+          "facility": "Local Institution - 0012",
+          "city": "Lübeck",
+          "zip": "23538",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.86893,
+            "lon": 10.68729
+          }
+        },
+        {
+          "facility": "Local Institution - 0011",
+          "city": "Mahlow",
+          "zip": "15831",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.36017,
+            "lon": 13.40954
+          }
+        },
+        {
+          "facility": "Local Institution - 0026",
+          "city": "Krakow",
+          "zip": "30438",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.06143,
+            "lon": 19.93658
+          }
+        },
+        {
+          "facility": "Local Institution - 0017",
+          "city": "Lodz",
+          "zip": "90-436",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.77058,
+            "lon": 19.47395
+          }
+        },
+        {
+          "facility": "Local Institution - 0014",
+          "city": "Rzeszów",
+          "zip": "35-055",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.04132,
+            "lon": 21.99901
+          }
+        },
+        {
+          "facility": "Local Institution - 0015",
+          "city": "Wroclaw",
+          "zip": "51-685",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.10286,
+            "lon": 17.03006
+          }
+        },
+        {
+          "facility": "Local Institution - 0031",
+          "city": "London",
+          "state": "Greater London",
+          "zip": "SE1 9RT",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        },
+        {
+          "facility": "Local Institution - 0045",
+          "city": "Salford",
+          "state": "Greater Manchester",
+          "zip": "M6 8HD",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.48771,
+            "lon": -2.29042
+          }
+        },
+        {
+          "facility": "Local Institution - 0039",
+          "city": "Southampton",
+          "state": "HAMPSHIRE",
+          "zip": "SO16 6DU",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 50.90395,
+            "lon": -1.40428
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "BMS Clinical Trial Information",
+          "url": "https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html"
+        },
+        {
+          "label": "BMS Clinical Trial Patient Recruiting",
+          "url": "http://www.BMSClinicalTrials.com"
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "154 randomized and treated",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Deucravacitinib",
+          "description": "Deucravacitinib 6 mg daily (QD)"
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo",
+          "description": "Placebo matching Deucravacitinib daily (QD)"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Placebo Controlled: Week 0 - 16",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "comment": "Randomized and treated",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "103"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "51"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "94"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "45"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "9"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "6"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Lack of Efficacy",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Other reasons",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Active Treatment: Week 16 - Week 52",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "comment": "All participants switched to open-label Deucravacitinib 6 mg QD through Week 52",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "94"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "45"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "80"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "39"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "14"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "6"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Lack of Efficacy",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Death",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Non-compliance with protocol",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Deucravacitinib",
+          "description": "Deucravacitinib 6 mg daily (QD)"
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo",
+          "description": "Placebo matching Deucravacitinib daily (QD)"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "103"
+            },
+            {
+              "groupId": "BG001",
+              "value": "51"
+            },
+            {
+              "groupId": "BG002",
+              "value": "154"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "42.8",
+                      "spread": "15.70"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "43.2",
+                      "spread": "13.08"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "42.9",
+                      "spread": "14.84"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "65"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "58"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "89"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "95"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "43"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "138"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "American Indian or Alaska Native",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Asian",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Black or African American",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Native Hawaiian or other pacific islander",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "White",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "93"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "47"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "140"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Other",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Participants With a Scalp-specific Physician Global Assessment Score of 0 or 1 (Ss-PGA 0/1) at Week 16",
+          "description": "ss-PGA 0/1 response as a percentage of participants with an ss-PGA score of 0 (clear) or 1 (almost clear) with at least a 2-point reduction from baseline at Week 16. Scalp lesions are evaluated in terms of clinical signs of redness, thickness, and scaliness and scored on the following 5-point ss-PGA scale: 0 = absence of disease, 1 = very mild disease, 2 = mild disease, 3 = moderate disease, 4 = severe disease.",
+          "populationDescription": "All randomized participants",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of responders",
+          "timeFrame": "Baseline and Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Deucravacitinib",
+              "description": "Deucravacitinib 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Placebo matching Deucravacitinib daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "103"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Full Analysis Set",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "48.5",
+                      "lowerLimit": "38.6",
+                      "upperLimit": "58.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "13.7",
+                      "lowerLimit": "5.7",
+                      "upperLimit": "26.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Patient sub-population (s-PGA ≥ 3)",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "96"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "47"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "50.0",
+                      "lowerLimit": "39.6",
+                      "upperLimit": "60.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "12.8",
+                      "lowerLimit": "4.8",
+                      "upperLimit": "25.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Full Analysis Set",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Cochran-Mantel-Haenszel",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "6.2",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "2.5",
+              "ciUpperLimit": "15.3",
+              "estimateComment": "Cochran-Mantel-Haenszel"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Patient sub-population (s-PGA ≥ 3)",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Cochran-Mantel-Haenszel",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "7.0",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "2.7",
+              "ciUpperLimit": "18.4",
+              "estimateComment": "Cochran-Mantel-Haenszel"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants With a Psoriasis Scalp Severity Index 90 (PSSI 90) at Week 16",
+          "description": "PSSI 90 response as a percentage of participants who achieve at least 90% improvement from baseline in the PSSI score at Week 16. PSSI assesses severity of scalp disease in participants with scalp involvement with a 5-point Likert-type scale on the clinical parameters of erythema, induration, and desquamation. The scores are summed and multiplied by an integer (0 to 6) that represents the area of affected scalp. The PSSI score ranges from 0 to 72 with higher scores indicating more severe symptoms.",
+          "populationDescription": "All randomized participants",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of responders",
+          "timeFrame": "Baseline and Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Deucravacitinib",
+              "description": "Deucravacitinib 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "placebo matching Deucravacitinib daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "103"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Full Analysis Set",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "38.8",
+                      "lowerLimit": "29.4",
+                      "upperLimit": "48.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.0",
+                      "lowerLimit": "NA",
+                      "upperLimit": "10.4",
+                      "comment": "Insufficient number of participants with events. Lower limit value is \"\\< 0.1\""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Patient sub-population (s-PGA ≥ 3)",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "96"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "47"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "40.6",
+                      "lowerLimit": "30.7",
+                      "upperLimit": "51.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.1",
+                      "lowerLimit": "NA",
+                      "upperLimit": "11.3",
+                      "comment": "Insufficient number of participants with events. Lower limit value is \"\\< 0.1\""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Full Analysis Set",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Cochran-Mantel-Haenszel",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "40.2",
+              "ciPctValue": "95",
+              "ciLowerLimit": "4.6",
+              "ciUpperLimit": "352.0",
+              "estimateComment": "Cochran-Mantel-Haenszel"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Patient sub-population (s-PGA ≥ 3)",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Cochran-Mantel-Haenszel",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "37.3",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "4.4",
+              "ciUpperLimit": "317.6",
+              "estimateComment": "Cochran-Mantel-Haenszel"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Scalp-specific Itch Numerical Rating Scale (NRS) Score at Week 16",
+          "description": "Change from baseline in scalp-specific itch numerical rating scale (NRS) score at week 16. The scalp-specific itch NRS is an 11-point horizontal scale anchored at 0 and 10 with 0 representing \"no scalp itch\" and 10 representing \"worst scalp itch imaginable.\". Overall severity of a participant's itching from scalp psoriasis is indicated by selecting the number that best describes the worst level of scalp itching within the past 24 hours.",
+          "populationDescription": "All randomized participants",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Score on a scale",
+          "timeFrame": "Baseline and Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Deucravacitinib",
+              "description": "Deucravacitinib 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Placebo matching Deucravacitinib daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "103"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Full Analysis Set",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-3.2",
+                      "spread": "2.95"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-0.7",
+                      "spread": "2.27"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Patient sub-population (s-PGA ≥ 3)",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "96"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "47"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-3.3",
+                      "spread": "2.87"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-0.9",
+                      "spread": "2.29"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Full Analysis Set",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "analysis of covariance model",
+              "paramType": "Adjusted mean difference",
+              "paramValue": "-2.5",
+              "ciPctValue": "95",
+              "ciLowerLimit": "-3.3",
+              "ciUpperLimit": "-1.6",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "0.42",
+              "estimateComment": "analysis of covariance model"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Patient sub-population (s-PGA ≥ 3)",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "analysis of covariance model",
+              "paramType": "Adjusted mean difference",
+              "paramValue": "-2.4",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-3.3",
+              "ciUpperLimit": "-1.5",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "0.44",
+              "estimateComment": "analysis of covariance model"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants With a Static Physician Global Assessment Score of 0 or 1 (s-PGA 0/1) at Week 16",
+          "description": "s-PGA 0/1 response as a percentage of participants with an s-PGA score of 0 (clear) or 1 (almost clear) with at least a 2-point reduction from baseline at Week 16. The s-PGA is a 5-point scale of an average assessment of all psoriatic lesions based on erythema, scale, and induration. The s-PGA measure determines psoriasis severity at a single point in time (without taking into account the baseline disease condition) as clear (0), almost clear (1), mild (2), moderate (3), or severe (4).",
+          "populationDescription": "All randomized participants with a s-PGA ≥ 3 at baseline",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of responders",
+          "timeFrame": "Baseline and Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Deucravacitinib",
+              "description": "Deucravacitinib 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Placebo matching Deucravacitinib daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "96"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "47"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "51.0",
+                      "lowerLimit": "40.6",
+                      "upperLimit": "61.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.3",
+                      "lowerLimit": "0.5",
+                      "upperLimit": "14.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Cochran-Mantel-Haenszel",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "23.9",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "5.4",
+              "ciUpperLimit": "105.6",
+              "estimateComment": "Cochran-Mantel-Haenszel"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Experiencing Treatment Emergent Adverse Events (TEAEs)",
+          "description": "An Adverse Event (AE) is defined as any new untoward medical occurrence or worsening of a pre-existing medical condition in a clinical investigation participant administered study treatment that does not necessarily have a causal relation with this treatment.",
+          "populationDescription": "All treated participants",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From week 0 through week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Deucravacitinib",
+              "description": "Deucravacitinib 6 mg daily (QD)."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Placebo matching Deucravacitinib daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "103"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "73"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "26"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Experiencing Serious Treatment Emergent Adverse Events (TEAEs)",
+          "description": "A Serious Adverse Event (SAE) is defined as any untoward medical occurrence that, at any dose results in death, is life-threatening, requires inpatient hospitalization or causes prolongation of existing hospitalization.",
+          "populationDescription": "All treated participants",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From week 0 through week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Deucravacitinib",
+              "description": "Deucravacitinib 6 mg daily (QD)."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Placebo matching Deucravacitinib daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "103"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Experiencing Laboratory Test Results of Worst Toxicity Grade",
+          "description": "Laboratory test results summary of Worst toxicity grade in SI units for hematology and chemistry using the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. Grade 1= mild and asymptomatic; Grade 2= moderate requiring minimal, local or noninvasive intervention; Grade 3= severe or medically significant but not immediately life-threatening; Grade 4= events are usually severe enough to require hospitalization.",
+          "populationDescription": "All treated participants with baseline and post-baseline laboratory assessments",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Week 0 through Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Deucravacitinib",
+              "description": "Deucravacitinib 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Placebo matching Deucravacitinib daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "103"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Basophils (10^9/L) Grade 1-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Eosinophils (10^9/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Eosinophils (10^9/L) Grade 2-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hemoglobin (g/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hemoglobin (g/L) Grade 2",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hemoglobin (g/L) Grade 3",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Leukocytes (10^9/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Leukocytes (10^9/L) Grade 2",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Leukocytes (10^9/L) Grade 3-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Lymphocytes Blood Test (10^9/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Lymphocytes Blood Test (10^9/L) Grade 2",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Lymphocytes Blood Test (10^9/L) Grade 3-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Lymphocytes Plasma Test (10^9/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Lymphocytes Plasma Test (10^9/L) Grade 2",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Lymphocytes Plasma Test (10^9/L) Grade 3-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Neutrophils (x10^9/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Neutrophils (x10^9/L) Grade 2-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Platelets (10^9/L) Grade 1-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Alanine Aminotransferase (U/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Alanine Aminotransferase (U/L) Grade 2",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Alanine Aminotransferase (U/L) Grade 3-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Albumin (g/L) Grade 1-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Alkaline Phosphatase (U/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Alkaline Phosphatase (U/L) Grade 2-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Aspartate Aminotransferase (U/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Aspartate Aminotransferase (U/L) Grade 2-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Bilirubin (umol/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "102"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Bilirubin (umol/L) Grade 2",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "102"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Bilirubin (umol/L) Grade 3-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "102"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Calcium (mmol/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Calcium (mmol/L) Grade 2-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Chloride (mmol/L) Grade 1-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Cholesterol (mmol/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "48"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Cholesterol (mmol/L) Grade 2-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "48"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Creatine Kinase (U/L) Grade 1-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Creatinine (umol/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Creatinine (umol/L) Grade 2",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Creatinine (umol/L) Grade 3-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Direct Bilirubin (umol/L) Grade 1-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Glucose (mmol/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Glucose (mmol/L) Grade 2-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Lactate Dehydrogenase (U/L) Grade 1-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Magnesium (mmol/L) Grade 1-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Phosphate (mmol/L) Grade 1-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Potassium (mmol/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Potassium (mmol/L) Grade 2",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Potassium (mmol/L) Grade 3",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Potassium (mmol/L) Grade 4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Sodium (mmol/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Sodium (mmol/L) Grade 2",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Sodium (mmol/L) Grade 3-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Triglycerides (mmol/L) Grade 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "48"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "27"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Triglycerides (mmol/L) Grade 2",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "48"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Triglycerides (mmol/L) Grade 3",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "48"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Triglycerides (mmol/L) Grade 4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "48"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Urate (umol/L) Grade 1-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Urea Nitrogen (mmol/L) Grade 1-4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Experiencing Laboratory Abnormalities in Potential Drug-Induced Liver Injury Tests",
+          "description": "Number of participants with laboratory abnormalities in potential drug-induced liver injury tests.\n\nALT=alanine aminotransferase AST=aspartate aminotransferase ULN=upper limit of normal",
+          "populationDescription": "All treated participants",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Week 0 through Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Deucravacitinib",
+              "description": "Deucravacitinib 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Placebo matching Deucravacitinib daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "103"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "ALT or AST > 3 X ULN",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "ALT or AST > 5 X ULN",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Total Bilirubin > 2 X ULN",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "ALT or AST > 3 X ULN and total bilirubin > 2 X ULN on the same day",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Abnormalities in Vital Signs",
+          "description": "Number of participants with abnormalities in vital signs including heart rate, systolic blood pressure, and diastolic blood pressure.",
+          "populationDescription": "All treated participants",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Week 0 through Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Deucravacitinib",
+              "description": "Deucravacitinib 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Placebo matching Deucravacitinib daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "103"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "51"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "HEART RATE (BEATS/MIN): VALUE > 100 AND CHANGE FROM BASELINE > 30",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "HEART RATE (BEATS/MIN): VALUE < 55 AND CHANGE FROM BASELINE < -15",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "HEART RATE (BEATS/MIN): NOT REPORTED",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "SYSTOLIC BLOOD PRESSURE (MMHG): VALUE > 140 AND CHANGE FROM BASELINE > 20",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "SYSTOLIC BLOOD PRESSURE (MMHG): VALUE < 90 AND CHANGE FROM BASELINE < -20",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "SYSTOLIC BLOOD PRESSURE (MMHG): NOT REPORTED",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "DIASTOLIC BLOOD PRESSURE (MMHG): VALUE > 90 AND CHANGE FROM BASELINE > 10",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "DIASTOLIC BLOOD PRESSURE (MMHG): VALUE < 55 AND CHANGE FROM BASELINE < -10",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "DIASTOLIC BLOOD PRESSURE (MMHG): NOT REPORTED",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Participants were assessed for all-cause mortality from their first dose to their primary data cut-off (Up to 24 months). SAEs and Other AEs were assessed from first dose up to 30 days post last dose (Up to 13 months).",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Placebo Controlled - Deucravacitinib",
+          "description": "Deucravacitinib 6 mg daily (QD)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 103,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 103,
+          "otherNumAffected": 47,
+          "otherNumAtRisk": 103
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo Controlled - Placebo",
+          "description": "Placebo matching Deucravacitinib daily (QD)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 51,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 51,
+          "otherNumAffected": 14,
+          "otherNumAtRisk": 51
+        },
+        {
+          "id": "EG002",
+          "title": "Active Treatment - Deucravacitinib - Deucravacitinib",
+          "description": "Deucravacitinib 6 mg daily (QD)",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 94,
+          "seriousNumAffected": 4,
+          "seriousNumAtRisk": 94,
+          "otherNumAffected": 42,
+          "otherNumAtRisk": 94
+        },
+        {
+          "id": "EG003",
+          "title": "Active Treatment - Placebo - Deucravacitinib",
+          "description": "Deucravacitinib 6 mg daily (QD)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 45,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 45,
+          "otherNumAffected": 16,
+          "otherNumAtRisk": 45
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Atrial fibrillation",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 103
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 51
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 94
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 0,
+              "numAtRisk": 45
+            }
+          ]
+        },
+        {
+          "term": "Myocardial infarction",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 103
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 51
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 94
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 0,
+              "numAtRisk": 45
+            }
+          ]
+        },
+        {
+          "term": "Meniscus injury",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 103
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 51
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 94
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 0,
+              "numAtRisk": 45
+            }
+          ]
+        },
+        {
+          "term": "Ligament disorder",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 103
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 51
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 94
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 0,
+              "numAtRisk": 45
+            }
+          ]
+        },
+        {
+          "term": "Colorectal adenocarcinoma",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 103
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 51
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 94
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 0,
+              "numAtRisk": 45
+            }
+          ]
+        },
+        {
+          "term": "Pulmonary embolism",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 103
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 51
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 94
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 0,
+              "numAtRisk": 45
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Acne pustular",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 103
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 51
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 3,
+              "numAtRisk": 94
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 0,
+              "numAtRisk": 45
+            }
+          ]
+        },
+        {
+          "term": "COVID-19",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 103
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 4,
+              "numAtRisk": 51
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 12,
+              "numAtRisk": 94
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 4,
+              "numAtRisk": 45
+            }
+          ]
+        },
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 16,
+              "numAtRisk": 103
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 7,
+              "numAtRisk": 51
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 22,
+              "numAtRisk": 94
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 8,
+              "numAtRisk": 45
+            }
+          ]
+        },
+        {
+          "term": "Upper respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 12,
+              "numAtRisk": 103
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 51
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 11,
+              "numAtRisk": 94
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 3,
+              "numAtRisk": 45
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 103
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 51
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 2,
+              "numAtRisk": 94
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 1,
+              "numAtRisk": 45
+            }
+          ]
+        },
+        {
+          "term": "Acne",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 10,
+              "numAtRisk": 103
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 51
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 94
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 1,
+              "numAtRisk": 45
+            }
+          ]
+        },
+        {
+          "term": "Psoriasis",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 103
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 51
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 4,
+              "numAtRisk": 94
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 0,
+              "numAtRisk": 45
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "Bristol-Myers Squibb Co. agreements with investigators vary; constant is our right to embargo communications regarding trial results prior to public release for a period ≤60 days from submittal for review. We will not prohibit investigators from publishing but will prohibit the disclosure of previously undisclosed confidential information other than study results, and request postponement of single-center publications until after disclosure of the clinical trial's primary publication."
+      },
+      "pointOfContact": {
+        "title": "Bristol-Myers Squibb Study Director",
+        "organization": "Bristol-Myers Squibb",
+        "email": "Clinical.Trials@bms.com",
+        "phone": "Please Email"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-05-23",
+          "uploadDate": "2025-01-10T11:09",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 1445655
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-02-04",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D011565",
+          "term": "Psoriasis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017444",
+          "term": "Skin Diseases, Papulosquamous"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000628674",
+          "term": "deucravacitinib"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

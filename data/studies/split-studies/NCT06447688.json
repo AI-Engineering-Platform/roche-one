@@ -1,0 +1,953 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06447688",
+      "orgStudyIdInfo": {
+        "id": "MLP-SSURAL-001"
+      },
+      "organization": {
+        "fullName": "Mersin Medicalpark Hastanesi",
+        "class": "OTHER"
+      },
+      "briefTitle": "The Role of Verapamil in Radial Artery Spasm",
+      "officialTitle": "The Role of Oral Verapamil in Preventing Radial Spasm During Transradial Angiography"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-06-05",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-11-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-11-15",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-05-31",
+      "studyFirstSubmitQcDate": "2024-06-05",
+      "studyFirstPostDateStruct": {
+        "date": "2024-06-07",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-08-29",
+      "resultsFirstSubmitQcDate": "2025-09-18",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-10-10",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-09-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-10-10",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Sefa Sural",
+        "investigatorTitle": "MEDICAL DOKTOR( Principal investigator)",
+        "investigatorAffiliation": "Mersin Medicalpark Hastanesi"
+      },
+      "leadSponsor": {
+        "name": "Mersin Medicalpark Hastanesi",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Coronary angiography (CAG) is an invasive imaging method performed to determine the degree of coronary artery disease. Radial artery spasm (RAS) is one of the most common complications during coronary angiography performed via the transradial approach, causing patient discomfort or sometimes interrupting the procedure. There are many studies on RAS, and various pharmacoagents administered intravenously (intraarterial) to prevent RAS have been described. However, there is limited data in the literature regarding oral pharmacoagents that will prevent this complication. In our study, the preventive effect of Verapamil, given orally 2 hours before coronary angiography, on radial artery spasm will be investigated.",
+      "detailedDescription": "Transradial access (TRA) has emerged as the preferred modality for vascular access in coronary interventions worldwide, prompting growing interest in its potential applications across other interventional specialties, especially in neurovascular procedures. Radial artery spasm (RAS) remains the most common complication of TRA, often causing procedural difficulties, patient discomfort, and an increased risk of access site crossover. The incidence of radial artery spasm reported in the literature varies widely, with estimates ranging from 4% to over 51.3%, influenced by factors such as definitions, patient selection, and the operator's experience.\n\nAfter puncturing the radial artery (Puncture-induced RAS) and inserting the sheath-but before administering intra-arterial spasmolytics-local discomfort and pain may trigger a sympathetic vasoconstrictive response, potentially leading to the onset of RAS.\n\nA previous study has stated that preventing RAS is more effective than treating it after it has been established. In this context, we will conduct a randomized controlled trial to evaluate the efficacy of 120 mg of oral verapamil administered two hours before radial artery puncture in reducing the incidence of radial artery spasm (RAS)"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Radial Artery Spasm"
+      ],
+      "keywords": [
+        "radial artery spasm, verapamil, transradial access"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 150,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "No other vasodilating drug such as nitrate will be given intravenously",
+          "interventionNames": [
+            "Drug: Verapamil"
+          ]
+        },
+        {
+          "label": "Verapamil",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Verapamil will be given orally at least 2 hours before angiography",
+          "interventionNames": [
+            "Drug: Verapamil"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Verapamil",
+          "description": "Prevent",
+          "armGroupLabels": [
+            "Placebo",
+            "Verapamil"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants With Clinical Radial Artery Spasm (RAS)",
+          "description": "Clinical RAS defined as presence of at least 2 of the following: (1) forearm pain ≥ 4/10, (2) pain during catheter manipulation, (3) catheter movement restriction, (4) pain during sheath removal, (5) difficulty in sheath removal.",
+          "timeFrame": "During the coronary angiography procedure (up to 2 hours from sheath insertion)"
+        },
+        {
+          "measure": "Number of Participants With Ultrasonographically Confirmed Radial Artery Spasm (Ultrasonographic RAS)",
+          "description": "Radial artery spasm (RAS) was defined as luminal narrowing of ≥50% as measured by ultrasonography at the access site.",
+          "timeFrame": "During the procedure, immediately after catheterization (within 2 hours)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Participants With Procedural Success",
+          "description": "Procedure success was defined as completing coronary angiography or PCI using the initial radial artery approach without requiring a switch to an alternative access site.",
+          "timeFrame": "During the procedure (from sheath insertion to procedure completion)"
+        },
+        {
+          "measure": "Mean Volume of Contrast Media Used (mL) (mL)",
+          "description": "The volume of contrast media (in ml) used was recorded",
+          "timeFrame": "During the procedure (from sheath insertion to procedure completion)"
+        },
+        {
+          "measure": "Mean of the Dose Area Product (DAP)",
+          "description": "The parameters collected for radiation exposure included the DAP",
+          "timeFrame": "During the procedure (from sheath insertion to procedure completion)"
+        },
+        {
+          "measure": "Mean of the Fluoroscopy Time",
+          "description": "The parameters collected for radiation exposure included the fluoroscopy time (in minutes)",
+          "timeFrame": "During the procedure (from sheath insertion to procedure completion)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients who undergo daily coronary angiography\n* Whose Allen test is normal.\n* Must be able to swallow tablets\n\nExclusion Criteria:\n\n* Allen test results are distorted,\n* No pulse in the radial artery,\n* Patients who have previously undergone radial angiography and whose hemodynamics are compromised will be excluded from the study.\n* Patients with known contraindications to verapamil (significant aortic stenosis, heart rate \\<50/min, high-grade atrioventricular block, myocardial infarction) complicated with cardiogenic shock, or left ventricular ejection fraction \\<35%).",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "20 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Sefa Sural, MD",
+          "affiliation": "Istinye University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "VM Medicalpark",
+          "city": "Mersin",
+          "zip": "33010",
+          "country": "Turkey (Türkiye)",
+          "geoPoint": {
+            "lat": 36.81196,
+            "lon": 34.63886
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "40485154",
+          "type": "RESULT",
+          "citation": "Sural S, Dogen ME, Duzel B, Karaca O, Brilakis ES, Gorgulu S. The Role of Oral Verapamil in Preventing Radial Spasm During Transradial Angiography. Catheter Cardiovasc Interv. 2025 Aug;106(2):1247-1254. doi: 10.1002/ccd.31675. Epub 2025 Jun 8."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "Journal publication of study results",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40485154/"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "No pre-assignment washout or run-in period was required. All eligible participants were randomized immediately after enrollment.",
+      "recruitmentDetails": "All consecutive patients undergoing transradial coronary angiography between June-November 2024 at Medicalpark Hospital (Mersin, Turkey) were included. Exclusion criteria were abnormal Allen test, absent radial pulse, prior radial access, hemodynamic instability, or contraindications to verapamil (e.g., severe AS, HR \\<50, high-grade AV block, cardiogenic shock, EF \\<35%).",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Placebo",
+          "description": "Participants did not receive any prophylactic medication to prevent radial artery spasm and underwent standard transradial coronary angiography."
+        },
+        {
+          "id": "FG001",
+          "title": "Verapamil",
+          "description": "Participants in this arm received a single oral dose of verapamil (120 mg) prior to the transradial coronary angiography procedure as prophylaxis against radial artery spasm."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "75"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "75"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "75"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "75"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "All randomized participants were included in the analysis",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Placebo",
+          "description": "Participants did not receive any prophylactic medication to prevent radial artery spasm and underwent standard transradial coronary angiography."
+        },
+        {
+          "id": "BG001",
+          "title": "Verapamil",
+          "description": "Participants received a single oral dose of verapamil (120 mg) approximately 2 hours before transradial coronary angiography as prophylaxis against radial artery spasm."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "75"
+            },
+            {
+              "groupId": "BG001",
+              "value": "75"
+            },
+            {
+              "groupId": "BG002",
+              "value": "150"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "150"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "58.1",
+                      "spread": "12.1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "59.4",
+                      "spread": "11.1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "58.8",
+                      "spread": "11.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "150"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "49"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "52"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "49"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "101"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Turkey",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "150"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "150"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Clinical Radial Artery Spasm (RAS)",
+          "description": "Clinical RAS defined as presence of at least 2 of the following: (1) forearm pain ≥ 4/10, (2) pain during catheter manipulation, (3) catheter movement restriction, (4) pain during sheath removal, (5) difficulty in sheath removal.",
+          "populationDescription": "All randomized participants were included in the analysis",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "During the coronary angiography procedure (up to 2 hours from sheath insertion)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants did not receive any prophylactic medication to prevent radial artery spasm and underwent standard transradial coronary angiography"
+            },
+            {
+              "id": "OG001",
+              "title": "Verapamil",
+              "description": "Participants received a single oral dose of verapamil (120 mg) approximately 2 hours before transradial coronary angiography as prophylaxis against radial artery spasm"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "75"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "75"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Ultrasonographically Confirmed Radial Artery Spasm (Ultrasonographic RAS)",
+          "description": "Radial artery spasm (RAS) was defined as luminal narrowing of ≥50% as measured by ultrasonography at the access site.",
+          "populationDescription": "All randomized participants were included in the analysis (75 in the placebo group and 75 in the oral verapamil group)",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "During the procedure, immediately after catheterization (within 2 hours)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants in this group did not receive any prophylactic medication to prevent radial artery spasm"
+            },
+            {
+              "id": "OG001",
+              "title": "Verapamil",
+              "description": "Participants received a single oral dose of verapamil (120 mg) approximately 2 hours before transradial coronary angiography as prophylaxis against radial artery spasm"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "75"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "75"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Procedural Success",
+          "description": "Procedure success was defined as completing coronary angiography or PCI using the initial radial artery approach without requiring a switch to an alternative access site.",
+          "populationDescription": "All randomized participants were included in the analysis",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "During the procedure (from sheath insertion to procedure completion)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants in this group did not receive any prophylactic medication to prevent radial artery spasm"
+            },
+            {
+              "id": "OG001",
+              "title": "Verapamil",
+              "description": "Participants received a single oral dose of verapamil (120 mg) approximately 2 hours before transradial coronary angiography as prophylaxis against radial artery spasm"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "75"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "75"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "75"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Volume of Contrast Media Used (mL) (mL)",
+          "description": "The volume of contrast media (in ml) used was recorded",
+          "populationDescription": "All randomized participants were included in the analysis",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Milliliters (mL)",
+          "timeFrame": "During the procedure (from sheath insertion to procedure completion)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants in this group did not receive any prophylactic medication to prevent radial artery spasm"
+            },
+            {
+              "id": "OG001",
+              "title": "Verapamil",
+              "description": "Participants received a single oral dose of verapamil (120 mg) approximately 2 hours before transradial coronary angiography as prophylaxis against radial artery spasm"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "75"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "75"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "133.8",
+                      "spread": "71.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "136.4",
+                      "spread": "78.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean of the Dose Area Product (DAP)",
+          "description": "The parameters collected for radiation exposure included the DAP",
+          "populationDescription": "All randomized participants were included in the analysis",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Gy·cm2",
+          "timeFrame": "During the procedure (from sheath insertion to procedure completion)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants in this group did not receive any prophylactic medication to prevent radial artery spasm"
+            },
+            {
+              "id": "OG001",
+              "title": "Verapamil",
+              "description": "Participants received a single oral dose of verapamil (120 mg) approximately 2 hours before transradial coronary angiography as prophylaxis against radial artery spasm"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "75"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "75"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "873.9",
+                      "spread": "732.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "878.8",
+                      "spread": "736.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean of the Fluoroscopy Time",
+          "description": "The parameters collected for radiation exposure included the fluoroscopy time (in minutes)",
+          "populationDescription": "All randomized participants were included in the analysis",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "minute",
+          "timeFrame": "During the procedure (from sheath insertion to procedure completion)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants in this group did not receive any prophylactic medication to prevent radial artery spasm"
+            },
+            {
+              "id": "OG001",
+              "title": "Verapamil",
+              "description": "Participants received a single oral dose of verapamil (120 mg) approximately 2 hours before transradial coronary angiography as prophylaxis against radial artery spasm"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "75"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "75"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7.9",
+                      "spread": "7.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.9",
+                      "spread": "5.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "From procedure initiation through hospital discharge (average 1 day)",
+      "description": "Adverse events were monitored from the initiation of the coronary angiography procedure through hospital discharge (average 1 day). No deaths, serious adverse events, or non-serious adverse events above the reporting threshold (5%) were observed in either group.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Placebo",
+          "description": "Participants in this group did not receive any prophylactic medication to prevent radial artery spasm. They underwent standard transradial coronary angiography without additional vasodilator treatment.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 75,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 75,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 75
+        },
+        {
+          "id": "EG001",
+          "title": "Verapamil",
+          "description": "Participants received a single oral dose of verapamil (120 mg) before the transradial coronary angiography procedure as prophylaxis against radial artery spasm.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 75,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 75,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 75
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Sefa SURAL",
+        "organization": "Medicalpark Hospital",
+        "email": "sesural@hotmail.com",
+        "phone": "+90 532 565 0160"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2022-10-24",
+          "uploadDate": "2025-09-18T17:02",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 214575
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D014700",
+          "term": "Verapamil"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010627",
+          "term": "Phenethylamines"
+        },
+        {
+          "id": "D005021",
+          "term": "Ethylamines"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

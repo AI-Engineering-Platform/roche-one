@@ -1,0 +1,1606 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04638829",
+      "orgStudyIdInfo": {
+        "id": "AVA-ITP-401"
+      },
+      "organization": {
+        "fullName": "Sobi, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Safety and Treatment Satisfaction in Adults With Chronic ITP After Switching to Avatrombopag From Eltrombopag or Romiplostim",
+      "officialTitle": "Prospective, Multi-center, Open-label Study Measuring Safety and Treatment Satisfaction in Adult Subjects With Chronic Immune Thrombocytopenia (ITP) After Switching to Avatrombopag From Eltrombopag or Romiplostim"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-12",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-03-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-01-03",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-01-03",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-11-11",
+      "studyFirstSubmitQcDate": "2020-11-19",
+      "studyFirstPostDateStruct": {
+        "date": "2020-11-20",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-12-20",
+      "resultsFirstSubmitQcDate": "2024-12-20",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-01-16",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-12-20",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-01-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Sobi, Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Evaluate the safety and tolerability of avatrombopag given for 90 days after stopping treatment with eltrombopag or romiplostim.",
+      "detailedDescription": "This Phase 4, prospective, multi-center, open-label study will evaluate safety, platelet count, and subject reported medication satisfaction in adult subjects with chronic ITP after switching to avatrombopag from eltrombopag or romiplostim. At least 100 subjects will be enrolled, 50 (±10) who have received eltrombopag and 50 (±10) who have received romiplostim for at least 90 days prior to study entry."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Immune Thrombocytopenia"
+      ],
+      "keywords": [
+        "ITP"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 60,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Avatrombopag",
+          "type": "OTHER",
+          "description": "Avatrombopag 20 mg oral tablet formulation for 90 days",
+          "interventionNames": [
+            "Drug: Avatrombopag Oral Tablet"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Avatrombopag Oral Tablet",
+          "description": "Avatrombopag 20 mg given daily for 90 days. Initial dose and dose adjustments will be determined by the physician along with the Doptelet prescribing information",
+          "armGroupLabels": [
+            "Avatrombopag"
+          ],
+          "otherNames": [
+            "Doptelet"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Safety and Tolerability (Adverse Events)",
+          "description": "Safety and Tolerability of Avatrombopag given for 90 days after stopping eltrombopag or romiplostim\n\nThe incidence and severity of adverse events (AEs), serious adverse events (SAE) and adverse events of special interest (AESIs) will be summarized for all enrolled subjects using counts and percentages. Treatment-emergent AEs and SAEs will be summarized overall, by system organ class, and by preferred term. AESIs will be summarized by event type (thromboembolic events and bleeding events). In addition, treatment-emergent AEs will be summarized by severity and by relationship to study drug.\n\nBleeding events reported during the study will be summarized by WHO grade.",
+          "timeFrame": "Screening through Day 90 or End of Study"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change From Baseline TSQM Convenience Domain Score",
+          "description": "Evaluate the change in subject reported outcomes (TSQM - Treatment Satisfaction Questionnaire for Medication) from Baseline. Convenience domain score ranges from 0 to 100, and a higher score indicates a better outcome. Mean Difference was computed as Day 90 minus Baseline and, therefore, a positive mean difference indicates an increase in the score from Baseline to Day 90.",
+          "timeFrame": "Day 90"
+        },
+        {
+          "measure": "Change From Baseline TSQM Side Effects Domain Score",
+          "description": "Evaluate the change in subject reported outcomes (TSQM - Treatment Satisfaction Questionnaire for Medication) from Baseline. Side Effects domain score ranges from 0 to 100, and a higher score indicates a better outcome. Mean Difference was computed as Day 90 minus Baseline and, therefore, a positive mean difference indicates an increase in the score from Baseline to Day 90.",
+          "timeFrame": "Day 90"
+        },
+        {
+          "measure": "Change From Baseline TSQM Effectiveness Domain Score",
+          "description": "Evaluate the change in subject reported outcomes (TSQM - Treatment Satisfaction Questionnaire for Medication) from Baseline. Effectiveness domain score ranges from 0 to 100, and a higher score indicates a better outcome. Mean Difference was computed as Day 90 minus Baseline and, therefore, a positive mean difference indicates an increase in the score from Baseline to Day 90.",
+          "timeFrame": "Day 90"
+        },
+        {
+          "measure": "Change From Baseline TSQM Global Satisfaction Domain Score",
+          "description": "Evaluate the change in subject reported outcomes (TSQM - Treatment Satisfaction Questionnaire for Medication) from Baseline. Global Satisfaction domain score ranges from 0 to 100, and a higher score indicates a better outcome. Mean Difference was computed as Day 90 minus Baseline and, therefore, a positive mean difference indicates an increase in the score from Baseline to Day 90.",
+          "timeFrame": "Day 90"
+        },
+        {
+          "measure": "Proportion of Subjects Who Have a Platelet Count Between ≥50×10^9/L to ≤200×10^9/L",
+          "timeFrame": "Day 15"
+        },
+        {
+          "measure": "Proportion of Subjects Who Have a Platelet Count Between ≥50×10^9/L to ≤200×10^9/L",
+          "timeFrame": "Day 30"
+        },
+        {
+          "measure": "Proportion of Subjects Who Have a Platelet Count Between ≥50×10^9/L to ≤200×10^9/L",
+          "timeFrame": "Day 60"
+        },
+        {
+          "measure": "Proportion of Subjects Who Have a Platelet Count Between ≥50×10^9/L to ≤200×10^9/L",
+          "timeFrame": "Day 90"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Subject has been undergoing treatment for primary ITP with eltrombopag or romiplostim for at least 90 days prior to the Screening Visit/Visit 1.\n* Subject has had a previous response (at any time) to either eltrombopag or romiplostim, defined as at least 2 platelet counts ≥50×10⁹/L. Subject is willing and able to comply with all aspects of the protocol, including completing the self-administered Treatment Satisfaction Medication Questionnaire (TSQM).\n\nExclusion Criteria:\n\n* Subject is currently receiving chemotherapy or radiation for any form of cancer.\n* Subject with conditions that are likely to prevent them from accurately and reliably completing study assessments, including evidence of moderate to severe dementia, and/or severe and progressive medical illness, as determined by the Investigator.\n* Any previous avatrombopag use.\n* Previous participation in this study; a subject may not re-enroll after prior discontinuation or completion.\n* Enrollment in another clinical study with any investigational drug or device within 30 days of Baseline (or 5 half-lives, whichever is longer); however, participation in observational studies within the previous 30 days is permitted.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Sobi Site 110",
+          "city": "Tucson",
+          "state": "Arizona",
+          "zip": "85745",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.22174,
+            "lon": -110.92648
+          }
+        },
+        {
+          "facility": "Sobi Site 119",
+          "city": "Whittier",
+          "state": "California",
+          "zip": "90603",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.97918,
+            "lon": -118.03284
+          }
+        },
+        {
+          "facility": "Sobi Site 123",
+          "city": "Washington D.C.",
+          "state": "District of Columbia",
+          "zip": "20010",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.89511,
+            "lon": -77.03637
+          }
+        },
+        {
+          "facility": "Sobi Site 129",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33143",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "Sobi Site 120",
+          "city": "Ocala",
+          "state": "Florida",
+          "zip": "34474",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.1872,
+            "lon": -82.14009
+          }
+        },
+        {
+          "facility": "Sobi Site 125",
+          "city": "St. Petersburg",
+          "state": "Florida",
+          "zip": "33709",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.77086,
+            "lon": -82.67927
+          }
+        },
+        {
+          "facility": "Sobi Site 118",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33606",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Sobi Site 126",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60612",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "Sobi Site 109",
+          "city": "Peoria",
+          "state": "Illinois",
+          "zip": "61614",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.69365,
+            "lon": -89.58899
+          }
+        },
+        {
+          "facility": "Sobi Site 124",
+          "city": "New Orleans",
+          "state": "Louisiana",
+          "zip": "70112",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.95465,
+            "lon": -90.07507
+          }
+        },
+        {
+          "facility": "Sobi Site 101",
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20817",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.98067,
+            "lon": -77.10026
+          }
+        },
+        {
+          "facility": "Sobi Site 103",
+          "city": "Lincoln",
+          "state": "Nebraska",
+          "zip": "68506",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.8,
+            "lon": -96.66696
+          }
+        },
+        {
+          "facility": "Sobi Site 121",
+          "city": "Chapel Hill",
+          "state": "North Carolina",
+          "zip": "27514",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.9132,
+            "lon": -79.05584
+          }
+        },
+        {
+          "facility": "Sobi Site 116",
+          "city": "Greenville",
+          "state": "North Carolina",
+          "zip": "27834",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.61266,
+            "lon": -77.36635
+          }
+        },
+        {
+          "facility": "Sobi Site 128",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44106",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.4995,
+            "lon": -81.69541
+          }
+        },
+        {
+          "facility": "Sobi Site 127",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95238,
+            "lon": -75.16362
+          }
+        },
+        {
+          "facility": "Sobi Site 102",
+          "city": "York",
+          "state": "Pennsylvania",
+          "zip": "17403",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.9626,
+            "lon": -76.72774
+          }
+        },
+        {
+          "facility": "Sobi Site 104",
+          "city": "Rock Hill",
+          "state": "South Carolina",
+          "zip": "29732",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.92487,
+            "lon": -81.02508
+          }
+        },
+        {
+          "facility": "Sobi Site 113",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75246",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.78306,
+            "lon": -96.80667
+          }
+        },
+        {
+          "facility": "Sobi Site 108",
+          "city": "Salt Lake City",
+          "state": "Utah",
+          "zip": "84132",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.76078,
+            "lon": -111.89105
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "40101243",
+          "type": "DERIVED",
+          "citation": "Tarantino MD, Mosalpuria K, Kolodny S, Zhang J, Vredenburg M, Jamieson BD. Safety, efficacy, and treatment satisfaction in adults with ITP who switched to avatrombopag from another TPO-RA. Blood Adv. 2025 Jun 10;9(11):2733-2743. doi: 10.1182/bloodadvances.2024015635."
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Avatrombopag",
+          "description": "Avatrombopag 20 mg oral tablet formulation for 90 days\n\nAvatrombopag Oral Tablet: Avatrombopag 20 mg given daily for 90 days. Initial dose and dose adjustments will be determined by the physician along with the Doptelet prescribing information"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "60"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "57"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Avatrombopag",
+          "description": "Avatrombopag 20 mg oral tablet formulation for 90 days\n\nAvatrombopag Oral Tablet: Avatrombopag 20 mg given daily for 90 days. Initial dose and dose adjustments will be determined by the physician along with the Doptelet prescribing information"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "60"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "58.0",
+                      "spread": "21.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "37"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "46"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "43"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Safety and Tolerability (Adverse Events)",
+          "description": "Safety and Tolerability of Avatrombopag given for 90 days after stopping eltrombopag or romiplostim\n\nThe incidence and severity of adverse events (AEs), serious adverse events (SAE) and adverse events of special interest (AESIs) will be summarized for all enrolled subjects using counts and percentages. Treatment-emergent AEs and SAEs will be summarized overall, by system organ class, and by preferred term. AESIs will be summarized by event type (thromboembolic events and bleeding events). In addition, treatment-emergent AEs will be summarized by severity and by relationship to study drug.\n\nBleeding events reported during the study will be summarized by WHO grade.",
+          "populationDescription": "All enrolled subjects.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Screening through Day 90 or End of Study",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Avatrombopag",
+              "description": "Avatrombopag 20 mg oral tablet formulation for 90 days\n\nAvatrombopag Oral Tablet: Avatrombopag 20 mg given daily for 90 days. Initial dose and dose adjustments will be determined by the physician along with the Doptelet prescribing information"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "TEAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "35"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "SAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "AESIs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Related TEAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "15"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Severe TEAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "TEAEs leading to study drug discontinuation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline TSQM Convenience Domain Score",
+          "description": "Evaluate the change in subject reported outcomes (TSQM - Treatment Satisfaction Questionnaire for Medication) from Baseline. Convenience domain score ranges from 0 to 100, and a higher score indicates a better outcome. Mean Difference was computed as Day 90 minus Baseline and, therefore, a positive mean difference indicates an increase in the score from Baseline to Day 90.",
+          "populationDescription": "All enrolled subjects.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Mean difference in convenience score",
+          "timeFrame": "Day 90",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Avatrombopag",
+              "description": "Avatrombopag 20 mg oral tablet formulation for 90 days\n\nAvatrombopag Oral Tablet: Avatrombopag 20 mg given daily for 90 days. Initial dose and dose adjustments will be determined by the physician along with the Doptelet prescribing information"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13.5",
+                      "lowerLimit": "6.9",
+                      "upperLimit": "20.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.0001",
+              "statisticalMethod": "t-test, 2 sided"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline TSQM Side Effects Domain Score",
+          "description": "Evaluate the change in subject reported outcomes (TSQM - Treatment Satisfaction Questionnaire for Medication) from Baseline. Side Effects domain score ranges from 0 to 100, and a higher score indicates a better outcome. Mean Difference was computed as Day 90 minus Baseline and, therefore, a positive mean difference indicates an increase in the score from Baseline to Day 90.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Mean difference in side effects score",
+          "timeFrame": "Day 90",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Avatrombopag",
+              "description": "Avatrombopag 20 mg oral tablet formulation for 90 days\n\nAvatrombopag Oral Tablet: Avatrombopag 20 mg given daily for 90 days. Initial dose and dose adjustments will be determined by the physician along with the Doptelet prescribing information"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8.3",
+                      "lowerLimit": "2.1",
+                      "upperLimit": "14.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.0093",
+              "statisticalMethod": "t-test, 2 sided"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline TSQM Effectiveness Domain Score",
+          "description": "Evaluate the change in subject reported outcomes (TSQM - Treatment Satisfaction Questionnaire for Medication) from Baseline. Effectiveness domain score ranges from 0 to 100, and a higher score indicates a better outcome. Mean Difference was computed as Day 90 minus Baseline and, therefore, a positive mean difference indicates an increase in the score from Baseline to Day 90.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Mean difference in effectiveness score",
+          "timeFrame": "Day 90",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Avatrombopag",
+              "description": "Avatrombopag 20 mg oral tablet formulation for 90 days\n\nAvatrombopag Oral Tablet: Avatrombopag 20 mg given daily for 90 days. Initial dose and dose adjustments will be determined by the physician along with the Doptelet prescribing information"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14.4",
+                      "lowerLimit": "7.0",
+                      "upperLimit": "21.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.0003",
+              "statisticalMethod": "t-test, 2 sided"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline TSQM Global Satisfaction Domain Score",
+          "description": "Evaluate the change in subject reported outcomes (TSQM - Treatment Satisfaction Questionnaire for Medication) from Baseline. Global Satisfaction domain score ranges from 0 to 100, and a higher score indicates a better outcome. Mean Difference was computed as Day 90 minus Baseline and, therefore, a positive mean difference indicates an increase in the score from Baseline to Day 90.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Mean difference in global satisfaction",
+          "timeFrame": "Day 90",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Avatrombopag",
+              "description": "Avatrombopag 20 mg oral tablet formulation for 90 days\n\nAvatrombopag Oral Tablet: Avatrombopag 20 mg given daily for 90 days. Initial dose and dose adjustments will be determined by the physician along with the Doptelet prescribing information"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14.2",
+                      "lowerLimit": "8.8",
+                      "upperLimit": "19.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "<0.0001",
+              "statisticalMethod": "t-test, 2 sided"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Subjects Who Have a Platelet Count Between ≥50×10^9/L to ≤200×10^9/L",
+          "populationDescription": "All enrolled subjects.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Day 15",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Avatrombopag",
+              "description": "Avatrombopag 20 mg oral tablet formulation for 90 days\n\nAvatrombopag Oral Tablet: Avatrombopag 20 mg given daily for 90 days. Initial dose and dose adjustments will be determined by the physician along with the Doptelet prescribing information"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Subjects Who Have a Platelet Count Between ≥50×10^9/L to ≤200×10^9/L",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Avatrombopag",
+              "description": "Avatrombopag 20 mg oral tablet formulation for 90 days\n\nAvatrombopag Oral Tablet: Avatrombopag 20 mg given daily for 90 days. Initial dose and dose adjustments will be determined by the physician along with the Doptelet prescribing information"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "33"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Subjects Who Have a Platelet Count Between ≥50×10^9/L to ≤200×10^9/L",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Day 60",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Avatrombopag",
+              "description": "Avatrombopag 20 mg oral tablet formulation for 90 days\n\nAvatrombopag Oral Tablet: Avatrombopag 20 mg given daily for 90 days. Initial dose and dose adjustments will be determined by the physician along with the Doptelet prescribing information"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "36"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Subjects Who Have a Platelet Count Between ≥50×10^9/L to ≤200×10^9/L",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Day 90",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Avatrombopag",
+              "description": "Avatrombopag 20 mg oral tablet formulation for 90 days\n\nAvatrombopag Oral Tablet: Avatrombopag 20 mg given daily for 90 days. Initial dose and dose adjustments will be determined by the physician along with the Doptelet prescribing information"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "60"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "33"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "3",
+      "timeFrame": "90 days",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Avatrombopag",
+          "description": "Avatrombopag 20 mg oral tablet formulation for 90 days\n\nAvatrombopag Oral Tablet: Avatrombopag 20 mg given daily for 90 days. Initial dose and dose adjustments will be determined by the physician along with the Doptelet prescribing information",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 60,
+          "seriousNumAffected": 6,
+          "seriousNumAtRisk": 60,
+          "otherNumAffected": 34,
+          "otherNumAtRisk": 60
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Thrombocytopenia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Rectal Haemorrhage",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Sudden Death",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Osteoarthritis",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Nephrolithiasis",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 60
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 13,
+              "numAffected": 8,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Contusion",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 7,
+              "numAffected": 7,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Oedema Peripheral",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "COVID-19",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Dizziness",
+          "organSystem": "Ear and labyrinth disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Fatigue",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 3,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Peripheral Swelling",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Pain",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Fall",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Arthralgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Back Pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Pain in Extremity",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Cough",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 60
+            }
+          ]
+        },
+        {
+          "term": "Epistaxis",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 60
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "PIs are not allowed to publish clinical trial data on their own after trial completion."
+      },
+      "pointOfContact": {
+        "title": "Medicine Development Leader",
+        "organization": "Sobi,Inc.",
+        "email": "medinfo.us@sobi.com",
+        "phone": "1-781-786-7370"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2022-01-28",
+          "uploadDate": "2024-12-04T13:42",
+          "filename": "Prot_000.pdf",
+          "size": 503655
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-01-31",
+          "uploadDate": "2024-12-20T14:44",
+          "filename": "SAP_001.pdf",
+          "size": 546049
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016553",
+          "term": "Purpura, Thrombocytopenic, Idiopathic"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011696",
+          "term": "Purpura, Thrombocytopenic"
+        },
+        {
+          "id": "D011693",
+          "term": "Purpura"
+        },
+        {
+          "id": "D001778",
+          "term": "Blood Coagulation Disorders"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D057049",
+          "term": "Thrombotic Microangiopathies"
+        },
+        {
+          "id": "D013921",
+          "term": "Thrombocytopenia"
+        },
+        {
+          "id": "D001791",
+          "term": "Blood Platelet Disorders"
+        },
+        {
+          "id": "D000095542",
+          "term": "Cytopenia"
+        },
+        {
+          "id": "D006474",
+          "term": "Hemorrhagic Disorders"
+        },
+        {
+          "id": "D001327",
+          "term": "Autoimmune Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D006470",
+          "term": "Hemorrhage"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D012877",
+          "term": "Skin Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C533238",
+          "term": "avatrombopag"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,3193 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05033041",
+      "orgStudyIdInfo": {
+        "id": "STU00215570"
+      },
+      "organization": {
+        "fullName": "Northwestern University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Gastric Volumes by US in Term Parturients Undergoing CS With and Without Metoclopramide",
+      "officialTitle": "Comparison of Gastric Volumes by Gastric Ultrasound in Term Parturients Undergoing Scheduled Elective Cesarean Delivery With and Without Metoclopramide"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-08",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-10-20",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-01-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-02-08",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-08-27",
+      "studyFirstSubmitQcDate": "2021-08-27",
+      "studyFirstPostDateStruct": {
+        "date": "2021-09-02",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-02-26",
+      "resultsFirstSubmitQcDate": "2025-04-23",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-05-08",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-08-29",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-11",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Jennifer Banayan",
+        "investigatorTitle": "Principal Investigator",
+        "investigatorAffiliation": "Northwestern University"
+      },
+      "leadSponsor": {
+        "name": "Northwestern University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Our objective is to compare gastric volumes (mL) between women who receive metoclopramide versus placebo prior to scheduled cesarean delivery in appropriately fasted patients. If metoclopramide is found not to reduce gastric volumes this would inform future practice guidelines for obstetric anesthesia, which currently recommends metoclopramide administration prior to cesarean deliveries.\n\nWe hypothesize that metoclopramide given to women with appropriate fasting prior to cesarean delivery does not result in any clinically significant reduction in gastric volume (mL) and therefore does not provide any additional benefit for aspiration prophylaxis but may expose patients to unnecessary side effects. A secondary objective will be to evaluate if gastric volume is a significant predictor of intraoperative nausea and vomiting."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Pregnancy",
+        "Cesarean Section",
+        "Aspiration"
+      ],
+      "keywords": [
+        "Pregnancy",
+        "Gastric Volume",
+        "Ultrasound Measurement",
+        "Aspiration Prevention",
+        "Cesarean Section"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Randomized controlled blinded study",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "maskingDescription": "Research pharmacy to prepare the study medication blinding the participant, care providers, investigator and outcomes assessor.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 72,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Group 1 Study Drug Metoclopramide",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Intravenous administration of 10 mg metoclopramide",
+          "interventionNames": [
+            "Drug: Study drug metoclopramide"
+          ]
+        },
+        {
+          "label": "Group 2 Study Drug Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Intravenous administration of sterile normal saline",
+          "interventionNames": [
+            "Drug: Study drug placebo administration"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Study drug metoclopramide",
+          "description": "Intravenous administration of 10 mg metoclopramide",
+          "armGroupLabels": [
+            "Group 1 Study Drug Metoclopramide"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Study drug placebo administration",
+          "description": "Intravenous administration of placebo (sterile normal saline)",
+          "armGroupLabels": [
+            "Group 2 Study Drug Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in Gastric Volume (mL)",
+          "description": "Change in gastric volume (mL) determined by gastric ultrasound before and 30 minutes after administration of study drug. Gastric volumes were calculated from the cross sectional area (CSA) area using both the Perlas (Volume=27.0+14.6\\*(RLD CSA (cm2)-1.28 \\* age)) and the Roukhomovsky method (volume=(0.18\\*RLD CSA (mm2))+(0.11\\*SUP CSA (mm2)-62.4) methods.",
+          "timeFrame": "30 minutes after administration of study drug"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Subject Report of Nausea During Cesarean Section",
+          "description": "Subject reported intraoperative nausea during the cesarean delivery",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Adverse Events",
+          "description": "Number of reported adverse events experienced for each group.",
+          "timeFrame": "72 hours"
+        },
+        {
+          "measure": "Intraoperative Nausea Occurrences",
+          "description": "Number of nausea occurrences during cesarean section procedure",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Intraoperative Nausea Time From Intrathecal Anesthesia to Nausea Episode in Minutes",
+          "description": "Total elapsed time in minutes from the placement of the intrathecal medications by anesthesiology team to the first experience of nausea reported by the participant.",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Subject Experienced Vomiting During Cesarean Section",
+          "description": "Subject experienced vomiting episode during the cesarean delivery procedure.",
+          "timeFrame": "24 Hours"
+        },
+        {
+          "measure": "Number of Intraoperative Vomiting Occurrences",
+          "description": "Number of intraoperative vomiting occurrences during the cesarean section.",
+          "timeFrame": "24 Hours"
+        },
+        {
+          "measure": "Time From Intrathecal Anesthesia to Vomiting Episode in Minutes.",
+          "description": "The elapsed time in minutes from anesthesia team placing the intrathecal medications to the first episode of vomiting during.",
+          "timeFrame": "24 Hours"
+        },
+        {
+          "measure": "Antiemetic Prophylaxis",
+          "description": "Subject received antiemetic prophylaxis of ondansetron or dexamethasone prior to the cesarean section.",
+          "timeFrame": "24 Hours"
+        },
+        {
+          "measure": "PACU Antiemetic Treatment (n)",
+          "description": "Number of participants who required antiemetic medications in the post anesthesia care unit",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Nausea After PACU Discharge",
+          "description": "Number of participants who experienced nausea after being discharged from the post anesthesia care unit",
+          "timeFrame": "72 hours"
+        },
+        {
+          "measure": "Elapsed Time From Study Drug to Second Ultrasound",
+          "description": "Total elapsed time in minutes after study drug administered to second gastric ultrasound.",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Second Ultrasound Cross Sectional Area (cm^2)",
+          "description": "The cross sectional area in centimeters squared for the second gastric ultrasound which was performed 30 minutes after study medication administered",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Post Treatment Estimated Volume (mL) Second Ultrasound",
+          "description": "Gastric volume in milliliters of the second ultrasound obtained 30 minutes after study drug administration",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Second Ultrasound Volume >1.5 * Weight (kg)",
+          "description": "Number of subjects experiencing a volume greater than than 1.5 times weight in kilograms after the second gastric ultrasound 30 minutes after study medication administration.",
+          "timeFrame": "24 hours"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "First Ultrasound Stomach Cross-sectional Area (cm2)",
+          "description": "The first ultrasound of the stomach cross-sectional area in centimeters squared.",
+          "timeFrame": "After consent obtained"
+        },
+        {
+          "measure": "First Ultrasound Volume Greater Than 1.5 * Weight (kg)",
+          "description": "The first ultrasound calculated volume greater than 1.5 times weight in kilograms.",
+          "timeFrame": "After consent obtained"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Healthy (ASA Physical Status 2)\n* Age \\>18 years old\n* Non-obese (BMI \\<40 kg/m2)\n* Age \\>18 years\n* Term (\\>37 week)\n* Non-laboring parturient\n* Single gestation\n* Scheduled for a cesarean delivery and NPO\n\nExclusion Criteria:\n\n* Systemic disease such as diabetes mellitus (type 1 or 2)\n* Multiple gestation\n* Abnormality of upper GI tract\n* History of GI tract related surgical procedures\n* Use of gastric motility medications\n* Active labor\n* Renal impairment (creatinine \\>2)\n* Non-English speaking\n* Cognitively impaired\n* History of QT prolongation\n* Use of general anesthesia",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "genderBased": true,
+      "genderDescription": "Pregnant undergoing cesarean section.",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Jennifer Banayan, MD",
+          "affiliation": "Northwestern University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Northwestern Memorial Hospital and Prentice Women's Hospital",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60611",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "28045707",
+          "type": "BACKGROUND",
+          "citation": "Practice Guidelines for Preoperative Fasting and the Use of Pharmacologic Agents to Reduce the Risk of Pulmonary Aspiration: Application to Healthy Patients Undergoing Elective Procedures: An Updated Report by the American Society of Anesthesiologists Task Force on Preoperative Fasting and the Use of Pharmacologic Agents to Reduce the Risk of Pulmonary Aspiration. Anesthesiology. 2017 Mar;126(3):376-393. doi: 10.1097/ALN.0000000000001452. No abstract available."
+        },
+        {
+          "pmid": "20993766",
+          "type": "BACKGROUND",
+          "citation": "MENDELSON CL. The aspiration of stomach contents into the lungs during obstetric anesthesia. Am J Obstet Gynecol. 1946 Aug;52:191-205. doi: 10.1016/s0002-9378(16)39829-5. No abstract available."
+        },
+        {
+          "pmid": "26580836",
+          "type": "BACKGROUND",
+          "citation": "Practice Guidelines for Obstetric Anesthesia: An Updated Report by the American Society of Anesthesiologists Task Force on Obstetric Anesthesia and the Society for Obstetric Anesthesia and Perinatology. Anesthesiology. 2016 Feb;124(2):270-300. doi: 10.1097/ALN.0000000000000935. No abstract available."
+        },
+        {
+          "type": "BACKGROUND",
+          "citation": "4. Knight M, Bunch K, Tuffnell D, Shakespeare J, Kotnis R, Kenyon S, Kurinczuk JJ (Eds.) on behalf of MBRRACE-UK. Saving Lives, Improving Mothers' Care - Lessons learned to inform maternity care from the UK and Ireland Confidential Enquiries into Maternal Deaths and Morbidity 2016-18. Oxford: National Perinatal Epidemiology Unit, University of Oxford 2020."
+        },
+        {
+          "pmid": "26422744",
+          "type": "BACKGROUND",
+          "citation": "Leus M, van de Ven A. IMAGES IN CLINICAL MEDICINE. An Acute Dystonic Reaction after Treatment with Metoclopramide. N Engl J Med. 2015 Oct;373(14):e16. doi: 10.1056/NEJMicm1412207. No abstract available."
+        },
+        {
+          "pmid": "22307240",
+          "type": "BACKGROUND",
+          "citation": "Mishriky BM, Habib AS. Metoclopramide for nausea and vomiting prophylaxis during and after Caesarean delivery: a systematic review and meta-analysis. Br J Anaesth. 2012 Mar;108(3):374-83. doi: 10.1093/bja/aer509. Epub 2012 Feb 3."
+        },
+        {
+          "pmid": "20091567",
+          "type": "BACKGROUND",
+          "citation": "Paranjothy S, Griffiths JD, Broughton HK, Gyte GM, Brown HC, Thomas J. Interventions at caesarean section for reducing the risk of aspiration pneumonitis. Cochrane Database Syst Rev. 2010 Jan 20;(1):CD004943. doi: 10.1002/14651858.CD004943.pub3."
+        },
+        {
+          "pmid": "23302981",
+          "type": "BACKGROUND",
+          "citation": "Perlas A, Mitsakakis N, Liu L, Cino M, Haldipur N, Davis L, Cubillos J, Chan V. Validation of a mathematical model for ultrasound assessment of gastric volume by gastroscopic examination. Anesth Analg. 2013 Feb;116(2):357-63. doi: 10.1213/ANE.0b013e318274fc19. Epub 2013 Jan 9."
+        },
+        {
+          "pmid": "24893784",
+          "type": "BACKGROUND",
+          "citation": "Van de Putte P, Perlas A. Ultrasound assessment of gastric content and volume. Br J Anaesth. 2014 Jul;113(1):12-22. doi: 10.1093/bja/aeu151. Epub 2014 Jun 3."
+        },
+        {
+          "pmid": "26097988",
+          "type": "BACKGROUND",
+          "citation": "Arzola C, Perlas A, Siddiqui NT, Carvalho JCA. Bedside Gastric Ultrasonography in Term Pregnant Women Before Elective Cesarean Delivery: A Prospective Cohort Study. Anesth Analg. 2015 Sep;121(3):752-758. doi: 10.1213/ANE.0000000000000818."
+        },
+        {
+          "pmid": "29265187",
+          "type": "BACKGROUND",
+          "citation": "Arzola C, Perlas A, Siddiqui NT, Downey K, Ye XY, Carvalho JCA. Gastric ultrasound in the third trimester of pregnancy: a randomised controlled trial to develop a predictive model of volume assessment. Anaesthesia. 2018 Mar;73(3):295-303. doi: 10.1111/anae.14131. Epub 2017 Dec 19."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "recruitmentDetails": "72 Subjects were randomized to treatment.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Group 1 Study Drug Metoclopramide",
+          "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+        },
+        {
+          "id": "FG001",
+          "title": "Group 2 Study Drug Placebo",
+          "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "38"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "34"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "38"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "34"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Group 1 Study Drug Metoclopramide",
+          "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+        },
+        {
+          "id": "BG001",
+          "title": "Group 2 Study Drug Placebo",
+          "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "38"
+            },
+            {
+              "groupId": "BG001",
+              "value": "34"
+            },
+            {
+              "groupId": "BG002",
+              "value": "72"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "35",
+                      "lowerLimit": "33",
+                      "upperLimit": "38"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "35",
+                      "lowerLimit": "32",
+                      "upperLimit": "39"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "35",
+                      "lowerLimit": "32",
+                      "upperLimit": "39"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "38"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "72"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "68"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "38"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Weight (kg)",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "Kilograms",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "80.5",
+                      "lowerLimit": "73.3",
+                      "upperLimit": "86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "79.5",
+                      "lowerLimit": "73.3",
+                      "upperLimit": "86"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "80",
+                      "lowerLimit": "73.3",
+                      "upperLimit": "86"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Body Mass In kg/m^2",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "kg/m^2",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "29.8",
+                      "lowerLimit": "27.4",
+                      "upperLimit": "31.8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "29.6",
+                      "lowerLimit": "26.2",
+                      "upperLimit": "33.1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "29.7",
+                      "lowerLimit": "26.2",
+                      "upperLimit": "33.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Gestational age (weeks)",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "Weeks",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "39.1",
+                      "lowerLimit": "39",
+                      "upperLimit": "39.2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "39.1",
+                      "lowerLimit": "39",
+                      "upperLimit": "39.3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "39.1",
+                      "lowerLimit": "39",
+                      "upperLimit": "39.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Gravid (number of pregnancies)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Gravid 1",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Gravid 2",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "28"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Gravid 3",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Greater or equal to gravid 4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Parity",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "0",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "16"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "43"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Greater or equal to 3",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Prior cesarean deliveries",
+          "description": "Number of participants who have had a previous cesarean delivery.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "54"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Gastroesophageal reflux disease (GERD)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "With pregnancy",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "55"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Currently",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Hours since last solid ingestion (NPO)",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "Hours",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12.5",
+                      "lowerLimit": "7.5",
+                      "upperLimit": "13.7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12.9",
+                      "lowerLimit": "8.3",
+                      "upperLimit": "14.6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12.7",
+                      "lowerLimit": "7.5",
+                      "upperLimit": "14.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Time from last liquid ingestion (hours)",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "Hours",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3.3",
+                      "lowerLimit": "3",
+                      "upperLimit": "3.7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3.4",
+                      "lowerLimit": "3",
+                      "upperLimit": "4.4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3.3",
+                      "lowerLimit": "3",
+                      "upperLimit": "4.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pretreatment estimated gastric volume (mL)",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "Milliliters",
+          "classes": [
+            {
+              "title": "Perlas calculation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41",
+                      "lowerLimit": "32",
+                      "upperLimit": "53"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "43",
+                      "lowerLimit": "32",
+                      "upperLimit": "52"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "42",
+                      "lowerLimit": "32",
+                      "upperLimit": "53"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Roukhomovsky calculation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "53",
+                      "lowerLimit": "40",
+                      "upperLimit": "81"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "53",
+                      "lowerLimit": "40",
+                      "upperLimit": "75"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "53",
+                      "lowerLimit": "40",
+                      "upperLimit": "81"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change in Gastric Volume (mL)",
+          "description": "Change in gastric volume (mL) determined by gastric ultrasound before and 30 minutes after administration of study drug. Gastric volumes were calculated from the cross sectional area (CSA) area using both the Perlas (Volume=27.0+14.6\\*(RLD CSA (cm2)-1.28 \\* age)) and the Roukhomovsky method (volume=(0.18\\*RLD CSA (mm2))+(0.11\\*SUP CSA (mm2)-62.4) methods.",
+          "populationDescription": "One subject in the placebo group did not have a paired ultrasound (missing pre-treatment).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Milliliters",
+          "timeFrame": "30 minutes after administration of study drug",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "33"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Perlas method",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1",
+                      "lowerLimit": "-8",
+                      "upperLimit": "6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-2",
+                      "lowerLimit": "-7",
+                      "upperLimit": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Roukhomovsky formula",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "lowerLimit": "-10",
+                      "upperLimit": "9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1",
+                      "lowerLimit": "-6",
+                      "upperLimit": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Comparison of the means using two one-sided t tests (TOST)",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Equivalence is based on an equivalence hypothesis of -17mL \\<difference in differences \\< 17mL.",
+              "pValue": ".001",
+              "statisticalMethod": "t-test, 1 sided"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Subject Report of Nausea During Cesarean Section",
+          "description": "Subject reported intraoperative nausea during the cesarean delivery",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Adverse Events",
+          "description": "Number of reported adverse events experienced for each group.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "72 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Akathisia",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Extrapyramidal effect",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "High fever",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Muscle stiffness",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Depression",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Fluid retention",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hypoprolactinemia",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hypersensitivity reaction",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Blood cell changes",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hypernatremia",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Maternal resuscitation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Maternal hypertension",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Infant gastrointestinal disturbances",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Infant extrapyramidial effects",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Infant methemoglobinemia",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Intraoperative Nausea Occurrences",
+          "description": "Number of nausea occurrences during cesarean section procedure",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "Nausea occurrences",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1",
+                      "lowerLimit": "1",
+                      "upperLimit": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2",
+                      "lowerLimit": "1",
+                      "upperLimit": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Intraoperative Nausea Time From Intrathecal Anesthesia to Nausea Episode in Minutes",
+          "description": "Total elapsed time in minutes from the placement of the intrathecal medications by anesthesiology team to the first experience of nausea reported by the participant.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "Minutes",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "26",
+                      "lowerLimit": "4",
+                      "upperLimit": "51"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "20",
+                      "lowerLimit": "7",
+                      "upperLimit": "28"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Subject Experienced Vomiting During Cesarean Section",
+          "description": "Subject experienced vomiting episode during the cesarean delivery procedure.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "24 Hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Intraoperative Vomiting Occurrences",
+          "description": "Number of intraoperative vomiting occurrences during the cesarean section.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "Number of episodes",
+          "timeFrame": "24 Hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1",
+                      "lowerLimit": "1",
+                      "upperLimit": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1",
+                      "lowerLimit": "1",
+                      "upperLimit": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time From Intrathecal Anesthesia to Vomiting Episode in Minutes.",
+          "description": "The elapsed time in minutes from anesthesia team placing the intrathecal medications to the first episode of vomiting during.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "Minutes",
+          "timeFrame": "24 Hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "34",
+                      "lowerLimit": "8",
+                      "upperLimit": "34"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "26",
+                      "lowerLimit": "22",
+                      "upperLimit": "34"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Antiemetic Prophylaxis",
+          "description": "Subject received antiemetic prophylaxis of ondansetron or dexamethasone prior to the cesarean section.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "24 Hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Received ondansetron",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "32"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Received dexamethasone",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "32"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "PACU Antiemetic Treatment (n)",
+          "description": "Number of participants who required antiemetic medications in the post anesthesia care unit",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Nausea After PACU Discharge",
+          "description": "Number of participants who experienced nausea after being discharged from the post anesthesia care unit",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "72 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Elapsed Time From Study Drug to Second Ultrasound",
+          "description": "Total elapsed time in minutes after study drug administered to second gastric ultrasound.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Minutes",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "30",
+                      "spread": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "30",
+                      "spread": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Second Ultrasound Cross Sectional Area (cm^2)",
+          "description": "The cross sectional area in centimeters squared for the second gastric ultrasound which was performed 30 minutes after study medication administered",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "Centimeters",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Supine position",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.7",
+                      "lowerLimit": "3.1",
+                      "upperLimit": "4.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.5",
+                      "lowerLimit": "3.1",
+                      "upperLimit": "4.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Right lateral displacement position",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.0",
+                      "lowerLimit": "3.6",
+                      "upperLimit": "5.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4",
+                      "lowerLimit": "3.4",
+                      "upperLimit": "5.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Post Treatment Estimated Volume (mL) Second Ultrasound",
+          "description": "Gastric volume in milliliters of the second ultrasound obtained 30 minutes after study drug administration",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "Milliliters",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Perlas calculation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "43",
+                      "lowerLimit": "32",
+                      "upperLimit": "55"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "39",
+                      "lowerLimit": "32",
+                      "upperLimit": "59"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Roukhomovsky calculation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "55",
+                      "lowerLimit": "38",
+                      "upperLimit": "75"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "54",
+                      "lowerLimit": "36",
+                      "upperLimit": "72"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Second Ultrasound Volume >1.5 * Weight (kg)",
+          "description": "Number of subjects experiencing a volume greater than than 1.5 times weight in kilograms after the second gastric ultrasound 30 minutes after study medication administration.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Perlas calculation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Roukhomovsky calculation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "First Ultrasound Stomach Cross-sectional Area (cm2)",
+          "description": "The first ultrasound of the stomach cross-sectional area in centimeters squared.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "centimeters squared",
+          "timeFrame": "After consent obtained",
+          "typeUnitsAnalyzed": "Ultrasounds",
+          "denomUnitsSelected": "Ultrasounds",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            },
+            {
+              "units": "Ultrasounds",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Supine",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.8",
+                      "lowerLimit": "3.0",
+                      "upperLimit": "4.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.6",
+                      "lowerLimit": "3.3",
+                      "upperLimit": "4.4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Right lateral displacement",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.9",
+                      "lowerLimit": "3.3",
+                      "upperLimit": "4.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.1",
+                      "lowerLimit": "3.3",
+                      "upperLimit": "5.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "First Ultrasound Volume Greater Than 1.5 * Weight (kg)",
+          "description": "The first ultrasound calculated volume greater than 1.5 times weight in kilograms.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "After consent obtained",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Perlas calculation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Roukhomovsky calculation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "POST_HOC",
+          "title": "Neonatal Outcome APGAR Score",
+          "description": "Neonatal APGAR scores at 1 and 5 minutes (0-poor 10 good)",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "scores on a scale (0 poor-10 good)",
+          "timeFrame": "5 minutes after delivery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "1 Minute APGAR score",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8",
+                      "lowerLimit": "8",
+                      "upperLimit": "9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "8.5",
+                      "lowerLimit": "8",
+                      "upperLimit": "9"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "5 Minute APGAR score",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9",
+                      "lowerLimit": "9",
+                      "upperLimit": "9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9",
+                      "lowerLimit": "9",
+                      "upperLimit": "9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "POST_HOC",
+          "title": "Neonatal Outcomes Arterial Blood Gasses",
+          "description": "Neonatal arterial blood gas results obtained at delivery (pH).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "pH",
+          "timeFrame": "5 minutes after delivery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7.25",
+                      "lowerLimit": "7.22",
+                      "upperLimit": "7.29"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.25",
+                      "lowerLimit": "7.22",
+                      "upperLimit": "7.29"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "POST_HOC",
+          "title": "Neonatal Outcomes Venous Blood Gas",
+          "description": "Neonatal venous blood gas post delivery (pH)",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "pH",
+          "timeFrame": "5 minutes after delivery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7.30",
+                      "lowerLimit": "7.28",
+                      "upperLimit": "7.34"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.32",
+                      "lowerLimit": "7.29",
+                      "upperLimit": "7.34"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "POST_HOC",
+          "title": "Neonatal Outcomes: Neonatal Resuscitation",
+          "description": "Neonate required neonatal resuscitation required after cesarean section delivery",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "POST_HOC",
+          "title": "Neonatal Outcomes: NICU Admission",
+          "description": "Neonate admission to the newborn intensive care unit",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "POST_HOC",
+          "title": "Neonatal Outcomes Arterial Blood Gasses",
+          "description": "Neonatal arterial blood gas results obtained at delivery (O2 (mmHg), CO2 (mmHg).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "millimeters of mercury",
+          "timeFrame": "After delivery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Arterial blood gas 02 (mmHg)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "27",
+                      "lowerLimit": "19",
+                      "upperLimit": "60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "32",
+                      "lowerLimit": "21",
+                      "upperLimit": "62"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Arterial blood gas C02 (mmHg)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "57",
+                      "lowerLimit": "50",
+                      "upperLimit": "60"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "56",
+                      "lowerLimit": "47",
+                      "upperLimit": "61"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "POST_HOC",
+          "title": "Neonatal Outcomes Venous Blood Gas",
+          "description": "Neonatal venous blood gas post delivery including pH, O2 (mmHg), C02 (mmHg)",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "millimeters of mercury",
+          "timeFrame": "After delivery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group 1 Study Drug Metoclopramide",
+              "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide"
+            },
+            {
+              "id": "OG001",
+              "title": "Group 2 Study Drug Placebo",
+              "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Venous blood gas oxygen (mmHg)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "36",
+                      "lowerLimit": "27",
+                      "upperLimit": "49"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "41",
+                      "lowerLimit": "29",
+                      "upperLimit": "53"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Venous blood gas C02 (mmHg)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "44",
+                      "lowerLimit": "41",
+                      "upperLimit": "49"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "45",
+                      "lowerLimit": "42",
+                      "upperLimit": "48"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "1",
+      "timeFrame": "72 Hours",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Group 1 Study Drug Metoclopramide",
+          "description": "Intravenous administration of 10 mg metoclopramide\n\nStudy drug metoclopramide: Intravenous administration of 4 mg metoclopramide",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 38,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 38,
+          "otherNumAffected": 3,
+          "otherNumAtRisk": 38
+        },
+        {
+          "id": "EG001",
+          "title": "Group 2 Study Drug Placebo",
+          "description": "Intravenous administration of sterile normal saline\n\nStudy drug placebo administration: Intravenous administration of placebo (sterile normal saline)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 34,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 34,
+          "otherNumAffected": 6,
+          "otherNumAtRisk": 34
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (10.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 34
+            }
+          ]
+        },
+        {
+          "term": "Hypertension",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA (10.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Hypertension during hospitalization for delivery of baby",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 34
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "We recognize the potential limitations that some providers may still choose to administer metoclopramide to augment esophageal contractions despite its limited impact on esophageal junction compliance. While metoclopramide may help augment contractions, its use in fasted patients who are at low risk of gastric contents \\>1.5mL/kg is unlikely to significantly impact aspiration risk, making its benefit in this context less clear."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": true,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Paul C. Fitzgerald,RN,BSN,MS",
+        "organization": "Northwestern University",
+        "email": "p-fitzgerald2@northwestern.edu",
+        "phone": "312-695-1064"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2022-03-11",
+          "uploadDate": "2025-02-21T08:48",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 647029
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-03-25",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    }
+  },
+  "hasResults": true
+}

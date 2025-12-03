@@ -1,0 +1,510 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06329687",
+      "orgStudyIdInfo": {
+        "id": "OPP-010"
+      },
+      "organization": {
+        "fullName": "Oyster Point Pharma, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study Evaluating the Safety of the Nasal Pump",
+      "officialTitle": "A Phase 4, Single-Center, Open-Label Study Evaluating the Safety of the Tyrvaya Nasal Pump"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-03",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Internal strategy change. Not related to safety concerns.",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-02-21",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-02-28",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-02-28",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-03-19",
+      "studyFirstSubmitQcDate": "2024-03-19",
+      "studyFirstPostDateStruct": {
+        "date": "2024-03-26",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-03-24",
+      "resultsFirstSubmitQcDate": "2025-04-16",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-05-02",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-16",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-05-02",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Oyster Point Pharma, Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The objective of this study is to determine the safety of the Tyrvaya nasal pump.",
+      "detailedDescription": "The study is testing the hypothesis that the use of the Tyrvaya nasal pump with silicone lubricant does not introduce any additional safety concerns as compared to the safety of the Tyrvaya nasal pump without the additional silicone lubricant."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Dry Eye",
+        "Kerato Conjunctivitis Sicca"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 5,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Nasal Pump",
+          "type": "EXPERIMENTAL",
+          "description": "Tyrvaya nasal pump with additional silicone lubricant",
+          "interventionNames": [
+            "Drug: Tyrvaya Nasal Pump"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tyrvaya Nasal Pump",
+          "description": "Tyrvaya Nasal Pump with Silicone Lubricant",
+          "armGroupLabels": [
+            "Nasal Pump"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants With Adverse Events",
+          "description": "Number of Participants with Adverse Events with the nasal pump with additional silicone lubricant",
+          "timeFrame": "7 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Be at least 18 years of age\n* Have provided verbal and written informed consent\n* Willing to comply with all study related visits and procedures\n\nExclusion Criteria:\n\n* Be currently enrolled in an investigational drug or device study or have used an investigational drug or device within 30 days prior to Visit 1.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "United States, California",
+          "city": "Newport Beach",
+          "state": "California",
+          "zip": "92663",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.61891,
+            "lon": -117.92895
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Nasal Pump",
+          "description": "Tyrvaya nasal pump with additional silicone lubricant\n\nTyrvaya Nasal Pump: Tyrvaya Nasal Pump with Silicone Lubricant"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Nasal Pump",
+          "description": "Tyrvaya nasal pump with additional silicone lubricant\n\nTyrvaya Nasal Pump: Tyrvaya Nasal Pump with Silicone Lubricant"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "5"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "68.8",
+                      "spread": "15.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Adverse Events",
+          "description": "Number of Participants with Adverse Events with the nasal pump with additional silicone lubricant",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "7 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Nasal Pump",
+              "description": "Tyrvaya nasal pump with additional silicone lubricant\n\nTyrvaya Nasal Pump: Tyrvaya Nasal Pump with Silicone Lubricant"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "AE collection will start following the first administration of Tyrvaya® with additional silicone lubricant until the last follow up visit of the study at 7 days.",
+      "description": "The safety population will include all enrolled subjects who received at least one Tyrvaya ®administered with the additional silicone lubricant.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Nasal Pump",
+          "description": "Tyrvaya nasal pump with additional silicone lubricant\n\nTyrvaya Nasal Pump: Tyrvaya Nasal Pump with Silicone Lubricant",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 5,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 5,
+          "otherNumAffected": 1,
+          "otherNumAtRisk": 5
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Instillation Site Irritation",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": true
+      },
+      "pointOfContact": {
+        "title": "Marian Macsai, MD",
+        "organization": "Oyster Point Pharma Inc",
+        "email": "marian.macsai@viatris.com",
+        "phone": "3122592477"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-11-21",
+          "uploadDate": "2025-04-16T11:19",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 1131912
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015352",
+          "term": "Dry Eye Syndromes"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007766",
+          "term": "Lacrimal Apparatus Diseases"
+        },
+        {
+          "id": "D005128",
+          "term": "Eye Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

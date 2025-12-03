@@ -1,0 +1,3123 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05564039",
+      "orgStudyIdInfo": {
+        "id": "18395"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "I8F-MC-GPIH",
+          "type": "OTHER",
+          "domain": "Eli Lilly and Company"
+        },
+        {
+          "id": "2022-500101-41-00",
+          "type": "OTHER",
+          "domain": "EU Trial Number"
+        }
+      ],
+      "organization": {
+        "fullName": "Eli Lilly and Company",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study of Tirzepatide (LY3298176) in Adult Participants With Type 2 Diabetes Switching From Dulaglutide (SURPASS-SWITCH)",
+      "officialTitle": "A Phase 4, Randomized, Open-Label, Active-Controlled Study to Investigate the Efficacy and Safety of Switching From Weekly Dulaglutide to Weekly Tirzepatide in Adults With Type 2 Diabetes",
+      "acronym": "SURPASS-SWITCH"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-11-30",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-07-15",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-08-12",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-09-30",
+      "studyFirstSubmitQcDate": "2022-09-30",
+      "studyFirstPostDateStruct": {
+        "date": "2022-10-03",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-07-15",
+      "resultsFirstSubmitQcDate": "2025-07-15",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-08-03",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-07-15",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-08-03",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Eli Lilly and Company",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The main purpose of this study is to investigate the efficacy and safety of switching from weekly dulaglutide to weekly tirzepatide compared to increasing the dulaglutide dose in adults with type 2 diabetes."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Type 2 Diabetes"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 282,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "15 Milligram (mg) Tirzepatide or Maximum Tolerated Dose (MTD)",
+          "type": "EXPERIMENTAL",
+          "description": "Participants received tirzepatide administered as subcutaneous (SC) injection via a single-dose pen (SDP) once weekly (QW) for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5mg to 15 mg) until 15 mg or MTD was reached.",
+          "interventionNames": [
+            "Drug: Tirzepatide"
+          ]
+        },
+        {
+          "label": "4.5 mg Dulaglutide or MTD",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached.",
+          "interventionNames": [
+            "Drug: Dulaglutide"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tirzepatide",
+          "description": "Administered SC",
+          "armGroupLabels": [
+            "15 Milligram (mg) Tirzepatide or Maximum Tolerated Dose (MTD)"
+          ],
+          "otherNames": [
+            "LY3298176"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Dulaglutide",
+          "description": "Administered SC",
+          "armGroupLabels": [
+            "4.5 mg Dulaglutide or MTD"
+          ],
+          "otherNames": [
+            "LY2189265"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change From Baseline in HbA1c",
+          "description": "HbA1c is the glycated fraction of hemoglobin A. HbA1c is measured primarily to identify average plasma glucose concentration over prolonged periods of time. Least squares (LS) mean was calculated using mixed model repeated measures (MMRM) for post-baseline measures: Variable = Baseline + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Geographic Region 1 + Treatment + Time + Treatment\\*Time (Type III sum of squares). Variance-Covariance structure (Actual Value) = Unstructured. Variance-Covariance structure (Change from Baseline) = Unstructured.",
+          "timeFrame": "Baseline, Week 40"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change From Baseline in Body Weight",
+          "description": "LSMean was calculated using MMRM for post-baseline measures: Variable = Baseline + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Geographic Region 1 + Baseline HbA1c Group + Treatment + Time + Treatment\\*Time (Type III sum of squares). Variance-Covariance structure (Actual Value) = Unstructured. Variance-Covariance structure (Change from Baseline) = Unstructured.",
+          "timeFrame": "Baseline, Week 40"
+        },
+        {
+          "measure": "Percentage of Participants Who Achieved HbA1c <7%",
+          "description": "The percentage of participants was calculated by dividing the number of participants reaching target HbA1c by the total number of participants analyzed, multiplied by 100. Analyses included all participants having non-missing baseline and at least one non-missing post-baseline value of the response variable. Missing endpoint measures are imputed by predictions from an MMRM analysis model using observed data in the efficacy analysis set and adjusted for Baseline HbA1c Value, Baseline SGLT2i use(Yes/No), Treatment, Visit, and Treatment by Visit interaction.",
+          "timeFrame": "Week 40"
+        },
+        {
+          "measure": "Percentage of Participants Who Achieved HbA1c <=6.5%",
+          "description": "The percentage of participants was calculated by dividing the number of participants reaching target HbA1c by the total number of participants analyzed, multiplied by 100. Analyses included all participants having non-missing baseline and at least one non-missing post-baseline value of the response variable. Logistic regression model was used with missing endpoint measures imputed by predictions from an MMRM analysis model using observed data in the efficacy analysis set and adjusted for baseline HbA1c, geographic region 1, number of background OAMs in group 1, dulaglutide dose at screening, and treatment as factors.",
+          "timeFrame": "Week 40"
+        },
+        {
+          "measure": "Percentage of Participants Who Achieved HbA1c <5.7%",
+          "description": "The percentage of participants was calculated by dividing the number of participants reaching target HbA1c by the total number of participants analyzed, multiplied by 100. Analyses included all participants having non-missing baseline and at least one non-missing post-baseline value of the response variable. Logistic regression model was used with missing endpoint measures imputed by predictions from an MMRM analysis model using observed data in the efficacy analysis set and adjusted for baseline HbA1c, geographic region 1, number of background OAMs in group 1, dulaglutide dose at screening, and treatment as factors.",
+          "timeFrame": "Week 40"
+        },
+        {
+          "measure": "Percentage of Participants Who Achieve Weight Loss From Baseline of ≥5%",
+          "description": "Missing endpoint measures are imputed by predictions using observed data in the efficacy analysis set from the same treatment group through an MMRM analysis model for post-baseline measures: Variable = Baseline + Geographic Region 1 + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Baseline HBA1C Group + Treatment + Time + Treatment\\*Time.",
+          "timeFrame": "Week 40"
+        },
+        {
+          "measure": "Percentage of Participants Who Achieve Weight Loss From Baseline of ≥10%",
+          "description": "Missing endpoint measures are imputed by predictions using observed data in the efficacy analysis set from the same treatment group through an MMRM analysis model for post-baseline measures: Variable = Baseline + Geographic Region 1 + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Baseline HBA1C Group + Treatment + Time + Treatment\\*Time.",
+          "timeFrame": "Week 40"
+        },
+        {
+          "measure": "Percentage of Participants Who Achieve Weight Loss From Baseline of ≥15%",
+          "description": "Missing endpoint measures are imputed by predictions using observed data in the efficacy analysis set from the same treatment group through an MMRM analysis model for post-baseline measures: Variable = Baseline + Geographic Region 1 + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Baseline HBA1C Group + Treatment + Time + Treatment\\*Time.",
+          "timeFrame": "Week 40"
+        },
+        {
+          "measure": "Percentage of Participants Who Achieved Composite Endpoint (HbA1c <=6.5% & Weight Loss >=10% & No-Hypoglycemia)",
+          "description": "A composite endpoint is defined as HbA1c ≤ 6.5%, weight loss ≥ 10%, and no hypoglycemia, defined as blood glucose (BG) \\<3.0 millimole/liter (mmol/L) and/or severe hypoglycemia. Missing endpoint measures are imputed by predictions using observed data in the efficacy analysis set from the same treatment group through an MMRM analysis model for post-baseline measures:\n\nFor HbA1c: Variable = Baseline + Geographic Region 1 + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Treatment + Time + Treatment\\*Time.\n\nFor Weight: Variable = Baseline + Geographic Region 1 + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Baseline HbA1c Group + Treatment + Time + Treatment\\*Time.",
+          "timeFrame": "Week 40"
+        },
+        {
+          "measure": "Change From Baseline in Fasting Serum Glucose (FSG)",
+          "description": "LSMean was calculated using the ANCOVA model for endpoint measures: Variable = Baseline + A1CGR1 + DULDSCRN + OAMGR1 + REGION1 + Treatment (Type I sum of squares).",
+          "timeFrame": "Baseline, Week 40"
+        },
+        {
+          "measure": "Change From Baseline in Waist Circumference",
+          "description": "LSMean was calculated using MMRM for post-baseline measures: Variable = Baseline + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Geographic Region 1 + Baseline HbA1c Group + Treatment + Time + Treatment\\*Time (Type III sum of squares). Variance-Covariance structure (Actual Value) = Unstructured. Variance-Covariance structure (Change from Baseline) = Unstructured.",
+          "timeFrame": "Baseline, Week 40"
+        },
+        {
+          "measure": "Change From Baseline in Body Mass Index (BMI)",
+          "description": "Change from Baseline in BMI is presented. LSMean was calculated using MMRM for post-baseline measures: Variable = Baseline + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Geographic Region 1 + Baseline HbA1c Group + Treatment + Time + Treatment\\*Time (Type III sum of squares). Variance-Covariance structure (Actual Value) = Unstructured. Variance-Covariance structure (Change from Baseline) = Unstructured.",
+          "timeFrame": "Baseline, Week 40"
+        },
+        {
+          "measure": "Change From Baseline in Impact of Weight on Quality of Life-Lite Clinical Trials Version (IWQOL-Lite CT) - Physical Functioning Score",
+          "description": "The IWQOL-Lite-CT is a 20-item, obesity-specific PRO (patient-reported outcome) instrument developed for use in obesity clinical trials. It assesses 2 primary domains of obesity-related health-related quality of life (HRQoL): physical (7 items, where 5 of the items comprise the physical functioning sub-domain) and psychosocial (13 items). The IWQOL-Lite-CT provides composite scores for each domain, as well as a total score, all ranging from 0 to 100. Higher scores reflect better levels of functioning. This endpoint shows results for 'physical function domain.'",
+          "timeFrame": "Baseline, Week 40"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Have type 2 diabetes\n* Have HbA1c ≥7.0% (≥53 mmol/mol) to ≤9.5% (≤80 mmol/mol)\n* Are currently on a stable dose of dulaglutide weekly (0.75 mg or 1.5 mg) for at least 6 months prior to screening.\n* No treatment with oral antihyperglycemic medication (OAM), or on a stable dose of up to 3 OAMs, which may include metformin, sodium glucose cotransporter-2 inhibitors (SGLT-2i), and/or sulfonylurea, for at least 3 months before screening.\n* Have had stable body weight (±5%) during the 90 days preceding screening\n* Have BMI ≥25 kilogram/square meter (kg/m²)\n\nExclusion Criteria:\n\n* Have type 1 diabetes\n* Have a history of chronic or acute pancreatitis\n* Have a history of\n\n  * proliferative diabetic retinopathy, or\n  * diabetic maculopathy, or\n  * nonproliferative diabetic retinopathy that requires acute treatment.\n* Have any of these cardiovascular (CV) conditions within 60 days prior to screening:\n\n  * acute myocardial infarction,\n  * cerebrovascular accident (stroke), or\n  * hospitalization due to congestive heart failure (CHF).\n* Have New York Heart Assocation (NYHA) Functional Classification Class IV CHF\n* Have family or personal history of medullary thyroid carcinoma (MTC) or multiple endocrine neoplasia syndrome type 2 (MEN2).\n* Have within 90 days prior to screening received treatment with medications intended to promote weight loss. This includes prescribed, over-the-counter, or alternative remedies\n* Have an estimated glomerular filtration rate (eGFR) \\<30 mL/minute/1.73 m2 (or lower than the country-specific threshold for discontinuing metformin therapy per local label)\n* Have been treated with insulin prior to screening\n\n  * Exception: use of insulin for gestational diabetes or short-term use (\\<14 days) for acute conditions such as acute illness, hospitalization, or elective surgery.\n* Have a history of reduction of dose of dulaglutide, due to intolerability, without successful reescalation",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+          "affiliation": "Eli Lilly and Company",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "ALL Medical Research, LLC",
+          "city": "Cooper City",
+          "state": "Florida",
+          "zip": "33024",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.05731,
+            "lon": -80.27172
+          }
+        },
+        {
+          "facility": "Metabolic Research Institute, Inc.",
+          "city": "West Palm Beach",
+          "state": "Florida",
+          "zip": "33401",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.71534,
+            "lon": -80.05337
+          }
+        },
+        {
+          "facility": "NorthShore University Health System",
+          "city": "Skokie",
+          "state": "Illinois",
+          "zip": "60077",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.03336,
+            "lon": -87.73339
+          }
+        },
+        {
+          "facility": "Iowa Diabetes and Endocrinology Research Center",
+          "city": "West Des Moines",
+          "state": "Iowa",
+          "zip": "50265",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.57721,
+            "lon": -93.71133
+          }
+        },
+        {
+          "facility": "Clinvest Research LLC",
+          "city": "Springfield",
+          "state": "Missouri",
+          "zip": "65807",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.21533,
+            "lon": -93.29824
+          }
+        },
+        {
+          "facility": "Alliance for Multispecialty Research, LLC",
+          "city": "Norman",
+          "state": "Oklahoma",
+          "zip": "73069",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.22257,
+            "lon": -97.43948
+          }
+        },
+        {
+          "facility": "Juno Research",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77040",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Biopharma Informatic, LLC",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77043",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Juno Research",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77054",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Southern Endocrinology Associates",
+          "city": "Mesquite",
+          "state": "Texas",
+          "zip": "75149",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.7668,
+            "lon": -96.59916
+          }
+        },
+        {
+          "facility": "North Hills Family Medicine/North Hills Medical Research",
+          "city": "North Richland Hills",
+          "state": "Texas",
+          "zip": "76180",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.8343,
+            "lon": -97.2289
+          }
+        },
+        {
+          "facility": "Imelda General Hospital",
+          "city": "Bonheiden",
+          "state": "Antwerpen",
+          "zip": "2820",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.02261,
+            "lon": 4.54714
+          }
+        },
+        {
+          "facility": "Antwerp University Hospital",
+          "city": "Edegem",
+          "state": "Antwerpen",
+          "zip": "2650",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.15662,
+            "lon": 4.44504
+          }
+        },
+        {
+          "facility": "ZNA Jan Palfijn",
+          "city": "Merksem",
+          "state": "Flanders",
+          "zip": "2170",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.24623,
+            "lon": 4.44903
+          }
+        },
+        {
+          "facility": "AZ Nikolaas",
+          "city": "Sint-Niklaas",
+          "state": "Oost-Vlaanderen",
+          "zip": "B-9100",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.16509,
+            "lon": 4.1437
+          }
+        },
+        {
+          "facility": "UZ Leuven",
+          "city": "Leuven",
+          "state": "Vlaams-Brabant",
+          "zip": "3000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.87959,
+            "lon": 4.70093
+          }
+        },
+        {
+          "facility": "Az Damiaan vzw",
+          "city": "Ostend",
+          "state": "West-Vlaanderen",
+          "zip": "8400",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.21551,
+            "lon": 2.927
+          }
+        },
+        {
+          "facility": "InnoDiab Forschung Gmbh",
+          "city": "Essen",
+          "state": "North Rhine-Westphalia",
+          "zip": "45136",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.45657,
+            "lon": 7.01228
+          }
+        },
+        {
+          "facility": "Institut für Diabetesforschung GmbH Münster",
+          "city": "Münster",
+          "state": "North Rhine-Westphalia",
+          "zip": "48145",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.96236,
+            "lon": 7.62571
+          }
+        },
+        {
+          "facility": "Studienzentrum Dr. Tasso Bieler",
+          "city": "Riesa",
+          "state": "Saxony",
+          "zip": "01589",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.30777,
+            "lon": 13.29168
+          }
+        },
+        {
+          "facility": "RED-Institut GmbH",
+          "city": "Oldenburg in Holstein",
+          "state": "Schleswig-Holstein",
+          "zip": "23758",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 54.29498,
+            "lon": 10.89043
+          }
+        },
+        {
+          "facility": "Medizinisches Versorgungszentrum am Bahnhof Spandau",
+          "city": "Spandau",
+          "state": "State of Berlin",
+          "zip": "13597",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.5511,
+            "lon": 13.19921
+          }
+        },
+        {
+          "facility": "Diabeteszentrum Hamburg West",
+          "city": "Hamburg",
+          "zip": "22607",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.55073,
+            "lon": 9.99302
+          }
+        },
+        {
+          "facility": "Diseno y Planeacion en Investigacion Medica",
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "zip": "44130",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 20.67738,
+            "lon": -103.34749
+          }
+        },
+        {
+          "facility": "Unidad de Investigación Clínica y Atención Médica HEPA",
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "zip": "44670",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 20.67738,
+            "lon": -103.34749
+          }
+        },
+        {
+          "facility": "Centro Especializado En Diabetes, Obesidad Y Prevencion De Enfermedades Cardiovasculares",
+          "city": "Mexico City",
+          "state": "Mexico City",
+          "zip": "11650",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 19.42847,
+            "lon": -99.12766
+          }
+        },
+        {
+          "facility": "Instituto de Diabetes, Obesidad y Nutricion",
+          "city": "Cuernavaca",
+          "state": "Morelos",
+          "zip": "62250",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 18.9261,
+            "lon": -99.23075
+          }
+        },
+        {
+          "facility": "Hospital Universitario \"Dr. Jose Eleuterio Gonzalez\"",
+          "city": "Monterrey",
+          "state": "Nuevo León",
+          "zip": "64460",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 25.68435,
+            "lon": -100.31721
+          }
+        },
+        {
+          "facility": "Unidad biomedica avanzada monterrey",
+          "city": "Monterrey",
+          "state": "Nuevo León",
+          "zip": "64460",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 25.68435,
+            "lon": -100.31721
+          }
+        },
+        {
+          "facility": "Hospital Universitario \"Dr. Jose Eleuterio Gonzalez\"",
+          "city": "Monterrey",
+          "state": "Nuevo León",
+          "zip": "66460",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 25.68435,
+            "lon": -100.31721
+          }
+        },
+        {
+          "facility": "Centro de Estudios de Investigacion Metabolicos y Cardiovasculares",
+          "city": "Ciudad Madero",
+          "state": "Tamaulipas",
+          "zip": "89440",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 22.2475,
+            "lon": -97.83665
+          }
+        },
+        {
+          "facility": "Investigacion En Salud Y Metabolismo Sc",
+          "city": "Chihuahua City",
+          "zip": "31217",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 28.63528,
+            "lon": -106.08889
+          }
+        },
+        {
+          "facility": "Diabdana",
+          "city": "Oradea",
+          "state": "Bihor County",
+          "zip": "410147",
+          "country": "Romania",
+          "geoPoint": {
+            "lat": 47.0458,
+            "lon": 21.91833
+          }
+        },
+        {
+          "facility": "Mariodiab Clinic",
+          "city": "Brasov",
+          "state": "Brașov County",
+          "zip": "500097",
+          "country": "Romania",
+          "geoPoint": {
+            "lat": 45.64861,
+            "lon": 25.60613
+          }
+        },
+        {
+          "facility": "Geea Medical Easy Diet",
+          "city": "Bucharest",
+          "state": "București",
+          "zip": "010627",
+          "country": "Romania",
+          "geoPoint": {
+            "lat": 44.43225,
+            "lon": 26.10626
+          }
+        },
+        {
+          "facility": "Gama Diamed",
+          "city": "Mangalia",
+          "state": "Constanța County",
+          "zip": "905500",
+          "country": "Romania",
+          "geoPoint": {
+            "lat": 43.81623,
+            "lon": 28.57656
+          }
+        },
+        {
+          "facility": "CMI DNBM Dr. Pop Lavinia",
+          "city": "Baia Mare",
+          "state": "Maramureş",
+          "zip": "430222",
+          "country": "Romania",
+          "geoPoint": {
+            "lat": 47.65729,
+            "lon": 23.56808
+          }
+        },
+        {
+          "facility": "Clinica Korall",
+          "city": "Satu Mare",
+          "zip": "440055",
+          "country": "Romania",
+          "geoPoint": {
+            "lat": 47.79926,
+            "lon": 22.86255
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "40183678",
+          "type": "DERIVED",
+          "citation": "Billings LK, Winne L, Sharma P, Gomez-Valderas E, Chivukula KK, Kwan AYM. Comparison of Dose Escalation Versus Switching to Tirzepatide Among People With Type 2 Diabetes Inadequately Controlled on Lower Doses of Dulaglutide : A Randomized Clinical Trial. Ann Intern Med. 2025 May;178(5):609-619. doi: 10.7326/ANNALS-24-03849. Epub 2025 Apr 4."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "A Study of Tirzepatide (LY3298176) in Adult Participants With Type 2 Diabetes Switching From Dulaglutide (SURPASS-SWITCH)",
+          "url": "https://trials.lilly.com/en-US/trial/362875"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP",
+        "CSR"
+      ],
+      "timeFrame": "Data are available 6 months after the primary publication and approval of the indication studied in the US and European Union (EU), whichever is later. Data will be indefinitely available for requesting.",
+      "accessCriteria": "A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.",
+      "url": "http://vivli.org/"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "15 Milligram (mg) Tirzepatide or Maximum Tolerated Dose (MTD)",
+          "description": "Participants received tirzepatide administered as subcutaneous (SC) injection via a single-dose pen (SDP) once weekly (QW) for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5mg to 15 mg) until 15 mg or MTD was reached."
+        },
+        {
+          "id": "FG001",
+          "title": "4.5 mg Dulaglutide or MTD",
+          "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "139"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "143"
+                }
+              ]
+            },
+            {
+              "type": "Received at Least 1 Dose of Study Drug",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "139"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "143"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "129"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "134"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "9"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Death",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Inadvertent enrollment",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "All randomized participants.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "15 mg Tirzepatide or MTD",
+          "description": "Participants received tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached."
+        },
+        {
+          "id": "BG001",
+          "title": "4.5 mg Dulaglutide or MTD",
+          "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "139"
+            },
+            {
+              "groupId": "BG001",
+              "value": "143"
+            },
+            {
+              "groupId": "BG002",
+              "value": "282"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "57.9",
+                      "spread": "9.8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "57.3",
+                      "spread": "10.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "57.6",
+                      "spread": "9.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "72"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "136"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "75"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "71"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "146"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "32"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "37"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "110"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "213"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "42"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "109"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "120"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "229"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "title": "Belgium",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Germany",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "40"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Mexico",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "43"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "48"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "91"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Romania",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "63"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "69"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Percentage of Hemoglobin A1c (HbA1c) at Baseline",
+          "description": "HbA1c is the glycosylated fraction of hemoglobin A. HbA1c is measured primarily to identify average plasma glucose concentration over prolonged periods of time.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Percentage of HbA1c",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7.82",
+                      "spread": "0.69"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7.82",
+                      "spread": "0.73"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7.82",
+                      "spread": "0.71"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change From Baseline in HbA1c",
+          "description": "HbA1c is the glycated fraction of hemoglobin A. HbA1c is measured primarily to identify average plasma glucose concentration over prolonged periods of time. Least squares (LS) mean was calculated using mixed model repeated measures (MMRM) for post-baseline measures: Variable = Baseline + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Geographic Region 1 + Treatment + Time + Treatment\\*Time (Type III sum of squares). Variance-Covariance structure (Actual Value) = Unstructured. Variance-Covariance structure (Change from Baseline) = Unstructured.",
+          "populationDescription": "All randomly assigned participants who took at least 1 dose of study drug and had a baseline and at least 1 post-baseline value for this outcome, excluding participants discontinuing study drug due to inadvertent enrollment and data after initiating rescue antihyperglycemic medication or prematurely stopping study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "percentage of HbA1c",
+          "timeFrame": "Baseline, Week 40",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "15 mg Tirzepatide or MTD",
+              "description": "Participants received tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached."
+            },
+            {
+              "id": "OG001",
+              "title": "4.5 mg Dulaglutide or MTD",
+              "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "114"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "105"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.59",
+                      "spread": "0.073"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-0.69",
+                      "spread": "0.074"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Mixed Models Analysis",
+              "paramType": "LS Mean difference (Final Values)",
+              "paramValue": "-0.90",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-1.10",
+              "ciUpperLimit": "-0.69"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Body Weight",
+          "description": "LSMean was calculated using MMRM for post-baseline measures: Variable = Baseline + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Geographic Region 1 + Baseline HbA1c Group + Treatment + Time + Treatment\\*Time (Type III sum of squares). Variance-Covariance structure (Actual Value) = Unstructured. Variance-Covariance structure (Change from Baseline) = Unstructured.",
+          "populationDescription": "All randomly assigned participants who took at least 1 dose of study drug and had a baseline and at least 1 post-baseline value for this outcome, excluding participants discontinuing study drug due to inadvertent enrollment and data after initiating rescue antihyperglycemic medication or prematurely stopping study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "kilograms (kg)",
+          "timeFrame": "Baseline, Week 40",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "15 mg Tirzepatide or MTD",
+              "description": "Participants received tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached."
+            },
+            {
+              "id": "OG001",
+              "title": "4.5 mg Dulaglutide or MTD",
+              "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "123"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "111"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-11.0",
+                      "spread": "0.48"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-3.6",
+                      "spread": "0.49"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<.0001",
+              "statisticalMethod": "Mixed Models Analysis",
+              "paramType": "LS Mean difference (Final Values)",
+              "paramValue": "-7.4",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-8.7",
+              "ciUpperLimit": "-6.0"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants Who Achieved HbA1c <7%",
+          "description": "The percentage of participants was calculated by dividing the number of participants reaching target HbA1c by the total number of participants analyzed, multiplied by 100. Analyses included all participants having non-missing baseline and at least one non-missing post-baseline value of the response variable. Missing endpoint measures are imputed by predictions from an MMRM analysis model using observed data in the efficacy analysis set and adjusted for Baseline HbA1c Value, Baseline SGLT2i use(Yes/No), Treatment, Visit, and Treatment by Visit interaction.",
+          "populationDescription": "All randomly assigned participants who took at least 1 dose of study drug and had a baseline and at least 1 post-baseline value for this outcome, excluding participants discontinuing study drug due to inadvertent enrollment and data after initiating rescue antihyperglycemic medication or prematurely stopping study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 40",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "15 mg Tirzepatide or MTD",
+              "description": "Participants received tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached."
+            },
+            {
+              "id": "OG001",
+              "title": "4.5 mg Dulaglutide or MTD",
+              "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "114"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "105"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "84.21"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "52.38"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Regression, Logistic",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "7.13",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "3.82",
+              "ciUpperLimit": "13.32"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants Who Achieved HbA1c <=6.5%",
+          "description": "The percentage of participants was calculated by dividing the number of participants reaching target HbA1c by the total number of participants analyzed, multiplied by 100. Analyses included all participants having non-missing baseline and at least one non-missing post-baseline value of the response variable. Logistic regression model was used with missing endpoint measures imputed by predictions from an MMRM analysis model using observed data in the efficacy analysis set and adjusted for baseline HbA1c, geographic region 1, number of background OAMs in group 1, dulaglutide dose at screening, and treatment as factors.",
+          "populationDescription": "All randomly assigned participants who took at least 1 dose of study drug and had a baseline and at least 1 post-baseline value for this outcome, excluding participants discontinuing study drug due to inadvertent enrollment and data after initiating rescue antihyperglycemic medication or prematurely stopping study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 40",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "15 mg Tirzepatide or MTD",
+              "description": "Participants received tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached."
+            },
+            {
+              "id": "OG001",
+              "title": "4.5 mg Dulaglutide or MTD",
+              "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "134"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "132"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "73.88"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "22.73"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Regression, Logistic",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "12.24",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "6.51",
+              "ciUpperLimit": "23.02"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants Who Achieved HbA1c <5.7%",
+          "description": "The percentage of participants was calculated by dividing the number of participants reaching target HbA1c by the total number of participants analyzed, multiplied by 100. Analyses included all participants having non-missing baseline and at least one non-missing post-baseline value of the response variable. Logistic regression model was used with missing endpoint measures imputed by predictions from an MMRM analysis model using observed data in the efficacy analysis set and adjusted for baseline HbA1c, geographic region 1, number of background OAMs in group 1, dulaglutide dose at screening, and treatment as factors.",
+          "populationDescription": "All randomly assigned participants who took at least 1 dose of study drug and had a baseline and at least 1 post-baseline value for this outcome, excluding participants discontinuing study drug due to inadvertent enrollment and data after initiating rescue antihyperglycemic medication or prematurely stopping study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 40",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "15 mg Tirzepatide or MTD",
+              "description": "Participants received tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached."
+            },
+            {
+              "id": "OG001",
+              "title": "4.5 mg Dulaglutide or MTD",
+              "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "134"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "132"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "21.64"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.27"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Regression, Logistic",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "15.34",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "4.58",
+              "ciUpperLimit": "51.36"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants Who Achieve Weight Loss From Baseline of ≥5%",
+          "description": "Missing endpoint measures are imputed by predictions using observed data in the efficacy analysis set from the same treatment group through an MMRM analysis model for post-baseline measures: Variable = Baseline + Geographic Region 1 + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Baseline HBA1C Group + Treatment + Time + Treatment\\*Time.",
+          "populationDescription": "All randomly assigned participants who took at least 1 dose of study drug and had a baseline and at least 1 post-baseline value for this outcome, excluding participants discontinuing study drug due to inadvertent enrollment and data after initiating rescue antihyperglycemic medication or prematurely stopping study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 40",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "15 mg Tirzepatide or MTD",
+              "description": "Participants received tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached."
+            },
+            {
+              "id": "OG001",
+              "title": "4.5 mg Dulaglutide or MTD",
+              "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "134"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "131"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "84.33"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "37.40"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Regression, Logistic",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "9.31",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "5.11",
+              "ciUpperLimit": "16.98"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants Who Achieve Weight Loss From Baseline of ≥10%",
+          "description": "Missing endpoint measures are imputed by predictions using observed data in the efficacy analysis set from the same treatment group through an MMRM analysis model for post-baseline measures: Variable = Baseline + Geographic Region 1 + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Baseline HBA1C Group + Treatment + Time + Treatment\\*Time.",
+          "populationDescription": "All randomly assigned participants who took at least 1 dose of study drug and had a baseline and at least 1 post-baseline value for this outcome, excluding participants discontinuing study drug due to inadvertent enrollment and data after initiating rescue antihyperglycemic medication or prematurely stopping study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 40",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "15 mg Tirzepatide or MTD",
+              "description": "Participants received tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached."
+            },
+            {
+              "id": "OG001",
+              "title": "4.5 mg Dulaglutide or MTD",
+              "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "134"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "131"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "58.21"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.87"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Regression, Logistic",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "19.35",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "9.07",
+              "ciUpperLimit": "41.30"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants Who Achieve Weight Loss From Baseline of ≥15%",
+          "description": "Missing endpoint measures are imputed by predictions using observed data in the efficacy analysis set from the same treatment group through an MMRM analysis model for post-baseline measures: Variable = Baseline + Geographic Region 1 + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Baseline HBA1C Group + Treatment + Time + Treatment\\*Time.",
+          "populationDescription": "All randomly assigned participants who took at least 1 dose of study drug and had a baseline and at least 1 post-baseline value for this outcome, excluding participants discontinuing study drug due to inadvertent enrollment and data after initiating rescue antihyperglycemic medication or prematurely stopping study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 40",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "15 mg Tirzepatide or MTD",
+              "description": "Participants received tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached."
+            },
+            {
+              "id": "OG001",
+              "title": "4.5 mg Dulaglutide or MTD",
+              "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "134"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "131"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "27.61"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.76"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Regression, Logistic",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "35.83",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "7.18",
+              "ciUpperLimit": "178.89"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants Who Achieved Composite Endpoint (HbA1c <=6.5% & Weight Loss >=10% & No-Hypoglycemia)",
+          "description": "A composite endpoint is defined as HbA1c ≤ 6.5%, weight loss ≥ 10%, and no hypoglycemia, defined as blood glucose (BG) \\<3.0 millimole/liter (mmol/L) and/or severe hypoglycemia. Missing endpoint measures are imputed by predictions using observed data in the efficacy analysis set from the same treatment group through an MMRM analysis model for post-baseline measures:\n\nFor HbA1c: Variable = Baseline + Geographic Region 1 + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Treatment + Time + Treatment\\*Time.\n\nFor Weight: Variable = Baseline + Geographic Region 1 + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Baseline HbA1c Group + Treatment + Time + Treatment\\*Time.",
+          "populationDescription": "All randomly assigned participants who took at least 1 dose of study drug and had a baseline and at least 1 post-baseline value for this outcome, excluding participants discontinuing study drug due to inadvertent enrollment and data after initiating rescue antihyperglycemic medication or prematurely stopping study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Week 40",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "15 mg Tirzepatide or MTD",
+              "description": "Participants received tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached."
+            },
+            {
+              "id": "OG001",
+              "title": "4.5 mg Dulaglutide or MTD",
+              "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "133"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "131"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "46.62"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.58"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Regression, Logistic",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "20.44",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "8.40",
+              "ciUpperLimit": "49.77"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Fasting Serum Glucose (FSG)",
+          "description": "LSMean was calculated using the ANCOVA model for endpoint measures: Variable = Baseline + A1CGR1 + DULDSCRN + OAMGR1 + REGION1 + Treatment (Type I sum of squares).",
+          "populationDescription": "All randomly assigned participants who took at least 1 dose of study drug and had a baseline and at least 1 post-baseline value for this outcome, excluding participants discontinuing study drug due to inadvertent enrollment and data after initiating rescue antihyperglycemic medication or prematurely stopping study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "millimole per liter (mmol/L)",
+          "timeFrame": "Baseline, Week 40",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "15 mg Tirzepatide or MTD",
+              "description": "Participants received tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached."
+            },
+            {
+              "id": "OG001",
+              "title": "4.5 mg Dulaglutide or MTD",
+              "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "123"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "128"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-2.00",
+                      "spread": "0.149"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-1.10",
+                      "spread": "0.150"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.001",
+              "statisticalMethod": "ANCOVA",
+              "paramType": "LS Mean difference (Final Values)",
+              "paramValue": "-0.90",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-1.32",
+              "ciUpperLimit": "-0.49"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Waist Circumference",
+          "description": "LSMean was calculated using MMRM for post-baseline measures: Variable = Baseline + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Geographic Region 1 + Baseline HbA1c Group + Treatment + Time + Treatment\\*Time (Type III sum of squares). Variance-Covariance structure (Actual Value) = Unstructured. Variance-Covariance structure (Change from Baseline) = Unstructured.",
+          "populationDescription": "All randomly assigned participants who took at least 1 dose of study drug and had a baseline and at least 1 post-baseline value for this outcome, excluding participants discontinuing study drug due to inadvertent enrollment and data after initiating rescue antihyperglycemic medication or prematurely stopping study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "centimeter (cm)",
+          "timeFrame": "Baseline, Week 40",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "15 mg Tirzepatide or MTD",
+              "description": "Participants received tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached."
+            },
+            {
+              "id": "OG001",
+              "title": "4.5 mg Dulaglutide or MTD",
+              "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "123"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "111"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-8.2",
+                      "spread": "0.94"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-3.1",
+                      "spread": "0.97"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0002",
+              "statisticalMethod": "Mixed Models Analysis",
+              "paramType": "LS Mean difference (Final Values)",
+              "paramValue": "-5.1",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-7.8",
+              "ciUpperLimit": "-2.5"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Body Mass Index (BMI)",
+          "description": "Change from Baseline in BMI is presented. LSMean was calculated using MMRM for post-baseline measures: Variable = Baseline + Number of Background OAMs Group 1 + Dulaglutide Dose at Screening + Geographic Region 1 + Baseline HbA1c Group + Treatment + Time + Treatment\\*Time (Type III sum of squares). Variance-Covariance structure (Actual Value) = Unstructured. Variance-Covariance structure (Change from Baseline) = Unstructured.",
+          "populationDescription": "All randomly assigned participants who took at least 1 dose of study drug and had a baseline and at least 1 post-baseline value for this outcome, excluding participants discontinuing study drug due to inadvertent enrollment and data after initiating rescue antihyperglycemic medication or prematurely stopping study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "Kilogram per square meter (kg/m^2)",
+          "timeFrame": "Baseline, Week 40",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "15 mg Tirzepatide or MTD",
+              "description": "Participants received tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached."
+            },
+            {
+              "id": "OG001",
+              "title": "4.5 mg Dulaglutide or MTD",
+              "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was either 1.5 mg QW, which increased by 1.5 mg every 4 weeks (1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached, or 3.0 mg QW, which increased to 4.5 mg after 4 weeks or until MTD was reached."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "123"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "111"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-3.9",
+                      "spread": "0.17"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-1.3",
+                      "spread": "0.18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Mixed Models Analysis",
+              "paramType": "LS Mean difference (Final Values)",
+              "paramValue": "-2.6",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-3.1",
+              "ciUpperLimit": "-2.1"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Impact of Weight on Quality of Life-Lite Clinical Trials Version (IWQOL-Lite CT) - Physical Functioning Score",
+          "description": "The IWQOL-Lite-CT is a 20-item, obesity-specific PRO (patient-reported outcome) instrument developed for use in obesity clinical trials. It assesses 2 primary domains of obesity-related health-related quality of life (HRQoL): physical (7 items, where 5 of the items comprise the physical functioning sub-domain) and psychosocial (13 items). The IWQOL-Lite-CT provides composite scores for each domain, as well as a total score, all ranging from 0 to 100. Higher scores reflect better levels of functioning. This endpoint shows results for 'physical function domain.'",
+          "populationDescription": "All randomly assigned participants who took at least 1 dose of study drug and had a baseline and at least 1 post-baseline value for this outcome, excluding patients discontinuing study drug due to inadvertent enrollment and data after initiating rescue antihyperglycemic medication or prematurely stopping study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline, Week 40",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "15 mg Tirzepatide or MTD",
+              "description": "Participants received tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached."
+            },
+            {
+              "id": "OG001",
+              "title": "4.5 mg Dulaglutide or MTD",
+              "description": "Participants received dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was 0.75 mg QW, which increased by 1.5 mg every 4 weeks (0.75 mg to 1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "121"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "104"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11.8",
+                      "spread": "1.77"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.8",
+                      "spread": "1.91"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.1181",
+              "statisticalMethod": "ANCOVA",
+              "paramType": "LS Mean difference (Final Values)",
+              "paramValue": "4.1",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-1.0",
+              "ciUpperLimit": "9.2"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Baseline up to week 44",
+      "description": "All randomized participants who received at least one dose of study drug regardless of adherence to study drug or initiation of rescue medication. Based on the planned safety analysis, adverse events were collected per the treatment regimen, irrespective of each dose level. Gender specific events only occurring in male or female participants have had the number of participants at risk adjusted accordingly.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "15 mg Tirzepatide or MTD",
+          "description": "Participants received 15 mg of tirzepatide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of tirzepatide was 2.5 mg QW, which increased by 2.5 mg every 4 weeks (2.5 mg to 5 mg to 7.5 mg to 10 mg to 12.5 mg to 15 mg) until 15 mg or MTD was reached.",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 139,
+          "seriousNumAffected": 10,
+          "seriousNumAtRisk": 139,
+          "otherNumAffected": 77,
+          "otherNumAtRisk": 139
+        },
+        {
+          "id": "EG001",
+          "title": "4.5 mg Dulaglutide or MTD",
+          "description": "Participants received 4.5 mg of dulaglutide administered as SC injection via a SDP QW for 40 weeks.\n\nThe starting dose of dulaglutide was 0.75 mg QW, which increased by 1.5 mg every 4 weeks (0.75 mg to 1.5 mg to 3 mg to 4.5 mg) until 4.5 mg or MTD was reached.",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 143,
+          "seriousNumAffected": 10,
+          "seriousNumAtRisk": 143,
+          "otherNumAffected": 79,
+          "otherNumAtRisk": 143
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Arrhythmia",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Coronary artery disease",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Coronary artery stenosis",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Dilated cardiomyopathy",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Microvascular coronary artery disease",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Myocardial infarction",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Visual impairment",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Inguinal hernia",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Asthenia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Death",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Sudden cardiac death",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Ulna fracture",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Diabetic ketoacidosis",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Back pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Osteoarthritis",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Spinal stenosis",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Ovarian adenoma",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 64
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 72
+            }
+          ]
+        },
+        {
+          "term": "Ischaemic stroke",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Syncope",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Peripheral arterial occlusive disease",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Peripheral artery occlusion",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 143
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Abdominal distension",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 8,
+              "numAffected": 7,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 3,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 18,
+              "numAffected": 12,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 17,
+              "numAffected": 11,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 96,
+              "numAffected": 31,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 35,
+              "numAffected": 19,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Dyspepsia",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 26,
+              "numAffected": 11,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Gastrooesophageal reflux disease",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 9,
+              "numAffected": 8,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 116,
+              "numAffected": 35,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 62,
+              "numAffected": 27,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 17,
+              "numAffected": 9,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 34,
+              "numAffected": 14,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Fatigue",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 13,
+              "numAffected": 8,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 6,
+              "numAffected": 4,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Covid-19",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 7,
+              "numAffected": 7,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Influenza",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 15,
+              "numAffected": 14,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 15,
+              "numAffected": 14,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 17,
+              "numAffected": 12,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Decreased appetite",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 14,
+              "numAffected": 12,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 7,
+              "numAffected": 7,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Hyperglycaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 10,
+              "numAffected": 8,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Arthralgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 12,
+              "numAffected": 7,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 143
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 12,
+              "numAffected": 8,
+              "numAtRisk": 139
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 7,
+              "numAffected": 6,
+              "numAtRisk": 143
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "GT60",
+        "restrictiveAgreement": true
+      },
+      "pointOfContact": {
+        "title": "Chief Medical Officer",
+        "organization": "Eli Lilly and Company",
+        "email": "ClinicalTrials.gov@lilly.com",
+        "phone": "08004595979"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-03-09",
+          "uploadDate": "2025-06-11T09:26",
+          "filename": "Prot_000.pdf",
+          "size": 1123202
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2022-12-01",
+          "uploadDate": "2025-06-11T09:27",
+          "filename": "SAP_001.pdf",
+          "size": 632622
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "removedCountries": [
+        "France"
+      ]
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000098860",
+          "term": "Tirzepatide"
+        },
+        {
+          "id": "C555680",
+          "term": "dulaglutide"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000067757",
+          "term": "Glucagon-Like Peptide-1 Receptor"
+        },
+        {
+          "id": "D000067756",
+          "term": "Glucagon-Like Peptide Receptors"
+        },
+        {
+          "id": "D043562",
+          "term": "Receptors, G-Protein-Coupled"
+        },
+        {
+          "id": "D011956",
+          "term": "Receptors, Cell Surface"
+        },
+        {
+          "id": "D008565",
+          "term": "Membrane Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D011964",
+          "term": "Receptors, Gastrointestinal Hormone"
+        },
+        {
+          "id": "D018000",
+          "term": "Receptors, Peptide"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

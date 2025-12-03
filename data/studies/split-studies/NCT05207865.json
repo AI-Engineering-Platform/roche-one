@@ -1,0 +1,2750 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05207865",
+      "orgStudyIdInfo": {
+        "id": "BHV3000-405"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "C4951011",
+          "type": "OTHER",
+          "domain": "Alias Study Number"
+        }
+      ],
+      "organization": {
+        "fullName": "Pfizer",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Safety and Tolerability Study of Daily Dosing Rimegepant in Episodic Migraine Prevention",
+      "officialTitle": "A Phase 4, Open-label Study to Evaluate the Safety and Tolerability of Daily Dosing of Rimegepant in Episodic Migraine Prevention"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-03-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-07-02",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-07-02",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-01-12",
+      "studyFirstSubmitQcDate": "2022-01-25",
+      "studyFirstPostDateStruct": {
+        "date": "2022-01-26",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-07-02",
+      "resultsFirstSubmitQcDate": "2025-08-13",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-09-03",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-08-13",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-03",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Pfizer",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to further evaluate the long-term safety and tolerability of daily dosing of rimegepant for the prevention of episodic migraine.",
+      "detailedDescription": "This is a post marketing required study being conducted to further evaluate the long-term safety and tolerability of a more frequent daily dosing regimen of rimegepant for the prevention of episodic migraine."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Migraine",
+        "Episodic Migraine",
+        "Phonophobia",
+        "Photophobia"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 441,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Rimegepant",
+          "type": "EXPERIMENTAL",
+          "description": "rimegepant 75 mg ODT daily",
+          "interventionNames": [
+            "Drug: Rimegepant"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rimegepant",
+          "description": "rimegepant ODT 75mg daily",
+          "armGroupLabels": [
+            "Rimegepant"
+          ],
+          "otherNames": [
+            "BHV-3000"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants With On-Treatment Adverse Events (AEs) (Frequency >=5%) According to Intensity",
+          "description": "An AE was defined as any new untoward medical occurrence or worsening of a pre-existing medical condition in a clinical investigation participant administered an investigational (medicinal) product and did not necessarily have causal relationship with treatment. On-treatment AEs were those AEs which occurred after the study treatment start date until 7 days after last dose of study treatment. AEs were classified according to intensity as: mild: transient and required minimal treatment or therapeutic intervention, event did not interfere with usual activities of daily living; moderate: alleviated with additional specific therapeutic intervention, event interfered with activities of daily living, causing discomfort; severe: interrupted activities of daily living, affected clinical status, or required intensive treatment. AEs occurring in \\>=5% participants are reported in this OM.",
+          "timeFrame": "From start of study treatment (Day 1) up to 7 days after the last dose of study treatment (Up to 25 weeks)"
+        },
+        {
+          "measure": "Number of Participants With On-Treatment Serious Adverse Events (SAEs)",
+          "description": "An SAE was any event that resulted in death; was life threatening; required inpatient hospitalization or prolongation of existing hospitalization; was persistent or caused significant disability/incapacity or congenital anomaly/birth defect in the offspring of a participant who received Rimegepant, or other important medical events. On-treatment AEs were those AEs which occurred after the study treatment start date until 7 days after last dose of study treatment.",
+          "timeFrame": "From start of study treatment (Day 1) up to 7 days after the last dose of study treatment (Up to 25 weeks)"
+        },
+        {
+          "measure": "Number of Participants With AEs Leading to Study Drug Discontinuation",
+          "description": "An AE was defined as any new untoward medical occurrence or worsening of a pre-existing medical condition in a clinical investigation participant administered an investigational (medicinal) product and did not necessarily have causal relationship with treatment. Number of participants with AEs leading to study drug discontinuations are reported in this outcome measure.",
+          "timeFrame": "From start of study treatment (Day 1) up to 7 days after the last dose of study treatment (Up to 25 weeks)"
+        },
+        {
+          "measure": "Number of Participants With Grade 3 to 4 Laboratory Abnormalities On-Treatment Using Common Technical Criteria for Adverse Events- Division of Acquired Immune Deficiency Syndrome (CTCAE/DAIDS) Toxicity Grading Scale",
+          "description": "The following laboratory parameters were assessed: eosinophils, hemoglobin low and high, leukocytes low, lymphocytes low and high, neutrophils, platelets, alanine aminotransferase, albumin, alkaline phosphatase, aspartate aminotransferase, bicarbonate, bilirubin, calcium low and high, cholesterol, creatine kinase, creatinine, glomerular filtration rate estimated, glucose low and high, lactate dehydrogenase, low-density lipoprotein (LDL) cholesterol, LDL cholesterol fasting and not fasting, potassium low and high, sodium low and high, triglycerides, triglycerides fasting and not fasting, uric acid, urine glucose and urine protein. Laboratory abnormalities were graded according to NCI CTCAE v5.0; where grade 3=severe and grade 4=life-threatening except for glucose, LDL cholesterol, and urinalysis where DAIDS v2.1 was used. (grade 3= severe and grade 4= life-threatening).",
+          "timeFrame": "From start of study treatment (Day 1) up to 7 days after the last dose of study treatment (Up to 25 weeks)"
+        },
+        {
+          "measure": "Number of Participants With Grade 3 to 4 Laboratory Abnormalities On-Treatment Using Food and Drug Administration (FDA) Toxicity Grading Scale",
+          "description": "The following laboratory parameters were assessed: eosinophils, hemoglobin, leukocytes low, lymphocytes low and high, neutrophils, platelets, alanine aminotransferase, albumin, alkaline phosphatase, aspartate aminotransferase, bilirubin, blood urine nitrogen, calcium low and high, cholesterol, creatine, glucose low and high, potassium low and high, protein, sodium low and high, urine glucose and urine protein. Laboratory abnormality events were graded according to FDA toxicity grading scale (grade 3= severe and grade 4= life-threatening).",
+          "timeFrame": "From start of study treatment (Day 1) up to 7 days after the last dose of study treatment (Up to 25 weeks)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Subject has at least 1 year history of episodic migraine (with or without aura) consistent with a diagnosis according to the International Classification of Headache Disorders, 3rd Edition, including the following:\n* Age of onset of migraines prior to 50 years of age\n* Migraine attacks, on average, lasting 4 -72 hours if untreated\n* Per subject report, 4-14 migraine attacks per month within the last 3 months prior to the Screening Visit (month is defined as 4 weeks for the purpose of this protocol)\n* Subjects ≥ 18 years\n\nKey Exclusion Criteria:\n\n* Subject history with current evidence of uncontrolled, unstable or recently diagnosed cardiovascular disease, such as ischemic heart disease, coronary artery vasospasm, and cerebral ischemia. Subjects with myocardial infarction (MI), acute coronary syndrome (ACS), percutaneous coronary intervention (PCI), cardiac surgery, stroke or transient ischemic attack (TIA) during the 6 months (24 weeks) prior to the Screening Visit.\n* Uncontrolled hypertension (high blood pressure) or uncontrolled diabetes.\n* The subject has a history or current evidence of any unstable medical conditions (e.g., history of congenital heart disease or arrhythmia, known or suspected infection, hepatitis B or C, or cancer) that, in the investigator's opinion, would expose them to undue risk of a significant adverse event (AE) or interfere with assessments of safety or efficacy during the course of the study\n* History of use of opioid- or barbiturate- (e.g. butalbital) containing medication for 4 or more days per month during the 3 months (12 weeks) prior to the Screening Visit\n* WOCBP who are unwilling or unable to use an acceptable contraceptive method or abstinence to avoid pregnancy for the entire study and for 28 days after the last dose of study drug\n* Women who are pregnant or breastfeeding\n* Women with a positive pregnancy test at screening or prior to study drug administration",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Pfizer CT.gov Call Center",
+          "affiliation": "Pfizer",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Elite Clinical Studies, LLC",
+          "city": "Phoenix",
+          "state": "Arizona",
+          "zip": "85018",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.44838,
+            "lon": -112.07404
+          }
+        },
+        {
+          "facility": "Advanced Investigative Medicine, Inc.",
+          "city": "Hawthorne",
+          "state": "California",
+          "zip": "90250",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.9164,
+            "lon": -118.35257
+          }
+        },
+        {
+          "facility": "Velocity Clinical Research - North Hollywood",
+          "city": "North Hollywood",
+          "state": "California",
+          "zip": "91606",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.17223,
+            "lon": -118.37897
+          }
+        },
+        {
+          "facility": "Chase Medical Research, LLC",
+          "city": "Waterbury",
+          "state": "Connecticut",
+          "zip": "06708",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.55815,
+            "lon": -73.0515
+          }
+        },
+        {
+          "facility": "Phoenix Medical Research, LLC",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33165",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "The Headache Clinic",
+          "city": "Alexandria",
+          "state": "Louisiana",
+          "zip": "71301",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 31.31129,
+            "lon": -92.44514
+          }
+        },
+        {
+          "facility": "Boston Clinical Trials",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02131",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "Michigan Head Pain & Neurological Institute",
+          "city": "Ann Arbor",
+          "state": "Michigan",
+          "zip": "48104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.27756,
+            "lon": -83.74088
+          }
+        },
+        {
+          "facility": "CVS HealthHub - East Brunswick",
+          "city": "East Brunswick",
+          "state": "New Jersey",
+          "zip": "08816",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.42788,
+            "lon": -74.41598
+          }
+        },
+        {
+          "facility": "CVS HealthHub - Lawrenceville",
+          "city": "Lawrenceville",
+          "state": "New Jersey",
+          "zip": "08648",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.29733,
+            "lon": -74.7296
+          }
+        },
+        {
+          "facility": "CVS HealthHUB - Runnemede",
+          "city": "Runnemede",
+          "state": "New Jersey",
+          "zip": "08078",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.85234,
+            "lon": -75.06795
+          }
+        },
+        {
+          "facility": "SPRI Clinical Trials, LLC",
+          "city": "Brooklyn",
+          "state": "New York",
+          "zip": "11235",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.6501,
+            "lon": -73.94958
+          }
+        },
+        {
+          "facility": "Velocity Clinical Research",
+          "city": "Cincinnati",
+          "state": "Ohio",
+          "zip": "45242",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.12711,
+            "lon": -84.51439
+          }
+        },
+        {
+          "facility": "OK Clinical Research, LLC",
+          "city": "Edmond",
+          "state": "Oklahoma",
+          "zip": "73034",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.65283,
+            "lon": -97.4781
+          }
+        },
+        {
+          "facility": "Clinical Research Philadelphia, LLC",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19114",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95238,
+            "lon": -75.16362
+          }
+        },
+        {
+          "facility": "WR-ClinSearch, LLC",
+          "city": "Chattanooga",
+          "state": "Tennessee",
+          "zip": "37421",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.04563,
+            "lon": -85.30968
+          }
+        },
+        {
+          "facility": "VIP Trails",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78230",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "VIP Trials",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78230",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "Tidewater Integrated Medical Research",
+          "city": "Virginia Beach",
+          "state": "Virginia",
+          "zip": "23454",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.85293,
+            "lon": -75.97799
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "To obtain contact information for a study center near you, click here.",
+          "url": "https://pmiform.com/clinical-trial-info-request?StudyID=BHV3000-405"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical\\_trials/trial\\_data\\_and\\_results/data\\_requests.",
+      "url": "https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Out of the 441 enrolled participants, only 250 received study treatment; 184 participants failed screening, 6 participants were lost to follow-up and 1 participant withdrew consent.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Rimegepant",
+          "description": "Participants received a single dose of Rimegepant 75 milligrams (mg) orally disintegrating tablet (ODT) daily for 24 weeks during the open-label treatment phase."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Open-Label Treatment Phase",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "250"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "187"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "63"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "7"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "8"
+                }
+              ]
+            },
+            {
+              "type": "Non-compliance",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "Other",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "17"
+                }
+              ]
+            },
+            {
+              "type": "Physician Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Pregnancy",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Protocol Violation",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Protocol-specified withdrawal criterion met",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "14"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Follow-up Phase",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "comment": "Participants who took study drug whose last contact date is in the follow-up analysis period.",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "235"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "220"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "15"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Non-compliance",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Not reported",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Not collected",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Rimegepant",
+          "description": "Participants received a single dose of Rimegepant 75 mg ODT daily for 24 weeks during the open-label treatment phase."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "250"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "42.6",
+                      "spread": "14.05"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "206"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "44"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "35"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "215"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "216"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With On-Treatment Adverse Events (AEs) (Frequency >=5%) According to Intensity",
+          "description": "An AE was defined as any new untoward medical occurrence or worsening of a pre-existing medical condition in a clinical investigation participant administered an investigational (medicinal) product and did not necessarily have causal relationship with treatment. On-treatment AEs were those AEs which occurred after the study treatment start date until 7 days after last dose of study treatment. AEs were classified according to intensity as: mild: transient and required minimal treatment or therapeutic intervention, event did not interfere with usual activities of daily living; moderate: alleviated with additional specific therapeutic intervention, event interfered with activities of daily living, causing discomfort; severe: interrupted activities of daily living, affected clinical status, or required intensive treatment. AEs occurring in \\>=5% participants are reported in this OM.",
+          "populationDescription": "Safety analysis set included participants in the enrolled analysis set who took greater than or equal to (\\>=) 1 dose of study drug (rimegepant), i.e., nonmissing study drug start date.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From start of study treatment (Day 1) up to 7 days after the last dose of study treatment (Up to 25 weeks)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Rimegepant",
+              "description": "Participants received a single dose of Rimegepant 75 mg ODT daily for 24 weeks during the open-label treatment phase."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "250"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Mild",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "33"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Moderate",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Moderate or severe",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With On-Treatment Serious Adverse Events (SAEs)",
+          "description": "An SAE was any event that resulted in death; was life threatening; required inpatient hospitalization or prolongation of existing hospitalization; was persistent or caused significant disability/incapacity or congenital anomaly/birth defect in the offspring of a participant who received Rimegepant, or other important medical events. On-treatment AEs were those AEs which occurred after the study treatment start date until 7 days after last dose of study treatment.",
+          "populationDescription": "Safety analysis set included participants in the enrolled analysis set who took \\>= 1 dose of study drug (rimegepant), i.e., nonmissing study drug start date.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From start of study treatment (Day 1) up to 7 days after the last dose of study treatment (Up to 25 weeks)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Rimegepant",
+              "description": "Participants received a single dose of Rimegepant 75 mg ODT daily for 24 weeks during the open-label treatment phase."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "250"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With AEs Leading to Study Drug Discontinuation",
+          "description": "An AE was defined as any new untoward medical occurrence or worsening of a pre-existing medical condition in a clinical investigation participant administered an investigational (medicinal) product and did not necessarily have causal relationship with treatment. Number of participants with AEs leading to study drug discontinuations are reported in this outcome measure.",
+          "populationDescription": "Safety analysis set included participants in the enrolled analysis set who took \\>= 1 dose of study drug (rimegepant), i.e., nonmissing study drug start date.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From start of study treatment (Day 1) up to 7 days after the last dose of study treatment (Up to 25 weeks)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Rimegepant",
+              "description": "Participants received a single dose of Rimegepant 75 mg ODT daily for 24 weeks during the open-label treatment phase."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "250"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Grade 3 to 4 Laboratory Abnormalities On-Treatment Using Common Technical Criteria for Adverse Events- Division of Acquired Immune Deficiency Syndrome (CTCAE/DAIDS) Toxicity Grading Scale",
+          "description": "The following laboratory parameters were assessed: eosinophils, hemoglobin low and high, leukocytes low, lymphocytes low and high, neutrophils, platelets, alanine aminotransferase, albumin, alkaline phosphatase, aspartate aminotransferase, bicarbonate, bilirubin, calcium low and high, cholesterol, creatine kinase, creatinine, glomerular filtration rate estimated, glucose low and high, lactate dehydrogenase, low-density lipoprotein (LDL) cholesterol, LDL cholesterol fasting and not fasting, potassium low and high, sodium low and high, triglycerides, triglycerides fasting and not fasting, uric acid, urine glucose and urine protein. Laboratory abnormalities were graded according to NCI CTCAE v5.0; where grade 3=severe and grade 4=life-threatening except for glucose, LDL cholesterol, and urinalysis where DAIDS v2.1 was used. (grade 3= severe and grade 4= life-threatening).",
+          "populationDescription": "Safety analysis set included participants in the enrolled analysis set who took \\>= 1 dose of study drug (rimegepant), i.e., nonmissing study drug start date. All participants reported under \"Number of Participants Analyzed\" contributed data to the table; however, may not have evaluable data for every row and \"Number Analyzed\" signifies participants evaluable for specified rows.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From start of study treatment (Day 1) up to 7 days after the last dose of study treatment (Up to 25 weeks)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Rimegepant",
+              "description": "Participants received a single dose of Rimegepant 75 mg ODT daily for 24 weeks during the open-label treatment phase."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "250"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Eosinophils",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hemoglobin, low",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hemoglobin, high",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Leukocytes, low",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Lymphocytes, low",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Lymphocytes, high",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Neutrophils",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Platelets",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Alanine Aminotransferase",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Albumin",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Alkaline Phosphatase",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Aspartate Aminotransferase",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Bicarbonate",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Bilirubin",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Calcium, low",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Calcium, high",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Cholesterol",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "225"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Creatine Kinase",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Creatinine",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Glomerular Filtration Rate, Estimated",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Glucose, low",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "236"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Glucose, high",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "236"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Lactate Dehydrogenase",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "236"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "LDL Cholesterol",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "225"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "22"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "LDL Cholesterol, fasting",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "150"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "LDL Cholesterol, not fasting",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "88"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Potassium, low",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "236"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Potassium, high",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "236"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Sodium, low",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Sodium, high",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Triglycerides",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "225"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Triglycerides, fasting",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "150"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Triglycerides, not fasting",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "88"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Uric Acid",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Urine Glucose",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "209"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Urine Protein",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "209"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Grade 3 to 4 Laboratory Abnormalities On-Treatment Using Food and Drug Administration (FDA) Toxicity Grading Scale",
+          "description": "The following laboratory parameters were assessed: eosinophils, hemoglobin, leukocytes low, lymphocytes low and high, neutrophils, platelets, alanine aminotransferase, albumin, alkaline phosphatase, aspartate aminotransferase, bilirubin, blood urine nitrogen, calcium low and high, cholesterol, creatine, glucose low and high, potassium low and high, protein, sodium low and high, urine glucose and urine protein. Laboratory abnormality events were graded according to FDA toxicity grading scale (grade 3= severe and grade 4= life-threatening).",
+          "populationDescription": "Safety analysis set included participants in the enrolled analysis set who took \\>= 1 dose of study drug (rimegepant), i.e., nonmissing study drug start date. All participants reported under \"Number of Participants Analyzed\" contributed data to the table; however, may not have evaluable data for every row and \"Number Analyzed\" signifies participants evaluable for specified rows.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From start of study treatment (Day 1) up to 7 days after the last dose of study treatment (Up to 25 weeks)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Rimegepant",
+              "description": "Participants received a single dose of Rimegepant 75 mg ODT daily for 24 weeks during the open-label treatment phase."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "250"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Eosinophils",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hemoglobin",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Leukocytes, low",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Leukocytes, high",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Lymphocytes",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Neutrophils",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Platelets",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Alanine Aminotransferase",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Albumin",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Alkaline Phosphatase",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Aspartate Aminotransferase",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Bilirubin",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Blood Urine Nitrogen",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Calcium, low",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Calcium, high",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Cholesterol",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "225"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "54"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Creatinine",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Glucose, low",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "236"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Glucose, high",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "236"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Potassium, low",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "236"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Potassium, high",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "236"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Protein",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Sodium, low",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Sodium, high",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "237"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Urine Glucose",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "209"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Urine Protein",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "209"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "For On-treatment period: From start of study treatment (Day 1) up to 7 days after the last dose of study treatment (Up to 25 weeks); For Follow-up period- from 2 weeks after last dose of study treatment up to 8 weeks after last dose of study treatment",
+      "description": "Safety analysis set included participants in the enrolled analysis set who took \\>= 1 dose of study drug (rimegepant), i.e., nonmissing study drug start date.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Rimegepant (On-treatment Period)",
+          "description": "Participants received a single dose of Rimegepant 75 mg ODT daily for 24 weeks during the open-label treatment phase.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 250,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 250,
+          "otherNumAffected": 48,
+          "otherNumAtRisk": 250
+        },
+        {
+          "id": "EG001",
+          "title": "Rimegepant (Follow-up Period)",
+          "description": "Participants were followed up from 2 weeks after last dose of study treatment up to 8 weeks after last dose of study treatment.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 235,
+          "seriousNumAffected": 2,
+          "seriousNumAtRisk": 235,
+          "otherNumAffected": 2,
+          "otherNumAtRisk": 235
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Dehydration",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA v27.0MedDRA",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 250
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 235
+            }
+          ]
+        },
+        {
+          "term": "Suicide attempt",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDRA v27.0MedDRA",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 250
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 235
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0MedDRA",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 23,
+              "numAtRisk": 250
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 235
+            }
+          ]
+        },
+        {
+          "term": "COVID-19",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA v27.0MedDRA",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 16,
+              "numAtRisk": 250
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 235
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA v27.0MedDRA",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 15,
+              "numAtRisk": 250
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 235
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "Pfizer has the right to review disclosures, requesting a delay of less than 60 days. Investigator will postpone single center publications until after disclosure of pooled data (all sites), less than 12 months from study completion/termination at all participating sites. Investigator may not disclose previously undisclosed confidential information other than study results."
+      },
+      "pointOfContact": {
+        "title": "Pfizer ClinicalTrials.gov Call Center",
+        "organization": "Pfizer Inc.",
+        "email": "ClinicalTrials.gov_Inquiries@pfizer.com",
+        "phone": "1-800-718-1021"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-08-17",
+          "uploadDate": "2025-07-02T08:31",
+          "filename": "Prot_000.pdf",
+          "size": 1079126
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2025-03-13",
+          "uploadDate": "2025-07-02T08:31",
+          "filename": "SAP_001.pdf",
+          "size": 989263
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-07-23",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D008881",
+          "term": "Migraine Disorders"
+        },
+        {
+          "id": "D012001",
+          "term": "Hyperacusis"
+        },
+        {
+          "id": "D020795",
+          "term": "Photophobia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D051270",
+          "term": "Headache Disorders, Primary"
+        },
+        {
+          "id": "D020773",
+          "term": "Headache Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D006311",
+          "term": "Hearing Disorders"
+        },
+        {
+          "id": "D004427",
+          "term": "Ear Diseases"
+        },
+        {
+          "id": "D010038",
+          "term": "Otorhinolaryngologic Diseases"
+        },
+        {
+          "id": "D012678",
+          "term": "Sensation Disorders"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D014786",
+          "term": "Vision Disorders"
+        },
+        {
+          "id": "D005128",
+          "term": "Eye Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C578443",
+          "term": "rimegepant sulfate"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

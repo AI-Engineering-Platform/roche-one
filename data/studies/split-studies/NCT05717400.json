@@ -1,0 +1,1083 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05717400",
+      "orgStudyIdInfo": {
+        "id": "2022-0844"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "NCI-2023-00828",
+          "type": "OTHER",
+          "domain": "NCI-CTRP Clinical Trials Registry"
+        }
+      ],
+      "organization": {
+        "fullName": "M.D. Anderson Cancer Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "Improving Response to Immunotherapy in Patients With Advanced Hepatocellular Carcinoma and Chronic Hepatitis C Virus Infection With Direct-Acting Antiviral Therapy",
+      "officialTitle": "Improving Response to Immunotherapy in Patients With Advanced Hepatocellular Carcinoma and Chronic Hepatitis C Virus Infection With Direct-Acting Antiviral Therapy"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-11",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "PI Request",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-03-17",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-08-29",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-08-29",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-01-27",
+      "studyFirstSubmitQcDate": "2023-01-27",
+      "studyFirstPostDateStruct": {
+        "date": "2023-02-08",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-10-17",
+      "resultsFirstSubmitQcDate": "2024-11-14",
+      "resultsFirstPostDateStruct": {
+        "date": "2024-12-10",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-12-10",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-12-31",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "M.D. Anderson Cancer Center",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Cancer Institute (NCI)",
+          "class": "NIH"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "To learn if giving immune checkpoint therapy (such as atezolizumab) and bevacizumab to patients who have HCC and are receiving DAAs may help to control HCC and hepatitis C.",
+      "detailedDescription": "Primary Objective(s):\n\n* Estimate the objective response rate (ORR) to ICT and estimate the sustained virologic response (SVR) in patients with HCC and chronic HCV infection using HCV clearance with DAA therapy.\n* Estimate the change of the overall T cells and virus-specific T cells before and after the antiviral treatment in patients with HCC and chronic HCV infection using HCV clearance with DAA therapy.\n\nSecondary objective:\n\n--Collect the safety profile of the treatment and estimate the time-to-event variable such as overall survival (OS) and progression free survival (PFS)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Liver Cancer"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 2,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "DAA therapy plus Bevacizumb and Atezolizumab",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will receive bevacizumab and atezolizumab about every 3 weeks as part of the standard of care HCC treatment that is managed by your cancer doctor. In addition, Participants will continue receiving your standard of care DAAs (either sofosbuvir + velpatasvir or sofosbuvir + velpatasvir + voxilaprevir)",
+          "interventionNames": [
+            "Drug: Bevacizumab",
+            "Drug: Atezolizumab",
+            "Drug: Sofosbuvir",
+            "Drug: Velpatasvir",
+            "Drug: Voxilaprevir",
+            "Drug: Ribavirin"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bevacizumab",
+          "description": "Given by vein (IV)",
+          "armGroupLabels": [
+            "DAA therapy plus Bevacizumb and Atezolizumab"
+          ],
+          "otherNames": [
+            "Avastin™",
+            "Anti-VEGF monoclonal antibody",
+            "rhuMAb-VEGF"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Atezolizumab",
+          "description": "Given by vein (IV)",
+          "armGroupLabels": [
+            "DAA therapy plus Bevacizumb and Atezolizumab"
+          ],
+          "otherNames": [
+            "MPDL3280A",
+            "TECENTRIQ"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Sofosbuvir",
+          "description": "Given by PO",
+          "armGroupLabels": [
+            "DAA therapy plus Bevacizumb and Atezolizumab"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Velpatasvir",
+          "description": "Given by PO",
+          "armGroupLabels": [
+            "DAA therapy plus Bevacizumb and Atezolizumab"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Voxilaprevir",
+          "description": "Given by PO",
+          "armGroupLabels": [
+            "DAA therapy plus Bevacizumb and Atezolizumab"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Ribavirin",
+          "description": "Given by PO",
+          "armGroupLabels": [
+            "DAA therapy plus Bevacizumb and Atezolizumab"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Overall Response Rate",
+          "description": "Stable Disease in 2 out of 2 patients",
+          "timeFrame": "9 months"
+        },
+        {
+          "measure": "Sustained Virologic Response (SVR)",
+          "description": "SVR 12 in 2 out of 2 patients",
+          "timeFrame": "9 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\nTo be eligible for participation in this trial, the patient must:\n\n1. Be willing and able to provide written informed consent for the trial.\n2. Be at least 18 years of age on the day of signing informed consent.\n3. Ability to comply with the study protocol, in the investigator's judgment\n4. Have histologically or cytologically confirmed diagnosis of HCC (fibrolamellar and mixed hepatocellular/cholangiocarcinoma subtypes are not eligible) based on pathology report.\n5. Disease that is not amenable to curative surgical and/or locoregional therapies, or progressive disease after surgical and /or locoregional therapies\n6. No prior systemic therapy for HCC.\n7. Patients who received prior local therapy (e.g., radiofrequency ablation, percutaneous ethanol or acetic acid injection, cryoablation, high-intensity focused ultrasound, transarterial chemoembolization, transarterial embolization, etc.) are eligible provided the target lesion(s) have not been previously treated with local therapy or the target lesion(s) within the field of local therapy have subsequently progressed in accordance with RECIST version 1.1.\n8. ECOG Performance Status of 0 or 1\n9. Have a detectable HCV RNA quantitative based on the COBAS AmpliPrep/COBAS TaqMan HCV test (version 2.0, Roche Molecular Systems, Branchburg, NJ) at the time of screening.\n10. Have documented chronic HCV GT1 through GT6 including evidence of mixed genotype infection:\n\n    1. Positive for anti-HCV antibody, HCV RNA, or any of the above HCV GTs at least 3 months before screening (HCV RNA and HCV GT must be confirmed by screening lab results) OR\n    2. Positive for anti-HCV antibody or HCV RNA at the time of screening with a liver biopsy consistent with chronic HCV infection (or a liver biopsy performed before enrollment with evidence of chronic HCV disease, such as the presence of fibrosis) or a Fibroscan performed within 12 months of Day 1 of this study with a result of \\>12.5 kPa or a FibroSure® (Fibrotest®) performed during Screening with a score of ≥0.75 or aspartate aminotransferase (AST): platelet ratio index (APRI) of \\>2. APRI formula: AST ÷ lab upper limit of normal (ULN) for AST × 100 ÷ (APRI calculation to be provided by the central laboratory.)\n11. Have a Child-Pugh A liver score at screening or within 14 days of the first dose of the study drug.\n12. Have liver disease staging assessment as follows:\n\n    Cirrhosis is defined as any one of the following\n    1. A liver biopsy performed prior to Day 1 of this study showing cirrhosis (F4)\n    2. Fibroscan performed within 12 calendar months of Day 1 of this study showing cirrhosis with result \\>12.5 kPa\n    3. A FibroSure® (Fibrotest®) performed during Screening with a score of ≥0.75 or an aspartate aminotransferase (AST): platelet ratio index (APRI) of \\>2. APRI formula: AST ÷ lab upper limit of normal (ULN) for AST × 100 ÷ (APRI calculation to be provided by the central laboratory.)\n\n    Absence of cirrhosis is defined as any one of the following:\n    1. Liver biopsy performed within 24 months of Day 1 of this study showing absence of cirrhosis\n    2. Fibroscan performed within 12 months of Day 1 of this study with a result of ≤12.5 kPa\n    3. A Fibrosure (Fibrotest) score of ≤0.27 or AST to Platelet Ratio Index (APRI) of ≤1 during Screening Fibroscan cut-off of 12.5 kPa has a positive predictive value of 90% and a sensitivity of 95% for ≥F3. Based on box and whisker plot of interquartile distribution \\>12.5 kPa will exclude the majority of subjects with metavir F3 fibrosis. In the absence of a definitive diagnosis of presence or absence of cirrhosis by the above criteria, a liver biopsy is required. Liver biopsy results supersede the results obtained by Fibroscan, Fibrosure or Fibrotest.\n13. Have a predicted life expectancy of greater than 3 months.\n14. Have measurable disease based on RECIST 1.1 as confirmed by M.D. Anderson radiology. Target lesions situated in a previously irradiated area are considered measurable if progression has been demonstrated in such lesions.\n\n    Note: the same image acquisition and processing parameters should be used throughout the study for a given subject.\n15. Patients with a past or resolved hepatitis B virus (HBV) infection, defined as having a negative HBsAg test and a positive total hepatitis B core antibody (HBcAb) test and negative HBV DNA test at screening, are eligible for the study.\n16. Female patients of childbearing potential must have a negative urine or serum pregnancy test within 72 hours prior to receiving the first dose of trial medication. If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required.\n17. Male patients of childbearing potential must agree to use an adequate method of contraception as outlined in Section 5.5.3 - Contraception, starting with the first dose of trial therapy through 120 days after the last dose of trial therapy.\n\n    Note: Abstinence is acceptable if this is the usual lifestyle and preferred contraception for the subject.\n18. Be willing to use an adequate method of contraception for the course of the study through 120 days after the last dose of study medication (male and female subjects of childbearing potential \\[Section 5.5.3\\]). Acceptable methods of contraception are as follows:\n\n    Single method (one of the following is acceptable):\n    1. intrauterine device (IUD)\n    2. vasectomy of a female subject's male partner\n    3. contraceptive rod implanted into the skin\n\n       Combination method (requires the use of 2 of the following):\n    4. diaphragm with spermicide (cannot be used in conjunction with cervical cap/spermicide)\n    5. cervical cap with spermicide (nulliparous women only)\n    6. contraceptive sponge (nulliparous women only)\n    7. male condom or female condom (cannot be used together)\n    8. hormonal contraceptive: oral contraceptive pill (estrogen/ progestin pill or progestin-only pill), contraceptive skin patch, vaginal contraceptive ring, or subcutaneous contraceptive injection Note: Abstinence (relative to heterosexual activity) can be used as the sole method of contraception if it is consistently employed as the subject's preferred and usual lifestyle and if considered acceptable by local regulatory agencies and Institutional Review Boards (IRBs)/Ethics Review Committees (ERCs). Periodic abstinence (e.g., calendar, ovulation, sympto-thermal, post-ovulation methods, etc.) and withdrawal are not acceptable methods of contraception.\n\n    If a contraceptive method listed above is restricted by local regulations/guidelines, then it does not qualify as an acceptable method of contraception for subjects participating at sites in this country/region.\n19. Patients treated with RBV must agree to double barrier birth control from Day 1 to 6 months following last dose of study therapy or they are excluded from this trial.\n20. Have adequate organ function as defined in Table 1. Specimens must be collected within 14 days before the start of trial treatment.\n\nTable 1:\n\nAdequate Organ Function Laboratory Tests System Laboratory Value Hematological\n\n* Absolute neutrophil count ≥1500/µL\n* Platelets ≥100,000/µL\n* Hemoglobin ≥9.0 g/dL or ≥5.6 mmol/La\n\nRenal\n\n* Creatinine OR Measured or calculatedb creatinine clearance (GFR can also be used in place of creatinine or CrCl) ≤1.5 × ULN OR\n\n  ≥30 mL/min for subject with creatinine levels \\>1.5 × institutional ULN Hepatic\n* Total bilirubin ≤1.5 ×ULN OR direct bilirubin ≤ULN for subjects with total bilirubin levels \\>1.5 × ULN\n* AST (SGOT) and ALT (SGPT) ≤2.5 × ULN (≤5 × ULN for subjects with liver metastases) Coagulation\n* INR or PT aPTT ≤1.5 × ULN unless subject is receiving anticoagulant therapy as long as PT or aPTT is within therapeutic range of intended use of anticoagulants\n\nAbbreviations: ALT = alanine aminotransferase; aPTT = activated partial thromboplastin time; AST = aspartate aminotransferase; EPO = erythropoietin; GFR = glomerular filtration rate; INR = international normalized ratio; PT = prothrombin time; PTT = partial thromboplastin time; SGOT = serum glutamic oxaloacetic transaminase; SGPT = serum glutamic pyruvic transaminase; ULN = upper limit of normal.\n\nExclusion Criteria:\n\n1. Is currently participating in or has participated in a trial of an investigational agent or has used an investigational device within 4 weeks prior to the first dose of trial treatment.\n\n   Note: Patients must have recovered from all AEs due to previously therapies to ≤ Grade 1 or baseline. Subjects with ≤ Grade 2 neuropathy may be eligible Note: Subjects who have entered the follow-up phase of an investigational trial may participate as long as it has been 4 weeks after the last dose of the previous investigational agent.\n\n   Note: Patients who have entered the follow-up phase of an investigational trial may participate as long as it has been 4 weeks after the last dose of the previous investigational agent.\n2. Has had esophageal or gastric variceal bleeding within the last 6 months. All subjects will be screened for esophageal varices, unless such screening has been performed in the past 12 months before first dose of treatment. If varices are present, they should be treated according to institutional standards before starting study treatment.\n3. Subjects with alanine aminotransferase (ALT) \\>5 × ULN at Day 1 are not eligible for enrollment.\n4. Subjects with Total Bilirubin (Tbil) \\>2.0 mg/dL at Day 1 are not eligible for enrollment\n5. Subjects with clinically apparent ascites or encephalopathy, or untreated varices are not eligible for enrollment. Subjects with Child-Pugh class B and C liver disease are also ineligible.\n6. Portal vein invasion at the main portal branch (Vp4), inferior vena cava, or cardiac involvement of HCC based on imaging.\n7. Has had encephalopathy in the last 6 months. Subjects on rifaximin or lactulose to control their encephalopathy are not allowed.\n8. Had a solid organ or hematologic transplant.\n9. Had prior systemic therapy for HCC other than sorafenib and/or regorafenib, or intercurrent local therapy to the liver tumor between sorafenib and/or regorafenib and study drug.\n10. Has evidence of history of chronic active hepatitis not caused by HCV, including but not limited to untreated active HBV (see criteria below under criterion 27), drug-induced hepatitis that is not resolved clinically, and autoimmune hepatitis.\n11. Has an active autoimmune disease that has required systemic treatment in past 2 years (ie, with use of disease-modifying agents, corticosteroids or immunosuppressive drugs). Replacement therapy (eg, thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency) is not considered a form of systemic treatment and is allowed.\n12. Has a diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 7 days prior to the first dose of trial drug.\n13. Has received locoregional therapy to the liver (TACE, TAE, radiation, radioembolization, or ablation) or surgery to the liver or other site within 6 weeks before the first dose of the study drug. Minor surgery must have occurred at least 7 days before the first dose of study treatment (Cycle 1, Day 1). Subjects must have recovered adequately (i.e., Grade ≤1 or baseline) from the toxicity and/or complications from any intervention before starting therapy.\n14. Has a known history of an additional malignancy, except if the participant has undergonepotentially curative therapy with no evidence of that disease recurrence for 5 years since initiation of that therapy.\n\n    a. Note: The time requirement does not apply to participants who underwent successful definitive resection of basal cell carcinoma of the skin, superficial bladder cancer,squamous cell carcinoma of the skin, in situ cervical cancer, in situ breast cancer, or other in situ cancers.\n15. Has radiographically detectable (even if asymptomatic and/or previously treated) central nervous system (CNS) metastases and/or carcinomatous meningitis as assessed by local site investigator.\n16. Has a history of (non-infectious) pneumonitis that required treatment with steroids or has current pneumonitis.\n17. Has an active infection requiring systemic therapy.\n18. Has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the trial, interfere with the subject's participation for the full duration of the trial, or is not in the best interest of the subject to participate, in the opinion of the treating investigator, including dialysis.\n19. Has known psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the trial.\n20. Is pregnant or breastfeeding, or expecting to conceive or father children within the projected duration of the trial, starting with the screening visit through 120 days after the last dose of trial treatment.\n21. Has received prior therapy with an anti-PD-1, anti-PD-L1, or anti PD L2 agent or with an agent directed to another stimulatory or co-inhibitory T cell receptor (eg, CTLA-4, OX-40, CD137)..\n22. Has severe hypersensitivity (≥Grade 3) to pembrolizumab and/or any of its excipients.\n23. Has a known history of human immunodeficiency virus (HIV) infection.\n24. Has a known history of active tuberculosis (TB; Bacillus tuberculosis).\n25. Has received a live vaccine within 30 days before the first dose of trial drug. Examples of live vaccines include, but are not limited to, the following: measles, mumps, rubella, varicella/zoster (chicken pox), yellow fever, rabies, Bacillus Calmette-Guérin (BCG), and typhoid vaccine. Seasonal influenza vaccines for injection are generally killed virus vaccines and are allowed; however, intranasal influenza vaccines (eg, FluMist®) are live attenuated vaccines and are not allowed.\n26. Has untreated active HBV. Note: Antiviral therapy for HBV must be given for at least 3 months before the first dose of the study drug, and HBV viral load must be less than 100 IU/mL before the first dose of the study drug. Those on active HBV therapy with viral loads under 100 IU/mL should stay on the same therapy throughout the study treatment. HBsAg, HBsAb, anti-HBe, anti-HBc, and HBV DNA must be measured at baseline and during the study. Those subjects who are anti-HBc (+) and negative for HBsAg and HBV DNA do not require HBV prophylaxis but need monitoring with HBsAg, HBsAb, anti-HBe, anti-HBc, and HBV DNA\n27. Has received a live vaccine within 30 days of the planned start of study therapy (Cycle 1, Day 1). Note: The killed virus vaccines used for seasonal influenza vaccines for injection are allowed; however intranasal influenza vaccines (e.g., FluMist®) are live attenuated vaccines and are not allowed.\n28. Subjects with a history of significant or unstable cardiac disease are excluded due to the hemolytic anemia associated with RBV. Subjects with proven coronary artery disease or angina.\n29. Has received prior first-line therapy within 14 days of the first dose of study medication.\n30. Has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the trial, interfere with the subject's participation for the full duration of the trial, or is not in the best interest of the subject to participate, in the opinion of the treating investigator.\n31. Has known psychiatric or substance abuse disorders that would interfere with cooperating with the requirements of the trial.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Harrys A. Torres, MD",
+          "affiliation": "M.D. Anderson Cancer Center",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "M D Anderson Cancer Center",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "M D Anderson Cancer Center",
+          "url": "http://www.mdanderson.org"
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "recruitmentDetails": "Recruitment period was between 03/17/2023-08/29/2024 at MD Anderson Cancer Center",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Unblinded Open-label Single Arm Phase 4 Study",
+          "description": "atezolizumab (1200 mg) plus bevacizumab (15 mg per kilogram of body weight) intravenously every 3 weeks combined with any of the following DAA regimens: 1) sofosbuvir (400 mg) + velpatasvir (100 mg), or 2) sofosbuvir (400 mg) + velpatasvir (100 mg) + voxilaprevir (100 mg) administered once daily or twice daily, orally, for 12 weeks"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Unblinded Open-label Single Arm Phase 4 Study",
+          "description": "atezolizumab (1200 mg) plus bevacizumab (15 mg per kilogram of body weight) intravenously every 3 weeks combined with any of the following DAA regimens: 1) sofosbuvir (400 mg) + velpatasvir (100 mg), or 2) sofosbuvir (400 mg) + velpatasvir (100 mg) + voxilaprevir (100 mg) administered once daily or twice daily, orally, for 12 weeks"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "2"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Overall Response Rate",
+          "description": "Stable Disease in 2 out of 2 patients",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "9 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Unblinded Open-label Single Arm Phase 4 Study",
+              "description": "atezolizumab (1200 mg) plus bevacizumab (15 mg per kilogram of body weight) intravenously every 3 weeks combined with any of the following DAA regimens: 1) sofosbuvir (400 mg) + velpatasvir (100 mg), or 2) sofosbuvir (400 mg) + velpatasvir (100 mg) + voxilaprevir (100 mg) administered once daily or twice daily, orally, for 12 weeks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Sustained Virologic Response (SVR)",
+          "description": "SVR 12 in 2 out of 2 patients",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "9 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Unblinded Open-label Single Arm Phase 4 Study",
+              "description": "atezolizumab (1200 mg) plus bevacizumab (15 mg per kilogram of body weight) intravenously every 3 weeks combined with any of the following DAA regimens: 1) sofosbuvir (400 mg) + velpatasvir (100 mg), or 2) sofosbuvir (400 mg) + velpatasvir (100 mg) + voxilaprevir (100 mg) administered once daily or twice daily, orally, for 12 weeks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "1 year and 5 months",
+      "description": "Any grade 3-4 adverse events observed during the study period, one patient died because of progressive disease after follow-up period.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Unblinded Open-label Single Arm Phase 4 Study",
+          "description": "atezolizumab (1200 mg) plus bevacizumab (15 mg per kilogram of body weight) intravenously every 3 weeks combined with any of the following DAA regimens: 1) sofosbuvir (400 mg) + velpatasvir (100 mg), or 2) sofosbuvir (400 mg) + velpatasvir (100 mg) + voxilaprevir (100 mg) administered once daily or twice daily, orally, for 12 weeks",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 2,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 2,
+          "otherNumAffected": 2,
+          "otherNumAtRisk": 2
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Weakness",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Edema",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Anorexia",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Anemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Alt increase",
+          "organSystem": "Metabolism and nutrition disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "AST increase",
+          "organSystem": "Metabolism and nutrition disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Creatinine increased",
+          "organSystem": "Renal and urinary disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Alkaline phosphatase increased",
+          "organSystem": "Metabolism and nutrition disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Hypoalbuminemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Chills",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Rhinorrhea (Runny nose)",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Pain (Abdominal, back, shoulder and neck)",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Bone pain",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Anxiety",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Insomnia",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Nervousness",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Gait disturbance",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Arthralgia",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Mucositis",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Fatigue",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 2
+            }
+          ]
+        },
+        {
+          "term": "Proteinuria",
+          "organSystem": "Renal and urinary disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 2
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Harrys A. Torres, MD",
+        "organization": "M D Anderson Cancer Center",
+        "email": "htorres@mdanderson.org",
+        "phone": "(713) 792-6503"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-04-23",
+          "uploadDate": "2024-10-15T10:35",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 1254486
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2023-02-07",
+          "uploadDate": "2024-12-10T11:51",
+          "filename": "ICF_001.pdf",
+          "size": 230158
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2024-11-13",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D008113",
+          "term": "Liver Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D004067",
+          "term": "Digestive System Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D008107",
+          "term": "Liver Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000068258",
+          "term": "Bevacizumab"
+        },
+        {
+          "id": "C000594389",
+          "term": "atezolizumab"
+        },
+        {
+          "id": "D000069474",
+          "term": "Sofosbuvir"
+        },
+        {
+          "id": "C000604171",
+          "term": "velpatasvir"
+        },
+        {
+          "id": "C000619503",
+          "term": "voxilaprevir"
+        },
+        {
+          "id": "D012254",
+          "term": "Ribavirin"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D061067",
+          "term": "Antibodies, Monoclonal, Humanized"
+        },
+        {
+          "id": "D000911",
+          "term": "Antibodies, Monoclonal"
+        },
+        {
+          "id": "D000906",
+          "term": "Antibodies"
+        },
+        {
+          "id": "D007136",
+          "term": "Immunoglobulins"
+        },
+        {
+          "id": "D007162",
+          "term": "Immunoproteins"
+        },
+        {
+          "id": "D001798",
+          "term": "Blood Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D012712",
+          "term": "Serum Globulins"
+        },
+        {
+          "id": "D005916",
+          "term": "Globulins"
+        },
+        {
+          "id": "D014542",
+          "term": "Uridine Monophosphate"
+        },
+        {
+          "id": "D014500",
+          "term": "Uracil Nucleotides"
+        },
+        {
+          "id": "D011742",
+          "term": "Pyrimidine Nucleotides"
+        },
+        {
+          "id": "D011743",
+          "term": "Pyrimidines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D009711",
+          "term": "Nucleotides"
+        },
+        {
+          "id": "D009706",
+          "term": "Nucleic Acids, Nucleotides, and Nucleosides"
+        },
+        {
+          "id": "D012265",
+          "term": "Ribonucleotides"
+        },
+        {
+          "id": "D012263",
+          "term": "Ribonucleosides"
+        },
+        {
+          "id": "D009705",
+          "term": "Nucleosides"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,743 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06219577",
+      "orgStudyIdInfo": {
+        "id": "JM-23-02"
+      },
+      "organization": {
+        "fullName": "Scripps Poway Eyecare and Optometry",
+        "class": "OTHER"
+      },
+      "briefTitle": "Subjective and Objective Performance of Systane Complete Multi-Dose PF Versus Walgreen's Lubricant Balance",
+      "officialTitle": "Subjective and Objective Performance of Systane Complete Multi-Dose PF Versus Walgreen's Lubricant Balance"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-01-18",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-04-22",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-04-22",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-01-03",
+      "studyFirstSubmitQcDate": "2024-01-12",
+      "studyFirstPostDateStruct": {
+        "date": "2024-01-23",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-03-04",
+      "resultsFirstSubmitQcDate": "2025-03-25",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-04-08",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-03-25",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-04-08",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Scripps Poway Eyecare and Optometry",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Sengi",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Single site, prospective, double-masked, randomized-controlled, two-arm study of the dry eye symptoms as well as corneal and conjunctival staining in subjects using 2 different eyedrops. Subjects will be assessed at a screening visit, and 2 follow-up visits. Clinical evaluations will include patient questionnaire, tear-breakup time, and slit lamp exam."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Dry Eye"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 70,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Systane Complete Multi-Dose PF",
+          "type": "OTHER",
+          "interventionNames": [
+            "Drug: Systane Complete Multi-Dose PF"
+          ]
+        },
+        {
+          "label": "Walgreen's Lubricant Balance",
+          "type": "OTHER",
+          "interventionNames": [
+            "Drug: Walgreen's Lubricant Balance"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Systane Complete Multi-Dose PF",
+          "description": "Eyedrop",
+          "armGroupLabels": [
+            "Systane Complete Multi-Dose PF"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Walgreen's Lubricant Balance",
+          "description": "Eyedrop",
+          "armGroupLabels": [
+            "Walgreen's Lubricant Balance"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "SANDE Questionnaire",
+          "description": "The Symptom Assessment iN Dry Eye (SANDE) questionnaire.\n\nSubjects are asked to place an 'X' on the line to indicate both the frequency and severity of their dry eye symptoms. Each question is scored from 0 to 100. The scores for frequency and severity are used to calculate a total score, where Total Score = square.root\\[Q1 \\* Q2\\].\n\nHigher total score on the questionnaire indicates more frequent or severe dry eye symptoms.",
+          "timeFrame": "Change from baseline to 2 weeks"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Corneal and Conjunctival Staining",
+          "description": "Baseline corneal and conjunctival staining with sodium fluorescein and Wratten filter assessed OU using the Academy of Ophthalmology 5 quadrant scheme. Each quadrant will be graded (0-3) giving a total score (by summation) of 0-15 per eye. A higher score is a worse outcome.",
+          "timeFrame": "Change from baseline to 2 weeks"
+        },
+        {
+          "measure": "Non-invasive Tear Breakup Time",
+          "timeFrame": "Change from baseline to 2 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\nSubjects are eligible for the study if they meet the following criteria:\n\nNote: Ocular criteria must be met in both eyes.\n\n* Subjects who currently have mild to moderate symptoms of dry eye as defined by a screening SANDE score of 20-55 inclusive (equivalent to OSDI score of 12 -32).2\n* Subjects between the ages of 18-65.\n* Subjects willing to comply with the prescribed regimen and schedule of eye drops.\n* Subjects willing to attend all study visits.\n* Subjects willing to discontinue any current artificial tear use 24 hours prior to the baseline study visit.\n\nExclusion Criteria:\n\nIf any of the following exclusion criteria are applicable to the subject or either eye, the subject should not be enrolled in the study.\n\n* Ocular anterior segment infection, inflammation, abnormality, or active disease.\n* History of herpetic keratitis or ocular surgery.\n* Recent (within 1 year) thermal meibomian gland expression procedure including Lipiflow, iLux, or TearCare.\n* Recent (within 1 year) blepharitis debridement procedure including BlephEx.\n* Screening SANDE score \\> 55 (equivalent to OSDI score of \\>32).2 This is indicative of a severe dry eye.\n* Screening SANDE score \\< 20 (equivalent to OSDI score of \\<12).2 This is indicative of a clinically normal eye.\n* Screening non-invasive TBUT \\< 2 seconds, or \\> 10 seconds.3\n* Screening NaFl score \\< 3 (clinically normal eye) or \\> 10 (severe dry eye).4\n* Pregnant or lactating.\n* Current use of contact lenses.\n* Any change in eye drop regimen, whether OTC or RX in the last 90 days.\n\nThe principal investigator reserves the right to declare a patient ineligible or non-evaluable based on medical evidence that indicates they are unsuitable for the trial.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Jay Mashouf, OD",
+          "affiliation": "Scripps Poway Eyecare & Optometry",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Scripps Poway Eyecare & Optometry",
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92131",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.71571,
+            "lon": -117.16472
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Systane Complete Multi-Dose PF",
+          "description": "Systane Complete Multi-Dose PF: Eyedrop"
+        },
+        {
+          "id": "FG001",
+          "title": "Walgreen's Lubricant Balance",
+          "description": "Walgreen's Lubricant Balance: Eyedrop"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "35"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "35"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "35"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "35"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Systane Complete Multi-Dose PF",
+          "description": "Systane Complete Multi-Dose PF: Eyedrop"
+        },
+        {
+          "id": "BG001",
+          "title": "Walgreen's Lubricant Balance",
+          "description": "Walgreen's Lubricant Balance: Eyedrop"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "35"
+            },
+            {
+              "groupId": "BG001",
+              "value": "35"
+            },
+            {
+              "groupId": "BG002",
+              "value": "70"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "70"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41.8",
+                      "spread": "14.2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "39.4",
+                      "spread": "15.1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "40.8",
+                      "spread": "14.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "70"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "43"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "27"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "SANDE Questionnaire",
+          "description": "The Symptom Assessment iN Dry Eye (SANDE) questionnaire.\n\nSubjects are asked to place an 'X' on the line to indicate both the frequency and severity of their dry eye symptoms. Each question is scored from 0 to 100. The scores for frequency and severity are used to calculate a total score, where Total Score = square.root\\[Q1 \\* Q2\\].\n\nHigher total score on the questionnaire indicates more frequent or severe dry eye symptoms.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score",
+          "timeFrame": "Change from baseline to 2 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Systane Complete Multi-Dose PF",
+              "description": "Systane Complete Multi-Dose PF: Eyedrop"
+            },
+            {
+              "id": "OG001",
+              "title": "Walgreen's Lubricant Balance",
+              "description": "Walgreen's Lubricant Balance: Eyedrop"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "35"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "35"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-7.2",
+                      "spread": "11.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-2.2",
+                      "spread": "6.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Corneal and Conjunctival Staining",
+          "description": "Baseline corneal and conjunctival staining with sodium fluorescein and Wratten filter assessed OU using the Academy of Ophthalmology 5 quadrant scheme. Each quadrant will be graded (0-3) giving a total score (by summation) of 0-15 per eye. A higher score is a worse outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score",
+          "timeFrame": "Change from baseline to 2 weeks",
+          "typeUnitsAnalyzed": "eyes",
+          "denomUnitsSelected": "eyes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Systane Complete Multi-Dose PF",
+              "description": "Systane Complete Multi-Dose PF: Eyedrop"
+            },
+            {
+              "id": "OG001",
+              "title": "Walgreen's Lubricant Balance",
+              "description": "Walgreen's Lubricant Balance: Eyedrop"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "35"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "35"
+                }
+              ]
+            },
+            {
+              "units": "eyes",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "35"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "35"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-2.8",
+                      "spread": "1.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-0.9",
+                      "spread": "1.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Non-invasive Tear Breakup Time",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "seconds",
+          "timeFrame": "Change from baseline to 2 weeks",
+          "typeUnitsAnalyzed": "eyes",
+          "denomUnitsSelected": "eyes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Systane Complete Multi-Dose PF",
+              "description": "Systane Complete Multi-Dose PF: Eyedrop"
+            },
+            {
+              "id": "OG001",
+              "title": "Walgreen's Lubricant Balance",
+              "description": "Walgreen's Lubricant Balance: Eyedrop"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "35"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "35"
+                }
+              ]
+            },
+            {
+              "units": "eyes",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "35"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "35"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.1",
+                      "spread": "2.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.2",
+                      "spread": "4.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "2 weeks",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Systane Complete Multi-Dose PF",
+          "description": "Systane Complete Multi-Dose PF: Eyedrop",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 35,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 35,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 35
+        },
+        {
+          "id": "EG001",
+          "title": "Walgreen's Lubricant Balance",
+          "description": "Walgreen's Lubricant Balance: Eyedrop",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 35,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 35,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 35
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Dr Jay Mashouf",
+        "organization": "Scripps Optometric Group",
+        "email": "jaymashouf@gmail.com",
+        "phone": "18585302800"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-12-06",
+          "uploadDate": "2025-03-04T10:41",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 328150
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-03-14",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015352",
+          "term": "Dry Eye Syndromes"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007766",
+          "term": "Lacrimal Apparatus Diseases"
+        },
+        {
+          "id": "D005128",
+          "term": "Eye Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

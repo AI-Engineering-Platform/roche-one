@@ -1,0 +1,1034 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05441592",
+      "orgStudyIdInfo": {
+        "id": "HUM00210979"
+      },
+      "organization": {
+        "fullName": "University of Michigan",
+        "class": "OTHER"
+      },
+      "briefTitle": "A Randomized Control Trial Assessing the Effect of Topical Tranexamic Acid on Risk of Hematoma in Breast Surgery",
+      "officialTitle": "A Randomized Control Trial Assessing the Effect of Topical Tranexamic Acid on Risk of Hematoma in Breast Surgery"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-08-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-10-22",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-10-22",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-06-27",
+      "studyFirstSubmitQcDate": "2022-06-27",
+      "studyFirstPostDateStruct": {
+        "date": "2022-07-01",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-10-21",
+      "resultsFirstSubmitQcDate": "2025-11-12",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-11-26",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-11-12",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-11-26",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Edwin G. Wilkins",
+        "investigatorTitle": "Professor of Surgery",
+        "investigatorAffiliation": "University of Michigan"
+      },
+      "leadSponsor": {
+        "name": "University of Michigan",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This trial is being completed to evaluate the safety and efficacy of topical tranexamic acid use in preventing hematomas in routine breast plastic surgery operations."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Hematoma Postoperative"
+      ],
+      "keywords": [
+        "Breast reduction",
+        "Gender-affirming mastectomy",
+        "Tranexamic Acid"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "PARTICIPANT"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 107,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Irrigation that contains tranexamic acid (TXA)",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: Tranexamic acid injection"
+          ]
+        },
+        {
+          "label": "No additional irrigation usual care",
+          "type": "OTHER",
+          "interventionNames": [
+            "Other: No additional irrigation"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tranexamic acid injection",
+          "description": "The breast pockets will additionally be irrigated with 150 cc of 2.67% TXA (75 cc in each breast). The TXA solution will be allowed to be sit in the breast pocket for 15 minutes and then removed after 15 minutes.",
+          "armGroupLabels": [
+            "Irrigation that contains tranexamic acid (TXA)"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "No additional irrigation",
+          "description": "There will be no additional irrigation after the standard surgical procedure.",
+          "armGroupLabels": [
+            "No additional irrigation usual care"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Hematomas",
+          "description": "Results reflect the number of hematomas that occurred during the trial, requiring operative washout or aspiration in participants who received TXA versus participants who did not receive TXA.",
+          "timeFrame": "Up to approximately 4 weeks after surgery"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Participants Who Experienced a Major Thromboembolic Event Related to the Study Drug",
+          "description": "Results reflect the number of participants who experienced any major thromboembolic event during the trial. Major thromboembolic events included, but were not limited to, deep vein thrombosis, pulmonary embolism, and stroke.",
+          "timeFrame": "Up to approximately 4 weeks after surgery"
+        },
+        {
+          "measure": "Participants Who Experienced Major Complications Other Than Hematoma",
+          "description": "Results reflect the number of participants who experienced any major complication other than a hematoma. Major complications included, but were not limited to, infection, seroma, hypersensitivity reaction to TXA, and renal impairment.",
+          "timeFrame": "Up to approximately 4 weeks after surgery"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients undergoing bilateral breast reduction or bilateral gender-affirming mastectomy\n* For patients undergoing bilateral breast reduction, any skin incision pattern or pedicle is acceptable.\n* For patients undergoing bilateral gender-affirming mastectomy, any skin incision and mastectomy type is acceptable\n\nExclusion Criteria:\n\n* Active thromboembolic disease or history of intrinsic risk of thrombosis or thromboembolism, including retinal vein or artery occlusion\n* Current use of systemic anticoagulation\n* Hypersensitivity to tranexamic acid\n* Concomitant use of combined hormonal contraceptives\n* Use of factor IX complex concentrates, anti-inhibitor coagulant concentrates or all-trans retinoic acid\n* History of acquired defective color vision\n* History of subarachnoid hemorrhage\n* Pregnancy\n* History of renal impairment or serum Creatinine \\>1.5 milligrams per deciliter (mg/dL)",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Edwin Wilkins, MD",
+          "affiliation": "University of Michigan",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Michigan",
+          "city": "Ann Arbor",
+          "state": "Michigan",
+          "zip": "48109",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.27756,
+            "lon": -83.74088
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Irrigation that contains tranexamic acid (TXA)",
+          "description": "Tranexamic acid injection: The breast pockets will additionally be irrigated with 150 cc of 2.67% TXA (75 cc in each breast). The TXA solution will be allowed to be sit in the breast pocket for 15 minutes and then removed after 15 minutes."
+        },
+        {
+          "id": "FG001",
+          "title": "No additional irrigation usual care",
+          "description": "No additional irrigation: There will be no additional irrigation after the standard surgical procedure."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "55"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "52"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "54"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "47"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "5"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Irrigation That Contains Tranexamic Acid (TXA)",
+          "description": "Tranexamic acid injection: The breast pockets will additionally be irrigated with 150 cc of 2.67% TXA (75 cc in each breast). The TXA solution will be allowed to be sit in the breast pocket for 15 minutes and then removed after 15 minutes."
+        },
+        {
+          "id": "BG001",
+          "title": "No Additional Irrigation Usual Care",
+          "description": "No additional irrigation: There will be no additional irrigation after the standard surgical procedure."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "55"
+            },
+            {
+              "groupId": "BG001",
+              "value": "52"
+            },
+            {
+              "groupId": "BG002",
+              "value": "107"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "24",
+                      "lowerLimit": "21",
+                      "upperLimit": "31"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "28",
+                      "lowerLimit": "22",
+                      "upperLimit": "33"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "26",
+                      "lowerLimit": "21",
+                      "upperLimit": "32"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex/Gender, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Female",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Male",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Transgender Female",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Transgender Male",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "59"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Non-Binary",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "25"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "49"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "49"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "98"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "43"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "84"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "55"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "52"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "107"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Hematomas",
+          "description": "Results reflect the number of hematomas that occurred during the trial, requiring operative washout or aspiration in participants who received TXA versus participants who did not receive TXA.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "hematomas",
+          "timeFrame": "Up to approximately 4 weeks after surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Irrigation that contains tranexamic acid (TXA)",
+              "description": "Tranexamic acid injection: The breast pockets will additionally be irrigated with 150 cc of 2.67% TXA (75 cc in each breast). The TXA solution will be allowed to be sit in the breast pocket for 15 minutes and then removed after 15 minutes."
+            },
+            {
+              "id": "OG001",
+              "title": "No additional irrigation usual care",
+              "description": "No additional irrigation: There will be no additional irrigation after the standard surgical procedure."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "54"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "47"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.486",
+              "statisticalMethod": "Fisher Exact"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Participants Who Experienced a Major Thromboembolic Event Related to the Study Drug",
+          "description": "Results reflect the number of participants who experienced any major thromboembolic event during the trial. Major thromboembolic events included, but were not limited to, deep vein thrombosis, pulmonary embolism, and stroke.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to approximately 4 weeks after surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Irrigation that contains tranexamic acid (TXA)",
+              "description": "Tranexamic acid injection: The breast pockets will additionally be irrigated with 150 cc of 2.67% TXA (75 cc in each breast). The TXA solution will be allowed to be sit in the breast pocket for 15 minutes and then removed after 15 minutes."
+            },
+            {
+              "id": "OG001",
+              "title": "No additional irrigation usual care",
+              "description": "No additional irrigation: There will be no additional irrigation after the standard surgical procedure."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "54"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "47"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Participants Who Experienced Major Complications Other Than Hematoma",
+          "description": "Results reflect the number of participants who experienced any major complication other than a hematoma. Major complications included, but were not limited to, infection, seroma, hypersensitivity reaction to TXA, and renal impairment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to approximately 4 weeks after surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Irrigation that contains tranexamic acid (TXA)",
+              "description": "Tranexamic acid injection: The breast pockets will additionally be irrigated with 150 cc of 2.67% TXA (75 cc in each breast). The TXA solution will be allowed to be sit in the breast pocket for 15 minutes and then removed after 15 minutes."
+            },
+            {
+              "id": "OG001",
+              "title": "No additional irrigation usual care",
+              "description": "No additional irrigation: There will be no additional irrigation after the standard surgical procedure."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "54"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "47"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.234",
+              "statisticalMethod": "Fisher Exact"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "4 weeks",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Irrigation that contains tranexamic acid (TXA)",
+          "description": "Tranexamic acid injection: The breast pockets will additionally be irrigated with 150 cc of 2.67% TXA (75 cc in each breast). The TXA solution will be allowed to be sit in the breast pocket for 15 minutes and then removed after 15 minutes.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 55,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 55,
+          "otherNumAffected": 6,
+          "otherNumAtRisk": 55
+        },
+        {
+          "id": "EG001",
+          "title": "No additional irrigation usual care",
+          "description": "No additional irrigation: There will be no additional irrigation after the standard surgical procedure.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 52,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 52,
+          "otherNumAffected": 6,
+          "otherNumAtRisk": 52
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Hematoma Requiring Reoperation",
+          "organSystem": "Blood and lymphatic system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 55
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 52
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Surgical site infection",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 55
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 52
+            }
+          ]
+        },
+        {
+          "term": "Delayed wound healing",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 55
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 5,
+              "numAtRisk": 52
+            }
+          ]
+        },
+        {
+          "term": "Rash/Dermatitis",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 55
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 52
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Edwin Wilkins",
+        "organization": "University of Michigan",
+        "email": "ewilkins@med.umich.edu",
+        "phone": "734-936-6680"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2022-05-12",
+          "uploadDate": "2025-10-15T14:45",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 340102
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-10-31",
+            "type": "ESTIMATED"
+          }
+        }
+      }
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D014148",
+          "term": "Tranexamic Acid"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003509",
+          "term": "Cyclohexanecarboxylic Acids"
+        },
+        {
+          "id": "D000146",
+          "term": "Acids, Carbocyclic"
+        },
+        {
+          "id": "D002264",
+          "term": "Carboxylic Acids"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

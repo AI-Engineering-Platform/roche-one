@@ -1,0 +1,795 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04923347",
+      "orgStudyIdInfo": {
+        "id": "212655"
+      },
+      "organization": {
+        "fullName": "GlaxoSmithKline",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Evaluate the Safety and Efficacy of Fluticasone Furoate (FF)/Umeclidinium(UMEC)/Vilanterol (VI) in Participants With Chronic Obstructive Pulmonary Disease (COPD)",
+      "officialTitle": "Phase IV, 12-week, Single Arm, Open Label Study Evaluating the Safety and Efficacy of Fixed Dose Triple Combination FF/UMEC/VI Administered Once Daily in the Morning Via a Dry Powder Inhaler in Participants With Chronic Obstructive Pulmonary Disease in India"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-06-06",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-03-14",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-03-14",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-06-06",
+      "studyFirstSubmitQcDate": "2021-06-06",
+      "studyFirstPostDateStruct": {
+        "date": "2021-06-11",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-03-07",
+      "resultsFirstSubmitQcDate": "2025-03-07",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-03-24",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-03-07",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-03-24",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "GlaxoSmithKline",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This study will evaluate safety and efficacy of FF/UMEC/VI via ELLIPTA® inhaler. ELLIPTA is a registered trademark of GlaxoSmithKline group of companies."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Pulmonary Disease, Chronic Obstructive"
+      ],
+      "keywords": [
+        "Chronic Obstructive Pulmonary Disease",
+        "ELLIPTA",
+        "Fluticasone Furoate",
+        "Umeclidinium",
+        "Vilanterol"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "interventionModelDescription": "Participants will receive FF/UMEC/VI via ELLIPTA inhaler.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE",
+          "maskingDescription": "This will be an open-label study."
+        }
+      },
+      "enrollmentInfo": {
+        "count": 229,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Participants receiving FF/UMEC/VI via ELLIPTA inhaler",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: FF/UMEC/VI",
+            "Device: ELLIPTA"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "FF/UMEC/VI",
+          "description": "FF/UMEC/VI will be administered",
+          "armGroupLabels": [
+            "Participants receiving FF/UMEC/VI via ELLIPTA inhaler"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "ELLIPTA",
+          "description": "Participants will receive FF/UMEC/VI using ELLIPTA inhaler.",
+          "armGroupLabels": [
+            "Participants receiving FF/UMEC/VI via ELLIPTA inhaler"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants With Adverse Events (AE), Serious Adverse Events (SAE) and Adverse Events of Special Interest (AESIs)",
+          "description": "An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of a study treatment, whether or not considered related to the study treatment. SAE is any untoward event resulting in death, life threatening, requires hospitalization or prolongation of existing hospitalization, results in disability/incapacity, congenital anomaly/birth defect or any other important medical event according to medical or scientific judgement. Protocol defined AESIs were included. SAEs are subset of AEs. AEs were coded using the Medical Dictionary for Regulatory Activities (MedDRA dictionary).",
+          "timeFrame": "Up to approximately 40 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change From Baseline (CFB) in Trough Forced Expiratory Volume in 1 Second (FEV1) on Day 28 and Day 85",
+          "description": "FEV1 is a measure of lung function defined as the maximal amount of air that can be forcefully exhaled in one second. It was measured using spirometry. Baseline is defined as the last non-missing observation made prior to the first administration of study treatment including those from unscheduled visits. Trough FEV1 on Day 28 was defined as the mean of the FEV1 values obtained prior to dosing on Day 28. Trough FEV1 on Day 85 was defined as the mean of the FEV1 values obtained 24 hours after morning dosing on Day 84.",
+          "timeFrame": "Baseline (Day 1), Day 28 and Day 85"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion criteria:\n\n* A signed and dated written informed consent prior to study participation\n* Participants 40 years of age or older at Screening (Visit 1)\n* Male and female participants will be included in the study. A female participant is eligible to participate if she is not pregnant, not breastfeeding, and at least one of the following conditions applies: Not a woman of childbearing potential (WOCBP) OR A WOCBP who agrees to follow the contraceptive guidance during the treatment period and until the safety follow-up contact after the last dose of study intervention.\n* An established clinical history of COPD in accordance with the definition by the American Thoracic Society/European Respiratory Society.\n* Current or former cigarette smokers with a history of cigarette smoking of greater than equal to (\\>=)10 pack-years at Screening (Visit 1) (number of pack years = \\[number of cigarettes per day divided by 20\\] times number of years smoked \\[for example 20 cigarettes per day for 10 years, or 10 cigarettes per day for 20 years\\]). Previous smokers are defined as those who have stopped smoking for at least 6 months prior to Visit 1.\n* Participant with history of \\>=2 moderate exacerbations or one severe (hospitalized) exacerbation in the previous 12 months, and with a score of \\>=10 on the COPD Assessment Test (CAT) eligible for the study treatment in the opinion of the investigator and documented post salbutamol FEV1/ Forced Vital Capacity (FVC) ratio of \\<0.70\n* Participant must be receiving daily long-acting maintenance treatment for their COPD for at least 3 months prior to Screening. To be eligible for the study treatment phase, participants must be compliant with their existing COPD maintenance therapy (in the opinion of the investigator) for the preceding two weeks prior to screening.\n* A negative test for active Coronavirus Disease 2019 (COVID-19) at Visit 1. The test should be done using a molecular (Polymerase chain reaction \\[PCR\\] or antigen test) approved by the country regulatory authorities.\n\nExclusion Criteria:\n\n* Women who are pregnant or lactating or are planning on becoming pregnant during the study.\n* Participants with a current diagnosis of asthma. (Participants with a prior history of asthma are eligible if they have a current diagnosis of COPD).\n* Documented (medical records) evidence of reversibility. Reversibility is defined as an increase in FEV1 of \\>=12 percent (%) and \\>=200 milliliter (mL) following administration of salbutamol. Participants defined as non-reversible will have a post-salbutamol increase in FEV1 of \\<200mL or a \\>=200mL increase that is \\<12% from pre-salbutamol baselineParticipants with alpha 1-antitrypsin deficiency as the underlying cause of COPD.\n* Participants with active tuberculosis, lung cancer, and clinically significant (in the opinion of the investigator): bronchiectasis, sarcoidosis, lung fibrosis, pulmonary hypertension, interstitial lung diseases or other active pulmonary diseases\n* Participants with lung volume reduction surgery within the 12 months prior to Screening\n* Pneumonia and/or moderate or severe COPD exacerbation that has not resolved at least 14 days prior to Screening and at least 30 days following the last dose of oral/systemic corticosteroids and/or antibiotics (if applicable). In addition, any participant that experiences pneumonia and/or moderate or severe COPD exacerbation within the preceding two weeks prior to screening will be excluded.\n* Respiratory tract infection that has not resolved at least 7 days prior to Screening.\n* Participants with known COVID-19 positive contacts within the past 14 days should be excluded for at least 14 days since the exposure and the participant remains symptom free. Participants with symptoms suggestive of active COVID-19 infection e.g. fever, cough (new or worsened), etc. are also excluded.\n* Chest x-ray (poster anterior and lateral) reveals evidence of pneumonia or a clinically significant abnormality not believed to be due to the presence of COPD, or another condition that would hinder the ability to detect an infiltrate on chest x-ray (CXR) (e.g. significant cardiomegaly, pleural effusion or scarring).\n* Participants with historical or current evidence of clinically significant cardiovascular, neurological, psychiatric, renal, hepatic, immunological, gastrointestinal, urogenital, nervous system, musculoskeletal, skin, sensory, endocrine (including uncontrolled diabetes or thyroid disease) or hematological abnormalities that are uncontrolled.\n* Abnormal and clinically significant 12-lead electrocardiogram (ECG) finding at Visit 1.\n* Use of long-term oxygen therapy (LTOT) described as resting oxygen therapy \\>3 Liters per minute (L/min) at screening (Oxygen use \\<=3L/min flow at rest is not exclusionary.)\n* Participants must not start the acute phase of a pulmonary rehabilitation program within the 4 weeks prior to Visit 1.\n* Participants who are medically unable to withhold their salbutamol for the 4-hour period required prior to spirometry testing at each study visit.\n* In the opinion of the investigator, any participant who is unable to read and/or would not be able to complete study related materials.\n* Use of the following medications within the following time intervals prior to Visit 1 or during the study:\n* Participants receiving antibiotics for long term therapy are not eligible for the study.\n* No use of systemic, Oral, parenteral corticosteroids within 30 days prior to screening (Intra-articular injections are allowed).\n* No use of any other investigational drug within 30 days or 5 half-lives whichever is longer prior to screening.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "40 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "GSK Clinical Trials",
+          "affiliation": "GlaxoSmithKline",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Ajmer",
+          "zip": "305001",
+          "country": "India",
+          "geoPoint": {
+            "lat": 26.4521,
+            "lon": 74.63867
+          }
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Bangalore",
+          "zip": "560092",
+          "country": "India",
+          "geoPoint": {
+            "lat": 12.97194,
+            "lon": 77.59369
+          }
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Bikaner",
+          "zip": "334001",
+          "country": "India",
+          "geoPoint": {
+            "lat": 28.01762,
+            "lon": 73.31495
+          }
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Hyderabad",
+          "zip": "500084",
+          "country": "India",
+          "geoPoint": {
+            "lat": 17.38405,
+            "lon": 78.45636
+          }
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Jaipur",
+          "zip": "302039",
+          "country": "India",
+          "geoPoint": {
+            "lat": 26.91962,
+            "lon": 75.78781
+          }
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Kolkata",
+          "zip": "700014",
+          "country": "India",
+          "geoPoint": {
+            "lat": 22.56263,
+            "lon": 88.36304
+          }
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Kolkata",
+          "zip": "700027",
+          "country": "India",
+          "geoPoint": {
+            "lat": 22.56263,
+            "lon": 88.36304
+          }
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Kozhikode",
+          "zip": "673008",
+          "country": "India",
+          "geoPoint": {
+            "lat": 11.24802,
+            "lon": 75.7804
+          }
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Mumbai",
+          "zip": "401107",
+          "country": "India",
+          "geoPoint": {
+            "lat": 19.07283,
+            "lon": 72.88261
+          }
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Mysore",
+          "zip": "57001",
+          "country": "India",
+          "geoPoint": {
+            "lat": 12.29791,
+            "lon": 76.63925
+          }
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Nagpur",
+          "zip": "44009",
+          "country": "India",
+          "geoPoint": {
+            "lat": 21.14631,
+            "lon": 79.08491
+          }
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Nashik",
+          "zip": "422007",
+          "country": "India",
+          "geoPoint": {
+            "lat": 19.99727,
+            "lon": 73.79096
+          }
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Pondy-Cuddalore ECR Main Road Pillaiyarkuppam Pond",
+          "zip": "605402",
+          "country": "India"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Pune",
+          "zip": "411047",
+          "country": "India",
+          "geoPoint": {
+            "lat": 18.51957,
+            "lon": 73.85535
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Qualified researchers may request access to anonymized individual patient-level data (IPD) and related study documents of the eligible studies via the Data Sharing Portal. Details on GSK's data sharing criteria can be found at: https://www.gsk.com/en-gb/innovation/trials/data-transparency/",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP",
+        "ICF",
+        "CSR"
+      ],
+      "timeFrame": "Anonymized IPD will be made available within 6 months of publication of primary, key secondary and safety results for studies in product with approved indication(s) or terminated asset(s) across all indications.",
+      "accessCriteria": "Anonymized IPD is shared with researchers whose proposals are approved by an Independent Review Panel and after a Data Sharing Agreement is in place. Access is provided for an initial period of 12 months but an extension may be granted, when justified, for up to 6 months.",
+      "url": "https://www.gsk.com/en-gb/innovation/trials/data-transparency/"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "FF/UMEC/VI ELLIPTA",
+          "description": "Participants with symptomatic chronic obstructive pulmonary disease (COPD) received a single dose of fluticasone furoate \\[FF\\] 100 microgram \\[ug\\] / umeclidinium \\[UMEC\\] 62.5 ug / vilanterol \\[VI\\] 25 ug as a fixed dose combination in a single inhaler (TRELEGY ELLIPTA) via inhalation for 12 weeks."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "229"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "215"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "14"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "14"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "FF/UMEC/VI ELLIPTA",
+          "description": "Participants with symptomatic chronic obstructive pulmonary disease (COPD) received a single dose of fluticasone furoate \\[FF\\] 100 microgram \\[ug\\] / umeclidinium \\[UMEC\\] 62.5 ug / vilanterol \\[VI\\] 25 ug as a fixed dose combination in a single inhaler (TRELEGY ELLIPTA) via inhalation for 12 weeks."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "229"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "YEARS",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60.4",
+                      "spread": "10.09"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "220"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Asian",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "229"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Adverse Events (AE), Serious Adverse Events (SAE) and Adverse Events of Special Interest (AESIs)",
+          "description": "An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of a study treatment, whether or not considered related to the study treatment. SAE is any untoward event resulting in death, life threatening, requires hospitalization or prolongation of existing hospitalization, results in disability/incapacity, congenital anomaly/birth defect or any other important medical event according to medical or scientific judgement. Protocol defined AESIs were included. SAEs are subset of AEs. AEs were coded using the Medical Dictionary for Regulatory Activities (MedDRA dictionary).",
+          "populationDescription": "Intent-to-Treat (ITT) population included participants who received at least one dose of study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to approximately 40 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "FF/UMEC/VI ELLIPTA",
+              "description": "Participants with symptomatic chronic obstructive pulmonary disease (COPD) received a single dose of fluticasone furoate \\[FF\\] 100 microgram \\[ug\\] / umeclidinium \\[UMEC\\] 62.5 ug / vilanterol \\[VI\\] 25 ug as a fixed dose combination in a single inhaler (TRELEGY ELLIPTA) via inhalation for 12 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "229"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "AEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "35"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "SAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "AESIs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline (CFB) in Trough Forced Expiratory Volume in 1 Second (FEV1) on Day 28 and Day 85",
+          "description": "FEV1 is a measure of lung function defined as the maximal amount of air that can be forcefully exhaled in one second. It was measured using spirometry. Baseline is defined as the last non-missing observation made prior to the first administration of study treatment including those from unscheduled visits. Trough FEV1 on Day 28 was defined as the mean of the FEV1 values obtained prior to dosing on Day 28. Trough FEV1 on Day 85 was defined as the mean of the FEV1 values obtained 24 hours after morning dosing on Day 84.",
+          "populationDescription": "ITT Population. Only those participants with data available at the specified time points were analyzed.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Liters",
+          "timeFrame": "Baseline (Day 1), Day 28 and Day 85",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "FF/UMEC/VI ELLIPTA",
+              "description": "Participants with symptomatic chronic obstructive pulmonary disease (COPD) received a single dose of fluticasone furoate \\[FF\\] 100 microgram \\[ug\\] / umeclidinium \\[UMEC\\] 62.5 ug / vilanterol \\[VI\\] 25 ug as a fixed dose combination in a single inhaler (TRELEGY ELLIPTA) via inhalation for 12 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "218"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "218"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.3645",
+                      "spread": "0.58677"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "CFB to Day 28",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "200"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.0542",
+                      "spread": "0.21577"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "CFB to Day 85",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "191"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.0317",
+                      "spread": "0.25852"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "3",
+      "timeFrame": "All cause mortality, non-serious adverse events (Non-SAEs) and serious adverse events (SAEs) were collected up to approximately 40 weeks.",
+      "description": "Intent-to-Treat (ITT) population included participants who received at least one dose of study treatment.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "FF/UMEC/VI ELLIPTA",
+          "description": "Participants with symptomatic chronic obstructive pulmonary disease (COPD) received a single dose of fluticasone furoate \\[FF\\] 100 microgram \\[ug\\] / umeclidinium \\[UMEC\\] 62.5 ug / vilanterol \\[VI\\] 25 ug as a fixed dose combination in a single inhaler (TRELEGY ELLIPTA) via inhalation for 12 weeks.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 229,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 229,
+          "otherNumAffected": 19,
+          "otherNumAtRisk": 229
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Dyspnoea",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA v26.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 229
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA v26.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 10,
+              "numAffected": 10,
+              "numAtRisk": 229
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA v26.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 9,
+              "numAffected": 9,
+              "numAtRisk": 229
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "GSK agreements may vary with individual investigators, but will not prohibit any investigator from publishing. GSK supports the publication of results from all centers of a multi-center trial but requests that reports based on single site data not precede the primary publication of the entire clinical trial."
+      },
+      "pointOfContact": {
+        "title": "GSK Response Center",
+        "organization": "GlaxoSmithKline",
+        "email": "GSKClinicalSupportHD@gsk.com",
+        "phone": "866-435-7343"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-05-03",
+          "uploadDate": "2025-03-07T01:11",
+          "filename": "Prot_000.pdf",
+          "size": 1455884
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-04-25",
+          "uploadDate": "2025-03-07T01:11",
+          "filename": "SAP_001.pdf",
+          "size": 698457
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D029424",
+          "term": "Pulmonary Disease, Chronic Obstructive"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D008173",
+          "term": "Lung Diseases, Obstructive"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

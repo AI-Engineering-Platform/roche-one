@@ -1,0 +1,1967 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05658887",
+      "orgStudyIdInfo": {
+        "id": "202207210"
+      },
+      "organization": {
+        "fullName": "University of Iowa",
+        "class": "OTHER"
+      },
+      "briefTitle": "Preoperative Gabapentin vs Placebo for Vaginal Prolapse Surgery",
+      "officialTitle": "A Double-Blind Randomized Placebo-Controlled Clinical Trial of Preoperative Gabapentin Prior to Vaginal Apical Suspension Prolapse Procedures"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-01-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-12-31",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-12-31",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-12-09",
+      "studyFirstSubmitQcDate": "2022-12-17",
+      "studyFirstPostDateStruct": {
+        "date": "2022-12-21",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-05-15",
+      "resultsFirstSubmitQcDate": "2025-07-28",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-08-12",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-07-28",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-08-12",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR_INVESTIGATOR",
+        "investigatorFullName": "Joseph Kowalski",
+        "investigatorTitle": "Principle Investigator",
+        "investigatorAffiliation": "University of Iowa"
+      },
+      "leadSponsor": {
+        "name": "Joseph Kowalski",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "University of Iowa",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study will recruit women scheduled to undergo vaginal apical suspension surgery (either uterosacral ligament suspension or sacrospinous ligament fixation) with or without other prolapse or anti-incontinence procedures. Participants will be randomized 1:1 to preoperative gabapentin or preoperative placebo (both patients and investigators will be blinded). Note the control group will receive preoperative acetaminophen/celecoxib/placebo and the treatment group will receive preoperative acetaminophen/celecoxib/gabapentin (preoperative acetaminophen/celecoxib are part of our current ERAS protocol). The primary outcome will be postoperative opioid use in the first 24 hours postoperatively measured in morphine milligram equivalents.",
+      "detailedDescription": "Enhanced Recovery after Surgery (ERAS) is an approach to perioperative care that focuses on evidence-based care protocols that emphasize minimizing stress and improving the body's response to stress. These protocols have resulted in a significant decrease in length of stay, complications, and cost in many different surgical specialities. Many of these protocols (including our current gynecology ERAS protocol) include preoperative gabapentin as an intervention to help reduce postoperative pain and postoperative opioid use. Gabapentin is an anticonvulsant medication that is commonly used for chronic neuropathic pain and other chronic pain disorders. The data regarding perioperative use of gabapentin is currently mixed, and the data in gynecology (and especially urogynecology) is limited. Notably gabapentin has been shown to be associated with sedation, respiratory depression, dizziness, and visual disturbances. In 2019, the U.S. Food and Drug Administration issued a warning that serious breathing difficulties may occur in patients using gabapentin with respiratory risk factors.\n\nPelvic organ prolapse is a common benign condition, and surgery for pelvic organ prolapse is very common. Vaginal apical suspension is one of the most common surgeries for pelvic organ prolapse. There is very limited data on the utility of preoperative gabapentin for vaginal apical suspension surgery.\n\nThis study will recruit women scheduled to undergo vaginal apical suspension surgery (either uterosacral ligament suspension or sacrospinous ligament fixation) with or without other prolapse or anti-incontinence procedures. Participants will be randomized 1:1 to preoperative gabapentin or preoperative placebo (both patients and investigators will be blinded). Note the control group will receive preoperative acetaminophen/celecoxib/placebo and the treatment group will receive preoperative acetaminophen/celecoxib/gabapentin (preoperative acetaminophen/celecoxib are part of our current ERAS protocol). The primary outcome will be postoperative opioid use in the first 24 hours postoperatively measured in morphine milligram equivalents."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Pelvic Organ Prolapse",
+        "Perioperative/Postoperative Complications"
+      ],
+      "keywords": [
+        "perioperative pain"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 110,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin placebo",
+          "interventionNames": [
+            "Drug: Gabapentin Placebo"
+          ]
+        },
+        {
+          "label": "Intervention",
+          "type": "EXPERIMENTAL",
+          "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin",
+          "interventionNames": [
+            "Drug: Gabapentin"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Gabapentin",
+          "description": "One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure",
+          "armGroupLabels": [
+            "Intervention"
+          ],
+          "otherNames": [
+            "FusePaq Fanatrex",
+            "Gabarone",
+            "Gralise",
+            "Neurontin"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Gabapentin Placebo",
+          "description": "Gabapentin Placebo",
+          "armGroupLabels": [
+            "Placebo"
+          ],
+          "otherNames": [
+            "FusePaq Fanatrex Placebo",
+            "Gabarone Placebo",
+            "Gralise Placebo",
+            "Neurontin Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Postoperative Opioid Use",
+          "description": "Total postoperative opioid use in the first 24 hours postop measured in MME (starting when the patient leaves the operating room)",
+          "timeFrame": "24 hours after surgery. This includes postoperative opioid use in the hospital AND at home (which is why it is different from outcome measure 3)."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Mean Postop Pain Score",
+          "description": "Mean postoperative pain score (using the validated numerical rating scale, minimum score 0, maximum score 10, higher scores mean worse pain/worse outcome) while admitted in the hospital. Note: this is the mean score while they were postoperatively but median below is correct because we used the median of each individual's MEAN score (this is addressing the comment #10)",
+          "timeFrame": "From the time surgery finished to a max of 24 hours after. This was measured by postoperative nursing periodically throughout the postoperative period per standard nursing protocol: usually every hour for the first two hours and then every 4 to 8 hours"
+        },
+        {
+          "measure": "Postoperative Opioid Use While Admitted in the Hospital",
+          "description": "postoperative opioid use while admitted",
+          "timeFrame": "After surgery, max of 24 hours. Note that this is only postoperative opioid use in the hospital. Outcome measure 1 is total postoperative opioid use (in the hospital and at home)"
+        },
+        {
+          "measure": "Time to Discharge",
+          "description": "Admitted time",
+          "timeFrame": "Total admitted time (from admission to the hospital to discharge)"
+        },
+        {
+          "measure": "Number of Patients Who Report Postoperative Dizziness",
+          "description": "Patient reported postoperative dizziness",
+          "timeFrame": "24 hours postoperative"
+        },
+        {
+          "measure": "Number of Patients Who Report Sedation",
+          "description": "Patient reported sedation",
+          "timeFrame": "24 hours postoperative"
+        },
+        {
+          "measure": "Number of Patients Who Report Visual Changes",
+          "description": "Patient reported visual changes",
+          "timeFrame": "24 hours postoperative"
+        },
+        {
+          "measure": "Number of Patients Who Report Postoperative Nausea",
+          "description": "Patient reported postoperative nausea and vomiting",
+          "timeFrame": "24 hours postoperative"
+        },
+        {
+          "measure": "Number of Patients Who Report Postoperative Pain Adequacy",
+          "description": "Patient reported postoperative pain adequacy",
+          "timeFrame": "24 hours postoperative"
+        },
+        {
+          "measure": "Morphine Milligram Equivalents (MMEs) of Preoperative and Intraoperative Opioids",
+          "description": "Amount of opioids (in MMEs) given before and during the surgery",
+          "timeFrame": "Preop period to the end of the surgery (any opioids given to the patient from arrival in the hospital to the end of the surgery), on average 5 hours"
+        },
+        {
+          "measure": "Estimated Blood Loss",
+          "timeFrame": "During the surgery (from surgery start time to surgery end time, this was assessed at the end of the surgery while in the OR), on average 150 minutes"
+        },
+        {
+          "measure": "Surgery Length",
+          "timeFrame": "During surgery"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Scheduled for a vaginal apical support procedure (sacrospinous ligament fixation or vaginal uterosacral ligament suspension)\n* Female\n* Age 18 or higher\n\nExclusion Criteria:\n\n* Non-English speaking\n* Incarcerated\n* Cognitive impairment precluding informed consent\n* Chronic opioid user\n* Chronic gabapentinoid user\n* Contraindication to acetaminophen, celecoxib, or gabapentinoids\n* Concurrent laparoscopic or abdominal surgery",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "genderBased": true,
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Joseph Kowalski, MD",
+          "affiliation": "University of Iowa",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Iowa",
+          "city": "Iowa City",
+          "state": "Iowa",
+          "zip": "52242",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.66113,
+            "lon": -91.53017
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "28097305",
+          "type": "BACKGROUND",
+          "citation": "Ljungqvist O, Scott M, Fearon KC. Enhanced Recovery After Surgery: A Review. JAMA Surg. 2017 Mar 1;152(3):292-298. doi: 10.1001/jamasurg.2016.4952."
+        },
+        {
+          "pmid": "31761300",
+          "type": "BACKGROUND",
+          "citation": "Smith TW Jr, Wang X, Singer MA, Godellas CV, Vaince FT. Enhanced recovery after surgery: A clinical review of implementation across multiple surgical subspecialties. Am J Surg. 2020 Mar;219(3):530-534. doi: 10.1016/j.amjsurg.2019.11.009. Epub 2019 Nov 16."
+        },
+        {
+          "pmid": "30877144",
+          "type": "BACKGROUND",
+          "citation": "Nelson G, Bakkum-Gamez J, Kalogera E, Glaser G, Altman A, Meyer LA, Taylor JS, Iniesta M, Lasala J, Mena G, Scott M, Gillis C, Elias K, Wijk L, Huang J, Nygren J, Ljungqvist O, Ramirez PT, Dowdy SC. Guidelines for perioperative care in gynecologic/oncology: Enhanced Recovery After Surgery (ERAS) Society recommendations-2019 update. Int J Gynecol Cancer. 2019 May;29(4):651-668. doi: 10.1136/ijgc-2019-000356. Epub 2019 Mar 15."
+        },
+        {
+          "pmid": "32717257",
+          "type": "BACKGROUND",
+          "citation": "Altman AD, Robert M, Armbrust R, Fawcett WJ, Nihira M, Jones CN, Tamussino K, Sehouli J, Dowdy SC, Nelson G. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. Am J Obstet Gynecol. 2020 Oct;223(4):475-485. doi: 10.1016/j.ajog.2020.07.039. Epub 2020 Jul 24."
+        },
+        {
+          "pmid": "30580100",
+          "type": "BACKGROUND",
+          "citation": "Scheib SA, Thomassee M, Kenner JL. Enhanced Recovery after Surgery in Gynecology: A Review of the Literature. J Minim Invasive Gynecol. 2019 Feb;26(2):327-343. doi: 10.1016/j.jmig.2018.12.010. Epub 2018 Dec 20."
+        },
+        {
+          "pmid": "34807884",
+          "type": "BACKGROUND",
+          "citation": "Mehr AA, Elmer-Lyon C, Maetzold E, Bradley CS, Kowalski JT. Effect of Enhanced Recovery Protocol on Opioid Use in Pelvic Organ Prolapse Surgery. Female Pelvic Med Reconstr Surg. 2021 Dec 1;27(12):e705-e709. doi: 10.1097/SPV.0000000000001114."
+        },
+        {
+          "pmid": "32345589",
+          "type": "BACKGROUND",
+          "citation": "Mathieson S, Lin CC, Underwood M, Eldabe S. Pregabalin and gabapentin for pain. BMJ. 2020 Apr 28;369:m1315. doi: 10.1136/bmj.m1315. No abstract available."
+        },
+        {
+          "pmid": "26300519",
+          "type": "BACKGROUND",
+          "citation": "Doleman B, Heinink TP, Read DJ, Faleiro RJ, Lund JN, Williams JP. A systematic review and meta-regression analysis of prophylactic gabapentin for postoperative pain. Anaesthesia. 2015 Oct;70(10):1186-204. doi: 10.1111/anae.13179. Epub 2015 Aug 24."
+        },
+        {
+          "pmid": "15275765",
+          "type": "BACKGROUND",
+          "citation": "Rorarius MG, Mennander S, Suominen P, Rintala S, Puura A, Pirhonen R, Salmelin R, Haanpaa M, Kujansuu E, Yli-Hankala A. Gabapentin for the prevention of postoperative pain after vaginal hysterectomy. Pain. 2004 Jul;110(1-2):175-81. doi: 10.1016/j.pain.2004.03.023."
+        },
+        {
+          "pmid": "29238824",
+          "type": "BACKGROUND",
+          "citation": "Hah J, Mackey SC, Schmidt P, McCue R, Humphreys K, Trafton J, Efron B, Clay D, Sharifzadeh Y, Ruchelli G, Goodman S, Huddleston J, Maloney WJ, Dirbas FM, Shrager J, Costouros JG, Curtin C, Carroll I. Effect of Perioperative Gabapentin on Postoperative Pain Resolution and Opioid Cessation in a Mixed Surgical Cohort: A Randomized Clinical Trial. JAMA Surg. 2018 Apr 1;153(4):303-311. doi: 10.1001/jamasurg.2017.4915."
+        },
+        {
+          "pmid": "32667154",
+          "type": "BACKGROUND",
+          "citation": "Verret M, Lauzier F, Zarychanski R, Perron C, Savard X, Pinard AM, Leblanc G, Cossi MJ, Neveu X, Turgeon AF; Canadian Perioperative Anesthesia Clinical Trials (PACT) Group. Perioperative Use of Gabapentinoids for the Management of Postoperative Acute Pain: A Systematic Review and Meta-analysis. Anesthesiology. 2020 Aug;133(2):265-279. doi: 10.1097/ALN.0000000000003428."
+        },
+        {
+          "pmid": "32389735",
+          "type": "BACKGROUND",
+          "citation": "Huynh TQ, Patel NR, Goldstein ND, Makai GE. Preoperative Gabapentin for Minimally Invasive Hysterectomy: A Randomized Controlled Trial. J Minim Invasive Gynecol. 2021 Feb;28(2):237-244.e2. doi: 10.1016/j.jmig.2020.04.040. Epub 2020 May 8."
+        },
+        {
+          "pmid": "25967650",
+          "type": "BACKGROUND",
+          "citation": "Weingarten TN, Jacob AK, Njathi CW, Wilson GA, Sprung J. Multimodal Analgesic Protocol and Postanesthesia Respiratory Depression During Phase I Recovery After Total Joint Arthroplasty. Reg Anesth Pain Med. 2015 Jul-Aug;40(4):330-6. doi: 10.1097/AAP.0000000000000257."
+        },
+        {
+          "pmid": "31651832",
+          "type": "BACKGROUND",
+          "citation": "Pelvic Organ Prolapse: ACOG Practice Bulletin, Number 214. Obstet Gynecol. 2019 Nov;134(5):e126-e142. doi: 10.1097/AOG.0000000000003519."
+        },
+        {
+          "pmid": "29420405",
+          "type": "BACKGROUND",
+          "citation": "Sammarco AG, Swenson CW, Kamdar NS, Kobernik EK, DeLancey JOL, Nallamothu B, Morgan DM. Rate of Pelvic Organ Prolapse Surgery Among Privately Insured Women in the United States, 2010-2013. Obstet Gynecol. 2018 Mar;131(3):484-492. doi: 10.1097/AOG.0000000000002485."
+        },
+        {
+          "pmid": "29564507",
+          "type": "BACKGROUND",
+          "citation": "Li ALK, Wadsworth K, Siddiqui NT, Alarab M, McDermott CD, Lemos N, Dawood A, Lovatsis D. Does low-dose gapapentin reduce opioid use postoperatively?: A randomized controlled trial in women undergoing reconstructive pelvic surgery. Int Urogynecol J. 2019 Feb;30(2):211-217. doi: 10.1007/s00192-018-3617-3. Epub 2018 Mar 21."
+        },
+        {
+          "pmid": "31651825",
+          "type": "BACKGROUND",
+          "citation": "Committee Opinion No. 750: Perioperative Pathways: Enhanced Recovery After Surgery: Correction. Obstet Gynecol. 2019 Nov;134(5):1121. doi: 10.1097/AOG.0000000000003569. No abstract available."
+        },
+        {
+          "pmid": "22263004",
+          "type": "BACKGROUND",
+          "citation": "Zhong B. How to calculate sample size in randomized controlled trial? J Thorac Dis. 2009 Dec;1(1):51-4."
+        },
+        {
+          "pmid": "29321111",
+          "type": "BACKGROUND",
+          "citation": "Karcioglu O, Topacoglu H, Dikme O, Dikme O. A systematic review of the pain scales in adults: Which to use? Am J Emerg Med. 2018 Apr;36(4):707-714. doi: 10.1016/j.ajem.2018.01.008. Epub 2018 Jan 6."
+        },
+        {
+          "pmid": "30546385",
+          "type": "BACKGROUND",
+          "citation": "Bolliger M, Kroehnert JA, Molineus F, Kandioler D, Schindl M, Riss P. Experiences with the standardized classification of surgical complications (Clavien-Dindo) in general surgery patients. Eur Surg. 2018;50(6):256-261. doi: 10.1007/s10353-018-0551-z. Epub 2018 Jul 24."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "recruitmentDetails": "110 people completed informed consent. 3 people withdrew or were disqualified prior to being randomized which is why only 107 were randomized.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Placebo",
+          "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin placebo\n\nGabapentin Placebo: Gabapentin Placebo"
+        },
+        {
+          "id": "FG001",
+          "title": "Intervention",
+          "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "52"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "55"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "50"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "50"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Placebo",
+          "description": "Preoperative tylenol, preoperative celecoxib, preoperative placebo\n\nGabapentin Placebo: Gabapentin Placebo"
+        },
+        {
+          "id": "BG001",
+          "title": "Intervention",
+          "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "50"
+            },
+            {
+              "groupId": "BG001",
+              "value": "50"
+            },
+            {
+              "groupId": "BG002",
+              "value": "100"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "61",
+                      "lowerLimit": "52",
+                      "upperLimit": "71"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "67",
+                      "lowerLimit": "62",
+                      "upperLimit": "74"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "65",
+                      "lowerLimit": "56.75",
+                      "upperLimit": "73"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "50"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "50"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "100"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "48"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "49"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "97"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "50"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "50"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Body Mass Index (BMI)",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "kg/m^2",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "28.9",
+                      "lowerLimit": "25.9",
+                      "upperLimit": "32.6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "28.3",
+                      "lowerLimit": "26.1",
+                      "upperLimit": "32.4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "28.5",
+                      "lowerLimit": "25.975",
+                      "upperLimit": "32.45"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vaginal Parity",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "Vaginal Deliveries",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2",
+                      "lowerLimit": "2",
+                      "upperLimit": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3",
+                      "lowerLimit": "2",
+                      "upperLimit": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2.5",
+                      "lowerLimit": "2",
+                      "upperLimit": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Current Tobacco Use",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Diabetes",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Prior Hysterectomy",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "25"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Prior Pelvic Organ Prolapse (POP) Surgery",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Prior Stress Urinary Incontinence (SUI) Surgery",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pelvic Organ Prolapse Quantification (POP-Q) Stage",
+          "description": "POP-Q Staging System:\n\nStage 0: No prolapse\n\nStage 1: The most distal portion of the prolapse is more than 1 cm above the level of the hymen\n\nStage 2: The most distal portion of the prolapse is 1 cm or less proximal or distal to the hymen\n\nStage 3: The most distal portion of the prolapse protrudes more than 1 cm below the hymen but protrudes no farther than 2 cm less than the total vaginal length\n\nStage 4: The most distal portion of the prolapse is within 1 cm of the total vaginal length",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "Stage",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2",
+                      "lowerLimit": "2",
+                      "upperLimit": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3",
+                      "lowerLimit": "2",
+                      "upperLimit": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2",
+                      "lowerLimit": "2",
+                      "upperLimit": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vaginal Atrophy",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "43"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "77"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Baseline Vaginal Estrogen Use",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "28"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Preoperative Pain Score of 0",
+          "description": "This is the numeric rating scale which ranges from 0 to 10. 0 is no pain and 10 is the worst pain possible.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "85"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Postoperative Opioid Use",
+          "description": "Total postoperative opioid use in the first 24 hours postop measured in MME (starting when the patient leaves the operating room)",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "MMEs",
+          "timeFrame": "24 hours after surgery. This includes postoperative opioid use in the hospital AND at home (which is why it is different from outcome measure 3).",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin placebo\n\nGabapentin Placebo: Gabapentin Placebo"
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "50"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "50"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "25",
+                      "lowerLimit": "13",
+                      "upperLimit": "45"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "20",
+                      "lowerLimit": "8",
+                      "upperLimit": "35"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Postop Pain Score",
+          "description": "Mean postoperative pain score (using the validated numerical rating scale, minimum score 0, maximum score 10, higher scores mean worse pain/worse outcome) while admitted in the hospital. Note: this is the mean score while they were postoperatively but median below is correct because we used the median of each individual's MEAN score (this is addressing the comment #10)",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "Pain Score",
+          "timeFrame": "From the time surgery finished to a max of 24 hours after. This was measured by postoperative nursing periodically throughout the postoperative period per standard nursing protocol: usually every hour for the first two hours and then every 4 to 8 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin placebo\n\nGabapentin Placebo: Gabapentin Placebo"
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "50"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "50"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.5",
+                      "lowerLimit": "2",
+                      "upperLimit": "4.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.25",
+                      "lowerLimit": "2",
+                      "upperLimit": "4.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Postoperative Opioid Use While Admitted in the Hospital",
+          "description": "postoperative opioid use while admitted",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "MMEs",
+          "timeFrame": "After surgery, max of 24 hours. Note that this is only postoperative opioid use in the hospital. Outcome measure 1 is total postoperative opioid use (in the hospital and at home)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative placebo\n\nGabapentin Placebo: Gabapentin Placebo"
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "50"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "50"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "20",
+                      "lowerLimit": "5",
+                      "upperLimit": "36"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "16",
+                      "lowerLimit": "5",
+                      "upperLimit": "25"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time to Discharge",
+          "description": "Admitted time",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "minutes",
+          "timeFrame": "Total admitted time (from admission to the hospital to discharge)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative placebo\n\nGabapentin Placebo: Gabapentin Placebo"
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "50"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "50"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "528",
+                      "lowerLimit": "459",
+                      "upperLimit": "678"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "542",
+                      "lowerLimit": "477",
+                      "upperLimit": "1394"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients Who Report Postoperative Dizziness",
+          "description": "Patient reported postoperative dizziness",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "24 hours postoperative",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative placebo\n\nGabapentin Placebo: Gabapentin Placebo"
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "50"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "50"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients Who Report Sedation",
+          "description": "Patient reported sedation",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "24 hours postoperative",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative placebo\n\nGabapentin Placebo: Gabapentin Placebo"
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "50"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "50"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients Who Report Visual Changes",
+          "description": "Patient reported visual changes",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "24 hours postoperative",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative placebo\n\nGabapentin Placebo: Gabapentin Placebo"
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "50"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "50"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients Who Report Postoperative Nausea",
+          "description": "Patient reported postoperative nausea and vomiting",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "24 hours postoperative",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative placebo\n\nGabapentin Placebo: Gabapentin Placebo"
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "50"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "50"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients Who Report Postoperative Pain Adequacy",
+          "description": "Patient reported postoperative pain adequacy",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "24 hours postoperative",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative placebo\n\nGabapentin Placebo: Gabapentin Placebo"
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "50"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "50"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "40"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "41"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Morphine Milligram Equivalents (MMEs) of Preoperative and Intraoperative Opioids",
+          "description": "Amount of opioids (in MMEs) given before and during the surgery",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "Morphine milligram equivalents (MMEs)",
+          "timeFrame": "Preop period to the end of the surgery (any opioids given to the patient from arrival in the hospital to the end of the surgery), on average 5 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin placebo\n\nGabapentin Placebo: Gabapentin Placebo"
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "50"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "50"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "46",
+                      "lowerLimit": "42",
+                      "upperLimit": "74"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "40",
+                      "lowerLimit": "34",
+                      "upperLimit": "55"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Estimated Blood Loss",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "mL",
+          "timeFrame": "During the surgery (from surgery start time to surgery end time, this was assessed at the end of the surgery while in the OR), on average 150 minutes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin placebo\n\nGabapentin Placebo: Gabapentin Placebo"
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "50"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "50"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "25",
+                      "lowerLimit": "0",
+                      "upperLimit": "75"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "50",
+                      "lowerLimit": "10",
+                      "upperLimit": "50"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Surgery Length",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "Minutes",
+          "timeFrame": "During surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin placebo\n\nGabapentin Placebo: Gabapentin Placebo"
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention",
+              "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "50"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "50"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "152",
+                      "lowerLimit": "127",
+                      "upperLimit": "170"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "147",
+                      "lowerLimit": "110",
+                      "upperLimit": "165"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "36 hours after surgery",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Placebo",
+          "description": "Preoperative tylenol, preoperative celecoxib, preoperative placebo\n\nGabapentin Placebo: Gabapentin Placebo",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 50,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 50,
+          "otherNumAffected": 21,
+          "otherNumAtRisk": 50
+        },
+        {
+          "id": "EG001",
+          "title": "Intervention",
+          "description": "Preoperative tylenol, preoperative celecoxib, preoperative gabapentin\n\nGabapentin: One dose of preoperative gabapentin 300 mg prior to vaginal apical support procedure",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 50,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 50,
+          "otherNumAffected": 16,
+          "otherNumAtRisk": 50
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Participant Reported Dizziness",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 13,
+              "numAtRisk": 50
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 7,
+              "numAtRisk": 50
+            }
+          ]
+        },
+        {
+          "term": "Patient Reported Sedation",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 50
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 50
+            }
+          ]
+        },
+        {
+          "term": "Patient Reported Visual Changes",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 50
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 50
+            }
+          ]
+        },
+        {
+          "term": "Patient Reported Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 14,
+              "numAtRisk": 50
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 10,
+              "numAtRisk": 50
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Dr. Colin Johnson",
+        "organization": "University of Iowa Hospitals and Clinics",
+        "email": "colin-johnson@uiowa.edu",
+        "phone": "3193561616"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2022-07-01",
+          "uploadDate": "2025-05-15T12:20",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 171270
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2025-06-25",
+          "uploadDate": "2025-07-16T07:04",
+          "filename": "ICF_004.pdf",
+          "size": 178525
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-06-04",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D056887",
+          "term": "Pelvic Organ Prolapse"
+        },
+        {
+          "id": "D011183",
+          "term": "Postoperative Complications"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011391",
+          "term": "Prolapse"
+        },
+        {
+          "id": "D020763",
+          "term": "Pathological Conditions, Anatomical"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000077206",
+          "term": "Gabapentin"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D005680",
+          "term": "gamma-Aminobutyric Acid"
+        },
+        {
+          "id": "D000613",
+          "term": "Aminobutyrates"
+        },
+        {
+          "id": "D002087",
+          "term": "Butyrates"
+        },
+        {
+          "id": "D000144",
+          "term": "Acids, Acyclic"
+        },
+        {
+          "id": "D002264",
+          "term": "Carboxylic Acids"
+        },
+        {
+          "id": "D003509",
+          "term": "Cyclohexanecarboxylic Acids"
+        },
+        {
+          "id": "D000146",
+          "term": "Acids, Carbocyclic"
+        },
+        {
+          "id": "D003510",
+          "term": "Cyclohexanes"
+        },
+        {
+          "id": "D003516",
+          "term": "Cycloparaffins"
+        },
+        {
+          "id": "D006840",
+          "term": "Hydrocarbons, Alicyclic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D000596",
+          "term": "Amino Acids"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

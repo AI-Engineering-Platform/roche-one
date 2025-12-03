@@ -1,0 +1,1288 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05545280",
+      "orgStudyIdInfo": {
+        "id": "22-745"
+      },
+      "organization": {
+        "fullName": "The Cleveland Clinic",
+        "class": "OTHER"
+      },
+      "briefTitle": "Postoperative Urinary Retention in Patients After Noncardiac Surgery and Reversal of Neuromuscular Block",
+      "officialTitle": "Postoperative Urinary Retention in Patients After Noncardiac Surgery and Reversal of Neuromuscular Block by Neostigmine or Sugammadex: A Randomized Controlled Trial"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-02",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-12-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-08-07",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-08-07",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-09-12",
+      "studyFirstSubmitQcDate": "2022-09-14",
+      "studyFirstPostDateStruct": {
+        "date": "2022-09-19",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-11-21",
+      "resultsFirstSubmitQcDate": "2025-02-06",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-02-10",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-02-06",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-02-10",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "The Cleveland Clinic",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The investigators propose a randomized trial comparing sugammadex and neostigmine for the reversal of neuromuscular blocks induced by rocuronium or vecuronium in adults having general anesthesia with muscular block for noncardiac surgery.",
+      "detailedDescription": "All patients will be asked to void before they are transferred to the operating room. Patients will be seen shortly before anesthetic induction (baseline, Visit 1). As this is a pragmatic trial, no restrictions to anesthetic management other than the random allocation to sugammadex or neostigmine are planned.\n\nAs part of local standards, it is recommended to maintain a moderate block of 1 to 2 twitch responses to train-of-four (TOF) stimulation throughout surgery.\n\nRandomized treatments will be implemented by clinicians in collaboration with research personnel. Patients will be randomized shortly before the reversal of the neuromuscular block. At the time of randomization, the administration of either neostigmine or sugammadex need to be possible. If e.g. the neuromuscular block is too deep to be reversed with neostigmine, patients will not be randomized and excluded from the study.\n\nThe anesthesiologist in charge will be informed on the patient's allocation to either the sugammadex or neostigmine group by an unblinded investigator. Patients will be monitored for twitch responses towards the end of surgery to determine the timing and dose for the reversal agent. The twitch response will be measured using a quantitative, acceleromyographic monitoring device. For sugammadex, 4 mg/kg is recommended if spontaneous recovery of the twitch response has reached 1 to 2 post-tetanic counts (PTC) and there are no twitch responses to (TOF) stimulation. Alternatively, 2 mg/kg is recommended if spontaneous recovery has reached the reappearance of the second twitch in response to TOF stimulation. In the neostigmine group, neostigmine 2.5 mg with glycopyrrolate 0.5 mg will be administered as an initial dose. Neostigmine and glycopyrrolate are to be administered in a fixed ratio, and only if the second twitch in response to TOF stimulation has appeared. The initial dose can be repeated up to a ceiling dose of 5 mg neostigmine with 1 mg of glycopyrrolate. However, the final decision of the dose will be up to the attending anesthesiologist. The administered dose will be recorded. All patients are required to have a documented TOF ratio \\> 0.9 before extubation Visit 2 is one hour after surgery in the post anesthesia care unit (PACU). The third Visit is within 4 to 6 hours after surgery on the regular ward. Visit 4 and 5 will be in the morning and afternoon of the first day after surgery (postoperative day (POD) 1). Visit 5 on the afternoon of POD 1 will be the last follow-up and the end of a patient's participation in the study. Thereafter, data will be recorded from electronical medical records until POD 4 or discharge, whichever comes first."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Neuromuscular Blockade"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 50,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Neostigmine",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Reversal of Neuromuscular Block by Neostigmine.",
+          "interventionNames": [
+            "Drug: Neostigmine with glycopyrrolate"
+          ]
+        },
+        {
+          "label": "Sugammadex",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Reversal of Neuromuscular Block by Sugammadex.",
+          "interventionNames": [
+            "Drug: Sugammadex"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Neostigmine with glycopyrrolate",
+          "description": "Administration by intravenous infusion",
+          "armGroupLabels": [
+            "Neostigmine"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Sugammadex",
+          "description": "Administration by intravenous infusion",
+          "armGroupLabels": [
+            "Sugammadex"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Urine Residual in PACU",
+          "description": "The primary outcome of urinary retention is assessed by post-void bladder volume.",
+          "timeFrame": "1 hour after surgery, which started from out of operation room"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Participants Who Needed a Urinary Catheter",
+          "description": "participants who needed a urinary catheter within 24 hours after surgery",
+          "timeFrame": "within 24 hours after out of operation room"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Participants Having Urinary Tract Infections",
+          "description": "patients having urinary tract infections during the hospitalization",
+          "timeFrame": "during postoperative hospital stay, which from out of operation room to discharge from the hospital, an average of 1 week"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Informed Consent as documented by signature;\n* Adults having noncardiac surgery with expected surgery duration ≥ 2 hours;\n* General anesthesia requiring endotracheal intubation and neuromuscular block with rocuronium or vecuronium;\n* Planned administration of sugammadex or neostigmine for reversal of the neuromuscular block at the end of surgery;\n* American Society of Anesthesiologists (ASA) physical status 1-3;\n* Age ≥ 65 years.\n\nExclusion Criteria:\n\n* Contraindications to the class of drugs under study;\n* Preoperative urinary catheter;\n* Planned intraoperative insertion of a urinary catheter;\n* Neurosurgery (except spine surgery), intraabdominal or retroperitoneal surgeries including but not limited to any kind of laparoscopies, or surgeries in kidneys, ureters or urine bladder.\n* Planned postoperative admission to the ICU;\n* Severe preoperative hepatic impairment (≥3 times increase in aspartate aminotransferase or alanine aminotransferase as per reference range) or renal impairment (estimated GFR \\< 30 ml/min or end-stage renal disease requiring scheduled dialysis.);\n* History of bladder cancer;\n* Presence of a sacral nerve stimulator;\n* Current use of anticholinergic medications such as antihistamines, phenothiazines, antidepressants or antipsychotics;\n* Urinary tract infections or other urogenital comorbidity (incontinence, cysto-ureteric reflux, known bladder retention) or conditions which promote urinary retention;\n* Known or suspected neurological conditions such as Alzheimer's disease, stroke, poliomyelitis, cerebral palsy, multiple sclerosis, spinal lesions, or Parkinson's disease.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Kurt Ruetzler, MD",
+          "affiliation": "The Cleveland Clinic",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Cleveland Clinic",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.4995,
+            "lon": -81.69541
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Neostigmine",
+          "description": "Reversal of Neuromuscular Block by Neostigmine.\n\nNeostigmine with glycopyrrolate: Administration by intravenous infusion"
+        },
+        {
+          "id": "FG001",
+          "title": "Sugammadex",
+          "description": "Reversal of Neuromuscular Block by Sugammadex.\n\nSugammadex: Administration by intravenous infusion"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "23"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "27"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "23"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "27"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Neostigmine",
+          "description": "Reversal of Neuromuscular Block by Neostigmine.\n\nNeostigmine with glycopyrrolate: Administration by intravenous infusion"
+        },
+        {
+          "id": "BG001",
+          "title": "Sugammadex",
+          "description": "Reversal of Neuromuscular Block by Sugammadex.\n\nSugammadex: Administration by intravenous infusion"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "23"
+            },
+            {
+              "groupId": "BG001",
+              "value": "27"
+            },
+            {
+              "groupId": "BG002",
+              "value": "50"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "72.1",
+                      "spread": "4.7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "72.1",
+                      "spread": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "72.1",
+                      "spread": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "31"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "46"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "48"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ASA score",
+          "description": "The ASA score refers to the American Society of Anesthesiologists (ASA) Physical Status Classification System, which is used to assess the preoperative physical health of a patient before surgery. ASA score and measure description:\n\nI: A normal, healthy patient. II: A patient with mild systemic disease. III: A patient with severe systemic disease. IV: A patient with severe systemic disease that is a constant threat to life. V: A moribund patient who is not expected to survive without the operation. VI: A declared brain-dead patient whose organs are being removed for donor purposes.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "1",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "2",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "3",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "42"
+                    }
+                  ]
+                },
+                {
+                  "title": "unknown",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BMI",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "kg/m2",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "26.1",
+                      "lowerLimit": "23.7",
+                      "upperLimit": "30.9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "28.6",
+                      "lowerLimit": "24.4",
+                      "upperLimit": "32.3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "27",
+                      "lowerLimit": "24",
+                      "upperLimit": "31"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "pulmonary disease",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "16"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "cardiac disease",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "31"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "kidney disease",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "neurological disease",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "previous surgery",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "47"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Metabolic equivalent",
+          "description": "Metabolic Equivalent (MET) is a unit used to estimate the energy cost of physical activities, expressed as multiples of the resting metabolic rate (RMR). It provides a standardized way to measure and compare the intensity of various physical activities.1 MET = The energy expenditure of an individual at rest.\n\nMET Categories:\n\n1. Light Intensity (1-2.9 METs):\n\n   Sitting, slow walking, casual tasks like reading.\n2. Moderate Intensity (3-5.9 METs):\n\n   Brisk walking, light yard work, or recreational biking.\n3. Vigorous Intensity (≥6 METs):\n\nRunning, swimming, or aerobic exercise.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "2.0",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "3.0",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "3.5",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "4.0",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "21"
+                    }
+                  ]
+                },
+                {
+                  "title": ">4",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Substance abuse-illegal drug use",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Substance abuse -alcohol abuse",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Urine Residual in PACU",
+          "description": "The primary outcome of urinary retention is assessed by post-void bladder volume.",
+          "populationDescription": "A total of 50 patients were included in data analysis based on the modified intent-to-treat rule",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "ml",
+          "timeFrame": "1 hour after surgery, which started from out of operation room",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Neostigmine",
+              "description": "Reversal of Neuromuscular Block by Neostigmine.\n\nNeostigmine with glycopyrrolate: Administration by intravenous infusion"
+            },
+            {
+              "id": "OG001",
+              "title": "Sugammadex",
+              "description": "Reversal of Neuromuscular Block by Sugammadex.\n\nSugammadex: Administration by intravenous infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "23"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "27"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "219",
+                      "lowerLimit": "141",
+                      "upperLimit": "329"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "222",
+                      "lowerLimit": "68",
+                      "upperLimit": "361"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Who Needed a Urinary Catheter",
+          "description": "participants who needed a urinary catheter within 24 hours after surgery",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "within 24 hours after out of operation room",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Neostigmine",
+              "description": "Reversal of Neuromuscular Block by Neostigmine.\n\nNeostigmine with glycopyrrolate: Administration by intravenous infusion"
+            },
+            {
+              "id": "OG001",
+              "title": "Sugammadex",
+              "description": "Reversal of Neuromuscular Block by Sugammadex.\n\nSugammadex: Administration by intravenous infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "23"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "27"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Participants Having Urinary Tract Infections",
+          "description": "patients having urinary tract infections during the hospitalization",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "during postoperative hospital stay, which from out of operation room to discharge from the hospital, an average of 1 week",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Neostigmine",
+              "description": "Reversal of Neuromuscular Block by Neostigmine.\n\nNeostigmine with glycopyrrolate: Administration by intravenous infusion"
+            },
+            {
+              "id": "OG001",
+              "title": "Sugammadex",
+              "description": "Reversal of Neuromuscular Block by Sugammadex.\n\nSugammadex: Administration by intravenous infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "23"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "27"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "The time frame for AE is during the entire duration of the study, which from the participant signs the informed consent through participant discharged from the hospital after the surgery, up to 7 days.",
+      "description": "A serious adverse event (SAE) is defined as any untoward medical occurrence that at any dose: is life-threatening; or requires inpatient hospitalization or prolongation of existing hospitalization; or results in persistent or significant disability/incapacity; or is a congenital anomaly/birth defect; or is a medically important event.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Neostigmine",
+          "description": "Reversal of Neuromuscular Block by Neostigmine.\n\nNeostigmine with glycopyrrolate: Administration by intravenous infusion",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 23,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 23,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 23
+        },
+        {
+          "id": "EG001",
+          "title": "Sugammadex",
+          "description": "Reversal of Neuromuscular Block by Sugammadex.\n\nSugammadex: Administration by intravenous infusion",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 27,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 27,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 27
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Kurt Ruetzler, MD",
+        "organization": "Cleveland Clinic Foundation",
+        "email": "RUETZLK@ccf.org",
+        "phone": "216 636-0561"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2022-08-01",
+          "uploadDate": "2024-10-15T13:23",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 467727
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2024-12-17",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D009388",
+          "term": "Neostigmine"
+        },
+        {
+          "id": "D006024",
+          "term": "Glycopyrrolate"
+        },
+        {
+          "id": "D000077122",
+          "term": "Sugammadex"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D050338",
+          "term": "Phenylammonium Compounds"
+        },
+        {
+          "id": "D000644",
+          "term": "Quaternary Ammonium Compounds"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D009861",
+          "term": "Onium Compounds"
+        },
+        {
+          "id": "D011759",
+          "term": "Pyrrolidines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D047408",
+          "term": "gamma-Cyclodextrins"
+        },
+        {
+          "id": "D003505",
+          "term": "Cyclodextrins"
+        },
+        {
+          "id": "D047028",
+          "term": "Macrocyclic Compounds"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D003912",
+          "term": "Dextrins"
+        },
+        {
+          "id": "D013213",
+          "term": "Starch"
+        },
+        {
+          "id": "D005936",
+          "term": "Glucans"
+        },
+        {
+          "id": "D011134",
+          "term": "Polysaccharides"
+        },
+        {
+          "id": "D002241",
+          "term": "Carbohydrates"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

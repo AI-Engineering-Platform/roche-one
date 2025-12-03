@@ -1,0 +1,1350 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05417113",
+      "orgStudyIdInfo": {
+        "id": "STUDY-22-00168"
+      },
+      "organization": {
+        "fullName": "Icahn School of Medicine at Mount Sinai",
+        "class": "OTHER"
+      },
+      "briefTitle": "Erector Spinae Block for Spine Surgery",
+      "officialTitle": "Evaluation of the Addition of Liposomal Bupivacaine to the Erector Spinae Plane (ESP) Block to Multilevel Lumbar Spinal Fusion Surgery"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-05",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "recruitment difficulty",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-08-31",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-02-27",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-02-27",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-06-09",
+      "studyFirstSubmitQcDate": "2022-06-09",
+      "studyFirstPostDateStruct": {
+        "date": "2022-06-14",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-05-02",
+      "resultsFirstSubmitQcDate": "2024-05-02",
+      "resultsFirstPostDateStruct": {
+        "date": "2024-05-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-05-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-05-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Christina Jeng",
+        "investigatorTitle": "MD, Associate Professor",
+        "investigatorAffiliation": "Icahn School of Medicine at Mount Sinai"
+      },
+      "leadSponsor": {
+        "name": "Icahn School of Medicine at Mount Sinai",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study is to determine whether or not the addition of liposomal bupivacaine in an ESP block will have long term benefits for patients undergoing lumbar spinal fusion surgery. Given previous studies found long term benefits from liposomal bupivacaine, the hypothesis is that patients will have decreased opioid usage and improved pain scores when compared to a standard ESP block with plain 0.25% bupivacaine.",
+      "detailedDescription": "This will be a double blind prospective randomized control trial comparing liposomal bupivacaine with plain bupivacaine in their effectiveness in ESP blocks in lumbar spinal fusion surgery. Patients scheduled for a lumbar spinal fusion procedure will be identified at the time of the scheduled surgery. The endpoints of this study include:\n\nThe primary objective is to compare the amount of postoperative intravenous opioid consumption among two study groups for the first 72 hours: Patients undergoing posterior lumbar spinal fusion surgery (1-2 levels) under general anesthesia and ESP block with liposomal bupivacaine + 0.25% bupivacaine and patients undergoing posterior lumbar spinal fusion surgery (1-2 levels) under general anesthesia and ESP block with 0.25% bupivacaine\n\nThe secondary objectives include:\n\nCompare the severity of pain at rest at specific timepoints postoperatively. Compare general quality of recovery via QoR-15 at 48 hours, 72 hours and then at routine follow up visits occurring 2 weeks, 6 weeks, and 12 weeks postoperatively.\n\nMeasure rate of postoperative nausea/vomiting in PACU. Measure time to ambulation. Compare analgesia satisfaction score at time of discharge. Measure hospital length of stay."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Lumbar Radiculopathy"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 13,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Bupivacaine only",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "bupivacaine 0.25% in ESP blocks",
+          "interventionNames": [
+            "Drug: Bupivacaine"
+          ]
+        },
+        {
+          "label": "Liposomal Bupivacaine and Bupivacaine",
+          "type": "EXPERIMENTAL",
+          "description": "liposomal bupivacaine in addition to 0.25% bupivacaine in ESP blocks",
+          "interventionNames": [
+            "Drug: Liposomal bupivacaine",
+            "Drug: Bupivacaine"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Liposomal bupivacaine",
+          "description": "liposomal bupivacaine",
+          "armGroupLabels": [
+            "Liposomal Bupivacaine and Bupivacaine"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Bupivacaine",
+          "description": "bupivacaine 0.25% in ESP blocks",
+          "armGroupLabels": [
+            "Bupivacaine only",
+            "Liposomal Bupivacaine and Bupivacaine"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Postoperative Opioid Consumption During First 72 Hours",
+          "description": "The amount of postoperative intravenous opioid consumption (Total morphine mg equivalents MME) during the first 72 hours",
+          "timeFrame": "12 hours, 24 hours, 48 hours, 72 hours"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in Pain Score",
+          "description": "Change in the severity of pain at rest using an 11-point Likert scale. Scale from 0-10, with higher score indicating more pain.",
+          "timeFrame": "up to 12 weeks"
+        },
+        {
+          "measure": "Quality of Recovery (QOR 15)",
+          "description": "Change in general quality of recovery using a 15 point questionnaire via QoR-15 with regard to how the patient is feeling scored on a scale from 0-10, with 0 being none of the time and 10 being all of the time. Full scale range from 0-150, with a higher score indicating a better health outcome.",
+          "timeFrame": "72 hours"
+        },
+        {
+          "measure": "Number of Participants With Postoperative Nausea/Vomiting (PONV)",
+          "description": "Number of participants with postoperative nausea/vomiting (PONV) in PACU",
+          "timeFrame": "in PACU (4 hours)"
+        },
+        {
+          "measure": "Time to Ambulation",
+          "description": "Time to ambulation in hours",
+          "timeFrame": "average 26-27 hours"
+        },
+        {
+          "measure": "Hospital Length of Stay",
+          "description": "Hospital length of stay (LOS)",
+          "timeFrame": "average 72 hours"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion criteria:\n\n* Adults aged greater than or equal to 18 years old and less than or equal to 85 years old.\n* Patients who are scheduled to undergo lumbar spinal surgery (1-2 level) and willing and able to provide informed consent.\n\nExclusion criteria:\n\n* Patients with a history of chronic opioid use for \\> 3 months including but not limited to fentanyl, morphine, oxycodone, methadone.\n* Patients with known allergy or intolerance to any drug used in the study including local anesthetics and total intravenous anesthesia medications.\n* Patients with a history of alcohol or drug abuse.\n* Patients with a history of intolerance of nonsteroidal anti-inflammatory drugs.-Patients with hepatic insufficiency.\n* Patients with renal insufficiency.\n* Patients who are pregnant.\n* Patients with American Society of Anesthesiologists physical status of 4 or greater.\n* Patients on immunosuppressive therapy. Pregnant patients.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "85 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Christina Jeng, MD",
+          "affiliation": "Icahn School of Medicine at Mount Sinai",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Mount Sinai Hospital",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10029",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "IRB approval was not obtained to share IPD."
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Bupivacaine Only",
+          "description": "Bupivacaine: bupivacaine 0.25% in ESP blocks"
+        },
+        {
+          "id": "FG001",
+          "title": "Liposomal Bupivacaine and Bupivacaine",
+          "description": "Liposomal bupivacaine in addition to 0.25% bupivacaine in ESP blocks"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "6"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Bupivacaine Only",
+          "description": "Bupivacaine: bupivacaine 0.25% in ESP blocks"
+        },
+        {
+          "id": "BG001",
+          "title": "Liposomal Bupivacaine and Bupivacaine",
+          "description": "Liposomal bupivacaine in addition to 0.25% bupivacaine in ESP blocks"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "5"
+            },
+            {
+              "groupId": "BG001",
+              "value": "4"
+            },
+            {
+              "groupId": "BG002",
+              "value": "9"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "63.6",
+                      "spread": "13.35"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "63.3",
+                      "spread": "6.70"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "63.44",
+                      "spread": "10.29"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Weight",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kg",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "80.58",
+                      "spread": "17.23"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "78.88",
+                      "spread": "22.49"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "79.82",
+                      "spread": "18.41"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ASA Physical Status",
+          "description": "ASA I A normal healthy patient\n\nASA II A patient with mild systemic disease\n\nASA III A patient with severe systemic disease\n\nASA IV A patient with severe systemic disease that is a constant threat to life\n\nASA V A moribund patient who is not expected to survive without the operation\n\nASA VI A declared brain-dead patient whose organs are being removed for donor purposes",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "units on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2.2",
+                      "spread": "0.45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2.5",
+                      "spread": "0.58"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2.33",
+                      "spread": "0.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Postoperative Opioid Consumption During First 72 Hours",
+          "description": "The amount of postoperative intravenous opioid consumption (Total morphine mg equivalents MME) during the first 72 hours",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "MME",
+          "timeFrame": "12 hours, 24 hours, 48 hours, 72 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Bupivacaine Only",
+              "description": "Bupivacaine: bupivacaine 0.25% in ESP blocks"
+            },
+            {
+              "id": "OG001",
+              "title": "Liposomal Bupivacaine and Bupivacaine",
+              "description": "Liposomal bupivacaine in addition to 0.25% bupivacaine in ESP blocks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "12 hours",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11.69",
+                      "spread": "8.26"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "22.63",
+                      "spread": "4.02"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "24 hours",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19.56",
+                      "spread": "13.14"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "39.79",
+                      "spread": "19.36"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "48 hours",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "30.66",
+                      "spread": "32.46"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "73.88",
+                      "spread": "15.05"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "72 hours",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "38.99",
+                      "spread": "39.03"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "93.42",
+                      "spread": "31.35"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Pain Score",
+          "description": "Change in the severity of pain at rest using an 11-point Likert scale. Scale from 0-10, with higher score indicating more pain.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "up to 12 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Bupivacaine Only",
+              "description": "Bupivacaine: bupivacaine 0.25% in ESP blocks"
+            },
+            {
+              "id": "OG001",
+              "title": "Liposomal Bupivacaine and Bupivacaine",
+              "description": "Liposomal bupivacaine in addition to 0.25% bupivacaine in ESP blocks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "1 hour post-operatively",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.0",
+                      "spread": "2.74"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.5",
+                      "spread": "3.11"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "6 hours post-operatively",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.0",
+                      "spread": "1.41"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.5",
+                      "spread": "3.87"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12 hours post-operatively",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.6",
+                      "spread": "4.34"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.75",
+                      "spread": "3.30"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "24 hours post-operatively",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.8",
+                      "spread": "2.77"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5.5",
+                      "spread": "2.89"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "48 hours post-operatively",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.6",
+                      "spread": "3.78"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5.0",
+                      "spread": "3.56"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "72 hours post-operatively",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.0",
+                      "spread": "3.61"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5.0",
+                      "spread": "3.56"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2 weeks hours post-operatively",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.6",
+                      "spread": "2.30"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.25",
+                      "spread": "2.06"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "6 weeks hours post-operatively",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.4",
+                      "spread": "3.36"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.75",
+                      "spread": "4.19"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12 weeks hours post-operatively",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.2",
+                      "spread": "3.19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.0",
+                      "spread": "1.41"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Quality of Recovery (QOR 15)",
+          "description": "Change in general quality of recovery using a 15 point questionnaire via QoR-15 with regard to how the patient is feeling scored on a scale from 0-10, with 0 being none of the time and 10 being all of the time. Full scale range from 0-150, with a higher score indicating a better health outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "72 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Bupivacaine Only",
+              "description": "Bupivacaine: bupivacaine 0.25% in ESP blocks"
+            },
+            {
+              "id": "OG001",
+              "title": "Liposomal Bupivacaine and Bupivacaine",
+              "description": "Liposomal bupivacaine in addition to 0.25% bupivacaine in ESP blocks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "123.2",
+                      "spread": "7.39"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "108.0",
+                      "spread": "35.15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Postoperative Nausea/Vomiting (PONV)",
+          "description": "Number of participants with postoperative nausea/vomiting (PONV) in PACU",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "in PACU (4 hours)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Bupivacaine Only",
+              "description": "Bupivacaine: bupivacaine 0.25% in ESP blocks"
+            },
+            {
+              "id": "OG001",
+              "title": "Liposomal Bupivacaine and Bupivacaine",
+              "description": "Liposomal bupivacaine in addition to 0.25% bupivacaine in ESP blocks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time to Ambulation",
+          "description": "Time to ambulation in hours",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "hours",
+          "timeFrame": "average 26-27 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Bupivacaine Only",
+              "description": "Bupivacaine: bupivacaine 0.25% in ESP blocks"
+            },
+            {
+              "id": "OG001",
+              "title": "Liposomal Bupivacaine and Bupivacaine",
+              "description": "Liposomal bupivacaine in addition to 0.25% bupivacaine in ESP blocks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "26.03",
+                      "spread": "12.58"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "27.13",
+                      "spread": "14.94"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Hospital Length of Stay",
+          "description": "Hospital length of stay (LOS)",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "days",
+          "timeFrame": "average 72 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Bupivacaine Only",
+              "description": "Bupivacaine: bupivacaine 0.25% in ESP blocks"
+            },
+            {
+              "id": "OG001",
+              "title": "Liposomal Bupivacaine and Bupivacaine",
+              "description": "Liposomal bupivacaine in addition to 0.25% bupivacaine in ESP blocks"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3",
+                      "spread": "2.35"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.5",
+                      "spread": "0.58"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "12 weeks",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Bupivacaine Only",
+          "description": "Bupivacaine: bupivacaine 0.25% in ESP blocks",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 5,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 5,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 5
+        },
+        {
+          "id": "EG001",
+          "title": "Liposomal Bupivacaine and Bupivacaine",
+          "description": "Liposomal bupivacaine in addition to 0.25% bupivacaine in ESP blocks",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 4,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 4,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 4
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "Very limited enrollment due to volume of relevant surgeries and patient eligibility. Opioid consumption confounded by nonuniform usage of PCAs post-operatively."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "GT60",
+        "restrictiveAgreement": true
+      },
+      "pointOfContact": {
+        "title": "Dr. Christina Jeng",
+        "organization": "Icahn School of Medicine at Mount Sinai",
+        "email": "christina.jeng@Mountsinai.org",
+        "phone": "212-241-4743"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "noSap": true,
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2022-05-12",
+          "uploadDate": "2024-05-02T14:44",
+          "filename": "Prot_000.pdf",
+          "size": 414099
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2022-05-12",
+          "uploadDate": "2024-05-02T14:45",
+          "filename": "ICF_001.pdf",
+          "size": 355211
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D011843",
+          "term": "Radiculopathy"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010523",
+          "term": "Peripheral Nervous System Diseases"
+        },
+        {
+          "id": "D009468",
+          "term": "Neuromuscular Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D002045",
+          "term": "Bupivacaine"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000813",
+          "term": "Anilides"
+        },
+        {
+          "id": "D000577",
+          "term": "Amides"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D000814",
+          "term": "Aniline Compounds"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

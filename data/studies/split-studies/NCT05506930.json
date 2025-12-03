@@ -1,0 +1,1288 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05506930",
+      "orgStudyIdInfo": {
+        "id": "Pro00121082"
+      },
+      "organization": {
+        "fullName": "Medical University of South Carolina",
+        "class": "OTHER"
+      },
+      "briefTitle": "ITM vs QL for Pediatric Open Lower Abdominal Procedures",
+      "officialTitle": "Intrathecal Morphine Versus Bilateral Quadratus Lumborum Blocks for Perioperative Analgesia in Pediatric Patients Undergoing Open Lower Abdominal Procedures: A Prospective Randomized Trial"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-04",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "The study was stopped early based on the anecdotal evidence from a surgeon who felt one group was experiencing more side effects than the other. Exposing pediatric patients who would be assigned to the inferior arm was difficult to justify ethically.",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-08-17",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-05-09",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-05-10",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-08-12",
+      "studyFirstSubmitQcDate": "2022-08-17",
+      "studyFirstPostDateStruct": {
+        "date": "2022-08-18",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-03-05",
+      "resultsFirstSubmitQcDate": "2025-04-11",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-04-15",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-11",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-04-15",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Natalie Barnett",
+        "investigatorTitle": "Principal Investigator",
+        "investigatorAffiliation": "Medical University of South Carolina"
+      },
+      "leadSponsor": {
+        "name": "Medical University of South Carolina",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Patients between the ages of 12 months and 11 years who are undergoing an open lower abdominal procedure will be randomized to receive intrathecal morphine, or bilateral quadratus lumborum block. The investigators will compare the effect that intrathecal morphine and quadratus lumborum blocks have on the duration of pain control as demonstrated by charted pain scores and morphine equivalents in the first 48 hours. This study will also assess the side effects of each intervention such as nausea and vomiting, and itching."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Pain Control",
+        "Ureteral Reimplantation",
+        "Pediatrics",
+        "Intrathecal Morphine"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "maskingDescription": "The patient and their parent/guardians will be blinded.",
+          "whoMasked": [
+            "PARTICIPANT"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 14,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Intrathecal Morphine",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Intrathecal Morphine: spinal (neuraxial) dose of preservative free morphine (duramorph), usually about 4-5mcg/kg",
+          "interventionNames": [
+            "Drug: Intrathecal Morphine"
+          ]
+        },
+        {
+          "label": "quadratus lumborum block",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Quadratus Lumborum Block: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per kg per side (total dose approximately 1mL/kg).",
+          "interventionNames": [
+            "Drug: Quadratus lumborum block"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Intrathecal Morphine",
+          "description": "One group of subjects will receive intrathecal morphine: spinal (neuraxial) dose of preservative free morphine (Duramorph), usually about 4-5mcg/kg. This is injected into the cerebrospinal fluid under sterile technique by a pediatric anesthesiologist while the subject is already under general anesthesia. This procedure is well-described in the pediatric population and used regularly for postoperative pain relief for a variety of procedures including ureteral reimplantation.",
+          "armGroupLabels": [
+            "Intrathecal Morphine"
+          ],
+          "otherNames": [
+            "ITM"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Quadratus lumborum block",
+          "description": "The second group of subjects will have bilateral quadratus lumborum blocks: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per/ kg per side (total dose approximately 1mL/kg). This is injected in the subject's flank in the fascial plane between the quadratus lumborum muscle and the psoas muscle. Ultrasound guidance is used for needle and structure localization and this procedure is done by a pediatric anesthesiologist while the subject is already under general anesthesia. Quadratus lumborum blocks are regularly used in clinical practice for postoperative pain relief for a variety of abdominal procedures.",
+          "armGroupLabels": [
+            "quadratus lumborum block"
+          ],
+          "otherNames": [
+            "QL"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Duration of Analgesia - Pain Score 0-10",
+          "description": "The primary endpoint will compare the effect that intrathecal morphine and quadratus lumborum blocks have on the duration of analgesia as demonstrated by charted pain scores in the first 24 hours. Pain scores were collected from the medical record on a scale from 0-10; the higher the score, the worse the outcome/pain. Time points in the 24 hours post op for each patient varied based on nursing care as the data was collected from the medical record.",
+          "timeFrame": "Up to 24 hours post-op"
+        },
+        {
+          "measure": "Duration of Analgesia - MME/kg in First 24 Hours",
+          "description": "The primary endpoint will compare the effect that intrathecal morphine and quadratus lumborum blocks have on the duration of analgesia as demonstrated by morphine milligram equivalents (MME)/kg in the first 24 hours. The higher the MME/kg, the worse the pain.",
+          "timeFrame": "Up to 24 hours post-op"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Participants With Side Effects of Each Intervention",
+          "description": "The secondary endpoint will assess the side effects of each intervention such as nausea and vomiting, and pruritis.",
+          "timeFrame": "up to 48 hours post-operative"
+        },
+        {
+          "measure": "Severity of Side Effects With Each Intervention",
+          "description": "The secondary endpoint assesses the severity of side effects with each intervention such as nausea and/or vomiting, and pruritus in the patients who experienced a side effect. Parents of participants who experienced the side effects listed rated the severity of them using a Visual Analog Scale from 0-100mm. The higher the score, the worse the side effect.",
+          "timeFrame": "0-48 hours post-operatively"
+        },
+        {
+          "measure": "Patient/Family Satisfaction",
+          "description": "This endpoint will assess patient and family overall satisfaction with their child's pain control and experience of their child's post-op recovery. Satisfaction will be rated using VAS 0 (not satisfied) to 100 (completely satisfied).",
+          "timeFrame": "up to 48 hours post-operative"
+        },
+        {
+          "measure": "Total Length of PACU Stay - Minutes",
+          "description": "This endpoint will assess how long the patient's PACU stay was in minutes. The longer the stay, the worse the outcome.",
+          "timeFrame": "time to discharge after surgery, (an expected average length of hospital stay is approximately 2-4 days)"
+        },
+        {
+          "measure": "Total Length of Hospital Stay - Length of Stay, Days",
+          "description": "This endpoint will assess how long the patient's hospital stay was overall in days. The higher the number of days, the worse the outcome.",
+          "timeFrame": "time to discharge after surgery, (an expected average length of hospital stay is approximately 2-4 days)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Ages 12 months to 11 years old\n* Undergoing an open lower abdominal procedure\n\nExclusion Criteria:\n\n* Allergy to morphine or amide local anesthetics\n* Localized rash at site of planned regional anesthetic block\n* Bleeding diathesis\n* Spinal dysmorphism\n* Previous spinal surgery with instrumentation of the lumbar spine\n* Inability or unwillingness of parent or legal guardian to give informed consent.\n* Prior enrollment and randomization in this study",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "12 Months",
+      "maximumAge": "11 Years",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Natalie Barnett, MD",
+          "affiliation": "Medical University of South Carolina",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Medical University of South Carolina",
+          "city": "Charleston",
+          "state": "South Carolina",
+          "zip": "29425",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.77632,
+            "lon": -79.93275
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Intrathecal Morphine",
+          "description": "Intrathecal Morphine: spinal (neuraxial) dose of preservative free morphine (duramorph), usually about 4-5mcg/kg\n\nIntrathecal Morphine: One group of subjects will receive intrathecal morphine: spinal (neuraxial) dose of preservative free morphine (Duramorph), usually about 4-5mcg/kg. This is injected into the cerebrospinal fluid under sterile technique by a pediatric anesthesiologist while the subject is already under general anesthesia. This procedure is well-described in the pediatric population and used regularly for postoperative pain relief for a variety of procedures including ureteral reimplantation."
+        },
+        {
+          "id": "FG001",
+          "title": "Quadratus Lumborum Block",
+          "description": "Quadratus Lumborum Block: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per kg per side (total dose approximately 1mL/kg).\n\nQuadratus lumborum block: The second group of subjects will have bilateral quadratus lumborum blocks: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per/ kg per side (total dose approximately 1mL/kg). This is injected in the subject's flank in the fascial plane between the quadratus lumborum muscle and the psoas muscle. Ultrasound guidance is used for needle and structure localization and this procedure is done by a pediatric anesthesiologist while the subject is already under general anesthesia. Quadratus lumborum blocks are regularly used in clinical practice for postoperative pain relief for a variety of abdominal procedures."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "9"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "9"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Intrathecal Morphine",
+          "description": "Intrathecal Morphine: spinal (neuraxial) dose of preservative free morphine (duramorph), usually about 4-5mcg/kg\n\nIntrathecal Morphine: One group of subjects will receive intrathecal morphine: spinal (neuraxial) dose of preservative free morphine (Duramorph), usually about 4-5mcg/kg. This is injected into the cerebrospinal fluid under sterile technique by a pediatric anesthesiologist while the subject is already under general anesthesia. This procedure is well-described in the pediatric population and used regularly for postoperative pain relief for a variety of procedures including ureteral reimplantation."
+        },
+        {
+          "id": "BG001",
+          "title": "Quadratus Lumborum Block",
+          "description": "Quadratus Lumborum Block: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per kg per side (total dose approximately 1mL/kg).\n\nQuadratus lumborum block: The second group of subjects will have bilateral quadratus lumborum blocks: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per/ kg per side (total dose approximately 1mL/kg). This is injected in the subject's flank in the fascial plane between the quadratus lumborum muscle and the psoas muscle. Ultrasound guidance is used for needle and structure localization and this procedure is done by a pediatric anesthesiologist while the subject is already under general anesthesia. Quadratus lumborum blocks are regularly used in clinical practice for postoperative pain relief for a variety of abdominal procedures."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "5"
+            },
+            {
+              "groupId": "BG001",
+              "value": "9"
+            },
+            {
+              "groupId": "BG002",
+              "value": "14"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5",
+                      "spread": "3.8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4.4",
+                      "spread": "2.8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4.607",
+                      "spread": "3.089"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Procedure Type",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Laparoscopy",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Ureteral Reimplantation",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                },
+                {
+                  "title": "Enterocystoplasty",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Duration of Analgesia - Pain Score 0-10",
+          "description": "The primary endpoint will compare the effect that intrathecal morphine and quadratus lumborum blocks have on the duration of analgesia as demonstrated by charted pain scores in the first 24 hours. Pain scores were collected from the medical record on a scale from 0-10; the higher the score, the worse the outcome/pain. Time points in the 24 hours post op for each patient varied based on nursing care as the data was collected from the medical record.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Up to 24 hours post-op",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Intrathecal Morphine",
+              "description": "Intrathecal Morphine: spinal (neuraxial) dose of preservative free morphine (duramorph), usually about 4-5mcg/kg\n\nIntrathecal Morphine: One group of subjects will receive intrathecal morphine: spinal (neuraxial) dose of preservative free morphine (Duramorph), usually about 4-5mcg/kg. This is injected into the cerebrospinal fluid under sterile technique by a pediatric anesthesiologist while the subject is already under general anesthesia. This procedure is well-described in the pediatric population and used regularly for postoperative pain relief for a variety of procedures including ureteral reimplantation."
+            },
+            {
+              "id": "OG001",
+              "title": "Quadratus Lumborum Block",
+              "description": "Quadratus Lumborum Block: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per kg per side (total dose approximately 1mL/kg).\n\nQuadratus lumborum block: The second group of subjects will have bilateral quadratus lumborum blocks: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per/ kg per side (total dose approximately 1mL/kg). This is injected in the subject's flank in the fascial plane between the quadratus lumborum muscle and the psoas muscle. Ultrasound guidance is used for needle and structure localization and this procedure is done by a pediatric anesthesiologist while the subject is already under general anesthesia. Quadratus lumborum blocks are regularly used in clinical practice for postoperative pain relief for a variety of abdominal procedures."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.0",
+                      "spread": "0.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.5",
+                      "spread": "1.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Side Effects of Each Intervention",
+          "description": "The secondary endpoint will assess the side effects of each intervention such as nausea and vomiting, and pruritis.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "up to 48 hours post-operative",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Intrathecal Morphine",
+              "description": "Intrathecal Morphine: spinal (neuraxial) dose of preservative free morphine (duramorph), usually about 4-5mcg/kg\n\nIntrathecal Morphine: One group of subjects will receive intrathecal morphine: spinal (neuraxial) dose of preservative free morphine (Duramorph), usually about 4-5mcg/kg. This is injected into the cerebrospinal fluid under sterile technique by a pediatric anesthesiologist while the subject is already under general anesthesia. This procedure is well-described in the pediatric population and used regularly for postoperative pain relief for a variety of procedures including ureteral reimplantation."
+            },
+            {
+              "id": "OG001",
+              "title": "Quadratus Lumborum Block",
+              "description": "Quadratus Lumborum Block: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per kg per side (total dose approximately 1mL/kg).\n\nQuadratus lumborum block: The second group of subjects will have bilateral quadratus lumborum blocks: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per/ kg per side (total dose approximately 1mL/kg). This is injected in the subject's flank in the fascial plane between the quadratus lumborum muscle and the psoas muscle. Ultrasound guidance is used for needle and structure localization and this procedure is done by a pediatric anesthesiologist while the subject is already under general anesthesia. Quadratus lumborum blocks are regularly used in clinical practice for postoperative pain relief for a variety of abdominal procedures."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Pruritis",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Nausea and/or Vomiting",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Severity of Side Effects With Each Intervention",
+          "description": "The secondary endpoint assesses the severity of side effects with each intervention such as nausea and/or vomiting, and pruritus in the patients who experienced a side effect. Parents of participants who experienced the side effects listed rated the severity of them using a Visual Analog Scale from 0-100mm. The higher the score, the worse the side effect.",
+          "populationDescription": "Patients may have experienced one side effect or both, therefore there may be overlap in participant numbers reporting a score. Four unique participants in the intrathecal morphine group reported 6 instances of side effects, and 4 subjects in the QL group reported 5 instances of size effects.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "0-48 hours post-operatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Intrathecal Morphine",
+              "description": "Intrathecal Morphine: spinal (neuraxial) dose of preservative free morphine (duramorph), usually about 4-5mcg/kg\n\nIntrathecal Morphine: One group of subjects will receive intrathecal morphine: spinal (neuraxial) dose of preservative free morphine (Duramorph), usually about 4-5mcg/kg. This is injected into the cerebrospinal fluid under sterile technique by a pediatric anesthesiologist while the subject is already under general anesthesia. This procedure is well-described in the pediatric population and used regularly for postoperative pain relief for a variety of procedures including ureteral reimplantation."
+            },
+            {
+              "id": "OG001",
+              "title": "Quadratus Lumborum Block",
+              "description": "Quadratus Lumborum Block: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per kg per side (total dose approximately 1mL/kg).\n\nQuadratus lumborum block: The second group of subjects will have bilateral quadratus lumborum blocks: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per/ kg per side (total dose approximately 1mL/kg). This is injected in the subject's flank in the fascial plane between the quadratus lumborum muscle and the psoas muscle. Ultrasound guidance is used for needle and structure localization and this procedure is done by a pediatric anesthesiologist while the subject is already under general anesthesia. Quadratus lumborum blocks are regularly used in clinical practice for postoperative pain relief for a variety of abdominal procedures."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Pruritus",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65.0",
+                      "spread": "21.2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "30.0",
+                      "spread": "28.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Nausea and/or Vomiting",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "55.0",
+                      "spread": "17.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "60.0",
+                      "spread": "10.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Patient/Family Satisfaction",
+          "description": "This endpoint will assess patient and family overall satisfaction with their child's pain control and experience of their child's post-op recovery. Satisfaction will be rated using VAS 0 (not satisfied) to 100 (completely satisfied).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "up to 48 hours post-operative",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Intrathecal Morphine",
+              "description": "Intrathecal Morphine: spinal (neuraxial) dose of preservative free morphine (duramorph), usually about 4-5mcg/kg\n\nIntrathecal Morphine: One group of subjects will receive intrathecal morphine: spinal (neuraxial) dose of preservative free morphine (Duramorph), usually about 4-5mcg/kg. This is injected into the cerebrospinal fluid under sterile technique by a pediatric anesthesiologist while the subject is already under general anesthesia. This procedure is well-described in the pediatric population and used regularly for postoperative pain relief for a variety of procedures including ureteral reimplantation."
+            },
+            {
+              "id": "OG001",
+              "title": "Quadratus Lumborum Block",
+              "description": "Quadratus Lumborum Block: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per kg per side (total dose approximately 1mL/kg).\n\nQuadratus lumborum block: The second group of subjects will have bilateral quadratus lumborum blocks: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per/ kg per side (total dose approximately 1mL/kg). This is injected in the subject's flank in the fascial plane between the quadratus lumborum muscle and the psoas muscle. Ultrasound guidance is used for needle and structure localization and this procedure is done by a pediatric anesthesiologist while the subject is already under general anesthesia. Quadratus lumborum blocks are regularly used in clinical practice for postoperative pain relief for a variety of abdominal procedures."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Satisfaction with pain control",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "89.0",
+                      "spread": "17.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "73.3",
+                      "spread": "29.6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Overall satisfaction",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "88.0",
+                      "spread": "11.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "87.2",
+                      "spread": "17.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Total Length of PACU Stay - Minutes",
+          "description": "This endpoint will assess how long the patient's PACU stay was in minutes. The longer the stay, the worse the outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "minutes",
+          "timeFrame": "time to discharge after surgery, (an expected average length of hospital stay is approximately 2-4 days)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Intrathecal Morphine",
+              "description": "Intrathecal Morphine: spinal (neuraxial) dose of preservative free morphine (duramorph), usually about 4-5mcg/kg\n\nIntrathecal Morphine: One group of subjects will receive intrathecal morphine: spinal (neuraxial) dose of preservative free morphine (Duramorph), usually about 4-5mcg/kg. This is injected into the cerebrospinal fluid under sterile technique by a pediatric anesthesiologist while the subject is already under general anesthesia. This procedure is well-described in the pediatric population and used regularly for postoperative pain relief for a variety of procedures including ureteral reimplantation."
+            },
+            {
+              "id": "OG001",
+              "title": "Quadratus Lumborum Block",
+              "description": "Quadratus Lumborum Block: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per kg per side (total dose approximately 1mL/kg).\n\nQuadratus lumborum block: The second group of subjects will have bilateral quadratus lumborum blocks: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per/ kg per side (total dose approximately 1mL/kg). This is injected in the subject's flank in the fascial plane between the quadratus lumborum muscle and the psoas muscle. Ultrasound guidance is used for needle and structure localization and this procedure is done by a pediatric anesthesiologist while the subject is already under general anesthesia. Quadratus lumborum blocks are regularly used in clinical practice for postoperative pain relief for a variety of abdominal procedures."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "42.8",
+                      "spread": "37.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "57.4",
+                      "spread": "37.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Duration of Analgesia - MME/kg in First 24 Hours",
+          "description": "The primary endpoint will compare the effect that intrathecal morphine and quadratus lumborum blocks have on the duration of analgesia as demonstrated by morphine milligram equivalents (MME)/kg in the first 24 hours. The higher the MME/kg, the worse the pain.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "MME/kg",
+          "timeFrame": "Up to 24 hours post-op",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Intrathecal Morphine",
+              "description": "Intrathecal Morphine: spinal (neuraxial) dose of preservative free morphine (duramorph), usually about 4-5mcg/kg\n\nIntrathecal Morphine: One group of subjects will receive intrathecal morphine: spinal (neuraxial) dose of preservative free morphine (Duramorph), usually about 4-5mcg/kg. This is injected into the cerebrospinal fluid under sterile technique by a pediatric anesthesiologist while the subject is already under general anesthesia. This procedure is well-described in the pediatric population and used regularly for postoperative pain relief for a variety of procedures including ureteral reimplantation."
+            },
+            {
+              "id": "OG001",
+              "title": "Quadratus Lumborum Block",
+              "description": "Quadratus Lumborum Block: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per kg per side (total dose approximately 1mL/kg).\n\nQuadratus lumborum block: The second group of subjects will have bilateral quadratus lumborum blocks: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per/ kg per side (total dose approximately 1mL/kg). This is injected in the subject's flank in the fascial plane between the quadratus lumborum muscle and the psoas muscle. Ultrasound guidance is used for needle and structure localization and this procedure is done by a pediatric anesthesiologist while the subject is already under general anesthesia. Quadratus lumborum blocks are regularly used in clinical practice for postoperative pain relief for a variety of abdominal procedures."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.03",
+                      "spread": "0.06"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.08",
+                      "spread": "0.13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Total Length of Hospital Stay - Length of Stay, Days",
+          "description": "This endpoint will assess how long the patient's hospital stay was overall in days. The higher the number of days, the worse the outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "days",
+          "timeFrame": "time to discharge after surgery, (an expected average length of hospital stay is approximately 2-4 days)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Intrathecal Morphine",
+              "description": "Intrathecal Morphine: spinal (neuraxial) dose of preservative free morphine (duramorph), usually about 4-5mcg/kg\n\nIntrathecal Morphine: One group of subjects will receive intrathecal morphine: spinal (neuraxial) dose of preservative free morphine (Duramorph), usually about 4-5mcg/kg. This is injected into the cerebrospinal fluid under sterile technique by a pediatric anesthesiologist while the subject is already under general anesthesia. This procedure is well-described in the pediatric population and used regularly for postoperative pain relief for a variety of procedures including ureteral reimplantation."
+            },
+            {
+              "id": "OG001",
+              "title": "Quadratus Lumborum Block",
+              "description": "Quadratus Lumborum Block: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per kg per side (total dose approximately 1mL/kg).\n\nQuadratus lumborum block: The second group of subjects will have bilateral quadratus lumborum blocks: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per/ kg per side (total dose approximately 1mL/kg). This is injected in the subject's flank in the fascial plane between the quadratus lumborum muscle and the psoas muscle. Ultrasound guidance is used for needle and structure localization and this procedure is done by a pediatric anesthesiologist while the subject is already under general anesthesia. Quadratus lumborum blocks are regularly used in clinical practice for postoperative pain relief for a variety of abdominal procedures."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.4",
+                      "spread": "0.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.0",
+                      "spread": "1.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Adverse events were collected from 0-48 hours post-operatively through in-person assessments and chart review.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Intrathecal Morphine",
+          "description": "Intrathecal Morphine: spinal (neuraxial) dose of preservative free morphine (duramorph), usually about 4-5mcg/kg\n\nIntrathecal Morphine: One group of subjects will receive intrathecal morphine: spinal (neuraxial) dose of preservative free morphine (Duramorph), usually about 4-5mcg/kg. This is injected into the cerebrospinal fluid under sterile technique by a pediatric anesthesiologist while the subject is already under general anesthesia. This procedure is well-described in the pediatric population and used regularly for postoperative pain relief for a variety of procedures including ureteral reimplantation.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 5,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 5,
+          "otherNumAffected": 4,
+          "otherNumAtRisk": 5
+        },
+        {
+          "id": "EG001",
+          "title": "Quadratus Lumborum Block",
+          "description": "Quadratus Lumborum Block: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per kg per side (total dose approximately 1mL/kg).\n\nQuadratus lumborum block: The second group of subjects will have bilateral quadratus lumborum blocks: peripheral nerve block utilizing ropivacaine 0.2%, usually about ½ mL per/ kg per side (total dose approximately 1mL/kg). This is injected in the subject's flank in the fascial plane between the quadratus lumborum muscle and the psoas muscle. Ultrasound guidance is used for needle and structure localization and this procedure is done by a pediatric anesthesiologist while the subject is already under general anesthesia. Quadratus lumborum blocks are regularly used in clinical practice for postoperative pain relief for a variety of abdominal procedures.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 9,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 9,
+          "otherNumAffected": 4,
+          "otherNumAtRisk": 9
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Nausea and/or Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Nausea and/or Vomiting",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 5
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 9
+            }
+          ]
+        },
+        {
+          "term": "Pruritus",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Pruritus",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 5
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 9
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Natalie Barnett",
+        "organization": "Medical University of South Carolina",
+        "email": "barnettn@musc.edu",
+        "phone": "(843) 792-5454"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP_ICF",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": true,
+          "label": "Study Protocol, Statistical Analysis Plan, and Informed Consent Form",
+          "date": "2023-07-13",
+          "uploadDate": "2025-02-28T10:42",
+          "filename": "Prot_SAP_ICF_000.pdf",
+          "size": 341522
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-03-25",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000377",
+          "term": "Agnosia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010468",
+          "term": "Perceptual Disorders"
+        },
+        {
+          "id": "D019954",
+          "term": "Neurobehavioral Manifestations"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

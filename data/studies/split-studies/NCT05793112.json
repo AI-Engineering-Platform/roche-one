@@ -1,0 +1,2382 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05793112",
+      "orgStudyIdInfo": {
+        "id": "2022P002752"
+      },
+      "organization": {
+        "fullName": "Massachusetts General Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "INF108F in Infants With Food Protein Induced Proctocolitis",
+      "officialTitle": "Restoring Gut Health With INF108F in Infants With Food Protein Induced Allergic Proctocolitis",
+      "acronym": "RESTORE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-11",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-09-09",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-09-27",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-09-27",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-03-17",
+      "studyFirstSubmitQcDate": "2023-03-30",
+      "studyFirstPostDateStruct": {
+        "date": "2023-03-31",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-09-27",
+      "resultsFirstSubmitQcDate": "2025-11-10",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-11-24",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-11-10",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-11-24",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Qian Yuan, MD, PhD",
+        "investigatorTitle": "Principal Investigator",
+        "investigatorAffiliation": "Massachusetts General Hospital"
+      },
+      "leadSponsor": {
+        "name": "Massachusetts General Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Single-center, randomized, double-blind, placebo-controlled trail evaluating INF108F in breastfed infants with FPIAP",
+      "detailedDescription": "This is a single-center, randomized, double-blind, placebo-controlled trial with two arms evaluating IBF108F in breastfed infants with FPIAP. Assessments will be conducted over a 4-week study period with assessment of blood in stool, infant stooling, sleep, feeding, and growth. Safety will be evaluated through collection adverse events."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Infant Development",
+        "Gut Microbiome",
+        "Food Protein Induced Allergic Proctocolitis"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 20,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "INF108F",
+          "type": "EXPERIMENTAL",
+          "description": "INF108F",
+          "interventionNames": [
+            "Drug: INF108F probiotic"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Placebo",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "INF108F probiotic",
+          "description": "Oral suspension",
+          "armGroupLabels": [
+            "INF108F"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Oral suspension",
+          "armGroupLabels": [
+            "Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Changes to Gut Microbiome Composition",
+          "description": "Absolute change from baseline in relative abundance of B. infantis INF108F to Study Day 28 via metagenomics results in mITT population. Unit measured: The absolute change from baseline in the percentage of sequenced reads assigned to B. infantis INF108F (calculated as value at Day 28 - value at baseline).",
+          "timeFrame": "Baseline to Day 28"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Changes to Clinical Symptoms of FPIAP",
+          "description": "We will collect information using questionnaires about infants' gastroesophageal reflux disease symptoms, feeding, sleep and stool frequency and consistency.\n\nThe severity of infant GER will be quantified using the Infant Gastroesophageal Reflux Questionnaire (I-GERQ), with numeric scores. The minimum score is 0 and the maximum score is 25; scores \\>7 provide 74% specificity and 94% sensitivity for diagnosing GERD. Higher I-GERQ scores/values are indicative of worse outcomes, worse reflux symptoms for the infant.\n\nThe secondary outcome was reported as the absolute change from baseline in I-GERQ score; therefore, a higher value would be positive as the score is reduced significantly from baseline, which means reflux symptoms were improved.\n\nThe sleep will be captured using Infant Sleep Questionnaire, with 0-10 scales, 0 means worst sleep and 10 means excellent sleep for quantify the quality of infant's night sleep.",
+          "timeFrame": "Baseline to day 28"
+        },
+        {
+          "measure": "Percentage of Infants With no Gross/Visible Blood in Stool on Study Day 14 Via the Daily Log",
+          "description": "Analysis of the key secondary endpoints will be completed based on the modified Intent-to-Treat (mITT) population. The mITT population will include all infants who are randomized and receive at least one supplementation. Infants will be analyzed according to the group to which they are randomized.",
+          "timeFrame": "Enrollment to Study Day 14"
+        },
+        {
+          "measure": "Percentage of Infants Within Each Category of 'Do You Consider Your Baby's Sleep a Problem?' (Not a Problem at All, a Very Small Problem, a Small Problem, a Moderate Problem, a Serious Problem) at Baseline and Study Days 7, 14, and 28 Via the Weekly Log",
+          "description": "Analysis of the key secondary endpoints will be completed based on the modified Intent-to-Treat (mITT) population. The mITT population will include all infants who are randomized and receive at least one supplementation. Infants will be analyzed according to the group to which they are randomized.",
+          "timeFrame": "Baseline, Study Day 7, Study Day 14, Study Day 28"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Infants, male or female, of all ethnic/racial groups, with a gestational period of 37 to 42 weeks\n* Infants aged 1 - 90 days old with a documented FPIAP with either gross blood or microscopic blood in without other possible causes\n* Infants must be exclusively breastfed or at least half of oral intake is from breast feeding or from expressed breast milk\n* A willing parent or legal guardian will sign the consent form either electronically or with a wet ink signature\n\nExclusion Criteria:\n\n* Infants born earlier than 37 weeks of gestation\n* Infants who are exclusively formula-fed or less than half of oral intake is from breastfeeding or from expressed breast milk at the time of enrollment\n* Infants born with medical complications (i.e., neurological, cerebral palsy, confirmed food allergies)\n* Diagnosis of other severe or complicating medical problems, including autoimmune or chronic immune inflammatory conditions, gastrointestinal inflammatory conditions, or renal insufficiency\n* History of abdominal surgery or congenital abnormalities of the GI track, the cardiovascular system, the pulmonary system or the renal system\n* Antibiotic use (oral or systemic) within 7 days prior to enrollment\n* Mother's intent to feed non-study probiotics or solid food to their infant at any time during the study\n* Mothers with substance use disorder (SUD) or on Nicotine replacement therapy (NRT)\n* Infants who have consumed any B. infantis-containing probiotics since birth",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "1 Day",
+      "maximumAge": "90 Days",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Newton Wellesley Hospital",
+          "city": "Newton",
+          "state": "Massachusetts",
+          "zip": "02462",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.33704,
+            "lon": -71.20922
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "recruitmentDetails": "Breastfed infants with FPIAP, w/ either grossly visible bloody stool or microscopic bloody stools, excl. other causes, will be recruited at PNW or MGH Pediatric GI clinic. They will be provided basic information about the study. We will ask potential participants to provide basic contact information and answer some study-specific questions as a pre-qualifier. Individuals who are interested to learn more will receive more details about the study, the informed consent, and study team contacts.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "INF108F",
+          "description": "INF108F"
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo",
+          "description": "Placebo"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "INF108F",
+          "description": "INF108F"
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo",
+          "description": "Placebo"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "10"
+            },
+            {
+              "groupId": "BG001",
+              "value": "10"
+            },
+            {
+              "groupId": "BG002",
+              "value": "20"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Weight at birth",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kilograms (kg)",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3.18",
+                      "spread": "0.527"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3.56",
+                      "spread": "0.417"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3.37",
+                      "spread": "0.51"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Birth Mode",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Vaginal",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14"
+                    }
+                  ]
+                },
+                {
+                  "title": "C-section",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Singleton delivery",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Delivered in a Hospital",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Maternal antibiotic exposure during labor/delivery",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Highest education of either parent in home is Bachelor's or Advanced degree",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Baby ever consumed infant formula",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Baby ever consumed infant probiotics",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Baby ever consumed solid food",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Baby ever consumed iron supplements",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mother ever consumed medication to treat acid reflux of GERD",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13"
+                    }
+                  ]
+                },
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Acid reflux medication taken after baby was born",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Type of Acid Reflux medication consumed",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Famotidine",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Mylanta",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "None",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mother ever had any type of allergy",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Type of allergy (mother)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Asthma",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Allergic rhinitis",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Eczema",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Food allergy",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "None",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Father ever had any type of allergy",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                },
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Type of allergy (father)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Asthma",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Allergic rhinitis",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Eczema",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Food allergy",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "None",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Customized",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Weeks",
+          "classes": [
+            {
+              "title": "Age at Enrollment in weeks",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9.2",
+                      "spread": "3.29"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9.4",
+                      "spread": "2.72"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9.3",
+                      "spread": "3.02"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Age at First Physical Exam in weeks",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9.1",
+                      "spread": "3.38"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9.4",
+                      "spread": "2.27"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9.25",
+                      "spread": "2.88"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Gestational Age at Birth in weeks",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "39.55",
+                      "spread": "0.997"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "39.55",
+                      "spread": "0.923"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "39.55",
+                      "spread": "0.96"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Changes to Gut Microbiome Composition",
+          "description": "Absolute change from baseline in relative abundance of B. infantis INF108F to Study Day 28 via metagenomics results in mITT population. Unit measured: The absolute change from baseline in the percentage of sequenced reads assigned to B. infantis INF108F (calculated as value at Day 28 - value at baseline).",
+          "populationDescription": "There will be two analysis populations defined for this study. Analysis of the primary, key secondary, and other secondary endpoints will be completed on the modified Intent-to-Treat (mITT) population. All safety-related tabulations will be based upon the Safety population. The mITT population will include all infants who are randomized and receive at least one supplementation of the intervention. Infants will be analyzed according to the group to which they are randomized.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Change in %B.infantis reads (Day 28-BL)",
+          "timeFrame": "Baseline to Day 28",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "INF108F",
+              "description": "INF108F"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Placebo"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "9"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "8"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "42.816",
+                      "spread": "53.236"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-12.413",
+                      "spread": "35.104"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.154",
+              "statisticalMethod": "Wilcoxon range sum test",
+              "paramType": "Median Difference (Final Values)",
+              "paramValue": "57.57"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Changes to Clinical Symptoms of FPIAP",
+          "description": "We will collect information using questionnaires about infants' gastroesophageal reflux disease symptoms, feeding, sleep and stool frequency and consistency.\n\nThe severity of infant GER will be quantified using the Infant Gastroesophageal Reflux Questionnaire (I-GERQ), with numeric scores. The minimum score is 0 and the maximum score is 25; scores \\>7 provide 74% specificity and 94% sensitivity for diagnosing GERD. Higher I-GERQ scores/values are indicative of worse outcomes, worse reflux symptoms for the infant.\n\nThe secondary outcome was reported as the absolute change from baseline in I-GERQ score; therefore, a higher value would be positive as the score is reduced significantly from baseline, which means reflux symptoms were improved.\n\nThe sleep will be captured using Infant Sleep Questionnaire, with 0-10 scales, 0 means worst sleep and 10 means excellent sleep for quantify the quality of infant's night sleep.",
+          "populationDescription": "Analysis of the key secondary endpoints will be completed based on the modified Intent-to-Treat (mITT) population. The mITT population will include all infants who are randomized and receive at least one supplementation. Infants will be analyzed according to the group to which they are randomized.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "Scores on a scale",
+          "timeFrame": "Baseline to day 28",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "INF108F",
+              "description": "INF108F"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Placebo"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-5.5",
+                      "lowerLimit": "-14",
+                      "upperLimit": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.0",
+                      "lowerLimit": "-3",
+                      "upperLimit": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.073",
+              "statisticalMethod": "Wilcoxon (Mann-Whitney)",
+              "paramType": "Median Difference (Final Values)",
+              "paramValue": "-5"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Infants With no Gross/Visible Blood in Stool on Study Day 14 Via the Daily Log",
+          "description": "Analysis of the key secondary endpoints will be completed based on the modified Intent-to-Treat (mITT) population. The mITT population will include all infants who are randomized and receive at least one supplementation. Infants will be analyzed according to the group to which they are randomized.",
+          "populationDescription": "Percentage of infants with no gross/visible blood in stool on Study Day 14 via the daily log",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Enrollment to Study Day 14",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "INF108F",
+              "description": "INF108F"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Placebo"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Gross/visible blood in stool on Day 14",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "No gross/visible blood in stool on Day 14",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.471",
+              "statisticalMethod": "Fisher Exact",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-2"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Infants Within Each Category of 'Do You Consider Your Baby's Sleep a Problem?' (Not a Problem at All, a Very Small Problem, a Small Problem, a Moderate Problem, a Serious Problem) at Baseline and Study Days 7, 14, and 28 Via the Weekly Log",
+          "description": "Analysis of the key secondary endpoints will be completed based on the modified Intent-to-Treat (mITT) population. The mITT population will include all infants who are randomized and receive at least one supplementation. Infants will be analyzed according to the group to which they are randomized.",
+          "populationDescription": "Analysis of the key secondary endpoints will be completed based on the modified Intent-to-Treat (mITT) population. The mITT population will include all infants who are randomized and receive at least one supplementation. Infants will be analyzed according to the group to which they are randomized.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Baseline, Study Day 7, Study Day 14, Study Day 28",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "INF108F",
+              "description": "INF108F"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Placebo"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Day 0 (Baseline)",
+              "categories": [
+                {
+                  "title": "Not a problem at all",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "A very small problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "A small problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "A moderate problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "A serious problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Missing",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Day 7",
+              "categories": [
+                {
+                  "title": "Not a problem at all",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "A very small problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "A small problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "A moderate problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "A serious problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Missing",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Day 14",
+              "categories": [
+                {
+                  "title": "Not a problem at all",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "A very small problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "A small problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "A moderate problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "A serious problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Missing",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Day 21",
+              "categories": [
+                {
+                  "title": "Not a problem at all",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "A very small problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "A small problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "A moderate problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "A serious problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Missing",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Day 28",
+              "categories": [
+                {
+                  "title": "Not a problem at all",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "A very small problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "A small problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "A moderate problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "A serious problem",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Missing",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Day 0 (Baseline)",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.057",
+              "statisticalMethod": "Cochran-Mantel-Haenszel"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Day 7",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.169",
+              "statisticalMethod": "Cochran-Mantel-Haenszel"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Day 14",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.168",
+              "statisticalMethod": "Cochran-Mantel-Haenszel"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Day 21",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.139",
+              "statisticalMethod": "Cochran-Mantel-Haenszel"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Day 28",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.348",
+              "statisticalMethod": "Cochran-Mantel-Haenszel"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "From baseline to final follow-up study visit, an average of 30 days",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "INF108F",
+          "description": "INF108F",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 10,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 10,
+          "otherNumAffected": 4,
+          "otherNumAtRisk": 10
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo",
+          "description": "Placebo",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 10,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 10,
+          "otherNumAffected": 6,
+          "otherNumAtRisk": 10
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Failure to thrive",
+          "organSystem": "Metabolism and nutrition disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Mild, dose not changed, no treatment",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 10
+            }
+          ]
+        },
+        {
+          "term": "Colicky",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Mild, dose not changed, treatment with conmed",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 2,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 2,
+              "numAtRisk": 10
+            }
+          ]
+        },
+        {
+          "term": "Hematemesis",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Mild, dose not changed, no treatment",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 10
+            }
+          ]
+        },
+        {
+          "term": "Hematochezia",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Mild, dose not changed, no treatment",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 10
+            }
+          ]
+        },
+        {
+          "term": "Gas",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Mild, dose not changed, no treatment",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 10
+            }
+          ]
+        },
+        {
+          "term": "Mild eczema",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Mild, dose not changed, no treatment",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 10
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Mild, dose not changed, no treatment",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 10
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "This study was a pilot study with a very limited sample size (n=20).\n\nNot all participants were per protocol of the study with the INF108 population having two participants (20%) considered not per protocol and the placebo having one participant (10%) not per protocol."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dr. Qian Yuan",
+        "organization": "Massachusetts General Hospital",
+        "email": "QYUAN@mgh.harvard.edu",
+        "phone": "6172435466"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-08-01",
+          "uploadDate": "2025-09-09T15:09",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 757278
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-10-24",
+            "type": "ESTIMATED"
+          }
+        }
+      }
+    }
+  },
+  "hasResults": true
+}

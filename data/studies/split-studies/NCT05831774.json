@@ -1,0 +1,1227 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05831774",
+      "orgStudyIdInfo": {
+        "id": "PRO00036529"
+      },
+      "organization": {
+        "fullName": "The Methodist Hospital Research Institute",
+        "class": "OTHER"
+      },
+      "briefTitle": "IO Vancomycin in TSA",
+      "officialTitle": "Intraosseous vs. Intravenous Vancomycin Administration in Total Shoulder Arthroplasty: Changing the Paradigm"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-06-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-07-15",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2026-03-10",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-03-10",
+      "studyFirstSubmitQcDate": "2023-04-14",
+      "studyFirstPostDateStruct": {
+        "date": "2023-04-26",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-08-14",
+      "resultsFirstSubmitQcDate": "2025-09-18",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-09-22",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-09-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-22",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Patrick McCulloch,MD",
+        "investigatorTitle": "Principal Investigator",
+        "investigatorAffiliation": "The Methodist Hospital Research Institute"
+      },
+      "leadSponsor": {
+        "name": "The Methodist Hospital Research Institute",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to compare two different antibiotic regimens and techniques during total shoulder arthroplasty.\n\nPrimary Objective: Comparable levels of vancomycin will be found in bone, soft tissue, and systemic samples between patient groups.\n\nSecondary Objective: Compare 30 day and 90 day post-operative complication rates (infection) between the control (standard IV administration of vancomycin) vs the interventional group (intraosseous administration of vancomycin). The investigators hypothesize that there will be no difference in complication (infection) rates between groups.",
+      "detailedDescription": "This study is a prospective, randomized, single-blinded, controlled trial. 20 patients in each treatment arm: 20 patients will be given IV vancomycin, 20 patients will be given IO vancomycin. This sample size is based on previous studies examining vancomycin concentration in tourniquetless primary total knee arthroplasty between IO vs IV \\[12,13\\].\n\nOnce the participant has been enrolled, they will be randomized into either the control group or the experimental group by an excel-based software program prior to their procedure.\n\nControl - Standard IV administration of vancomycin\n\n1\\) Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).\n\nIntervention - Intraosseous (IO) administration of vancomycin\n\n1. IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n2. IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n3. Injection will take place into the proximal humerus\n\nAll patients in both groups will be monitored during the surgery and immediately post-operatively for adverse injection reactions (i.e. Red Man Syndrome) as this is the standard of care.\n\nAll patients (IV and IO) will otherwise follow identical post-operative protocols (including post-operative antibiotic administration)\n\nIntra-Op Sample Collection\n\nSamples will be taken from the following locations at the following times:\n\nSystemic Sample - Start of Case A vancomycin blood level will be drawn by the anesthesiologist staff (CRNA, MD) at the start of incision and should occur simultaneously with the final soft tissue sample collection below Soft tissue sample - Synovium Start A small soft tissue sample will be taken from the synovium upon entering the shoulder joint. This sample will only be taken if it is readily available for the surgeon to gather.\n\nBone Sample - Bone from Humeral Head After the humeral neck is cut with the \"cookie cutter\" instrument a portion of humeral head/neck will be removed and placed in a separate specimen jar (remainder of head will be sent to pathology as usual).\n\nSoft Tissue Sample - Synovium End A small soft tissue sample will be taken from the synovium prior to initiation of wound closure. This sample will only be taken if it is readily available for the surgeon to gather.\n\nSystemic Sample A vancomycin blood level will be drawn by the anesthesiologist staff (CRNA, MD) at the time of initiation of closure and should occur simultaneously with the final soft tissue sample collection above\n\nData Variables to be Recorded Age (calculated from DOB), date of surgery, discharge date, sex, laterality, study group, pre-op creatinine, post-op creatinine, systemic vancomycin level at incision, soft tissue vancomycin level (synovium start and synovium end), humeral head bone sample vancomycin level, and systemic vancomycin level at initiation of wound closure. Additionally, adverse local/systemic reactions as determined from patient's chart, 30-day complications, 90-day complications, cost, time from antibiotic administration to incision, operative time, and incision time."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Shoulder Injuries"
+      ],
+      "keywords": [
+        "total shoulder arthroplasty"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "2 groups - one control, one treatment",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "maskingDescription": "Double blinded study",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 33,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Control - Standard IV administration of vancomycin",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).",
+          "interventionNames": [
+            "Drug: Control - Standard IV administration of vancomycin"
+          ]
+        },
+        {
+          "label": "Intervention - Intraosseous (IO) administration of vancomycin",
+          "type": "EXPERIMENTAL",
+          "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus",
+          "interventionNames": [
+            "Drug: Intervention - Intraosseous (IO) administration of vancomycin"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Intervention - Intraosseous (IO) administration of vancomycin",
+          "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus",
+          "armGroupLabels": [
+            "Intervention - Intraosseous (IO) administration of vancomycin"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Control - Standard IV administration of vancomycin",
+          "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).",
+          "armGroupLabels": [
+            "Control - Standard IV administration of vancomycin"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Systemic Levels of Vancomycin",
+          "description": "Comparable levels of vancomycin will be found in systemic samples between patient groups.",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Vancomycin Levels in the Initial Deltoid",
+          "description": "Comparable levels of vancomycin will be found in the initial deltoid samples between patient groups.",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Vancomycin Levels in the Humeral Head",
+          "description": "Comparable levels of vancomycin will be found in humeral head samples between patient groups.",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Levels of Vancomycin in Synovium",
+          "description": "Comparable levels of vancomycin will be found in synovium samples between patient groups.",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Levels of Vancomycin in Labrum",
+          "description": "Comparable levels of vancomycin will be found in labrum samples between patient groups.",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Levels of Vancomycin in Glenoid Reaming",
+          "description": "Comparable levels of vancomycin will be found in glenoid reaming samples between patient groups.",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Levels of Vancomycin in Bicep Tendon",
+          "description": "Comparable levels of vancomycin will be found in bicep tendon samples between patient groups.",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Levels of Vancomycin in End Deltoid",
+          "description": "Comparable levels of vancomycin will be found in end deltoid samples between patient groups.",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "Vancomycin Levels in Bicep Tendon",
+          "description": "Comparable levels of vancomycin will be found in bicep tendon samples between patient groups.",
+          "timeFrame": "24 hours"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Post-operative Complication (Infection) Rates",
+          "description": "Compare 30 day and 90 day post-operative complication rates (infection) between the control (standard IV administration of vancomycin) vs the interventional group (intraosseous administration of vancomycin). The investigators hypothesize that there will be no difference in complication (infection) rates between groups.",
+          "timeFrame": "30 days, 90 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria\n\n* Patient is undergoing anatomic or reverse shoulder arthroplasty\n* Patient is able to give informed consent to participate on the study. LAR consents will not be utilized for this study\n* Age Range \\>18\n\nExclusion Criteria:\n\n* Previous shoulder surgery\n* BMI above 35\n* Contraindication to receiving vancomycin, cefepime, ancef, or other standard of care pre-operative antibiotic (allergy, medical issue, etc).\n* Inability to administer the IO infusion\n* Refusal to participate\n* Diabetes\n* Immunocompromised or immunosuppressed patients (HIV, Hep C, ESRD, dialysis, transplant, chemo/radiation treatment in last 6 months, medications)",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Houston Methodist Hospital",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "We do not plan to share this information."
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Control - Standard IV Administration of Vancomycin",
+          "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).\n\nControl - Standard IV administration of vancomycin: Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS)."
+        },
+        {
+          "id": "FG001",
+          "title": "Intervention - Intraosseous (IO) Administration of Vancomycin",
+          "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus\n\nIntervention - Intraosseous (IO) administration of vancomycin: • IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "18"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "15"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "18"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "15"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Control - Standard IV Administration of Vancomycin",
+          "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).\n\nControl - Standard IV administration of vancomycin: Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS)."
+        },
+        {
+          "id": "BG001",
+          "title": "Intervention - Intraosseous (IO) Administration of Vancomycin",
+          "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus\n\nIntervention - Intraosseous (IO) administration of vancomycin: • IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "18"
+            },
+            {
+              "groupId": "BG001",
+              "value": "15"
+            },
+            {
+              "groupId": "BG002",
+              "value": "33"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "33"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "33"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Systemic Levels of Vancomycin",
+          "description": "Comparable levels of vancomycin will be found in systemic samples between patient groups.",
+          "populationDescription": "Please note that these numbers will differ from the participant flow module because one sample from one of the participants was not usable. There was a processing error with the sample in the lab, so values were not obtained.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "ug/mL",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Control - Standard IV Administration of Vancomycin",
+              "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).\n\nControl - Standard IV administration of vancomycin: Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS)."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention - Intraosseous (IO) Administration of Vancomycin",
+              "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus\n\nIntervention - Intraosseous (IO) administration of vancomycin: • IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23.65",
+                      "spread": "3.85"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9.79",
+                      "spread": "0.52"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Vancomycin Levels in the Initial Deltoid",
+          "description": "Comparable levels of vancomycin will be found in the initial deltoid samples between patient groups.",
+          "populationDescription": "Please note that these numbers will differ from the participant flow module because one sample from one of the participants was not usable. There was a processing error with the sample in the lab, so values were not obtained.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "ug/mL",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Control - Standard IV Administration of Vancomycin",
+              "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).\n\nControl - Standard IV administration of vancomycin: Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS)."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention - Intraosseous (IO) Administration of Vancomycin",
+              "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus\n\nIntervention - Intraosseous (IO) administration of vancomycin: • IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "32.7",
+                      "spread": "4.48"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "31.09",
+                      "spread": "3.84"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Vancomycin Levels in the Humeral Head",
+          "description": "Comparable levels of vancomycin will be found in humeral head samples between patient groups.",
+          "populationDescription": "Please note that these numbers will differ from the participant flow module because one sample from one of the participants was not usable. There was a processing error with the sample in the lab, so values were not obtained.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "ug/mL",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Control - Standard IV Administration of Vancomycin",
+              "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).\n\nControl - Standard IV administration of vancomycin: Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS)."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention - Intraosseous (IO) Administration of Vancomycin",
+              "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus\n\nIntervention - Intraosseous (IO) administration of vancomycin: • IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "69.53",
+                      "spread": "7.71"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "66.5",
+                      "spread": "8.18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Levels of Vancomycin in Synovium",
+          "description": "Comparable levels of vancomycin will be found in synovium samples between patient groups.",
+          "populationDescription": "Please note that these numbers will differ from the participant flow module because one sample from one of the participants was not usable. There was a processing error with the sample in the lab, so values were not obtained.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "ug/mL",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Control - Standard IV Administration of Vancomycin",
+              "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).\n\nControl - Standard IV administration of vancomycin: Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS)."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention - Intraosseous (IO) Administration of Vancomycin",
+              "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus\n\nIntervention - Intraosseous (IO) administration of vancomycin: • IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "34.96",
+                      "spread": "5.55"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "31.1",
+                      "spread": "4.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Levels of Vancomycin in Labrum",
+          "description": "Comparable levels of vancomycin will be found in labrum samples between patient groups.",
+          "populationDescription": "Please note that these numbers will differ from the participant flow module because one sample from one of the participants was not usable. There was a processing error with the sample in the lab, so values were not obtained.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "ug/mL",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Control - Standard IV Administration of Vancomycin",
+              "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).\n\nControl - Standard IV administration of vancomycin: Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS)."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention - Intraosseous (IO) Administration of Vancomycin",
+              "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus\n\nIntervention - Intraosseous (IO) administration of vancomycin: • IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "85",
+                      "spread": "10.87"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "63.54",
+                      "spread": "6.84"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Levels of Vancomycin in Glenoid Reaming",
+          "description": "Comparable levels of vancomycin will be found in glenoid reaming samples between patient groups.",
+          "populationDescription": "Please note that these numbers will differ from the participant flow module because one sample from one of the participants was not usable. There was a processing error with the sample in the lab, so values were not obtained.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "ug/mL",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Control - Standard IV Administration of Vancomycin",
+              "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).\n\nControl - Standard IV administration of vancomycin: Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS)."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention - Intraosseous (IO) Administration of Vancomycin",
+              "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus\n\nIntervention - Intraosseous (IO) administration of vancomycin: • IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "67.97",
+                      "spread": "9.63"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "68.52",
+                      "spread": "8.92"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Levels of Vancomycin in Bicep Tendon",
+          "description": "Comparable levels of vancomycin will be found in bicep tendon samples between patient groups.",
+          "populationDescription": "Please note that these numbers will differ from the participant flow module because one sample from one of the participants was not usable. There was a processing error with the sample in the lab, so values were not obtained.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "ug/mL",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Control - Standard IV Administration of Vancomycin",
+              "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).\n\nControl - Standard IV administration of vancomycin: Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS)."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention - Intraosseous (IO) Administration of Vancomycin",
+              "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus\n\nIntervention - Intraosseous (IO) administration of vancomycin: • IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "95.25",
+                      "spread": "12.54"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "63",
+                      "spread": "9.05"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Levels of Vancomycin in End Deltoid",
+          "description": "Comparable levels of vancomycin will be found in end deltoid samples between patient groups.",
+          "populationDescription": "Please note that these numbers will differ from the participant flow module because one sample from one of the participants was not usable. There was a processing error with the sample in the lab, so values were not obtained.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "ug/mL",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Control - Standard IV Administration of Vancomycin",
+              "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).\n\nControl - Standard IV administration of vancomycin: Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS)."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention - Intraosseous (IO) Administration of Vancomycin",
+              "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus\n\nIntervention - Intraosseous (IO) administration of vancomycin: • IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "43.23",
+                      "spread": "5.48"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "38.68",
+                      "spread": "5.47"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Vancomycin Levels in Bicep Tendon",
+          "description": "Comparable levels of vancomycin will be found in bicep tendon samples between patient groups.",
+          "populationDescription": "Please note that these numbers will differ from the participant flow module because one sample from one of the participants was not usable. There was a processing error with the sample in the lab, so values were not obtained.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "ug/mL",
+          "timeFrame": "24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Control - Standard IV Administration of Vancomycin",
+              "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).\n\nControl - Standard IV administration of vancomycin: Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS)."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention - Intraosseous (IO) Administration of Vancomycin",
+              "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus\n\nIntervention - Intraosseous (IO) administration of vancomycin: • IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "95.25",
+                      "spread": "12.54"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "63",
+                      "spread": "9.05"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Post-operative Complication (Infection) Rates",
+          "description": "Compare 30 day and 90 day post-operative complication rates (infection) between the control (standard IV administration of vancomycin) vs the interventional group (intraosseous administration of vancomycin). The investigators hypothesize that there will be no difference in complication (infection) rates between groups.",
+          "populationDescription": "Please note that these numbers will differ from the participant flow module because one sample from one of the participants was not usable. There was a processing error with the sample in the lab, so values were not obtained.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Postoperative Complications",
+          "timeFrame": "30 days, 90 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Control - Standard IV Administration of Vancomycin",
+              "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).\n\nControl - Standard IV administration of vancomycin: Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS)."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention - Intraosseous (IO) Administration of Vancomycin",
+              "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus\n\nIntervention - Intraosseous (IO) administration of vancomycin: • IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "30 Days Post-Op",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "90 Days Post-Op",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Through 90 days postop",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Control - Standard IV Administration of Vancomycin",
+          "description": "Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).\n\nControl - Standard IV administration of vancomycin: Patients will receive the Houston Methodist Hospital orthopedic surgeon's standard of care pre-operative antibiotic regimen for primary total shoulder arthroplasty patients. This includes IV abx (typically ancef or cefepime and vancomycin) will be started in the pre-operative period approximately 1 hour prior to incision (vancomycin dose weight-based at approximately 15mg/kg \\[6,7\\] generally 1000-1750mg in 500mL NS).",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 18,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 18,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 18
+        },
+        {
+          "id": "EG001",
+          "title": "Intervention - Intraosseous (IO) Administration of Vancomycin",
+          "description": "* IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus\n\nIntervention - Intraosseous (IO) administration of vancomycin: • IV antibiotics (per physician's standard of care): Typically ancef or cefepime is started in pre-op within 1 hour of incision\n\n* IO vancomycin is administered in the OR after sterile prep and draping has occurred (500mg in 100-150mL NS).\n* Injection will take place into the proximal humerus",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 15,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 15,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 15
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Haley Goble",
+        "organization": "Houston Methodist Hospital",
+        "email": "hmgoble@houstonmethodist.org",
+        "phone": "713-441-3930"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-08-31",
+          "uploadDate": "2025-08-14T12:33",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 280881
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-09-04",
+            "type": "ESTIMATED"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000070599",
+          "term": "Shoulder Injuries"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014947",
+          "term": "Wounds and Injuries"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D018538",
+          "term": "Jupiter"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D016083",
+          "term": "Planets"
+        },
+        {
+          "id": "D016082",
+          "term": "Solar System"
+        },
+        {
+          "id": "D055587",
+          "term": "Astronomical Objects"
+        },
+        {
+          "id": "D055580",
+          "term": "Astronomical Phenomena"
+        },
+        {
+          "id": "D055585",
+          "term": "Physical Phenomena"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,1429 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04629196",
+      "orgStudyIdInfo": {
+        "id": "19-01401"
+      },
+      "organization": {
+        "fullName": "NYU Langone Health",
+        "class": "OTHER"
+      },
+      "briefTitle": "Induction Optimization With Stelara for Crohn's Disease",
+      "officialTitle": "Induction Optimization With Stelara for Crohn's Disease"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-10",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Other effective drugs have been introduced to market since the beginning of the study.",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-02-16",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-01-17",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-01-17",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-11-10",
+      "studyFirstSubmitQcDate": "2020-11-10",
+      "studyFirstPostDateStruct": {
+        "date": "2020-11-16",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-10-10",
+      "resultsFirstSubmitQcDate": "2024-10-10",
+      "resultsFirstPostDateStruct": {
+        "date": "2024-11-05",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-10-10",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-11-05",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "NYU Langone Health",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a 16-week randomized controlled trial comparing a second IV weight-based induction dose at week 8 to standard 90mg subcutaneous dose at week 8, with a primary endpoint of clinical remission at week 16."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Crohn Disease"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 12,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "IV Weight-Based Induction Dose",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: Ustekinumab"
+          ]
+        },
+        {
+          "label": "Standard Subcutaenous Dose",
+          "type": "ACTIVE_COMPARATOR",
+          "interventionNames": [
+            "Drug: Ustekinumab"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ustekinumab",
+          "description": "A second IV weight-based induction dose of Stelara at week 8",
+          "armGroupLabels": [
+            "IV Weight-Based Induction Dose"
+          ],
+          "otherNames": [
+            "Stelara"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Ustekinumab",
+          "description": "A standard 90mg subcutaneous dose of Stelara at week 8",
+          "armGroupLabels": [
+            "Standard Subcutaenous Dose"
+          ],
+          "otherNames": [
+            "Stelara"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Ustekinumab",
+          "description": "All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0",
+          "armGroupLabels": [
+            "IV Weight-Based Induction Dose",
+            "Standard Subcutaenous Dose"
+          ],
+          "otherNames": [
+            "Stelara"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Crohn's Disease Activity Index (CDAI) Score",
+          "description": "The Crohn's Disease Activity Index or CDAI is frequently used to assess disease severity. It gives a score ranging from 0 to over 600, based on a diary of symptoms kept by the patient for 7 days, and other measurements such as the patient's weight and haematocrit.\n\nA CDAI score of less than 150 is considered to be clinical remission.",
+          "timeFrame": "Week 16"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Patients With a Clinical Response",
+          "description": "A clinical response is defined as a drop in CDAI score by at least 100 points between week 0 and week 16, or a CDAI \\< 150.",
+          "timeFrame": "Week 16"
+        },
+        {
+          "measure": "Number of Patients With a Composite Clinical and Biomarker Remission",
+          "description": "Defined as a CDAI \\< 150 and a C-reactive protein (CRP) \\<5mg/l or a fecal calprotectin \\<150 ug/g",
+          "timeFrame": "Week 16"
+        },
+        {
+          "measure": "Change in Crohn's Disease Activity Index (CDAI) Score",
+          "description": "The Crohn's Disease Activity Index or CDAI is frequently used to assess disease severity. It gives a score ranging from 0 to over 600, based on a diary of symptoms kept by the patient for 7 days, and other measurements such as the patient's weight and haematocrit.\n\nA CDAI score of less than 150 is considered to be clinical remission, a score greater than 220 is considered to define moderate to severe disease, and a score greater than 300 is considered to be severe disease.",
+          "timeFrame": "Week 0, Week 16"
+        },
+        {
+          "measure": "Number of Patients With Improvement in Health-related Quality of Life",
+          "description": "Defined as increase in SIBDQ by at least 9 points between week 0 and week 16.\n\nThe Short Inflammatory Bowel Disease Questionnaire (SIBDQ) is a 10-item health-related quality of life (HRQoL) questionnaire validated for use in CD patients. It assesses 4 domains: physical, social, emotional, and systemic and is scored on a 7-point Likert scale from 1 (severe problem) to 7 (no problems at all). The absolute score ranges from 10 (poor HRQOL) to 70 (optimum HRQOL).",
+          "timeFrame": "Week 16"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Males or females between the ages of 18 and 70\n2. History of Crohn's disease for at least 3 months confirmed by colonoscopy and/or cross sectional imaging reviewed by the PI\n3. Moderate to Severe Crohn's disease defined as a CDAI between 220 and 450\n4. Either a CRP \\>8mg/L or a fecal calprotectin \\> 250ug/g within 4 weeks of starting ustekinumab\n5. Stable Concomitant medications (prior to first dose of ustekinumab)\n\n   1. Stable dose of 6-MP, azathioprine, or methotrexate for at least 4 weeks\n   2. Stable dose of oral mesalamine for at least 2 weeks\n   3. Stable dose of prednisone of 20mg or less or budesonide 9mg daily for at least 2 weeks\n6. If subject is a female, before randomization she must be:\n\n   a. Postmenopausal, defined as\n   1. ≥ 45 years of age with amenorrhea for at least 18 months, OR\n   2. ≥ 45 years of age with amenorrhea for at least 6 months and a serum FSH level \\> 40 IU/mL\n\n   OR\n\n   b. Of childbearing potential, in which case she must satisfy at least one of the below:\n   1. Surgically sterile (has had a hysterectomy or bilateral oophorectomy, tubal ligation, or otherwise be incapable of pregnancy), or\n   2. If heterosexually active, practicing a highly effective method of birth control, including hormonal prescription oral contraceptives, contraceptive injections, contraceptive patch, intrauterine device, double-barrier method (eg, condoms, diaphragm, or cervical cap, with spermicidal foam, cream, film, gel or suppository), or male partner sterilization, consistent with local regulations regarding use of birth control methods for subjects participating in clinical trials, for a period of 16 weeks after the last administration of study agent, OR\n   3. Not heterosexually active. Note: If a woman participant's childbearing potential changes after start of the study (e.g., a pre-menarchal woman experiences menarche) or if women of childbearing potential who are not heterosexually active at screening become heterosexually active, they must agree to utilize a highly effective method of birth control, as described above.\n7. Female participants of childbearing potential (menstrual and not surgically sterile), must have a negative serum beta-human chorionic gonadotropin (ᵦ-hCG) pregnancy test at screening and a negative urine pregnancy test at Week 0 (prior to randomization) and agree not to donate eggs (ova, oocytes) for the purposes of assisted reproduction during the study and for a period of 16 weeks after the last administration of study agent.\n8. Male participants who are not surgically sterilized and are heterosexually active with a woman of childbearing potential, must agree to use a barrier method of contraception (e.g., condom with spermicidal foam/gel/film/cream/suppository) and to not donate sperm during the study and for 16 weeks after last receiving study agent. Note that barrier methods must also be used in all male subjects sexually active with pregnant partners for at least 16 weeks after last study agent administration.\n\nExclusion Criteria:\n\n1. Past Stelara or anti-IL 23 use.\n2. Active infection.\n3. Has any known malignancy or has a history of malignancy (except for basal cell carcinoma; squamous cell carcinoma in situ of the skin; or cervical carcinoma in situ that has been treated with no evidence of recurrence; or squamous cell carcinoma of the skin that has been treated with no evidence of recurrence within 5 years prior to screening).\n4. Indeterminate colitis.\n5. Active perianal fistula as the primary symptom.\n6. Fibrostenotic disease with primarily obstructive symptoms.\n7. Hospitalization within the past 2 weeks.\n8. Bowel resection within the past 4 weeks.\n9. Subtotal colectomy.\n10. Permanent Ileostomy.\n11. Is infected with human immunodeficiency virus (HIV; positive serology for HIV antibody).\n12. Has a concomitant diagnosis or any history of congestive heart failure or demyelinating disease.\n13. Has current signs or symptoms, or a history of severe, progressive, or uncontrolled renal, hepatic, hematologic, endocrine, pulmonary, cardiac, neurologic, systemic lupus erythematosus, or psychiatric diseases.\n14. Has a transplanted organ (except for corneal transplant performed \\> 3 months prior to screening).\n15. Has a history of lymphoproliferative disease including lymphoma, or signs and symptoms suggestive of possible lymphoproliferative disease, such as lymphadenopathy of unusual size or location (e.g., nodes in the posterior triangle of the neck, supraclavicular, epitrochlear, or paraaortic areas), or splenomegaly.\n16. Has previously undergone allergy immunotherapy for prevention of anaphylactic reactions.\n17. Is unable or unwilling to undergo multiple venipunctures because of poor tolerability or lack of easy access to veins.\n18. Has known allergies, hypersensitivity, or intolerance to ustekinumab or excipients (refer to the ustekinumab prescribing information).\n19. Has a clinically significant substance abuse problem (eg, drugs or alcohol) at screening or during the previous 12 months prior to baseline.\n20. Any biologic or small molecule therapy within 4 weeks of start of ustekinumab.\n21. Positive quantiferon gold that is not being treated and followed by Infectious Disease\n22. Tests positive for HBV surface antigen (HBsAg), regardless of the results of other hepatitis B tests. Subjects who test positive only for core antibody (anti-HBc) must undergo further testing for hepatitis B DNA acid (HBV DNA test). If the HBV DNA test is positive, the subject is not eligible for this study. If the HBV DNA test is negative, the subject is eligible for this study. In the event the HBV DNA test cannot be performed, the subject is not eligible for this study.\n23. Change in dose of 6-MP, methotrexate, or azathioprine within one month of the start of ustekinumab.\n24. Change in prednisone or budesonide dose within 2 weeks of start of ustekinumab\n25. Change in mesalamine dosage within 2 weeks of start of ustekinumab\n26. Has a stool culture or other examination positive for an enteric pathogen, including Clostridium difficile toxin, in the last 4 months unless a repeat examination is negative and there are no signs of ongoing infection with that pathogen\n27. Has received a Bacillus Calmette-Guérin (BCG) vaccination within 12 months or any other live bacterial or live viral vaccination within 2 weeks of baseline.\n28. Have immune deficiency syndrome (e.g., severe combined immunodeficiency syndrome, T-cell deficiency syndromes, B-cell deficiency syndromes, and chronic granulomatous disease).\n29. Is seropositive for antibodies to hepatitis C (HCV) without a history of clearance or successful treatment, defined as being negative for HCV RNA in the past year and, if treated, at least 24 weeks after completing antiviral treatment.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "70 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "David Hudesman, MD",
+          "affiliation": "NYU Langone Health",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Maryland",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21201",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.29038,
+            "lon": -76.61219
+          }
+        },
+        {
+          "facility": "NYU Langone Health",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10013",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "40357993",
+          "type": "DERIVED",
+          "citation": "Hasskamp J, Meinhardt C, Timmer A. Anti-IL-12/23p40 antibodies for induction of remission in Crohn's disease. Cochrane Database Syst Rev. 2025 May 13;5(5):CD007572. doi: 10.1002/14651858.CD007572.pub4."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Individual participant data that underlie the results reported in this article, after deidentification (text, tables, figures, and appendices) will be shared upon reasonable request.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP"
+      ],
+      "timeFrame": "Data will become available beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research",
+      "accessCriteria": "The investigator who proposed to use the data upon reasonable request. Requests should be directed to IBD\\_Research@nyulangone.org. To gain access, data requestors will need to sign a data access agreement."
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "IV Weight-Based Induction Dose",
+          "description": "Ustekinumab: A second IV weight-based induction dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0"
+        },
+        {
+          "id": "FG001",
+          "title": "Standard Subcutaenous Dose",
+          "description": "Ustekinumab: A standard 90mg subcutaneous dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "6"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "3"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Subject discontinued study drug",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Subject study drug dosing increased",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "IV Weight-Based Induction Dose",
+          "description": "Ustekinumab: A second IV weight-based induction dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0"
+        },
+        {
+          "id": "BG001",
+          "title": "Standard Subcutaenous Dose",
+          "description": "Ustekinumab: A standard 90mg subcutaneous dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "3"
+            },
+            {
+              "groupId": "BG001",
+              "value": "3"
+            },
+            {
+              "groupId": "BG002",
+              "value": "6"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "24.67",
+                      "spread": "2.05"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "37.67",
+                      "spread": "7.13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "31.17",
+                      "spread": "8.35"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Crohn's Disease Activity Index (CDAI) Score",
+          "description": "The Crohn's Disease Activity Index or CDAI is frequently used to assess disease severity. It gives a score ranging from 0 to over 600, based on a diary of symptoms kept by the patient for 7 days, and other measurements such as the patient's weight and haematocrit.\n\nA CDAI score of less than 150 is considered to be clinical remission.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "IV Weight-Based Induction Dose",
+              "description": "Ustekinumab: A second IV weight-based induction dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0"
+            },
+            {
+              "id": "OG001",
+              "title": "Standard Subcutaenous Dose",
+              "description": "Ustekinumab: A standard 90mg subcutaneous dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "84.67",
+                      "spread": "64.82"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "33.3",
+                      "spread": "47.14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients With a Clinical Response",
+          "description": "A clinical response is defined as a drop in CDAI score by at least 100 points between week 0 and week 16, or a CDAI \\< 150.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "IV Weight-Based Induction Dose",
+              "description": "Ustekinumab: A second IV weight-based induction dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0"
+            },
+            {
+              "id": "OG001",
+              "title": "Standard Subcutaenous Dose",
+              "description": "Ustekinumab: A standard 90mg subcutaneous dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients With a Composite Clinical and Biomarker Remission",
+          "description": "Defined as a CDAI \\< 150 and a C-reactive protein (CRP) \\<5mg/l or a fecal calprotectin \\<150 ug/g",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "IV Weight-Based Induction Dose",
+              "description": "Ustekinumab: A second IV weight-based induction dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0"
+            },
+            {
+              "id": "OG001",
+              "title": "Standard Subcutaenous Dose",
+              "description": "Ustekinumab: A standard 90mg subcutaneous dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Crohn's Disease Activity Index (CDAI) Score",
+          "description": "The Crohn's Disease Activity Index or CDAI is frequently used to assess disease severity. It gives a score ranging from 0 to over 600, based on a diary of symptoms kept by the patient for 7 days, and other measurements such as the patient's weight and haematocrit.\n\nA CDAI score of less than 150 is considered to be clinical remission, a score greater than 220 is considered to define moderate to severe disease, and a score greater than 300 is considered to be severe disease.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Week 0, Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "IV Weight-Based Induction Dose",
+              "description": "Ustekinumab: A second IV weight-based induction dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0"
+            },
+            {
+              "id": "OG001",
+              "title": "Standard Subcutaenous Dose",
+              "description": "Ustekinumab: A standard 90mg subcutaneous dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "158",
+                      "spread": "52.14"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "251",
+                      "spread": "39.13"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients With Improvement in Health-related Quality of Life",
+          "description": "Defined as increase in SIBDQ by at least 9 points between week 0 and week 16.\n\nThe Short Inflammatory Bowel Disease Questionnaire (SIBDQ) is a 10-item health-related quality of life (HRQoL) questionnaire validated for use in CD patients. It assesses 4 domains: physical, social, emotional, and systemic and is scored on a 7-point Likert scale from 1 (severe problem) to 7 (no problems at all). The absolute score ranges from 10 (poor HRQOL) to 70 (optimum HRQOL).",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "IV Weight-Based Induction Dose",
+              "description": "Ustekinumab: A second IV weight-based induction dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0"
+            },
+            {
+              "id": "OG001",
+              "title": "Standard Subcutaenous Dose",
+              "description": "Ustekinumab: A standard 90mg subcutaneous dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Adverse events assessed up to 16 weeks. Serious adverse events, including all-cause mortality, assessed up to 30 after the last dose of study drug (up to 20 weeks).",
+      "description": "PI monitors AEs at every follow-up visit",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "IV Weight-Based Induction Dose",
+          "description": "Ustekinumab: A second IV weight-based induction dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 6,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 6,
+          "otherNumAffected": 5,
+          "otherNumAtRisk": 6
+        },
+        {
+          "id": "EG001",
+          "title": "Standard Subcutaenous Dose",
+          "description": "Ustekinumab: A standard 90mg subcutaneous dose of Stelara at week 8\n\nUstekinumab: All patients will receive IV ustekinumab weight-based dose at 260mg (55kg or less), 390mg (more than 55kg to 85kg), or 520mg (more than 85kg) at time point 0",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 6,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 6,
+          "otherNumAffected": 4,
+          "otherNumAtRisk": 6
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Increased stool frequency",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Increased fatigue",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Abdominal Pain",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Rash",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Exodontia",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Paronychia of right finger",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Covid-19",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Acne",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Loose stool and food sensitivity",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Cold",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Right Testicle swelling and pain",
+          "organSystem": "Reproductive system and breast disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Splinter in left index finger",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Viral symptoms",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "sore throat",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "incontinence",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Vein procedure",
+          "organSystem": "Vascular disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Stomach Virus",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Poison Ivy",
+          "organSystem": "Immune system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 6
+            }
+          ]
+        },
+        {
+          "term": "Possible infusion reaction",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 6
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 6
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "David Hudesman, MD",
+        "organization": "NYU Langone Health",
+        "email": "David.Hudesman@nyulangone.org",
+        "phone": "646-501-9327"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2022-12-18",
+          "uploadDate": "2024-10-10T12:41",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 488649
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003424",
+          "term": "Crohn Disease"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D015212",
+          "term": "Inflammatory Bowel Diseases"
+        },
+        {
+          "id": "D005759",
+          "term": "Gastroenteritis"
+        },
+        {
+          "id": "D005767",
+          "term": "Gastrointestinal Diseases"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D007410",
+          "term": "Intestinal Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000069549",
+          "term": "Ustekinumab"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D061067",
+          "term": "Antibodies, Monoclonal, Humanized"
+        },
+        {
+          "id": "D000911",
+          "term": "Antibodies, Monoclonal"
+        },
+        {
+          "id": "D000906",
+          "term": "Antibodies"
+        },
+        {
+          "id": "D007136",
+          "term": "Immunoglobulins"
+        },
+        {
+          "id": "D007162",
+          "term": "Immunoproteins"
+        },
+        {
+          "id": "D001798",
+          "term": "Blood Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D012712",
+          "term": "Serum Globulins"
+        },
+        {
+          "id": "D005916",
+          "term": "Globulins"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

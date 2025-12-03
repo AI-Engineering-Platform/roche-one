@@ -1,0 +1,1226 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05688670",
+      "orgStudyIdInfo": {
+        "id": "PRO00111671"
+      },
+      "organization": {
+        "fullName": "Duke University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Regional Anesthesia Following Pediatric Cardiac Surgery",
+      "officialTitle": "Pain Control With Regional Anesthesia Following Pediatric Cardiac Surgery: A Randomized Double-Blinded Pilot Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-08",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-03-29",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-10-18",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-01-22",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-01-09",
+      "studyFirstSubmitQcDate": "2023-01-09",
+      "studyFirstPostDateStruct": {
+        "date": "2023-01-18",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-08-08",
+      "resultsFirstSubmitQcDate": "2025-08-26",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-08-28",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-08-26",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-08-28",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Duke University",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "The Society of Pediatric Anesthesia",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to evaluate pain control following pediatric cardiac surgery with the use of local anesthesia via an ultrasound guided regional anesthetic technique compared with surgeon delivered wound infiltration.",
+      "detailedDescription": "This is a single center, randomized, double blind investigation which will compare postoperative pain control indices, functional recovery metrics and patient/parental satisfaction for pediatric patients receiving an ultrasound guided regional anesthetic versus surgeon delivered wound infiltration in children undergoing primary atrial and ventricular septal defect repairs. Surgical and anesthesia care, with the exception of the technique of local anesthetic administration, are not altered for study purposes. Subjects are randomized 1:1 to either bilateral Pecto-Intercostal Fascial Block and unilateral Rectus Sheath Block or infiltration of the wound through the perioperative period. Both interventions will use an equal volume of Ropivacaine 0.2% based on weight. Exploratory data will be collected for up to 30 days postoperatively."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Atrial Septal Defect",
+        "Ventricular Septal Defect",
+        "Pain, Procedural"
+      ],
+      "keywords": [
+        "Regional anesthesia"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 52,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Regional Anesthesia",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Ultrasound guided blocks",
+          "interventionNames": [
+            "Procedure: Regional Anesthesia",
+            "Drug: Ropivacaine 0.2% Injectable Solution"
+          ]
+        },
+        {
+          "label": "Wound Infiltration",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Surgeon-delivered wound infiltration",
+          "interventionNames": [
+            "Procedure: Wound infiltration",
+            "Drug: Ropivacaine 0.2% Injectable Solution"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Regional Anesthesia",
+          "description": "Bilateral pecto-intercostal fascial plane block (PIFB) and unilateral rectus sheath block (RSB) with Ropivacaine 0.2%",
+          "armGroupLabels": [
+            "Regional Anesthesia"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Wound infiltration",
+          "description": "Surgeon-delivered wound infiltration with Ropivacaine 0.2%",
+          "armGroupLabels": [
+            "Wound Infiltration"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Ropivacaine 0.2% Injectable Solution",
+          "description": "Ropivacaine 1.5 mL/kg will be used for both interventions",
+          "armGroupLabels": [
+            "Regional Anesthesia",
+            "Wound Infiltration"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Total Amount of Opioid Medications Administered",
+          "description": "Postoperative opioid medication expressed in morphine equivalents per kilogram",
+          "timeFrame": "Up to 12 hours after surgery"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Total Amount of Opioid Medications Administered",
+          "description": "Postoperative opioid medication expressed in morphine equivalents per kilogram",
+          "timeFrame": "12-24 hours after surgery; 24-48 hours after surgery; 12-48 hours hours after surgery"
+        },
+        {
+          "measure": "Total Amount of Opioid Medications Administered",
+          "description": "Postoperative opioid medication expressed in morphine equivalents per kilogram",
+          "timeFrame": "Up to 48 hours after surgery"
+        },
+        {
+          "measure": "Postoperative Pain Intensity AUC",
+          "description": "Cumulative burden of pain over time was assessed using the Face, Legs, Activity, Cry, and Consolability (FLACC) scale. Scores range from 0-10, with higher scores indicating greater pain.",
+          "timeFrame": "48 hours"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Children less than 18 years old\n2. Presenting for primary atrial septal defect or ventricular septal defect repair\n3. Informed consent / assent provided\n\nExclusion Criteria:\n\n1. Patients on opioid therapy at the time of surgery\n2. History of sternotomy\n3. Planned postoperative intubation\n4. Current diagnosis of a chronic pain syndrome.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "maximumAge": "17 Years",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Lisa M Einhorn, MD",
+          "affiliation": "Duke University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Duke University Medical Center",
+          "city": "Durham",
+          "state": "North Carolina",
+          "zip": "27710",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.99403,
+            "lon": -78.89862
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Regional Anesthesia",
+          "description": "Ultrasound guided blocks Regional Anesthesia: Bilateral pecto-intercostal fascial plane block (PIFB) and unilateral rectus sheath block (RSB) with Ropivacaine 0.2% Ropivacaine 0.2% Injectable Solution: Ropivacaine 1.5 mL/kg will be used for both interventions"
+        },
+        {
+          "id": "FG001",
+          "title": "Wound Infiltration",
+          "description": "Surgeon-delivered wound infiltration Wound infiltration: Surgeon-delivered wound infiltration with Ropivacaine 0.2% Ropivacaine 0.2% Injectable Solution: Ropivacaine 1.5 mL/kg will be used for both interventions"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "26"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "26"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "24"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "18"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "8"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Change in surgery plan",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                }
+              ]
+            },
+            {
+              "type": "Inability to extubate",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Day of surgery cancellation",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Reintubated on PCICU arrival",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Participants who completed data collection for the primary and secondary outcomes (up to 48 hours after surgery) are reported.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Regional Anesthesia",
+          "description": "Ultrasound guided blocks Regional Anesthesia: Bilateral pecto-intercostal fascial plane block (PIFB) and unilateral rectus sheath block (RSB) with Ropivacaine 0.2% Ropivacaine 0.2% Injectable Solution: Ropivacaine 1.5 mL/kg will be used for both interventions"
+        },
+        {
+          "id": "BG001",
+          "title": "Wound Infiltration",
+          "description": "Surgeon-delivered wound infiltration Wound infiltration: Surgeon-delivered wound infiltration with Ropivacaine 0.2% Ropivacaine 0.2% Injectable Solution: Ropivacaine 1.5 mL/kg will be used for both interventions"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "24"
+            },
+            {
+              "groupId": "BG001",
+              "value": "18"
+            },
+            {
+              "groupId": "BG002",
+              "value": "42"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3",
+                      "lowerLimit": "0.3",
+                      "upperLimit": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3",
+                      "lowerLimit": "0.3",
+                      "upperLimit": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3",
+                      "lowerLimit": "0.3",
+                      "upperLimit": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "34"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "29"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "42"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Total Amount of Opioid Medications Administered",
+          "description": "Postoperative opioid medication expressed in morphine equivalents per kilogram",
+          "populationDescription": "Participants who completed the study",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "MME/kg",
+          "timeFrame": "Up to 12 hours after surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Regional Anesthesia",
+              "description": "Ultrasound guided blocks Regional Anesthesia: Bilateral pecto-intercostal fascial plane block (PIFB) and unilateral rectus sheath block (RSB) with Ropivacaine 0.2% Ropivacaine 0.2% Injectable Solution: Ropivacaine 1.5 mL/kg will be used for both interventions"
+            },
+            {
+              "id": "OG001",
+              "title": "Wound Infiltration",
+              "description": "Surgeon-delivered wound infiltration Wound infiltration: Surgeon-delivered wound infiltration with Ropivacaine 0.2% Ropivacaine 0.2% Injectable Solution: Ropivacaine 1.5 mL/kg will be used for both interventions"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "24"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "18"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.44",
+                      "spread": "0.19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.83",
+                      "spread": "0.39"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.001",
+              "statisticalMethod": "t-test, 2 sided",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-0.39",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-0.59",
+              "ciUpperLimit": "-0.18"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Total Amount of Opioid Medications Administered",
+          "description": "Postoperative opioid medication expressed in morphine equivalents per kilogram",
+          "populationDescription": "Participants who completed the study",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "MME/kg",
+          "timeFrame": "12-24 hours after surgery; 24-48 hours after surgery; 12-48 hours hours after surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Regional Anesthesia",
+              "description": "Ultrasound guided blocks Regional Anesthesia: Bilateral pecto-intercostal fascial plane block (PIFB) and unilateral rectus sheath block (RSB) with Ropivacaine 0.2% Ropivacaine 0.2% Injectable Solution: Ropivacaine 1.5 mL/kg will be used for both interventions"
+            },
+            {
+              "id": "OG001",
+              "title": "Wound Infiltration",
+              "description": "Surgeon-delivered wound infiltration Wound infiltration: Surgeon-delivered wound infiltration with Ropivacaine 0.2% Ropivacaine 0.2% Injectable Solution: Ropivacaine 1.5 mL/kg will be used for both interventions"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "24"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "18"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "12-24 hours after surgery",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.29",
+                      "spread": "0.19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.35",
+                      "spread": "0.24"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "24-48 hours after surgery",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.23",
+                      "spread": "0.22"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.39",
+                      "spread": "0.39"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "12-48 hours hours after surgery",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.52",
+                      "spread": "0.32"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.74",
+                      "spread": "0.56"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "12-24 hour postoperative opioid use",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.41",
+              "statisticalMethod": "t-test, 2 sided",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-0.06",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-0.20",
+              "ciUpperLimit": "0.08"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "24-48 hour postoperative opioid use",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.14",
+              "statisticalMethod": "t-test, 2 sided",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-0.16",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-0.37",
+              "ciUpperLimit": "0.06"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "12-48 hours hours after surgery",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.16",
+              "statisticalMethod": "t-test, 2 sided",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-0.21",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-0.52",
+              "ciUpperLimit": "0.09"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Total Amount of Opioid Medications Administered",
+          "description": "Postoperative opioid medication expressed in morphine equivalents per kilogram",
+          "populationDescription": "Participants who completed the study",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "MME/kg",
+          "timeFrame": "Up to 48 hours after surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Regional Anesthesia",
+              "description": "Ultrasound guided blocks\n\nRegional Anesthesia: Bilateral pecto-intercostal fascial plane block (PIFB) and unilateral rectus sheath block (RSB) with Ropivacaine 0.2%\n\nRopivacaine 0.2% Injectable Solution: Ropivacaine 1.5 mL/kg will be used for both interventions"
+            },
+            {
+              "id": "OG001",
+              "title": "Wound Infiltration",
+              "description": "Surgeon-delivered wound infiltration\n\nWound infiltration: Surgeon-delivered wound infiltration with Ropivacaine 0.2%\n\nRopivacaine 0.2% Injectable Solution: Ropivacaine 1.5 mL/kg will be used for both interventions"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "24"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "18"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.95",
+                      "spread": "0.40"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.57",
+                      "spread": "0.75"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.004",
+              "statisticalMethod": "t-test, 2 sided",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-0.64",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-1.02",
+              "ciUpperLimit": "-0.22"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Postoperative Pain Intensity AUC",
+          "description": "Cumulative burden of pain over time was assessed using the Face, Legs, Activity, Cry, and Consolability (FLACC) scale. Scores range from 0-10, with higher scores indicating greater pain.",
+          "populationDescription": "Participants who completed the study",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "FLACC pain score (0-10)*hours",
+          "timeFrame": "48 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Regional Anesthesia",
+              "description": "Ultrasound guided blocks\n\nRegional Anesthesia: Bilateral pecto-intercostal fascial plane block (PIFB) and unilateral rectus sheath block (RSB) with Ropivacaine 0.2%\n\nRopivacaine 0.2% Injectable Solution: Ropivacaine 1.5 mL/kg will be used for both interventions"
+            },
+            {
+              "id": "OG001",
+              "title": "Wound Infiltration",
+              "description": "Surgeon-delivered wound infiltration\n\nWound infiltration: Surgeon-delivered wound infiltration with Ropivacaine 0.2%\n\nRopivacaine 0.2% Injectable Solution: Ropivacaine 1.5 mL/kg will be used for both interventions"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "24"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "18"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "45.0",
+                      "spread": "26.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "94.5",
+                      "spread": "55.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.002",
+              "statisticalMethod": "t-test, 2 sided",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-49.5",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-78.9",
+              "ciUpperLimit": "-20.1"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "48 hours",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Regional Anesthesia",
+          "description": "Ultrasound guided blocks\n\nRegional Anesthesia: Bilateral pecto-intercostal fascial plane block (PIFB) and unilateral rectus sheath block (RSB) with Ropivacaine 0.2%\n\nRopivacaine 0.2% Injectable Solution: Ropivacaine 1.5 mL/kg will be used for both interventions",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 26,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 26,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 26
+        },
+        {
+          "id": "EG001",
+          "title": "Wound Infiltration",
+          "description": "Surgeon-delivered wound infiltration\n\nWound infiltration: Surgeon-delivered wound infiltration with Ropivacaine 0.2%\n\nRopivacaine 0.2% Injectable Solution: Ropivacaine 1.5 mL/kg will be used for both interventions",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 26,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 26,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 26
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Lisa Einhorn, M.D.",
+        "organization": "Duke University Medical Center",
+        "email": "lisa.einhorn@duke.edu",
+        "phone": "(919) 668-4000"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-10-24",
+          "uploadDate": "2025-08-08T10:26",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 216138
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-08-26",
+            "type": "ESTIMATED"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006344",
+          "term": "Heart Septal Defects, Atrial"
+        },
+        {
+          "id": "D006345",
+          "term": "Heart Septal Defects, Ventricular"
+        },
+        {
+          "id": "D000073818",
+          "term": "Pain, Procedural"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006343",
+          "term": "Heart Septal Defects"
+        },
+        {
+          "id": "D006330",
+          "term": "Heart Defects, Congenital"
+        },
+        {
+          "id": "D018376",
+          "term": "Cardiovascular Abnormalities"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D000013",
+          "term": "Congenital Abnormalities"
+        },
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        },
+        {
+          "id": "D010146",
+          "term": "Pain"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000765",
+          "term": "Anesthesia, Conduction"
+        },
+        {
+          "id": "D000077212",
+          "term": "Ropivacaine"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000758",
+          "term": "Anesthesia"
+        },
+        {
+          "id": "D000760",
+          "term": "Anesthesia and Analgesia"
+        },
+        {
+          "id": "D000813",
+          "term": "Anilides"
+        },
+        {
+          "id": "D000577",
+          "term": "Amides"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D000814",
+          "term": "Aniline Compounds"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,1291 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04263363",
+      "orgStudyIdInfo": {
+        "id": "Anes-Respiratory Dysfunction"
+      },
+      "organization": {
+        "fullName": "University of California, Los Angeles",
+        "class": "OTHER"
+      },
+      "briefTitle": "Applying Best Clinical Practices to Patients at High Risk of Respiratory Complications",
+      "officialTitle": "A Prospective Digital Quality Improvement Project to Apply Best Clinical Practices to Patients at High Risk of Respiratory Complications"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-02-18",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-05-07",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-05-07",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-01-17",
+      "studyFirstSubmitQcDate": "2020-02-07",
+      "studyFirstPostDateStruct": {
+        "date": "2020-02-10",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-05-07",
+      "resultsFirstSubmitQcDate": "2025-07-09",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-07-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-07-09",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-07-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Eilon Gabel, MD",
+        "investigatorTitle": "Principal Investigator",
+        "investigatorAffiliation": "University of California, Los Angeles"
+      },
+      "leadSponsor": {
+        "name": "University of California, Los Angeles",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Merck Sharp & Dohme LLC",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to:\n\n1. Perform a retrospective analysis on data contained in the UCLA Perioperative Data Warehouse on the incidence of respiratory dysfunction in the post-operative care unit (PACU) before and after the introduction of sugammadex into clinical practice.\n2. Develop and implement a clinical best practice pathway designed to prevent postoperative respiratory complications in higher risk patients (such as those with OSA or preexisting respiratory disease) using education and clinical decision support in patients.",
+      "detailedDescription": "This will be a historical prospective comparative effectiveness clinical trial where the investigators plan to leverage their experience in extracting data from the EMR as well as creating robust CDS pathways in order to create and implement a pathway to promote use of best respiratory care in patients receiving general anesthesia who are at increased risk for postoperative respiratory dysfunction. The overall study will consist of two parts:\n\n1. Retrospective data analysis: The investigators will utilize the Perioperative Data Warehouse, a custom-built data warehouse, to study the effect of the introduction of sugammadex, a direct reversal agent for rocuronium, into clinical practice on time to \"fitness for discharge\" from the recovery room, as noted by the time the anesthesiologist places the discharge order, before and after intervention and postoperative respiratory dysfunction (as defined as duration of oxygen saturation below 90% in the PACU).\n2. Creation and implementation of a pathway to prevent postoperative respiratory dysfunction: The investigators will design and implement a perioperative decision support system which will identify high-risk patients and provide best practice recommendations via electronic clinical decision support reminders.\n\nCreation and implementation of a pathway to prevent postoperative respiratory dysfunction:\n\nIn order to improve outcomes for high-risk patients who receive general anesthesia and paralysis the investigators will design and implement a perioperative decision support system which will identify high-risk patients and provide best practice recommendations via electronic clinical decision support reminders. While the exact parameters of the pathway will be designed based upon feedback from a group of quality leaders in the department, in general the pathway will function as follows:\n\nWhen the anesthesiologist completes the preoperative evaluation for a patient who is flagged as having either respiratory disease or OSA and will receive general anesthesia, the anesthesiologist will receive an alert reminding them of the best practice guidelines for pulmonary management in high-risk patients. As part of the study roll-out the investigators will present these guidelines with their quality committee, but anticipate that they will suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use of objective train of four monitoring throughout the case and to confirm reversal 3) use of a tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP.\n\nThe investigators anticipate running the prospective portion of the study for a one year data collection period. Specifically, they will allow a one month \"wash out\" period for pathway go live, followed by one year of data collection during which the pathway is live.\n\nSTUDY PROCEDURES\n\nPathway Design\n\nThe design of the pathway will undergo a well-established process that is designed to ensure buy-in and support from a large variety of providers within the Department of Anesthesiology and Perioperative Medicine at UCLA. The investigators will create a core group of individuals who represent key stakeholders in quality, informatics, and clinical decision making throughout our department. This group will be in charge of reviewing the existing literature and creating the pathway guidelines and associated decision support. The decision support will consist of preoperative alerts for high risk patients, intraoperative reminders for events such as ventilator settings and reversal as well as postoperative feedback on performance of identified best practices and outcomes. This pathway will include the recommendation of the use of sugammadex to reverse neuromuscular blockade and use of objective train of four (TOF) monitoring in high-risk individuals.\n\nThis core group will then present the recommended pathway for approval to our quarterly Quality Council and then broader Faculty Meetings for approval. The investigators estimate that the total time for pathway design and creation will be approximately 6 months.\n\nPathway Implementation\n\nAfter approval, the investigators will work with the EMR build team in order to ensure the necessary modification to the EMR. After the modifications are complete, the investigators will establish a \"go-live\" date. After an initial period during which the investigators will accommodate feedback and ensure that the modifications were made successfully, no further modifications to the respiratory pathway will be made. The investigators plan to keep this pathway in place for at least one year (the study period).\n\nData Collection and Analysis\n\nAs noted above, the team has the ability to automatically collect the data from the EMR for analysis purposes. After the one year implementation period investigators will extract the data elements noted above for the study period as well as an equivalent period prior to pathway implementation. The data will be analyzed for the overall application of best practices before and after as well as a change in primary and secondary outcomes."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Respiratory Complication",
+        "Obstructive Sleep Apnea"
+      ],
+      "keywords": [
+        "Respiratory Complication",
+        "Clinical Decision Support",
+        "Sugammadex"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "interventionModelDescription": "Historical prospective comparative effectiveness clinical trial",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 12248,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "CDS pathway",
+          "type": "EXPERIMENTAL",
+          "description": "When the anesthesiologist completes the preoperative evaluation for a patient who is flagged as having either respiratory disease or OSA and will receive general anesthesia, the anesthesiologist will receive a pop-up window reminding them of the best practice guidelines for pulmonary management in high-risk patients. We anticipate that the pathway will suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use of objective train of four monitoring throughout the case and to confirm reversal 3) use of a tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP",
+          "interventionNames": [
+            "Drug: Sugammadex 100 MG/ML [Bridion]"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Sugammadex 100 MG/ML [Bridion]",
+          "description": "Sugammadex administered to patients within the clinical best practice pathway.",
+          "armGroupLabels": [
+            "CDS pathway"
+          ],
+          "otherNames": [
+            "Bridion"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Time to \"Fitness for Discharge\" From the Recovery Room",
+          "description": "The time the anesthesiologist places the discharge order",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention"
+        },
+        {
+          "measure": "Incidence of Hypoxemia in the PACU (Oxygen Saturation Below 90%)",
+          "description": "Documentation oxygen saturation below 90%",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Percentage of Patients Who Had Intraoperative Lung Protective Ventilation",
+          "description": "Percentage of patients who had intraoperative lung protective ventilation prior to extubation",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention"
+        },
+        {
+          "measure": "Incidence of Hypoxemia in the PACU (Oxygen Saturation Below 95%)",
+          "description": "Documentation of oxygen saturation below 95%",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention"
+        },
+        {
+          "measure": "Duration of Supplemental Oxygen Needed by High-risk Patients",
+          "description": "Duration of supplemental oxygen needed by high-risk patients before and after intervention",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention"
+        },
+        {
+          "measure": "Postoperative Reintubation Rate",
+          "description": "Rate of postoperative reintubation",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention"
+        },
+        {
+          "measure": "Number of Patients With Unplanned Upgrade of Care",
+          "description": "Number of patients with unplanned upgrade of care",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention"
+        },
+        {
+          "measure": "Percentage of Patients Who Had Train of Four Ratio Measurement",
+          "description": "Percentage of patients who had Train of Four ratio measurement prior to extubation",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* UCLA Ronald Reagan or Santa Monica patients aged 18 and older who had a general anesthetic with either rocuronium or vecuronium.\n* Patients who receive sugammadex from the specified study supply\n\nExclusion Criteria:\n\n* Patients under the age of 18\n* Patients with a preoperative glomerular filtration rate less than 30 or on hemodialysis\n* Patients with known hypersensitivity to any of the following: rocuronium, vecuronium, sugammadex, neostigmine or glycopyrrolate\n* Patients with known neuromuscular disease\n* Patients who remain intubated after surgery or leave the operating room with a tracheostomy in-situ\n* Patients who did not receive reversal of neuromuscular blockade (with neostigmine in the pre-period or sugammadex in the post-period).",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Ronald Reagan UCLA Medical Center",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90095",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "recruitmentDetails": "Pre-Trial Cohort Timeframe: Patients from 2015, before sugammadex was available on the market (pre-2016).\n\nPurpose: Served as a historical control group to compare outcomes before the introduction of sugammadex.\n\nSize: 6,824 patients. Post-Trial Cohort Timeframe: Patients enrolled between February 2022 and May 2024. Purpose: Identified and enrolled via an automated system using Best Practice Advisories (BPAs) in the EHR.\n\nSize: 5,424",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "CDS Pathway",
+          "description": "When the anesthesiologist completes the preoperative evaluation for a patient who is flagged as having either respiratory disease or OSA and will receive general anesthesia, the anesthesiologist will receive a pop-up window reminding them of the best practice guidelines for pulmonary management in high-risk patients. We anticipate that the pathway will suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use of objective train of four monitoring throughout the case and to confirm reversal 3) use of a tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP\n\nSugammadex 100 MG/ML \\[Bridion\\]: Sugammadex administered to patients within the clinical best practice pathway."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Pre-Trial Cohort",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "6824"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "6824"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Post-Trial Cohort",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5424"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5424"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Pre-Trial Cohort\n\n* Timeframe: Patients from 2015, before sugammadex was available on the market (pre-2016).\n* Purpose: Served as a historical control group to compare outcomes before the introduction of sugammadex.\n* Size: 6,824 patients.\n\nPost-Trial Cohort\n\n* Timeframe: Patients enrolled between February 2022 and May 2024.\n* Purpose: Identified and enrolled via an automated system using Best Practice Advisories (BPAs) in the EHR.\n* Size: 5,424",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "CDS Pathway",
+          "description": "When the anesthesiologist completes the preoperative evaluation for a patient who is flagged as having either respiratory disease or OSA and will receive general anesthesia, the anesthesiologist will receive a pop-up window reminding them of the best practice guidelines for pulmonary management in high-risk patients. We anticipate that the pathway will suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use of objective train of four monitoring throughout the case and to confirm reversal 3) use of a tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP\n\nSugammadex 100 MG/ML \\[Bridion\\]: Sugammadex administered to patients within the clinical best practice pathway."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "12,248"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "≥18",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12,248"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12248"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex/Gender, Customized",
+          "populationDescription": "Pre-Trial Cohort: Size: 6,824 patients.\n\nPost-Trial Cohort: Size: 5,424 patients.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Pre-Trial Sex",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6824"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3249"
+                    }
+                  ]
+                },
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3575"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Post-Trial Sex",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5424"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2525"
+                    }
+                  ]
+                },
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2897"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "populationDescription": "Pre-Trial Cohort: Size: 6,824 patients.\n\nPost-Trial Cohort: Size: 5,424 patients.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Pre-Trial Race",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6824"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "36"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "605"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "578"
+                    }
+                  ]
+                },
+                {
+                  "title": "Middle Eastern/North African",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "34"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "37"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown / Not Specified",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1198"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4336"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Post-Trial Race",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5424"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "62"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "504"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "379"
+                    }
+                  ]
+                },
+                {
+                  "title": "Middle Eastern/North African",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "119"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "29"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown / Not Specified",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1142"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3189"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12,248"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12248"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Time to \"Fitness for Discharge\" From the Recovery Room",
+          "description": "The time the anesthesiologist places the discharge order",
+          "populationDescription": "Pre-Trial 6,824. Post-Trial 5,424.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Minutes",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "CDS Pathway",
+              "description": "When the anesthesiologist completes the preoperative evaluation for a patient who is flagged as having either respiratory disease or OSA and will receive general anesthesia, the anesthesiologist will receive a pop-up window reminding them of the best practice guidelines for pulmonary management in high-risk patients. We anticipate that the pathway will suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use of objective train of four monitoring throughout the case and to confirm reversal 3) use of a tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP\n\nSugammadex 100 MG/ML \\[Bridion\\]: Sugammadex administered to patients within the clinical best practice pathway."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "12,248"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Pre-Trial",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6824"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "165.64",
+                      "spread": "89.69"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Post-Trial",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5424"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "154.60",
+                      "spread": "86.17"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Incidence of Hypoxemia in the PACU (Oxygen Saturation Below 90%)",
+          "description": "Documentation oxygen saturation below 90%",
+          "populationDescription": "Pre-Trial 6,824. Post-Trial 5,424.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "CDS Pathway",
+              "description": "When the anesthesiologist completes the preoperative evaluation for a patient who is flagged as having either respiratory disease or OSA and will receive general anesthesia, the anesthesiologist will receive a pop-up window reminding them of the best practice guidelines for pulmonary management in high-risk patients. We anticipate that the pathway will suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use of objective train of four monitoring throughout the case and to confirm reversal 3) use of a tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP\n\nSugammadex 100 MG/ML \\[Bridion\\]: Sugammadex administered to patients within the clinical best practice pathway."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "12,248"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Pre-Trial",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18"
+                    }
+                  ]
+                },
+                {
+                  "title": "Post-Trial",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "No Incidence",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12,221"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Patients Who Had Intraoperative Lung Protective Ventilation",
+          "description": "Percentage of patients who had intraoperative lung protective ventilation prior to extubation",
+          "populationDescription": "This outcome was not measured due to impacted hospital regulations during COVID-19. Hospital regulations restricted this measurement to be taken as intake volume was low and therefore hospital administration deemed it uncollectable at the time. Therefore, this measurement was never completed during the duration of the study as our team were required to follow updated hospital regulations.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "CDS Pathway",
+              "description": "When the anesthesiologist completes the preoperative evaluation for a patient who is flagged as having either respiratory disease or OSA and will receive general anesthesia, the anesthesiologist will receive a pop-up window reminding them of the best practice guidelines for pulmonary management in high-risk patients. We anticipate that the pathway will suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use of objective train of four monitoring throughout the case and to confirm reversal 3) use of a tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP\n\nSugammadex 100 MG/ML \\[Bridion\\]: Sugammadex administered to patients within the clinical best practice pathway."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Incidence of Hypoxemia in the PACU (Oxygen Saturation Below 95%)",
+          "description": "Documentation of oxygen saturation below 95%",
+          "populationDescription": "Pre-Trial 6,824. Post-Trial 5,424.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "CDS Pathway",
+              "description": "When the anesthesiologist completes the preoperative evaluation for a patient who is flagged as having either respiratory disease or OSA and will receive general anesthesia, the anesthesiologist will receive a pop-up window reminding them of the best practice guidelines for pulmonary management in high-risk patients. We anticipate that the pathway will suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use of objective train of four monitoring throughout the case and to confirm reversal 3) use of a tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP\n\nSugammadex 100 MG/ML \\[Bridion\\]: Sugammadex administered to patients within the clinical best practice pathway."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "12,248"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Pre-Trial",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "421"
+                    }
+                  ]
+                },
+                {
+                  "title": "Post-Trial",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1170"
+                    }
+                  ]
+                },
+                {
+                  "title": "No Incidence",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10,657"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Duration of Supplemental Oxygen Needed by High-risk Patients",
+          "description": "Duration of supplemental oxygen needed by high-risk patients before and after intervention",
+          "populationDescription": "This outcome was not measured due to impacted hospital regulations during COVID-19. Hospital regulations restricted this measurement to be taken as intake volume was low and therefore hospital administration deemed it uncollectable at the time. Therefore, this measurement was never completed during the duration of the study as our team were required to follow updated hospital regulations.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "CDS Pathway",
+              "description": "When the anesthesiologist completes the preoperative evaluation for a patient who is flagged as having either respiratory disease or OSA and will receive general anesthesia, the anesthesiologist will receive a pop-up window reminding them of the best practice guidelines for pulmonary management in high-risk patients. We anticipate that the pathway will suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use of objective train of four monitoring throughout the case and to confirm reversal 3) use of a tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP\n\nSugammadex 100 MG/ML \\[Bridion\\]: Sugammadex administered to patients within the clinical best practice pathway."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Postoperative Reintubation Rate",
+          "description": "Rate of postoperative reintubation",
+          "populationDescription": "Analysis was completed for Post-Trial participants equaling 5,424.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "CDS Pathway",
+              "description": "When the anesthesiologist completes the preoperative evaluation for a patient who is flagged as having either respiratory disease or OSA and will receive general anesthesia, the anesthesiologist will receive a pop-up window reminding them of the best practice guidelines for pulmonary management in high-risk patients. We anticipate that the pathway will suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use of objective train of four monitoring throughout the case and to confirm reversal 3) use of a tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP\n\nSugammadex 100 MG/ML \\[Bridion\\]: Sugammadex administered to patients within the clinical best practice pathway."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "12248"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Pre-Trial",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6824"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Post-Trial",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5424"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients With Unplanned Upgrade of Care",
+          "description": "Number of patients with unplanned upgrade of care",
+          "populationDescription": "Pre-Trial 6,824. Post-Trial 5,424.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "CDS Pathway",
+              "description": "When the anesthesiologist completes the preoperative evaluation for a patient who is flagged as having either respiratory disease or OSA and will receive general anesthesia, the anesthesiologist will receive a pop-up window reminding them of the best practice guidelines for pulmonary management in high-risk patients. We anticipate that the pathway will suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use of objective train of four monitoring throughout the case and to confirm reversal 3) use of a tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP\n\nSugammadex 100 MG/ML \\[Bridion\\]: Sugammadex administered to patients within the clinical best practice pathway."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "12248"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Pre-Trial",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "128"
+                    }
+                  ]
+                },
+                {
+                  "title": "Post-Trial",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "16"
+                    }
+                  ]
+                },
+                {
+                  "title": "No Incidence",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12,104"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Patients Who Had Train of Four Ratio Measurement",
+          "description": "Percentage of patients who had Train of Four ratio measurement prior to extubation",
+          "populationDescription": "Analysis was only completed for Post-Trial participants equaling 5,424. Analysis could not be collected for Pre-Trial group as the Pre-Trial group was collected retrospectively and this measurement was not implemented into care until the prospective collection of the Post-Trial group. Therefore, we could not obtain the Pre-Trial group's measurements as these measurements had never been collected to obtain retrospectively.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "One year prior to study intervention to one year following implementation of study intervention",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "CDS Pathway",
+              "description": "When the anesthesiologist completes the preoperative evaluation for a patient who is flagged as having either respiratory disease or OSA and will receive general anesthesia, the anesthesiologist will receive a pop-up window reminding them of the best practice guidelines for pulmonary management in high-risk patients. We anticipate that the pathway will suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use of objective train of four monitoring throughout the case and to confirm reversal 3) use of a tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP\n\nSugammadex 100 MG/ML \\[Bridion\\]: Sugammadex administered to patients within the clinical best practice pathway."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5424"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2704"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Time of consent up to 48 hours post drug administration.",
+      "description": "AEs collected for bradycardia, anaphylaxis, and reintubation cases.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "CDS Pathway (Pre-Trial)",
+          "description": "When the anesthesiologist completes the preoperative evaluation for a patient who is flagged as having either respiratory disease or OSA and will receive general anesthesia, the anesthesiologist will receive a pop-up window reminding them of the best practice guidelines for pulmonary management in high-risk patients. We anticipate that the pathway will suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use of objective train of four monitoring throughout the case and to confirm reversal 3) use of a tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP\n\nSugammadex 100 MG/ML \\[Bridion\\]: Sugammadex administered to patients within the clinical best practice pathway.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 6824,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 6824,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 6824
+        },
+        {
+          "id": "EG001",
+          "title": "CDS Pathway (Post-Trial)",
+          "description": "When the anesthesiologist completes the preoperative evaluation for a patient who is flagged as having either respiratory disease or OSA and will receive general anesthesia, the anesthesiologist will receive a pop-up window reminding them of the best practice guidelines for pulmonary management in high-risk patients. We anticipate that the pathway will suggest 1) use of sugammadex to reverse neuromuscular blockade if rocuronium was used 2) use of objective train of four monitoring throughout the case and to confirm reversal 3) use of a tidal volume of 6-8 cc/kg 4) use of at least 5 cmH2O of PEEP\n\nSugammadex 100 MG/ML \\[Bridion\\]: Sugammadex administered to patients within the clinical best practice pathway.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 5424,
+          "seriousNumAffected": 8,
+          "seriousNumAtRisk": 5424,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 5424
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Bradycardia",
+          "organSystem": "Cardiac disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 6824
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 5424
+            }
+          ]
+        },
+        {
+          "term": "Anaphylaxis",
+          "organSystem": "Immune system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 6824
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 5424
+            }
+          ]
+        },
+        {
+          "term": "Reintubation",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 6824
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 5424
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dr. Eilon Gabel, MD",
+        "organization": "UCLA",
+        "email": "EGabel@mednet.ucla.edu",
+        "phone": "310-267-8693"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2021-03-04",
+          "uploadDate": "2025-05-07T14:43",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 575538
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-05-23",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D020181",
+          "term": "Sleep Apnea, Obstructive"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012891",
+          "term": "Sleep Apnea Syndromes"
+        },
+        {
+          "id": "D001049",
+          "term": "Apnea"
+        },
+        {
+          "id": "D012120",
+          "term": "Respiration Disorders"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D020919",
+          "term": "Sleep Disorders, Intrinsic"
+        },
+        {
+          "id": "D020920",
+          "term": "Dyssomnias"
+        },
+        {
+          "id": "D012893",
+          "term": "Sleep Wake Disorders"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000077122",
+          "term": "Sugammadex"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D047408",
+          "term": "gamma-Cyclodextrins"
+        },
+        {
+          "id": "D003505",
+          "term": "Cyclodextrins"
+        },
+        {
+          "id": "D047028",
+          "term": "Macrocyclic Compounds"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D003912",
+          "term": "Dextrins"
+        },
+        {
+          "id": "D013213",
+          "term": "Starch"
+        },
+        {
+          "id": "D005936",
+          "term": "Glucans"
+        },
+        {
+          "id": "D011134",
+          "term": "Polysaccharides"
+        },
+        {
+          "id": "D002241",
+          "term": "Carbohydrates"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,4546 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05511038",
+      "orgStudyIdInfo": {
+        "id": "21974"
+      },
+      "organization": {
+        "fullName": "Bayer",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Learn How Safe the Study Drug Intravitreal (Given by an Injection Into the Eye) Aflibercept is in Participants in India With Diabetic Macular Edema",
+      "officialTitle": "A Phase IV Interventional Post Approval Trial to Assess the Safety of Intravitreal Aflibercept for the Treatment of Diabetic Macular Edema (DME) in Patients in India.",
+      "acronym": "VISION-AF"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-08-26",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-04-16",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-04-16",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-08-19",
+      "studyFirstSubmitQcDate": "2022-08-19",
+      "studyFirstPostDateStruct": {
+        "date": "2022-08-22",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-04-15",
+      "resultsFirstSubmitQcDate": "2025-09-02",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-09-04",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-09-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-04",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Bayer",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "Researchers are looking for a better way to treat people who have diabetic macular edema (DME).\n\nDiabetic macular edema (DME) is a complication of diabetes. Consistently high blood sugar due to poor glucose control over time can damage small blood vessels in the body, including the eye. Damaged blood vessels in the eye may lead to leakage of the fluid into the central part of the retina at the back of the eye (also called macula) where sharp, straight-ahead vision occurs. Fluid accumulation makes the macula swell and results in reduced vision. If not treated, DME can result in complete loss of central detailed vision.\n\nThe study treatment intravitreal aflibercept (also called BAY865321) works by blocking VEGFR-1 receptor activity. Intravitreal aflibercept is already approved in over 105 countries for doctors to prescribe to people with DME. In India, aflibercept is approved conditionally for people with DME. The reason for this is that the sponsor was asked to collect more safety data for intravitreal aflibercept in Indian people with DME.\n\nThe main purpose of this study is to collect more data to learn how safe intravitreal aflibercept is in Indian people with DME. To see how safe intravitreal aflibercept is, the researchers will collect the information/data on the medical problems the participants may have during the study, and which may or may not be related to the study treatment. These medical problems are also known as \"adverse events\" (AEs). AEs will be categorized according to relatedness, seriousness, discontinuation of therapy, action taken and outcome.\n\nThe study participants will receive aflibercept as an injection directly into the space in the back of the eye once every 4 weeks in the first 5 months, followed by one injection every 8 weeks for the rest of the study duration. Only one eye per participant to be treated with aflibercept will be considered for the study.\n\nEach participant will be in the study for approximately 52 weeks. The treatment duration will be 48 weeks. For each participant 11 visits to the study site are planned. The study team will perform additional safety calls 16 to 36 hours after each visit starting at visit 2. Alternatively, an additional safety visit can be arranged/planned for the day after treatment.\n\nDuring the study, the study team will:\n\n* take blood and urine samples\n* examine the participants' eyes\n* do physical examinations\n* examine heart health using ECG\n* check vital signs\n* ask the participants questions about how they are feeling and what adverse events they are having.\n* in- administer the study drug\n\nAt the end of the study the participants will be switched to commercially available treatment if recommended by the study doctor/if the participant still benefits from the treatment."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetic Macular Edema"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 100,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Aflibercept",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will receive one aflibercept injection per month (every four weeks) for five consecutive doses, followed by one injection every alternate month (every 8 weeks) for rest of the duration",
+          "interventionNames": [
+            "Drug: Aflibercept (Eylea, VEGF Trap-Eye, BAY86-5321)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Aflibercept (Eylea, VEGF Trap-Eye, BAY86-5321)",
+          "description": "Injection, 2mg (equivalent to 50 µL solution for injection)",
+          "armGroupLabels": [
+            "Aflibercept"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Frequency (Number) of Ocular and Non-ocular Treatment Emergent Adverse Events (TEAE).",
+          "timeFrame": "An AE arising or worsening after the start of study treatment administration until 30 days after the last administration of study treatment, up to 52 weeks."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "The Change in BCVA From Baseline to Week 52, as Assessed Using the Early Treatment Diabetic Retinopathy Study (ETDRS) Chart or Equivalent.",
+          "description": "Proportion of eyes that lose ≥ 5, 10 and 15 ETDRS letters from baseline to Week 52, Overall",
+          "timeFrame": "From baseline to week 52"
+        },
+        {
+          "measure": "Change in Central Retinal Thickness (CRT) From Baseline to Week 52 as Measured by Optical Coherence Tomography (OCT), FA",
+          "timeFrame": "From baseline to week 52"
+        },
+        {
+          "measure": "Proportion of Eyes That Gained ≥ 5, 10 and 15 Early Treatment Diabetic Retinopathy Study (ETDRS) Letters From Baseline to Week 52",
+          "description": "Only 1 eye per patient was enrolled in the study. Therefore, number of participants equals to number of eyes.",
+          "timeFrame": "From baseline to Week 52"
+        },
+        {
+          "measure": "Proportion of Eyes With a ≥2 Step Improvement in the ETDRS Diabetic Retinopathy Severity Scale (DRSS) Score",
+          "description": "Only 1 eye per patient was enrolled in the study. Therefore, number of participants equals to number of eyes.\n\nThe Early Treatment Diabetic Retinopathy Study (ETDRS) Diabetic Retinopathy Severity Scale (DRSS) is a standardized tool used to measure the severity of diabetic retinopathy. The scale assesses the level of retinal damage and provides a score based on the presence of specific lesions and the extent of retinal involvement.\n\nScale Range:\n\n* Minimum score: 10 (indicating no retinopathy)\n* Maximum score: 85 (indicating severe retinopathy)\n\nInterpretation of Scores:\n\nHigher scores indicate worse outcomes, reflecting more severe diabetic retinopathy",
+          "timeFrame": "From baseline to Week 52"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Female or male adult participant ≥18 years of age, with type 1 or 2 diabetes mellitus.\n* Participant must have diabetic macular edema (DME) secondary to diabetes mellitus, involving the centre of the macula (defined as the area of the centre subfield of optical coherence tomography (OCT)) in the study eye.\n* Decrease in vision, determined to be primarily the result of DME in the study eye.\n* Retinal thickness of ≥300 µm in the study eye, as assessed by OCT.\n* Best Corrected Visual Acuity (BCVA) Early Treatment Diabetic Retinopathy Study ( ETDRS) letter score of 73 to 24 (i.e., VA of 20/50 to 20/320) or equivalent in the study eye.\n* Participant for whom the decision to initiate treatment with Intravitreal (IVT) aflibercept has been made by the treating Investigator/Physician.\n* Willing and able to comply with clinic visits and study-related procedures.\n* Provide a signed Informed Consent Form (ICF) prior to any study procedures.\n\nExclusion Criteria:\n\n* Having any contraindications to the use of IVT aflibercept as listed in the local prescribing information (i.e., ocular or periocular infection, active severe intraocular inflammation, and known hypersensitivity to aflibercept or to any of the excipients).\n* History of vitreoretinal surgery and/or scleral buckling in the study eye.\n* Ocular conditions with a poorer prognosis in the fellow eye than in the study eye.\n* Received previous/ prior treatment as mentioned below:\n\n  * Received anti-Vascular Endothelial Growth Factor (VEGF) drugs in the study eye (pegaptanib sodium, bevacizumab, ranibizumab, etc., including aflibercept) within the last 3 months of Day 1.\n  * Received IVT dexamethasone or triamcinolone in the study eye within the last 3 months of Day 1.\n  * Received intraocular or periocular corticosteroids in the study eye within the last 4 months of Day 1.\n  * Had fluocinolone implant in the study eye within the last 3 years of Day 1.\n  * Had dexamethasone implant in the study eye within the last 6 months of Day 1.\n  * systemic anti-angiogenic agents within 6 months of Day 1.\n* Uncontrolled glaucoma in the study eye (patient who has had filtration surgery in the past, or likely to need filtration surgery in the future).\n* Only 1 functional eye even if that eye is otherwise eligible for the study.\n* Participated in an investigational study within 30 days prior to screening visit that involved treatment with any drug (excluding vitamins and minerals) or device.\n* Pregnant or breast-feeding women.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "L.V. Prasad Eye Institute",
+          "city": "Hyderabad",
+          "state": "Andhra Pradesh",
+          "zip": "500034",
+          "country": "India"
+        },
+        {
+          "facility": "M & J Western Regional Institute of Ophthalmology",
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "zip": "380016",
+          "country": "India",
+          "geoPoint": {
+            "lat": 23.02579,
+            "lon": 72.58727
+          }
+        },
+        {
+          "facility": "Raghudeep Eye Hospital",
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "zip": "380052",
+          "country": "India",
+          "geoPoint": {
+            "lat": 23.02579,
+            "lon": 72.58727
+          }
+        },
+        {
+          "facility": "Narayana Nethralaya",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "zip": "560010",
+          "country": "India",
+          "geoPoint": {
+            "lat": 12.97194,
+            "lon": 77.59369
+          }
+        },
+        {
+          "facility": "Sankara Eye Hospital",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "zip": "560037",
+          "country": "India",
+          "geoPoint": {
+            "lat": 12.97194,
+            "lon": 77.59369
+          }
+        },
+        {
+          "facility": "Dr. R.P. Centre for Ophthalmic Sciences, AIIMS",
+          "city": "New Delhi",
+          "state": "National Capital Territory of Delhi",
+          "zip": "110029",
+          "country": "India",
+          "geoPoint": {
+            "lat": 28.62137,
+            "lon": 77.2148
+          }
+        },
+        {
+          "facility": "Medical Research Foundation, Sankara Nethralaya",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "zip": "600006",
+          "country": "India",
+          "geoPoint": {
+            "lat": 13.08784,
+            "lon": 80.27847
+          }
+        },
+        {
+          "facility": "Lotus Eye Hospital and Institute",
+          "city": "Coimbatore",
+          "state": "Tamil Nadu",
+          "zip": "641014",
+          "country": "India",
+          "geoPoint": {
+            "lat": 11.00555,
+            "lon": 76.96612
+          }
+        },
+        {
+          "facility": "Disha Eye Hospitals",
+          "city": "Kolkata",
+          "state": "West Bengal",
+          "zip": "700120",
+          "country": "India",
+          "geoPoint": {
+            "lat": 22.56263,
+            "lon": 88.36304
+          }
+        },
+        {
+          "facility": "Post Graduate Institute of Medical Education and Research",
+          "city": "Chandigarh",
+          "zip": "160012",
+          "country": "India",
+          "geoPoint": {
+            "lat": 30.73629,
+            "lon": 76.7884
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "Click here to find further information and, after study completion, the study results according to Bayer's transparency standards",
+          "url": "https://clinicaltrials.bayer.com/study/21974"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "Availability of this study's data will later be determined according to Bayer's commitment to the EFPIA/PhRMA \"Principles for responsible clinical trial data sharing\". This pertains to scope, timepoint and process of data access. As such, Bayer commits to sharing upon request from qualified researchers patient-level clinical trial data, study-level clinical trial data, and protocols from clinical trials in patients for medicines and indications approved in the US and EU as necessary for conducting legitimate research. This applies to data on new medicines and indications that have been approved by the EU and US regulatory agencies on or after January 01, 2014.\n\nInterested researchers can use www.vivli.org to request access to anonymized patient-level data and supporting documents from clinical studies to conduct research. Information on the Bayer criteria for listing studies and other relevant information is provided in the member section of the portal."
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "121 patients were screened; 21 were screen failures and 100 patients were enrolled in the study: 85 patients in the naïve cohort and 15 patients in the pre-treated cohort",
+      "recruitmentDetails": "The trial was planned to be conducted at approximately 10-15 study sites across India. A total of 100 patients were enrolled into the study. The study duration was up to 13 months covering 11 visits.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Naïve",
+          "description": "Participants who did not receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study eye are considered as naive"
+        },
+        {
+          "id": "FG001",
+          "title": "Pre-Treated",
+          "description": "Participants who received any previous/ prior treatment for DME (i.e., participants that previously had been treated with IVT anti-VEGF or steroids or laser treatment/ ocular surgery for DME) before the last 3 months of the Day 1 of the study, in the study eye are considered as pre-treated"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "105"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "16"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "73"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "12"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "32"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "Screen Failure",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Physician Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Death",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Screening",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "105"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "16"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "99"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "16"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow Up (1 participant)",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Screen Failure",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Screen Failure that was identified after screening (1 participant)",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Treatment",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "85"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "15"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "68"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "11"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "17"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "Physician Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Death",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Subject did nod visit the site despite multiple follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Refuse by subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Subject did not go to the site for visit",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Safety Analysis Set (SAF): This population included all patients who received at least one dose of the study intervention.\n\nThe analyses were performed on incident TEAE. An overview table provided overall incidences for patients with any TEAE, any study drug related TEAE, any serious TEAE, any serious study drug related TEAE, any TEAE leading to change of treatment regimen with aflibercept, any TEAE leading to discontinuation of aflibercept, any TEAE with outcome death.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Naïve",
+          "description": "Participants who did not receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study eye are considered as naive"
+        },
+        {
+          "id": "BG001",
+          "title": "Pre-Treated",
+          "description": "Participants who received any previous/ prior treatment for DME (i.e., participants that previously had been treated with IVT anti-VEGF or steroids or laser treatment/ ocular surgery for DME) before the last 3 months of the Day 1 of the study, in the study eye are considered as pre-treated"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "85"
+            },
+            {
+              "groupId": "BG001",
+              "value": "15"
+            },
+            {
+              "groupId": "BG002",
+              "value": "100"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "57.6",
+                      "spread": "9.11"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "59.4",
+                      "spread": "9.01"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "57.9",
+                      "spread": "9.07"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Sex",
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "55"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Race",
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "85"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "100"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Weight (kg)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kilograms (kg)",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64.8",
+                      "spread": "11.38"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "62.4",
+                      "spread": "11.12"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "64.5",
+                      "spread": "11.31"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Height (cm)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Centimeters (cm)",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "161.7",
+                      "spread": "9.18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "163.3",
+                      "spread": "8.83"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "162.0",
+                      "spread": "9.11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Body mass Index (kg/m2)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Kilograms per meter squared (kg/m2)",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "24.7",
+                      "spread": "3.63"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "23.3",
+                      "spread": "2.99"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24.5",
+                      "spread": "3.57"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of patients with at least one medical history finding",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Diabetic retinal oedema",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "83"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "98"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Cataract",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Type 2 diabetes mellitus",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "85"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hypertension",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "49"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "60"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Frequency (Number) of Ocular and Non-ocular Treatment Emergent Adverse Events (TEAE).",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "An AE arising or worsening after the start of study treatment administration until 30 days after the last administration of study treatment, up to 52 weeks.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Naïve",
+              "description": "Participants who did not receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study eye are considered as naive"
+            },
+            {
+              "id": "OG001",
+              "title": "Pre-Treated",
+              "description": "Participants who received any previous/ prior treatment for DME (i.e., participants that previously had been treated with IVT anti-VEGF or steroids or laser treatment/ ocular surgery for DME) before the last 3 months of the Day 1 of the study, in the study eye are considered as pre-treated"
+            },
+            {
+              "id": "OG002",
+              "title": "Total",
+              "description": "Total number of participants"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "85"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "100"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Ocular",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "36.5",
+                      "lowerLimit": "26.29",
+                      "upperLimit": "47.62"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "60",
+                      "lowerLimit": "32.29",
+                      "upperLimit": "83.66"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "40",
+                      "lowerLimit": "30.33",
+                      "upperLimit": "50.28"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Non-Ocular",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "21.2",
+                      "lowerLimit": "13.06",
+                      "upperLimit": "31.39"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "33.3",
+                      "lowerLimit": "11.82",
+                      "upperLimit": "61.62"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "23",
+                      "lowerLimit": "15.17",
+                      "upperLimit": "32.49"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "The Change in BCVA From Baseline to Week 52, as Assessed Using the Early Treatment Diabetic Retinopathy Study (ETDRS) Chart or Equivalent.",
+          "description": "Proportion of eyes that lose ≥ 5, 10 and 15 ETDRS letters from baseline to Week 52, Overall",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of eyes",
+          "timeFrame": "From baseline to week 52",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Naïve",
+              "description": "Participants who did not receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study eye are considered as naive"
+            },
+            {
+              "id": "OG001",
+              "title": "Pre-Treated",
+              "description": "Participants who received any previous/ prior treatment for DME (i.e., participants that previously had been treated with IVT anti-VEGF or steroids or laser treatment/ ocular surgery for DME) before the last 3 months of the Day 1 of the study, in the study eye are considered as pre-treated"
+            },
+            {
+              "id": "OG002",
+              "title": "Total",
+              "description": "Total number of participants"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "85"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "14"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "99"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "≥ 5 ETDRS letters",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.4",
+                      "lowerLimit": "0.3",
+                      "upperLimit": "8.2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.1",
+                      "lowerLimit": "0.2",
+                      "upperLimit": "33.9"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "3",
+                      "lowerLimit": "0.6",
+                      "upperLimit": "8.6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "≥ 10 ETDRS letters",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.4",
+                      "lowerLimit": "0.3",
+                      "upperLimit": "8.2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0",
+                      "lowerLimit": "0.0",
+                      "upperLimit": "23.2"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "2",
+                      "lowerLimit": "0.2",
+                      "upperLimit": "7.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "≥ 15 ETDRS letters",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.4",
+                      "lowerLimit": "0.3",
+                      "upperLimit": "8.2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0",
+                      "lowerLimit": "0.0",
+                      "upperLimit": "23.2"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "2",
+                      "lowerLimit": "0.2",
+                      "upperLimit": "7.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Central Retinal Thickness (CRT) From Baseline to Week 52 as Measured by Optical Coherence Tomography (OCT), FA",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "um",
+          "timeFrame": "From baseline to week 52",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Naïve",
+              "description": "Participants who did not receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study eye are considered as naive"
+            },
+            {
+              "id": "OG001",
+              "title": "Pre-Treated",
+              "description": "Participants who received any previous/ prior treatment for DME (i.e., participants that previously had been treated with IVT anti-VEGF or steroids or laser treatment/ ocular surgery for DME) before the last 3 months of the Day 1 of the study, in the study eye are considered as pre-treated"
+            },
+            {
+              "id": "OG002",
+              "title": "Total",
+              "description": "Total number of participants"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "85"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "14"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "99"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-203.5",
+                      "spread": "148.19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-160.3",
+                      "spread": "127.42"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-197.4",
+                      "spread": "145.63"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Eyes That Gained ≥ 5, 10 and 15 Early Treatment Diabetic Retinopathy Study (ETDRS) Letters From Baseline to Week 52",
+          "description": "Only 1 eye per patient was enrolled in the study. Therefore, number of participants equals to number of eyes.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "timeFrame": "From baseline to Week 52",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Naïve",
+              "description": "Participants who did not receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study eye are considered as naive"
+            },
+            {
+              "id": "OG001",
+              "title": "Pre-Treated",
+              "description": "Participants who received any previous/ prior treatment for DME (i.e., participants that previously had been treated with IVT anti-VEGF or steroids or laser treatment/ ocular surgery for DME) before the last 3 months of the Day 1 of the study, in the study eye are considered as pre-treated"
+            },
+            {
+              "id": "OG002",
+              "title": "Total",
+              "description": "Total number of participants"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "85"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "14"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "99"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "≥5 ETDRS letters",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "76"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "87"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "≥10 ETDRS letters",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "63"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "74"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "≥15 ETDRS letters",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "43"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "50"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Eyes With a ≥2 Step Improvement in the ETDRS Diabetic Retinopathy Severity Scale (DRSS) Score",
+          "description": "Only 1 eye per patient was enrolled in the study. Therefore, number of participants equals to number of eyes.\n\nThe Early Treatment Diabetic Retinopathy Study (ETDRS) Diabetic Retinopathy Severity Scale (DRSS) is a standardized tool used to measure the severity of diabetic retinopathy. The scale assesses the level of retinal damage and provides a score based on the presence of specific lesions and the extent of retinal involvement.\n\nScale Range:\n\n* Minimum score: 10 (indicating no retinopathy)\n* Maximum score: 85 (indicating severe retinopathy)\n\nInterpretation of Scores:\n\nHigher scores indicate worse outcomes, reflecting more severe diabetic retinopathy",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "timeFrame": "From baseline to Week 52",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Naïve",
+              "description": "Participants who did not receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study eye are considered as naive"
+            },
+            {
+              "id": "OG001",
+              "title": "Pre-Treated",
+              "description": "Participants who received any previous/ prior treatment for DME (i.e., participants that previously had been treated with IVT anti-VEGF or steroids or laser treatment/ ocular surgery for DME) before the last 3 months of the Day 1 of the study, in the study eye are considered as pre-treated"
+            },
+            {
+              "id": "OG002",
+              "title": "Total",
+              "description": "Total number of participants"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "72"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "12"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "84"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "An AE arising or worsening after the start of study treatment administration until 30 days after the last administration of study treatment, up to 52 weeks.",
+      "description": "* All-Cause Mortality: None of the events were clasified as Ocular Adverse Events\n* Serious Adverse Events: None of the events were clasified as Ocular Adverse Events.\n* Other Adverse Events: In this specific section, the risk populations and number affected, reflect eyes are meant to report the results of ocular events",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Pre-treated",
+          "description": "Participants who receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 15,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 15,
+          "otherNumAffected": 11,
+          "otherNumAtRisk": 15
+        },
+        {
+          "id": "EG001",
+          "title": "Drug Naive",
+          "description": "Participants who did not receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study eye are considered as naive",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 85,
+          "seriousNumAffected": 4,
+          "seriousNumAtRisk": 85,
+          "otherNumAffected": 42,
+          "otherNumAtRisk": 85
+        },
+        {
+          "id": "EG002",
+          "title": "Pre-treated (Ocular)",
+          "description": "Participants who receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study and with ocular events",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 15,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 15,
+          "otherNumAffected": 9,
+          "otherNumAtRisk": 15
+        },
+        {
+          "id": "EG003",
+          "title": "Drug Naive (Ocular)",
+          "description": "Participants who did not receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study eye are considered as naive and with ocular events",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 85,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 85,
+          "otherNumAffected": 31,
+          "otherNumAtRisk": 85
+        },
+        {
+          "id": "EG004",
+          "title": "Pre-treated (Non-ocular)",
+          "description": "Participants who receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study and with non-ocular events",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 15,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 15,
+          "otherNumAffected": 5,
+          "otherNumAtRisk": 15
+        },
+        {
+          "id": "EG005",
+          "title": "Drug Naive (Non-ocular)",
+          "description": "Participants who did not receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study eye are considered as naive and with non-ocular events",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 85,
+          "seriousNumAffected": 4,
+          "seriousNumAtRisk": 85,
+          "otherNumAffected": 17,
+          "otherNumAtRisk": 85
+        },
+        {
+          "id": "EG006",
+          "title": "Pre-treated (Study Eye)",
+          "description": "Participants who receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study and with ocular events in study eye",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 15,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 15,
+          "otherNumAffected": 7,
+          "otherNumAtRisk": 15
+        },
+        {
+          "id": "EG007",
+          "title": "Drug Naive (Study Eye)",
+          "description": "Participants who did not receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study eye are considered as naive and with ocular events in study eye",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 85,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 85,
+          "otherNumAffected": 12,
+          "otherNumAtRisk": 85
+        },
+        {
+          "id": "EG008",
+          "title": "Pre-treated (Fellow Eye)",
+          "description": "Participants who receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study and with ocular events in fellow eye",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 15,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 15,
+          "otherNumAffected": 3,
+          "otherNumAtRisk": 15
+        },
+        {
+          "id": "EG009",
+          "title": "Drug Naive (Fellow Eye)",
+          "description": "Participants who did not receive any previous/ prior treatment (i.e., participants that previously have not been treated with IVT anti-VEGF or steroids) within the last 3 months of the Day 1 of the study, without laser treatment, and without ocular surgery of the study eye are considered as naive and with ocular events in fellow eye",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 85,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 85,
+          "otherNumAffected": 22,
+          "otherNumAtRisk": 85
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Acute coronary syndrome",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "None of the events were clasified as Ocular Adverse Events.",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 4,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Abdominal discomfort",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Abdominal distension",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Cerebrovascular accident",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Breast conserving surgery",
+          "organSystem": "Surgical and medical procedures",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Cataract",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 0 Naïve ocular Adverse Events: 5",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Conjunctival haemorrhage",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 2 Naïve ocular Adverse Events: 1",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Conjunctivitis allergic",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 0 Naïve ocular Adverse Events: 1",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Diabetic retinal oedema",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 0 Naïve ocular Adverse Events: 4",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 4,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 5,
+              "numAffected": 4,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 4,
+              "numAffected": 3,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Diabetic retinopathy",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 1 Naïve ocular Adverse Events: 2",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Eye pain",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 0 Naïve ocular Adverse Events: 1",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Macular oedema",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 2 Naïve ocular Adverse Events: 9",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 9,
+              "numAffected": 9,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 9,
+              "numAffected": 9,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 7,
+              "numAffected": 7,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Retinal detachment",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 0 Naïve ocular Adverse Events: 1",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Visual acuity reduced",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 1 Naïve ocular Adverse Events: 4",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Visual impairment",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 0 Naïve ocular Adverse Events: 5",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Vitreous haemorrhage",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 1 Naïve ocular Adverse Events: 2",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Epiretinal membrane",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 1 Naïve ocular Adverse Events: 0",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Tractional retinal detachment",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 0 Naïve ocular Adverse Events: 1",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Macular thickening",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 2 Naïve ocular Adverse Events: 6",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Abdominal pain",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 4,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Conjunctivitis viral",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Pre-treated ocular Adverse Events: 0 Naïve ocular Adverse Events: 1",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Pulpitis dental",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Febrile infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Blood creatine increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Blood glucose increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 6,
+              "numAffected": 3,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Blood pressure increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 4,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Blood urea increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Glycosylated haemoglobin increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Blood alkaline phosphatase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Decreased appetite",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Back pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Breast cancer",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Nephropathy",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Diabetic nephropathy",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Cough",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 4,
+              "numAffected": 2,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Dyspnoea exertional",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        },
+        {
+          "term": "Hypertension",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG006",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG007",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            },
+            {
+              "groupId": "EG008",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 15
+            },
+            {
+              "groupId": "EG009",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 85
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "GT60",
+        "restrictiveAgreement": true
+      },
+      "pointOfContact": {
+        "title": "Therapeutic Area Head",
+        "organization": "Bayer",
+        "email": "clinical-trials-contact@bayer.com",
+        "phone": "1-888-8422937"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2025-04-09",
+          "uploadDate": "2025-04-15T05:43",
+          "filename": "Prot_000.pdf",
+          "size": 786324
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2025-04-09",
+          "uploadDate": "2025-04-15T05:43",
+          "filename": "SAP_001.pdf",
+          "size": 410519
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-05-01",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C533178",
+          "term": "aflibercept"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

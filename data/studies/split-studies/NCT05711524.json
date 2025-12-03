@@ -1,0 +1,2961 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05711524",
+      "orgStudyIdInfo": {
+        "id": "22-04024649"
+      },
+      "organization": {
+        "fullName": "Weill Medical College of Cornell University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Transfusion of Pathogen Reduced Cryoprecipitated Fibrinogen to Expedite Product Availability in Perioperative Bleeding",
+      "officialTitle": "Pilot Clinical Trial of Transfusion of Pathogen Reduced Cryoprecipitated Fibrinogen (INTERCEPT Fibrinogen Complex) in Patients With Bleeding to Expedite Product Availability and Improve Outcomes in Perioperative Bleeding"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-11",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-04-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-10-23",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-10-03",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-01-25",
+      "studyFirstSubmitQcDate": "2023-02-02",
+      "studyFirstPostDateStruct": {
+        "date": "2023-02-03",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-07-31",
+      "resultsFirstSubmitQcDate": "2025-11-05",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-11-21",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-11-05",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-11-21",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Weill Medical College of Cornell University",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Cerus Corporation",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The goal of this quality improvement study is to compare pathogen-reduced cryoprecipitate with traditional cryoprecipitate in liver transplant and cardiovascular patients. The investigators hypothesize that by having immediate access to a readily available thawed blood product that replaces fibrinogen (the main substrate of a blood clot), early bleeding can be treated before it escalates into uncontrolled hemorrhage, and therefore additional blood products, like platelets, plasma and red blood cells can be avoided.\n\nParticipants will be given one of the two FDA-approved blood products.",
+      "detailedDescription": "Immediately replacing fibrinogen in perioperative bleeding patients with acquired fibrinogen deficiency improves outcomes. The product that is primarily used for fibrinogen replacement in the US, cryoprecipitate (cryo), must be stored frozen and expires six hours after thawing, resulting in a delay in transfusion of approximately 50 minutes from the time it is ordered, as well as unnecessary transfusion of more readily available but not indicated blood components that are transfused while the patients waits for cryo . A modified version of the product, pathogen reduced (PR) cryo, is now FDA approved and can be thawed and stored for 5 days, allowing the product to be available immediately when needed. In this quality improvement study, the investigators will compare the effect that readily available, pre-thawed PR cryo has on transfusion practice in cardiovascular and liver transplant patients who receive PR cryo versus those who receive traditional cryo by randomizing cryo transfusions in the blood bank by month to all cryo or all PR cryo. All clinical decisions, including the need for cryo, and laboratory testing will occur per standard of care."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Hypofibrinogenemia",
+        "Bleeding"
+      ],
+      "keywords": [
+        "Cryoprecipitate",
+        "Pathogen Reduced Cryoprecipitate"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "The intervention and randomization are not made at the level of the individual patient, but rather on clusters of patients by month. The clusters will include all patients at NYP/WC for whom pooled cryo is ordered during a single month.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 208,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Patients given Traditional Cryo",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.",
+          "interventionNames": [
+            "Biological: Traditional Cryoprecipitate"
+          ]
+        },
+        {
+          "label": "Patients given PR Cryo",
+          "type": "EXPERIMENTAL",
+          "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.",
+          "interventionNames": [
+            "Biological: Pathogen-Reduced Cryoprecipitate"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Traditional Cryoprecipitate",
+          "description": "This is the cryoprecipitate already currently being given to patients with a cryo order.",
+          "armGroupLabels": [
+            "Patients given Traditional Cryo"
+          ]
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Pathogen-Reduced Cryoprecipitate",
+          "description": "This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate.",
+          "armGroupLabels": [
+            "Patients given PR Cryo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Total Number of RBCs Used Over Admission",
+          "description": "RBCs used over admission",
+          "timeFrame": "Within the first 30 days after surgery."
+        },
+        {
+          "measure": "Total Number of Platelets Used Over Admission",
+          "description": "Plts used over admission",
+          "timeFrame": "Within the first 30 days after surgery."
+        },
+        {
+          "measure": "Total Number of Plasma Used Over Admission",
+          "description": "All units over admission",
+          "timeFrame": "Within the first 30 days after surgery."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Cryo Units Used Perioperatively",
+          "description": "All products within 3 days",
+          "timeFrame": "3 days post procedure"
+        },
+        {
+          "measure": "Number of RBCs Used Perioperatively",
+          "description": "Number of RBC units transfused during perioperative period",
+          "timeFrame": "3 days post procedure"
+        },
+        {
+          "measure": "Number of Plasma Used Perioperatively",
+          "timeFrame": "3 days post procedure"
+        },
+        {
+          "measure": "Number of Platelets Used Perioperatively",
+          "description": "Number of platelet units transfused during perioperative period",
+          "timeFrame": "3 days post procedure"
+        },
+        {
+          "measure": "Time From Operating Room (OR) Start Time to Start of Cryo Transfusion",
+          "timeFrame": "procedure (Time from OR start time to start of cryo transfusion)"
+        },
+        {
+          "measure": "Time From Cryo Order to Start of Transfusion",
+          "description": "Time to cryo order time to start of cryo transfusion",
+          "timeFrame": "procedure (Time from cryo order to start of transfusion)"
+        },
+        {
+          "measure": "Number of Cryo Units Wasted by Blood Bank",
+          "description": "This captures the Cryoprecipitate units discarded.",
+          "timeFrame": "Daily, up to approximately 24 months"
+        },
+        {
+          "measure": "Pre Transfusion FIBTEM Amplitude 10 Min After Start of Clot Formation",
+          "description": "FIBTEM before transfusion, if anesthesiologist orders it. FIBTEM is a point of care laboratory test measuring fibrinogen contribution to a clot. It is part of ROTEM testing and helps providers determine if patients need fibrinogen supplementation during surgical bleeding.",
+          "timeFrame": "Variable, but it is generally available within 15 minutes of the start of ROTEM testing."
+        },
+        {
+          "measure": "Post Transfusion FIBTEM Amplitude at 10 Min After Start of Clot Formation",
+          "description": "FIBTEM after transfusion, if anesthesiologist orders it. FIBTEM is a point of care laboratory test measuring fibrinogen contribution to a clot. It is part of ROTEM testing and helps providers determine if patients need fibrinogen supplementation during surgical bleeding.",
+          "timeFrame": "Variable, but it is generally available within 15 minutes of the start of ROTEM testing."
+        },
+        {
+          "measure": "Maximum Clot Firmness (MCF)",
+          "description": "The maximum strength of a clot as determined by ROTEM testing.",
+          "timeFrame": "Variable, but it is generally available within 1 hour of the start of ROTEM testing."
+        },
+        {
+          "measure": "Pre-transfusion Fibrinogen Level",
+          "description": "The fibrinogen measurement before cryoprecipitate is transfused.",
+          "timeFrame": "During surgery, within 3 hours of specimen receipt by laboratory."
+        },
+        {
+          "measure": "Highest Fibrinogen Level Within 24 Hours",
+          "timeFrame": "Within 24 hours after surgery"
+        },
+        {
+          "measure": "Lowest Fibrinogen Level Within 24 Hours",
+          "timeFrame": "Within 24 hours after surgery"
+        },
+        {
+          "measure": "Cumulative Volume in Drains After Surgery (e.g., Chest Tube for CV Surgery) at the Time of Removal",
+          "description": "The cumulative volume in drains after surgery (e.g., chest tube for CV surgery) at the time of drain removal",
+          "timeFrame": "Up to approximately 3 days"
+        },
+        {
+          "measure": "Volume in Drains (Chest Tube for CV Surgery)",
+          "timeFrame": "At 24 hours after surgery"
+        },
+        {
+          "measure": "Time From End of Bypass Pump for CV Surgery",
+          "timeFrame": "Until end of surgery"
+        },
+        {
+          "measure": "Length of Stay in OR",
+          "description": "Operating room length of stay",
+          "timeFrame": "Duration of time in operating room"
+        },
+        {
+          "measure": "Length of Stay in ICU",
+          "description": "Participant length of stay in ICU setting",
+          "timeFrame": "During hospitalization, approximately 5 days to 30 days"
+        },
+        {
+          "measure": "Length of Stay in Hospital",
+          "description": "Overall length of stay in hospital",
+          "timeFrame": "During hospitalization, approximately 5 days to 30 days"
+        },
+        {
+          "measure": "Need for Ventilator",
+          "timeFrame": "During hospitalization, approximately 5 days to 30 days"
+        },
+        {
+          "measure": "Time on Ventilator",
+          "description": "If participant was on ventilator, amount of time spent on ventilator",
+          "timeFrame": "During hospitalization, approximately 5 days to 30 days"
+        },
+        {
+          "measure": "Overall Cost of Cryo vs PR Cryo, When Factoring Wastage",
+          "description": "Cost of traditional cryoprecipitate compared to PR Cryoprecipitate.",
+          "timeFrame": "Daily, approximately 24 months"
+        },
+        {
+          "measure": "Number of Participants That Experienced an Adverse Event of Fever",
+          "description": "All participants that experience fevers that occur during the time frame",
+          "timeFrame": "Within 5 days of surgery start time"
+        },
+        {
+          "measure": "Number of Participants That Experienced an Adverse Event of Infection",
+          "description": "All participants that experience infections that occur during the time frame",
+          "timeFrame": "Within 5 days of surgery start time"
+        },
+        {
+          "measure": "Number of Participants That Experienced an Adverse Event of Transfusion Reaction.",
+          "description": "All participants that experience transfusion reactions that occur during the time frame",
+          "timeFrame": "Within 5 days of surgery start time"
+        },
+        {
+          "measure": "Fibrinogen Level",
+          "description": "Fibrinogen level most proximal to the end of surgery",
+          "timeFrame": "Most proximal to end of procedure"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adult patients undergoing cardiovascular surgery or liver transplant who receive cryo during surgery during the two year study period.\n2. Cardiovascular surgery includes the following procedures:\n\n   1. coronary artery bypass grafting\n   2. valve repair or replacement\n   3. open thoracic aortic and thoracoabdominal aortic surgery\n   4. atrial or ventricular septal defects\n   5. ventricular assist device implantation or revision\n   6. or any combination of the above.\n\nExclusion Criteria:\n\n1. Patients who do not receive any cryo product in the OR\n2. Patients who are not cardiovascular surgery or liver transplant patients\n3. Cardiac transplantation surgery\n4. Patients who receive a product in error within either the cryo time period or the PR cryo time period. For example, PR cryo during a cryo month or cryo during a PR cryo time month.\n5. Patients who receive less than 1 pool (5 units) of cryo\n6. Pediatric patients (less than 18 years of age).\n7. Patients who received both PR cryo and traditional cryo\n8. Pregnant women",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Melissa Cushing",
+          "affiliation": "Weill Medical College of Cornell University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "New York-Presbyterian Hospital/Weill Cornell Medical Center",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10065",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "26633599",
+          "type": "BACKGROUND",
+          "citation": "Arnup SJ, Forbes AB, Kahan BC, Morgan KE, McKenzie JE. Appropriate statistical methods were infrequently used in cluster-randomized crossover trials. J Clin Epidemiol. 2016 Jun;74:40-50. doi: 10.1016/j.jclinepi.2015.11.013. Epub 2015 Nov 26."
+        },
+        {
+          "pmid": "719724",
+          "type": "BACKGROUND",
+          "citation": "Saland LC. Effects of reserpine administration on the fine structure of the rat pars intermedia. Cell Tissue Res. 1978 Nov 9;194(1):115-23. doi: 10.1007/BF00209237."
+        },
+        {
+          "pmid": "28734018",
+          "type": "BACKGROUND",
+          "citation": "Cushing MM, Fitzgerald MM, Harris RM, Asmis LM, Haas T. Influence of cryoprecipitate, Factor XIII, and fibrinogen concentrate on hyperfibrinolysis. Transfusion. 2017 Oct;57(10):2502-2510. doi: 10.1111/trf.14259. Epub 2017 Jul 21."
+        },
+        {
+          "pmid": "32478877",
+          "type": "BACKGROUND",
+          "citation": "Cushing MM, Haas T, Karkouti K, Callum J. Which is the preferred blood product for fibrinogen replacement in the bleeding patient with acquired hypofibrinogenemia-cryoprecipitate or fibrinogen concentrate? Transfusion. 2020 Jun;60 Suppl 3:S17-S23. doi: 10.1111/trf.15614. Epub 2020 Jun 1."
+        },
+        {
+          "pmid": "30980741",
+          "type": "BACKGROUND",
+          "citation": "Fenderson JL, Meledeo MA, Rendo MJ, Peltier GC, McIntosh CS, Davis KW, Corley JB, Cap AP. Hemostatic characteristics of thawed, pooled cryoprecipitate stored for 35 days at refrigerated and room temperatures. Transfusion. 2019 Apr;59(S2):1560-1567. doi: 10.1111/trf.15180."
+        },
+        {
+          "pmid": "538597",
+          "type": "BACKGROUND",
+          "citation": "Bulkley GB, Wheaton LG, Strandberg JD, Zuidema GD. Assessment of small intestinal recovery from ischemic injury after segmental, arterial, venous, and arteriovenous occlusion. Surg Forum. 1979;30:210-3. No abstract available."
+        },
+        {
+          "pmid": "34904250",
+          "type": "BACKGROUND",
+          "citation": "Hsien S, Dayton JD, Chen D, Stock A, Bacha E, Cushing MM, Nellis ME. Hemostatic efficacy of pathogen-reduced platelets in children undergoing cardiopulmonary bypass. Transfusion. 2022 Feb;62(2):298-305. doi: 10.1111/trf.16768. Epub 2021 Dec 13."
+        },
+        {
+          "pmid": "29479708",
+          "type": "BACKGROUND",
+          "citation": "Lokhandwala PM, O'Neal A, Patel EU, Brunker PAR, Gehrie EA, Zheng G, Kickler TS, Ness PM, Tobian AAR. Hemostatic profile and safety of pooled cryoprecipitate up to 120 hours after thawing. Transfusion. 2018 May;58(5):1126-1131. doi: 10.1111/trf.14550. Epub 2018 Feb 25."
+        },
+        {
+          "pmid": "33728705",
+          "type": "BACKGROUND",
+          "citation": "Thomson C, Sobieraj-Teague M, Scott D, Duncan E, Abraham S, Roxby D. Extending the post-thaw viability of cryoprecipitate. Transfusion. 2021 May;61(5):1578-1585. doi: 10.1111/trf.16366. Epub 2021 Mar 17."
+        },
+        {
+          "pmid": "39334317",
+          "type": "DERIVED",
+          "citation": "Cushing MM, Cohen T, Fitzgerald MM, Rand S, Sinfort A, Chen D, Keltner N, Ong S, Parra P, Benabdessadek D, Jimenez A, Haas T, Lau C, Girardi NI, DeSimone RA. Trial Of Pathogen-reduced Cryoprecipitate vs. Cryoprecipitated AHF to Lower Operative Transfusions (TOP-CLOT): study protocol for a single center, prospective, cluster randomized trial. Trials. 2024 Sep 27;25(1):625. doi: 10.1186/s13063-024-08398-x."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "typeUnitsAnalyzed": "cryo transfusions",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Patients Given Traditional Cryo",
+          "description": "These are all liver transplant and cardiothoracic (LT and CT) patients that will be given Traditional Cryo based on the randomization protocol. The blood bank will be randomized by to use either PR Cryo or Traditional Cryo for the entire month for all patients with a Cryo order. The patients included in this arm received Traditional Cryo during a month in which the blood bank was randomized to use Traditional Cryo. The months in which the blood bank was assigned to use Traditional Cryo are as follows: Period 1: Month 1, Period 4: Month 4, Period 5: Month 5, Period 7: Month 7, Period 10: Month 10, and Period 12: Month 12."
+        },
+        {
+          "id": "FG001",
+          "title": "Patients Given PR Cryo",
+          "description": "These are all liver transplant and cardiothoracic (LT and CT) patients that will be given PR Cryo based on the randomization protocol. The blood bank will be randomized by to use either PR Cryo or Traditional Cryo for the entire month for all patients with a Cryo order. The patients included in this arm received PR Cryo during a month in which the blood bank was randomized to use PR Cryo. The months in which the blood bank was assigned to use PR Cryo are as follows: Period 2: Month 2, Period 3: Month 3, Period 6: Month 6, Period 8: Month 8, Period 9: Month 9, Period 11: Month 11."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Month 1 (Traditional Cryo)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20",
+                  "numUnits": "50"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20",
+                  "numUnits": "50"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Month 2 (PR Cryo)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "20",
+                  "numUnits": "45"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "20",
+                  "numUnits": "45"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Month 3 (PR Cryo)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "17",
+                  "numUnits": "43"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "17",
+                  "numUnits": "43"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Month 4 (Traditional Cryo)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20",
+                  "numUnits": "42"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20",
+                  "numUnits": "42"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Month 5 (Traditional Cryo)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20",
+                  "numUnits": "51"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20",
+                  "numUnits": "51"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Month 6 (PR Cryo)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "19",
+                  "numUnits": "40"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "19",
+                  "numUnits": "40"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Month 7 (Traditional Cryo)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "23",
+                  "numUnits": "41"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "23",
+                  "numUnits": "41"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Month 8 (PR Cryo)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "15",
+                  "numUnits": "28"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "15",
+                  "numUnits": "28"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Month 9 (PR Cryo)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "19",
+                  "numUnits": "44"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "19",
+                  "numUnits": "44"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Month 10 (Traditional Cryo)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10",
+                  "numUnits": "21"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10",
+                  "numUnits": "21"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Month 11 (PR Cryo)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "13",
+                  "numUnits": "38"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "13",
+                  "numUnits": "38"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Month 12 (Traditional Cryo)",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "12",
+                  "numUnits": "35"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "12",
+                  "numUnits": "35"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Patients Given Traditional Cryo",
+          "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+        },
+        {
+          "id": "BG001",
+          "title": "Patients Given PR Cryo",
+          "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "105"
+            },
+            {
+              "groupId": "BG001",
+              "value": "103"
+            },
+            {
+              "groupId": "BG002",
+              "value": "208"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "62",
+                      "spread": "14"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "61",
+                      "spread": "14"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "61",
+                      "spread": "14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "80"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "66"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "128"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "15"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "91"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "102"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "193"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "105"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "208"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ASA Score",
+          "description": "The ASA Score (American Society of Anesthesiologists Physical Status Classification System) assesses a patient's preoperative health. Scores range from 1 to 6. Score 1 indicates healthy; Score 2 indicates mild systemic disease; Score 3 indicates severe systemic disease; Score 4 indicates disease that is a constant threat to life; Score 5 indicates a moribund patient not expected to survive without surgery; Score 6 indicates a brain-dead patient whose organs are being removed for donor purposes.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Score on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3.8",
+                      "spread": "0.51"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3.8",
+                      "spread": "0.43"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3.8",
+                      "spread": "0.47"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Total Number of RBCs Used Over Admission",
+          "description": "RBCs used over admission",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "RBC Units",
+          "timeFrame": "Within the first 30 days after surgery.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.8",
+                      "spread": "6.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.7",
+                      "spread": "7.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Total Number of Platelets Used Over Admission",
+          "description": "Plts used over admission",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "platelet units",
+          "timeFrame": "Within the first 30 days after surgery.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.1",
+                      "spread": "3.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.1",
+                      "spread": "2.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Total Number of Plasma Used Over Admission",
+          "description": "All units over admission",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "plasma units",
+          "timeFrame": "Within the first 30 days after surgery.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.7",
+                      "spread": "4.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.4",
+                      "spread": "6.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Cryo Units Used Perioperatively",
+          "description": "All products within 3 days",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "cryo units",
+          "timeFrame": "3 days post procedure",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.3",
+                      "spread": "1.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.3",
+                      "spread": "1.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of RBCs Used Perioperatively",
+          "description": "Number of RBC units transfused during perioperative period",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "RBC units",
+          "timeFrame": "3 days post procedure",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.6",
+                      "spread": "5.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5.9",
+                      "spread": "6.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Plasma Used Perioperatively",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "plasma units",
+          "timeFrame": "3 days post procedure",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.6",
+                      "spread": "4.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.4",
+                      "spread": "6.01"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Platelets Used Perioperatively",
+          "description": "Number of platelet units transfused during perioperative period",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "platelet units",
+          "timeFrame": "3 days post procedure",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.8",
+                      "spread": "1.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.0",
+                      "spread": "1.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time From Operating Room (OR) Start Time to Start of Cryo Transfusion",
+          "populationDescription": "Only the cardiac population was included for this analysis. The data was not available for liver transplant patients, so liver transplant patients were excluded from the analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "minutes",
+          "timeFrame": "procedure (Time from OR start time to start of cryo transfusion)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "86"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "84"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "366",
+                      "lowerLimit": "309",
+                      "upperLimit": "425"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "367",
+                      "lowerLimit": "324",
+                      "upperLimit": "416"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time From Cryo Order to Start of Transfusion",
+          "description": "Time to cryo order time to start of cryo transfusion",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "minutes",
+          "timeFrame": "procedure (Time from cryo order to start of transfusion)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "128.3",
+                      "spread": "200.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "88.5",
+                      "spread": "99.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Cryo Units Wasted by Blood Bank",
+          "description": "This captures the Cryoprecipitate units discarded.",
+          "populationDescription": "The blood bank, which is required to follow its standard operating procedures, was not able to document wastage in a way which allowed the investigators to accurately attribute wastage to a specific arm of the study. Therefore, wastage could not be accurately calculated as intended in the study protocol.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "Daily, up to approximately 24 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Pre Transfusion FIBTEM Amplitude 10 Min After Start of Clot Formation",
+          "description": "FIBTEM before transfusion, if anesthesiologist orders it. FIBTEM is a point of care laboratory test measuring fibrinogen contribution to a clot. It is part of ROTEM testing and helps providers determine if patients need fibrinogen supplementation during surgical bleeding.",
+          "populationDescription": "Data for all participants was not available because pre-transfusion FIBTEMs were not clinically ordered for all participants by the treating anesthesiologists. Only participants with pre-transfusion FIBTEMs available were included in this analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mm",
+          "timeFrame": "Variable, but it is generally available within 15 minutes of the start of ROTEM testing.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "95"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "94"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.6",
+                      "spread": "6.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "8.3",
+                      "spread": "4.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Post Transfusion FIBTEM Amplitude at 10 Min After Start of Clot Formation",
+          "description": "FIBTEM after transfusion, if anesthesiologist orders it. FIBTEM is a point of care laboratory test measuring fibrinogen contribution to a clot. It is part of ROTEM testing and helps providers determine if patients need fibrinogen supplementation during surgical bleeding.",
+          "populationDescription": "Data were not available nor collected for this measure because anesthesiologists do not routinely order this for the investigators to have been able to collect it.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "Variable, but it is generally available within 15 minutes of the start of ROTEM testing.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Maximum Clot Firmness (MCF)",
+          "description": "The maximum strength of a clot as determined by ROTEM testing.",
+          "populationDescription": "Data for MCF were not collected since clinical decisions are not made based on this value as the measure assumed. As such, there are no data to report. Clinical decisions were made based on A10 (the clot amplitude measured 10 minutes after clot formation start), not the maximum clot firmness (MCF). As A10 was not a pre-specified measure for this protocol, there are no data to report. Data will never be collected for this Outcome Measure.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "Variable, but it is generally available within 1 hour of the start of ROTEM testing.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Pre-transfusion Fibrinogen Level",
+          "description": "The fibrinogen measurement before cryoprecipitate is transfused.",
+          "populationDescription": "Some data were not collected for this measure because anesthesiologists did not routinely order this test.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mg/dL",
+          "timeFrame": "During surgery, within 3 hours of specimen receipt by laboratory.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "9"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "145",
+                      "spread": "68"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "191",
+                      "spread": "33"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Highest Fibrinogen Level Within 24 Hours",
+          "populationDescription": "Some data were not collected for this measure because anesthesiologists did not always order this test.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mg/dL",
+          "timeFrame": "Within 24 hours after surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "100"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "100"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "210",
+                      "spread": "53"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "212",
+                      "spread": "46"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Lowest Fibrinogen Level Within 24 Hours",
+          "populationDescription": "Some data were not collected for this measure because anesthesiologists did not always order this test.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mg/dL",
+          "timeFrame": "Within 24 hours after surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "100"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "100"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "194.5",
+                      "spread": "51.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "199.89",
+                      "spread": "44.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Cumulative Volume in Drains After Surgery (e.g., Chest Tube for CV Surgery) at the Time of Removal",
+          "description": "The cumulative volume in drains after surgery (e.g., chest tube for CV surgery) at the time of drain removal",
+          "populationDescription": "This data were not available for collection in the electronic health record as intended by the investigators, as the data were not clinically documented. Therefore, the cumulative volume in drains after surgery could not be reported as intended in the study protocol.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "Up to approximately 3 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Volume in Drains (Chest Tube for CV Surgery)",
+          "populationDescription": "Only the cardiac population was included for this analysis. The clinical parameter is not applicable to liver transplant patients, so liver transplant patients were excluded from the analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mLs",
+          "timeFrame": "At 24 hours after surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "85"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "83"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "897",
+                      "spread": "810"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "749",
+                      "spread": "496"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time From End of Bypass Pump for CV Surgery",
+          "populationDescription": "Only for cardiac surgery patients. Liver transplant patients are not on bypass.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "hours",
+          "timeFrame": "Until end of surgery",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "86"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "84"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.75",
+                      "lowerLimit": "2.32",
+                      "upperLimit": "3.27"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.73",
+                      "lowerLimit": "2.46",
+                      "upperLimit": "3.22"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Length of Stay in OR",
+          "description": "Operating room length of stay",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "minutes",
+          "timeFrame": "Duration of time in operating room",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "522",
+                      "spread": "124"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "534",
+                      "spread": "118"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Length of Stay in ICU",
+          "description": "Participant length of stay in ICU setting",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "days",
+          "timeFrame": "During hospitalization, approximately 5 days to 30 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8.1",
+                      "spread": "11.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.9",
+                      "spread": "8.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Length of Stay in Hospital",
+          "description": "Overall length of stay in hospital",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "days",
+          "timeFrame": "During hospitalization, approximately 5 days to 30 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12.0",
+                      "spread": "9.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10.9",
+                      "spread": "10.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Need for Ventilator",
+          "populationDescription": "Not all values available in the electronic health record.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "During hospitalization, approximately 5 days to 30 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "100"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "98"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "99"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "96"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time on Ventilator",
+          "description": "If participant was on ventilator, amount of time spent on ventilator",
+          "populationDescription": "Not all values available in the electronic health record.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "days",
+          "timeFrame": "During hospitalization, approximately 5 days to 30 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "99"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "96"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.4",
+                      "spread": "4.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.6",
+                      "spread": "6.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Overall Cost of Cryo vs PR Cryo, When Factoring Wastage",
+          "description": "Cost of traditional cryoprecipitate compared to PR Cryoprecipitate.",
+          "populationDescription": "Not available due to unavailable confidential contractual information that would be needed to calculate cost. The contract between the blood suppliers and hospital is confidential, and therefore the investigators were not able to report on cost-related factors as intended in the study protocol. Data will never be collected for this Outcome Measure.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "Daily, approximately 24 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants That Experienced an Adverse Event of Fever",
+          "description": "All participants that experience fevers that occur during the time frame",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Within 5 days of surgery start time",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants That Experienced an Adverse Event of Infection",
+          "description": "All participants that experience infections that occur during the time frame",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Within 5 days of surgery start time",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants That Experienced an Adverse Event of Transfusion Reaction.",
+          "description": "All participants that experience transfusion reactions that occur during the time frame",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Within 5 days of surgery start time",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Fibrinogen Level",
+          "description": "Fibrinogen level most proximal to the end of surgery",
+          "populationDescription": "Fibrinogen was not ordered by provider for every participant",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mg/dL",
+          "timeFrame": "Most proximal to end of procedure",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients Given Traditional Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order."
+            },
+            {
+              "id": "OG001",
+              "title": "Patients Given PR Cryo",
+              "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "101"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "101"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "197",
+                      "spread": "52"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "201",
+                      "spread": "38"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Serious adverse events: 5 days post-procedure. All cause-mortality: 30 days or discharge from hospital, whichever occurred first.",
+      "description": "Serious adverse events collected included transfusion reactions. Adverse events collected included fevers and infections. Data were collected using automated scripts with Structured Query Language (SQL) queries of the hospital's centralized data warehouse. Adverse events were assessed weekly by the study team via video conference.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Patients Given Traditional Cryo",
+          "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given traditional cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nTraditional Cryoprecipitate: This is the cryoprecipitate already currently being given to patients with a cryo order.",
+          "deathsNumAffected": 5,
+          "deathsNumAtRisk": 105,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 105,
+          "otherNumAffected": 18,
+          "otherNumAtRisk": 105
+        },
+        {
+          "id": "EG001",
+          "title": "Patients Given PR Cryo",
+          "description": "These are the liver transplant and cardiothoracic (LT and CT) patients that will be given PR cryo based on the randomization protocol. The blood bank will alternate use of PR cryo and regular cryo each month for all patients with a cryo order. All patients will receive either traditional cryo or PR cryo in a given month.\n\nPathogen-Reduced Cryoprecipitate: This is the pathogen-reduced cryoprecipitate that is intended to be compared to the standard cryoprecipitate.",
+          "deathsNumAffected": 2,
+          "deathsNumAtRisk": 103,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 103,
+          "otherNumAffected": 17,
+          "otherNumAtRisk": 103
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Transfusion Reactions",
+          "organSystem": "Blood and lymphatic system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 105
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 103
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Infection",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 105
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 103
+            }
+          ]
+        },
+        {
+          "term": "Fever",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 16,
+              "numAffected": 16,
+              "numAtRisk": 105
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 14,
+              "numAffected": 14,
+              "numAtRisk": 103
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dr. Melissa Cushing",
+        "organization": "Weill Cornell Medicine",
+        "email": "mec2013@med.cornell.edu",
+        "phone": "212-746-3527"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-01-24",
+          "uploadDate": "2025-07-31T11:33",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 212896
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-08-20",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000347",
+          "term": "Afibrinogenemia"
+        },
+        {
+          "id": "D006470",
+          "term": "Hemorrhage"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D025861",
+          "term": "Blood Coagulation Disorders, Inherited"
+        },
+        {
+          "id": "D001778",
+          "term": "Blood Coagulation Disorders"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D020147",
+          "term": "Coagulation Protein Disorders"
+        },
+        {
+          "id": "D006474",
+          "term": "Hemorrhagic Disorders"
+        },
+        {
+          "id": "D030342",
+          "term": "Genetic Diseases, Inborn"
+        },
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

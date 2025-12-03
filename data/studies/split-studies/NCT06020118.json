@@ -1,0 +1,2593 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06020118",
+      "orgStudyIdInfo": {
+        "id": "Pro00113674"
+      },
+      "organization": {
+        "fullName": "Duke University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Comparative Immunogenicity of Concomitant vs Sequential mRNA COVID-19 and Influenza Vaccinations",
+      "officialTitle": "Randomized Study of the Immunogenicity and Duration of Antibody Response Against Circulating SARS-CoV-2 Variant and Influenza Viruses Following Concomitant Versus Sequential Administration of mRNA COVID-19 Vaccine and Quadrivalent Cell Culture-based Influenza Vaccine Among Children and Adults"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-09-25",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-03-07",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-05-17",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-08-30",
+      "studyFirstSubmitQcDate": "2023-08-30",
+      "studyFirstPostDateStruct": {
+        "date": "2023-08-31",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-02-14",
+      "resultsFirstSubmitQcDate": "2025-06-11",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-06-13",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-06-11",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-06-13",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Duke University",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Centers for Disease Control and Prevention",
+          "class": "FED"
+        },
+        {
+          "name": "Arizona State University",
+          "class": "OTHER"
+        },
+        {
+          "name": "University Hospitals Cleveland Medical Center",
+          "class": "OTHER"
+        },
+        {
+          "name": "University of Pittsburgh",
+          "class": "OTHER"
+        },
+        {
+          "name": "Washington University School of Medicine",
+          "class": "OTHER"
+        },
+        {
+          "name": "Valleywise Health",
+          "class": "OTHER"
+        },
+        {
+          "name": "Cleveland VA Medical Center",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Senders Pediatrics",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a prospective, randomized randomized immunologic study of response to influenza and SARS-CoV-2 vaccination across four of the US Influenza Vaccine Effectiveness (Flu VE) Network study sites.",
+      "detailedDescription": "This study is a prospective, randomized comparative immunogenicity study in an enrolled cohort. During this study, eligible participants will be randomly assigned to receive an approved quadrivalent cell culture-based influenza vaccine (ccIIV4, Seqirus) and an approved mRNA COVID-19 vaccine (Moderna) either concomitantly or sequentially, 28 days apart. Participants (aged 6-11 years and 18-64 years) will be enrolled in the 2023-2024 influenza season.\n\nDemographic and health data (including influenza and COVID-19 vaccination and infection history) will be collected upon enrollment. Enrolled participants will be randomized to one of the following interventions (2:1:1) (i) concomitant administration of the mRNA COVID-19 vaccine (Moderna) and quadrivalent influenza vaccine (ccIIV4, Seqirus); (ii)sequential administration of the quadrivalent influenza vaccine (ccIIV4, Seqirus) at Visit 1 (day 0) and the mRNA COVID-19 vaccine(Moderna) at Visit 2 (day 28); (iii) sequential administration of the mRNA COVID-19 vaccine (Moderna) at Visit 1 (day 0) followed by the quadrivalent influenza vaccine (ccIIV4, Seqirus) at Visit 2 (day 28). Participants will not be blinded to vaccine group.\n\nWhole blood samples to isolate sera for immune assays will be collected prior to vaccination administration at Visit 1 (day 0), Visit 2 (day 28) Visit 3 (day 56; post-vaccination 2) and Visit 4 (day180; end of local flu circulation). Blood samples to isolate PBMC and plasma will be collected from a subset of 250 participants (200 adults and 50 children). If participants exhibit ARI during the study period, the participants may be asked to present for collection of a nasal swab for viral testing for acute influenza or SARS-CoV-2 infection (within 10 days after symptom onset), and blood specimen to isolate sera for immune assays. For participants with confirmed acute infection, the participants may be asked to present for collection of a convalescent-phase blood specimen approximately 28 days after acute visit for isolation of sera, PBMC and plasma."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Influenza",
+        "COVID-19"
+      ],
+      "keywords": [
+        "Influenza",
+        "COVID-19",
+        "Immunogencity",
+        "Health",
+        "Reactogenicity"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 455,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Group i: Concomitant Vaccination",
+          "type": "EXPERIMENTAL",
+          "description": "Concomitant Vaccination (Influenza vaccine and mRNA COVID booster) at Visit 1",
+          "interventionNames": [
+            "Biological: Simultaneous Vaccination (Influenza Vaccine and mRNA COVID booster)"
+          ]
+        },
+        {
+          "label": "Group ii: Influenza Vaccination at Visit 1",
+          "type": "EXPERIMENTAL",
+          "description": "Sequential vaccination with Influenza vaccination at Visit 1 and mRNA COVID booster at Visit 2",
+          "interventionNames": [
+            "Biological: Sequential Vaccination (Influenza vaccine then mRNA COVID booster)"
+          ]
+        },
+        {
+          "label": "Group iii: mRNA COVID-19 Vaccination at Visit 1",
+          "type": "EXPERIMENTAL",
+          "description": "Sequential vaccination with mRNA COVID booster at Visit 1 and Influenza vaccination at Visit 2",
+          "interventionNames": [
+            "Biological: Sequential Vaccination (mRNA COVID booster then Influenza vaccine)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Simultaneous Vaccination (Influenza Vaccine and mRNA COVID booster)",
+          "description": "Influenza vaccination and mRNA COVID-19 booster will be given at Visit 1.",
+          "armGroupLabels": [
+            "Group i: Concomitant Vaccination"
+          ]
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Sequential Vaccination (Influenza vaccine then mRNA COVID booster)",
+          "description": "Influenza vaccine will be given at Visit 1 and mRNA COVID booster will be given at Visit 2.",
+          "armGroupLabels": [
+            "Group ii: Influenza Vaccination at Visit 1"
+          ]
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Sequential Vaccination (mRNA COVID booster then Influenza vaccine)",
+          "description": "mRNA COVID booster will be given at Visit 1 and Influenza vaccine will be given at Visit 2.",
+          "armGroupLabels": [
+            "Group iii: mRNA COVID-19 Vaccination at Visit 1"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Percentage of Participants With HAI Seroconversion",
+          "description": "Number of participants with a seroconversion HAI Titer ≥1:40 at Day 29 if Day 1 titer is \\<1:10 or a four-fold rise at Day 29 if Day 1 titer is ≥1:10 for each ccIIV4 antigen in the 2023-2024 influenza season.",
+          "timeFrame": "Visit 1 (day 1; baseline) to Visit 2 (days 28-42; post-vaccination) for all arms/groups"
+        },
+        {
+          "measure": "Percentage of Participants With HAI Seroprotection",
+          "description": "Number of participants with a seroprotective HAI titer (≥ 1:40) pre- and post-immunization at day 29 for each ccIIV4 antigen in the 2023-2024 influenza season.",
+          "timeFrame": "Visit 1 (day 1; baseline; pre-immunization) and Visit 2 (days 28-42; post-immunization) for all arms/groups"
+        },
+        {
+          "measure": "HAI Geometric Mean Titer",
+          "description": "The geometric mean HAI titer (GMT) for each ccIIV4 antigen in the 2023-2024 influenza season. GMTs were derived by using the anti-log of the mean of the log transformed titers.",
+          "timeFrame": "Visit 1 (day 1; baseline; pre-immunization) and Visit 2 (days 28-42; post-immunization) for all arms/groups"
+        },
+        {
+          "measure": "HAI Geometric Mean Fold Rise (GMFR)",
+          "description": "GMFRs and 95% confidence intervals were calculated using a t-distribution on log 2-transformed titers.",
+          "timeFrame": "Visit 1 (day 1; baseline) to Visit 2 (days 28-42; post-vaccination) for all arms/groups"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Healthy children aged 6-11 years and healthy adults aged 18-64 years that have not received the current season's influenza vaccination or a mRNA COVID-19 vaccination in the past 6 months and have already completed at least a two-dose primary series of an mRNA COVID-19 vaccination\n* English or Spanish literate\n* Email or text message capability for weekly follow-up\n* Intention of receiving influenza vaccine and mRNA COVID-19 vaccine based on ACIP-CDC guidelines\n* Willing to provide written/electronic informed consent\n* Intention of being available for entire study period and able to complete all relevant study procedures, including follow-up phone calls and clinic visits\n\nExclusion Criteria:\n\n* Self-reported COVID-19 infection within 3 months prior to enrollment\n* Received COVID-19 vaccine within 6 months prior to enrollment\n* Received influenza vaccine during the respective influenza season in which the participants are being enrolled\n* \\< 9 years of age and recommended to receive two doses of IIV4 during the respective influenza season in which they are being enrolled\n* History of severe allergic reaction after a previous dose of any influenza or COVID-19 mRNA vaccine; or to an influenza or COVID-19 mRNA vaccine component\n* Receipt of any licensed vaccine within 6 weeks prior to enrollment in this study or planning receipt of any vaccines within 4 weeks after the receipt of the second vaccine dose administered during study procedures\n* Has an immunocompromising condition or taking immunosuppressive medication\\*\n\n  \\* Received oral, intramuscular or intravenous systemic immunosuppressants, or immune modifying drugs for \\>14 days in total within 6 months prior to any study vaccine dose (for corticosteroids ≥ 20 mg/day of prednisone equivalent).\n\n  \\*\\* Note: Topical medications are allowed\n* Received immunoglobulin, SARS-CoV-2 immunoglobulin, SARS-CoV-2 monoclonal antibody, or blood-derived products, within 3 months prior any study vaccine dose.\n* History of Guillain-Barré syndrome\n* History of myocarditis or pericarditis\n* History of multisystem inflammatory syndrome in children (MIS-C) or adults (MIS-A)\n* Currently pregnant, planning to become pregnant within the first three months of the study per participant self-report or likely to be pregnant per screening criteria\n* Bleeding disorder diagnosed by a healthcare provider or bleeding difficulties with intramuscular injections or blood draws.\n* Has injury or other reason why deltoid site on both arms cannot be used for vaccinations\n* Any condition which, in the opinion of the investigators, may pose a health risk to the participant or interfere with the evaluation of the study objectives\n* Temporary Delay Criteria: History of febrile illness (\\> 100.0°F or 37.8°C) within the past 72 hours prior to vaccine administration",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "6 Years",
+      "maximumAge": "64 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Valleywise Health Comprehensive Health Center",
+          "city": "Phoenix",
+          "state": "Arizona",
+          "zip": "85008",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.44838,
+            "lon": -112.07404
+          }
+        },
+        {
+          "facility": "ASU Biodesign Institute",
+          "city": "Tempe",
+          "state": "Arizona",
+          "zip": "85281",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.41477,
+            "lon": -111.90931
+          }
+        },
+        {
+          "facility": "Centers for Disease Control and Prevention",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30333",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "Washington University IDCRU",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63110",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.62727,
+            "lon": -90.19789
+          }
+        },
+        {
+          "facility": "University Hospitals Cleveland Medical Center",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44106",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.4995,
+            "lon": -81.69541
+          }
+        },
+        {
+          "facility": "VA Northeast Ohio Healthcare System (VANEOHS)",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44106",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.4995,
+            "lon": -81.69541
+          }
+        },
+        {
+          "facility": "Senders Pediatrics",
+          "city": "South Euclid",
+          "state": "Ohio",
+          "zip": "44121",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.52311,
+            "lon": -81.51846
+          }
+        },
+        {
+          "facility": "Department of Family Medicine, University of Pittsburgh School of Medicine",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15260",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "455 participants were enrolled and consented. 8 participants were not randomized to a vaccine group due to being screen fails. 447 participants were randomized to Group i, Group ii, or Group iii.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Group i: Concomitant Vaccination at Visit 1",
+          "description": "Simultaneous Vaccination (Influenza vaccine and mRNA COVID booster) at Visit 1\n\nSimultaneous Vaccination (Influenza Vaccine and mRNA COVID booster): Influenza vaccination and mRNA COVID-19 booster will be given at Visit 1."
+        },
+        {
+          "id": "FG001",
+          "title": "Group ii: Influenza Vaccination at Visit 1",
+          "description": "Sequential vaccination with Influenza vaccination at Visit 1 and mRNA COVID booster at Visit 2\n\nSequential Vaccination (Influenza vaccine then mRNA COVID booster): Influenza vaccine will be given at Visit 1 and mRNA COVID booster will be given at Visit 2."
+        },
+        {
+          "id": "FG002",
+          "title": "Group Iii: mRNA COVID-19 Vaccination at Visit 1",
+          "description": "Sequential vaccination with mRNA COVID booster at Visit 1 and Influenza vaccination at Visit 2\n\nSequential Vaccination (mRNA COVID booster then Influenza vaccine): mRNA COVID booster will be given at Visit 1 and Influenza vaccine will be given at Visit 2."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "223"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "111"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "113"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "219"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "102"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "111"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "9"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Modified intent-to-treat (mITT) Population: Any participant who was enrolled, randomized, and received both vaccines.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Group i: Concomitant Vaccination",
+          "description": "Simultaneous Vaccination (Influenza vaccine and mRNA COVID booster) at Visit 1\n\nSimultaneous Vaccination (Influenza Vaccine and mRNA COVID booster): Influenza vaccination and mRNA COVID-19 booster will be given at Visit 1."
+        },
+        {
+          "id": "BG001",
+          "title": "Group ii: Influenza Vaccination",
+          "description": "Sequential vaccination with Influenza vaccination at Visit 1 and mRNA COVID booster at Visit 2\n\nSequential Vaccination (Influenza vaccine then mRNA COVID booster): Influenza vaccine will be given at Visit 1 and mRNA COVID booster will be given at Visit 2."
+        },
+        {
+          "id": "BG002",
+          "title": "Group Iii: mRNA COVID-19 Vaccination",
+          "description": "Sequential vaccination with mRNA COVID booster at Visit 1 and Influenza vaccination at Visit 2\n\nSequential Vaccination (mRNA COVID booster then Influenza vaccine): mRNA COVID booster will be given at Visit 1 and Influenza vaccine will be given at Visit 2."
+        },
+        {
+          "id": "BG003",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "223"
+            },
+            {
+              "groupId": "BG001",
+              "value": "111"
+            },
+            {
+              "groupId": "BG002",
+              "value": "113"
+            },
+            {
+              "groupId": "BG003",
+              "value": "447"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Age Group",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "223"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "111"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "113"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "447"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "6-11 Years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "18-49 Years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "174"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "85"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "84"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "343"
+                    }
+                  ]
+                },
+                {
+                  "title": "50-64 Years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "43"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "92"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Customized",
+          "populationDescription": "One Participant in Group i: Missing Age",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "title": "Age (Years), Median",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "222"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "111"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "113"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "446"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "33",
+                      "lowerLimit": "25",
+                      "upperLimit": "47"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32",
+                      "lowerLimit": "26",
+                      "upperLimit": "48"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "34",
+                      "lowerLimit": "26",
+                      "upperLimit": "48"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "33",
+                      "lowerLimit": "25",
+                      "upperLimit": "48"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "populationDescription": "Four Participants in Group i: Missing Sex",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "219"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "111"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "113"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "443"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "135"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "65"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "261"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "84"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "50"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "48"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "182"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "223"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "111"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "113"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "447"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "37"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "69"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "182"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "95"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "94"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "371"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "223"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "111"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "113"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "447"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "64"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "25"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "155"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "78"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "84"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "317"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "28"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Enrollment Site",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "223"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "111"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "113"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "447"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Arizona State University",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "66"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "131"
+                    }
+                  ]
+                },
+                {
+                  "title": "Cleveland Veterans Affairs",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "title": "Senders Pediatrics",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "University Hospitals Cleveland",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "60"
+                    }
+                  ]
+                },
+                {
+                  "title": "University of Pittsburgh",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "77"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "155"
+                    }
+                  ]
+                },
+                {
+                  "title": "Valleywise Health",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "25"
+                    }
+                  ]
+                },
+                {
+                  "title": "Washington University at St. Louis",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "50"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Participants With HAI Seroconversion",
+          "description": "Number of participants with a seroconversion HAI Titer ≥1:40 at Day 29 if Day 1 titer is \\<1:10 or a four-fold rise at Day 29 if Day 1 titer is ≥1:10 for each ccIIV4 antigen in the 2023-2024 influenza season.",
+          "populationDescription": "Influenza Immunogenicity Population: Subset of the modified intention-to-treat (mITT) Population that includes only subjects who received both vaccines, provide visit 1 and visit 2 blood draws available with HAI titer results for analysis within the protocol-defined time frame, did not have an influenza or SARS-CoV-2 infection between visits 1 and 2, and had no protocol violations affecting immunogenicity.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Visit 1 (day 1; baseline) to Visit 2 (days 28-42; post-vaccination) for all arms/groups",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group i",
+              "description": "Simultaneous Vaccination (Influenza vaccine and mRNA COVID booster) at Visit 1\n\nSimultaneous Vaccination (Influenza Vaccine and mRNA COVID booster): Influenza vaccination and mRNA COVID-19 booster will be given at Visit 1."
+            },
+            {
+              "id": "OG001",
+              "title": "Group ii",
+              "description": "Sequential vaccination with Influenza vaccination at Visit 1 and mRNA COVID booster at Visit 2\n\nSequential Vaccination (Influenza vaccine then mRNA COVID booster): Influenza vaccine will be given at Visit 1 and mRNA COVID booster will be given at Visit 2."
+            },
+            {
+              "id": "OG002",
+              "title": "Group Iii",
+              "description": "Sequential vaccination with mRNA COVID booster at Visit 1 and Influenza vaccination at Visit 2\n\nSequential Vaccination (mRNA COVID booster then Influenza vaccine): mRNA COVID booster will be given at Visit 1 and Influenza vaccine will be given at Visit 2."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "197"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "95"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "107"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "A(H1N1)pdm09",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "53.3",
+                      "lowerLimit": "46.1",
+                      "upperLimit": "60.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "52.6",
+                      "lowerLimit": "42.1",
+                      "upperLimit": "63.0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "0.9",
+                      "lowerLimit": "0.02",
+                      "upperLimit": "5.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "A(H3N2)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "33.5",
+                      "lowerLimit": "27.0",
+                      "upperLimit": "40.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "36.8",
+                      "lowerLimit": "27.2",
+                      "upperLimit": "47.4"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "1.9",
+                      "lowerLimit": "0.2",
+                      "upperLimit": "6.6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "B/Victoria",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "47.7",
+                      "lowerLimit": "40.6",
+                      "upperLimit": "54.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "48.4",
+                      "lowerLimit": "38.0",
+                      "upperLimit": "58.9"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "4.7",
+                      "lowerLimit": "1.5",
+                      "upperLimit": "10.6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "B/Yamagata",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18.8",
+                      "lowerLimit": "13.6",
+                      "upperLimit": "25.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "14.7",
+                      "lowerLimit": "8.3",
+                      "upperLimit": "23.5"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "1.9",
+                      "lowerLimit": "0.2",
+                      "upperLimit": "6.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Antigen: A(H1N1)pdm09",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "0.938",
+              "pValueComment": "Number of participants achieving HAI seroconversion (a titer ≥1:40 following ccIIV4 if the baseline titer is \\<1:10 or a four-fold rise in titer if the baseline titer is \\>1:10) following ccIIV4 vaccination for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Antigen: A(H3N2)",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "0.451",
+              "pValueComment": "Number of participants achieving HAI seroconversion (a titer ≥1:40 following ccIIV4 if the baseline titer is \\<1:10 or a four-fold rise in titer if the baseline titer is \\>1:10) following ccIIV4 vaccination for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Antigen: B/Victoria",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "0.819",
+              "pValueComment": "Number of participants achieving HAI seroconversion (a titer ≥1:40 following ccIIV4 if the baseline titer is \\<1:10 or a four-fold rise in titer if the baseline titer is \\>1:10) following ccIIV4 vaccination for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Antigen: B/Yamagata",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "0.500",
+              "pValueComment": "Number of participants achieving HAI seroconversion (a titer ≥1:40 following ccIIV4 if the baseline titer is \\<1:10 or a four-fold rise in titer if the baseline titer is \\>1:10) following ccIIV4 vaccination for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Antigen: A(H1N1)pdm09",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "<.001",
+              "pValueComment": "Number of participants achieving HAI seroconversion (a titer ≥1:40 following ccIIV4 if the baseline titer is \\<1:10 or a four-fold rise in titer if the baseline titer is \\>1:10) following ccIIV4 vaccination for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Antigen: A(H3N2)",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "0.001",
+              "pValueComment": "Number of participants achieving HAI seroconversion (a titer ≥1:40 following ccIIV4 if the baseline titer is \\<1:10 or a four-fold rise in titer if the baseline titer is \\>1:10) following ccIIV4 vaccination for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Antigen: B/Victoria",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "<0.001",
+              "pValueComment": "Number of participants achieving HAI seroconversion (a titer ≥1:40 following ccIIV4 if the baseline titer is \\<1:10 or a four-fold rise in titer if the baseline titer is \\>1:10) following ccIIV4 vaccination for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Antigen: B/Yamagata",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "<0.001",
+              "pValueComment": "Number of participants achieving HAI seroconversion (a titer ≥1:40 following ccIIV4 if the baseline titer is \\<1:10 or a four-fold rise in titer if the baseline titer is \\>1:10) following ccIIV4 vaccination for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Participants With HAI Seroprotection",
+          "description": "Number of participants with a seroprotective HAI titer (≥ 1:40) pre- and post-immunization at day 29 for each ccIIV4 antigen in the 2023-2024 influenza season.",
+          "populationDescription": "Influenza Immunogenicity Population: Subset of the mITT Population that includes only subjects who received both vaccines, provide visit 1 and visit 2 blood draws available with HAI titer results for analysis within the protocol-defined time frame, did not have an influenza or SARS-CoV-2 infection between visits 1 and 2, and had no protocol violations affecting immunogenicity.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Visit 1 (day 1; baseline; pre-immunization) and Visit 2 (days 28-42; post-immunization) for all arms/groups",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group i",
+              "description": "Concomitant Vaccination (Influenza vaccine and mRNA COVID booster) at Visit 1\n\nSimultaneous Vaccination (Influenza Vaccine and mRNA COVID booster): Influenza vaccination and mRNA COVID-19 booster will be given at Visit 1."
+            },
+            {
+              "id": "OG001",
+              "title": "Group ii",
+              "description": "Sequential vaccination with Influenza vaccination at Visit 1 and mRNA COVID booster at Visit 2\n\nSequential Vaccination (Influenza vaccine then mRNA COVID booster): Influenza vaccine will be given at Visit 1 and mRNA COVID booster will be given at Visit 2."
+            },
+            {
+              "id": "OG002",
+              "title": "Group Iii",
+              "description": "Sequential vaccination with mRNA COVID booster at Visit 1 and Influenza vaccination at Visit 2\n\nSequential Vaccination (mRNA COVID booster then Influenza vaccine): mRNA COVID booster will be given at Visit 1 and Influenza vaccine will be given at Visit 2."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "197"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "95"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "107"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "A(H1N1)pdm09",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "88.3",
+                      "lowerLimit": "83.0",
+                      "upperLimit": "92.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "87.4",
+                      "lowerLimit": "79.0",
+                      "upperLimit": "93.3"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "58.9",
+                      "lowerLimit": "49.0",
+                      "upperLimit": "68.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "A(H3N2)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "71.1",
+                      "lowerLimit": "64.2",
+                      "upperLimit": "77.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "80.0",
+                      "lowerLimit": "70.5",
+                      "upperLimit": "87.5"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "36.5",
+                      "lowerLimit": "27.4",
+                      "upperLimit": "46.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "B/Victoria",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "84.3",
+                      "lowerLimit": "78.4",
+                      "upperLimit": "89.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "85.3",
+                      "lowerLimit": "76.5",
+                      "upperLimit": "91.7"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "38.3",
+                      "lowerLimit": "29.1",
+                      "upperLimit": "48.2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "B/Yamagata",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "95.4",
+                      "lowerLimit": "91.5",
+                      "upperLimit": "97.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "97.9",
+                      "lowerLimit": "92.6",
+                      "upperLimit": "99.7"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "87.8",
+                      "lowerLimit": "80.2",
+                      "upperLimit": "93.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Antigen: A(H1N1)pdm09",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "0.894",
+              "pValueComment": "Number of participants in each vaccination group with a seroprotective HAI (in a subset of samples) titer (≥1:40) pre- and post-ccIIV4 immunization for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Antigen: A(H3N2)",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "0.104",
+              "pValueComment": "Number of participants in each vaccination group with a seroprotective HAI (in a subset of samples) titer (≥1:40) pre- and post-ccIIV4 immunization for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Antigen: B/Victoria",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "0.815",
+              "pValueComment": "Number of participants in each vaccination group with a seroprotective HAI (in a subset of samples) titer (≥1:40) pre- and post-ccIIV4 immunization for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Antigen: B/Yamagata",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "0.814",
+              "pValueComment": "Number of participants in each vaccination group with a seroprotective HAI (in a subset of samples) titer (≥1:40) pre- and post-ccIIV4 immunization for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Antigen: A(H1N1)pdm09",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "<0.001",
+              "pValueComment": "Number of participants in each vaccination group with a seroprotective HAI (in a subset of samples) titer (≥1:40) pre- and post-ccIIV4 immunization for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Antigen: A(H3N2)",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "<0.001",
+              "pValueComment": "Number of participants in each vaccination group with a seroprotective HAI (in a subset of samples) titer (≥1:40) pre- and post-ccIIV4 immunization for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Antigen: B/Victoria",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "<0.001",
+              "pValueComment": "Number of participants in each vaccination group with a seroprotective HAI (in a subset of samples) titer (≥1:40) pre- and post-ccIIV4 immunization for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Antigen: B/Yamagata",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% exact Clopper-Pearson confidence boundaries and the p-values were calculated using a logistic regression model adjusted for site.",
+              "pValue": "<0.001",
+              "pValueComment": "Number of participants in each vaccination group with a seroprotective HAI (in a subset of samples) titer (≥1:40) pre- and post-ccIIV4 immunization for each 2023-24 influenza vaccine antigen.",
+              "statisticalMethod": "Regression, Logistic"
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "HAI Geometric Mean Titer",
+          "description": "The geometric mean HAI titer (GMT) for each ccIIV4 antigen in the 2023-2024 influenza season. GMTs were derived by using the anti-log of the mean of the log transformed titers.",
+          "populationDescription": "Influenza Immunogenicity Population: Subset of the mITT Population that includes only subjects who received both vaccines, provide visit 1 and visit 2 blood draws available with HAI titer results for analysis within the protocol-defined time frame, did not have an influenza or SARS-CoV-2 infection between visits 1 and 2, and had no protocol violations affecting immunogenicity.",
+          "reportingStatus": "POSTED",
+          "paramType": "GEOMETRIC_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Titer",
+          "timeFrame": "Visit 1 (day 1; baseline; pre-immunization) and Visit 2 (days 28-42; post-immunization) for all arms/groups",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group i",
+              "description": "Simultaneous Vaccination (Influenza vaccine and mRNA COVID booster) at Visit 1\n\nSimultaneous Vaccination (Influenza Vaccine and mRNA COVID booster): Influenza vaccination and mRNA COVID-19 booster will be given at Visit 1."
+            },
+            {
+              "id": "OG001",
+              "title": "Group ii",
+              "description": "Sequential vaccination with Influenza vaccination at Visit 1 and mRNA COVID booster at Visit 2\n\nSequential Vaccination (Influenza vaccine then mRNA COVID booster): Influenza vaccine will be given at Visit 1 and mRNA COVID booster will be given at Visit 2."
+            },
+            {
+              "id": "OG002",
+              "title": "Group Iii",
+              "description": "Sequential vaccination with mRNA COVID booster at Visit 1 and Influenza vaccination at Visit 2\n\nSequential Vaccination (mRNA COVID booster then Influenza vaccine): mRNA COVID booster will be given at Visit 1 and Influenza vaccine will be given at Visit 2."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "197"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "95"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "107"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Pre-vaccine: A(H1N1)pdm09",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "31.7",
+                      "lowerLimit": "25.8",
+                      "upperLimit": "38.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "33.6",
+                      "lowerLimit": "24.9",
+                      "upperLimit": "45.2"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "34.1",
+                      "lowerLimit": "26.6",
+                      "upperLimit": "43.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Post-vaccine: A(H1N1)pdm09",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "148.3",
+                      "lowerLimit": "122.6",
+                      "upperLimit": "179.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "146.6",
+                      "lowerLimit": "110.5",
+                      "upperLimit": "194.5"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "34.5",
+                      "lowerLimit": "27.0",
+                      "upperLimit": "44.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pre-vaccine: A(H3N2)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "20.9",
+                      "lowerLimit": "17.1",
+                      "upperLimit": "25.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "22.5",
+                      "lowerLimit": "16.8",
+                      "upperLimit": "30.0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "21.3",
+                      "lowerLimit": "16.3",
+                      "upperLimit": "28.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Post-vaccine: A(H3N2)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "58.5",
+                      "lowerLimit": "47.0",
+                      "upperLimit": "72.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "72.0",
+                      "lowerLimit": "54.6",
+                      "upperLimit": "94.8"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "21.7",
+                      "lowerLimit": "16.6",
+                      "upperLimit": "28.4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pre-vaccine: B/Victoria",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "24.9",
+                      "lowerLimit": "20.6",
+                      "upperLimit": "30.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "29.3",
+                      "lowerLimit": "22.9",
+                      "upperLimit": "37.7"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "22.0",
+                      "lowerLimit": "17.2",
+                      "upperLimit": "28.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Post-vaccine: B/Victoria",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103.8",
+                      "lowerLimit": "85.7",
+                      "upperLimit": "125.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "120.4",
+                      "lowerLimit": "94.3",
+                      "upperLimit": "153.7"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "24.4",
+                      "lowerLimit": "19.3",
+                      "upperLimit": "31.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pre-vaccine: B/Yamagata",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "119.3",
+                      "lowerLimit": "100.6",
+                      "upperLimit": "141.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "143.4",
+                      "lowerLimit": "114.7",
+                      "upperLimit": "179.3"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "107.4",
+                      "lowerLimit": "86.1",
+                      "upperLimit": "134.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Post-vaccine: B/Yamagata",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "223.9",
+                      "lowerLimit": "193.4",
+                      "upperLimit": "259.2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "245.2",
+                      "lowerLimit": "203.8",
+                      "upperLimit": "295.0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "110.6",
+                      "lowerLimit": "89.1",
+                      "upperLimit": "137.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Pre-vaccine: Antigen A(H1N1)pdm09",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.699",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Post-vaccine: Antigen A(H1N1)pdm09",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.880",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Pre-vaccine: Antigen A(H3N2)",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.720",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Post-vaccine: Antigen A(H3N2)",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.238",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Pre-vaccine: Antigen B/Victoria",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.280",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Post-vaccine: Antigen B/Victoria",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.094",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Pre-vaccine: Antigen B/Yamagata",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.216",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Post-vaccine: Antigen B/Yamagata",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "P values and confidence intervals for the geometric mean titer ratio were estimated using a generalized estimating equation logistic regression accounting for site clustering.",
+              "pValue": "0.436",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Pre-vaccine: Antigen A(H1N1)pdm09",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.615",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Post-vaccine: Antigen A(H1N1)pdm09",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "<0.001",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Pre-vaccine: Antigen A(H3N2)",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.870",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Post-vaccine: Antigen A(H3N2)",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "<0.001",
+              "statisticalMethod": "Regression, Linear",
+              "statisticalComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers."
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Pre-vaccine: Antigen B/Victoria",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.640",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Post-vaccine: Antigen B/Victoria",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "<0.001",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Pre-vaccine: Antigen B/Yamagata",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.444",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Post-vaccine: Antigen B/Yamagata",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "P values and confidence intervals for the geometric mean titer ratio were estimated using a generalized estimating equation logistic regression accounting for site clustering.",
+              "pValue": "<0.001",
+              "pValueComment": "GMTs and 95% confidence intervals were calculated using a t-distribution on log2-transformed titers.",
+              "statisticalMethod": "Regression, Linear"
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "HAI Geometric Mean Fold Rise (GMFR)",
+          "description": "GMFRs and 95% confidence intervals were calculated using a t-distribution on log 2-transformed titers.",
+          "populationDescription": "Influenza Immunogenicity Population: Subset of the mITT Population that includes only subjects who received both vaccines, provide visit 1 and visit 2 blood draws available with HAI titer results for analysis within the protocol-defined time frame, did not have an influenza or SARS-CoV-2 infection between visits 1 and 2, and had no protocol violations affecting immunogenicity.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Fold Change",
+          "timeFrame": "Visit 1 (day 1; baseline) to Visit 2 (days 28-42; post-vaccination) for all arms/groups",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Group i",
+              "description": "Simultaneous Vaccination (Influenza vaccine and mRNA COVID booster) at Visit 1\n\nSimultaneous Vaccination (Influenza Vaccine and mRNA COVID booster): Influenza vaccination and mRNA COVID-19 booster will be given at Visit 1."
+            },
+            {
+              "id": "OG001",
+              "title": "Group ii",
+              "description": "Sequential vaccination with Influenza vaccination at Visit 1 and mRNA COVID booster at Visit 2\n\nSequential Vaccination (Influenza vaccine then mRNA COVID booster): Influenza vaccine will be given at Visit 1 and mRNA COVID booster will be given at Visit 2."
+            },
+            {
+              "id": "OG002",
+              "title": "Group Iii",
+              "description": "Sequential vaccination with mRNA COVID booster at Visit 1 and Influenza vaccination at Visit 2\n\nSequential Vaccination (mRNA COVID booster then Influenza vaccine): mRNA COVID booster will be given at Visit 1 and Influenza vaccine will be given at Visit 2."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "197"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "95"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "107"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "A(H1N1)pdm09",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.7",
+                      "lowerLimit": "3.8",
+                      "upperLimit": "5.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.4",
+                      "lowerLimit": "3.3",
+                      "upperLimit": "5.7"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "1.0",
+                      "lowerLimit": "0.9",
+                      "upperLimit": "1.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "A(H3N2)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.8",
+                      "lowerLimit": "2.3",
+                      "upperLimit": "3.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.2",
+                      "lowerLimit": "2.5",
+                      "upperLimit": "4.2"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "1.0",
+                      "lowerLimit": "0.9",
+                      "upperLimit": "1.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "B/Victoria",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.2",
+                      "lowerLimit": "3.5",
+                      "upperLimit": "5.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.1",
+                      "lowerLimit": "3.2",
+                      "upperLimit": "5.3"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "1.1",
+                      "lowerLimit": "1.0",
+                      "upperLimit": "1.2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "B/Yamagata",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.9",
+                      "lowerLimit": "1.7",
+                      "upperLimit": "2.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.7",
+                      "lowerLimit": "1.5",
+                      "upperLimit": "2.0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "1.0",
+                      "lowerLimit": "0.9",
+                      "upperLimit": "1.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Antigen: A(H1N1)pdm09",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.793",
+              "pValueComment": "Mean fold-rise and 95% confidence intervals were calculated by taking the geometric mean of each individual's ratio of post-to-pre-vaccination titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Antigen: A(H3N2)",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.326",
+              "pValueComment": "Mean fold-rise and 95% confidence intervals were calculated by taking the geometric mean of each individual's ratio of post-to-pre-vaccination titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Antigen: B/Victoria",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.933",
+              "pValueComment": "Mean fold-rise and 95% confidence intervals were calculated by taking the geometric mean of each individual's ratio of post-to-pre-vaccination titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Antigen: B/Yamagata",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "0.424",
+              "pValueComment": "Mean fold-rise and 95% confidence intervals were calculated by taking the geometric mean of each individual's ratio of post-to-pre-vaccination titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Antigen: A(H1N1)pdm09",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "<0.001",
+              "pValueComment": "Mean fold-rise and 95% confidence intervals were calculated by taking the geometric mean of each individual's ratio of post-to-pre-vaccination titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Antigen: A(H3N2)",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "<0.001",
+              "pValueComment": "Mean fold-rise and 95% confidence intervals were calculated by taking the geometric mean of each individual's ratio of post-to-pre-vaccination titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Antigen: B/Victoria",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "<0.001",
+              "pValueComment": "Mean fold-rise and 95% confidence intervals were calculated by taking the geometric mean of each individual's ratio of post-to-pre-vaccination titers.",
+              "statisticalMethod": "Regression, Linear"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "groupDescription": "Antigen: B/Yamagata",
+              "nonInferiorityType": "SUPERIORITY",
+              "nonInferiorityComment": "95% confidence intervals were calculated using a t-distribution on log2-transformed titers and p-values were calculated using a linear regression model adjusted for site.",
+              "pValue": "<0.001",
+              "pValueComment": "Mean fold-rise and 95% confidence intervals were calculated by taking the geometric mean of each individual's ratio of post-to-pre-vaccination titers.",
+              "statisticalMethod": "Regression, Linear"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Up to approximately 8 months",
+      "description": "Serious adverse events (SAEs) were collected on each participant through study completion (up to approximately 8 months for the first participant). Non-serious adverse events were not collected.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Group i: Concomitant",
+          "description": "Simultaneous Vaccination (Influenza vaccine and mRNA COVID booster) at Visit 1\n\nSimultaneous Vaccination (Influenza Vaccine and mRNA COVID booster): Influenza vaccination and mRNA COVID-19 booster will be given at Visit 1.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 223,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 223,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 0
+        },
+        {
+          "id": "EG001",
+          "title": "Group ii: Influenza Visit 1",
+          "description": "Sequential vaccination with Influenza vaccination at Visit 1 and mRNA COVID booster at Visit 2\n\nSequential Vaccination (Influenza vaccine then mRNA COVID booster): Influenza vaccine will be given at Visit 1 and mRNA COVID booster will be given at Visit 2.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 111,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 111,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 0
+        },
+        {
+          "id": "EG002",
+          "title": "Group Iii: mRNA COVID-19 Visit 1",
+          "description": "Sequential vaccination with mRNA COVID booster at Visit 1 and Influenza vaccination at Visit 2\n\nSequential Vaccination (mRNA COVID booster then Influenza vaccine): mRNA COVID booster will be given at Visit 1 and Influenza vaccine will be given at Visit 2.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 113,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 113,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 0
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dr. Emmanuel Walter",
+        "organization": "Duke University",
+        "email": "chip.walter@duke.edu",
+        "phone": "919 620 5346"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-10-02",
+          "uploadDate": "2025-02-14T11:20",
+          "filename": "Prot_001.pdf",
+          "size": 602061
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2025-01-23",
+          "uploadDate": "2025-02-14T11:21",
+          "filename": "SAP_002.pdf",
+          "size": 311532
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2023-10-05",
+          "uploadDate": "2023-12-21T12:37",
+          "filename": "ICF_000.pdf",
+          "size": 354689
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-03-25",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D007251",
+          "term": "Influenza, Human"
+        },
+        {
+          "id": "D000086382",
+          "term": "COVID-19"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012141",
+          "term": "Respiratory Tract Infections"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D009976",
+          "term": "Orthomyxoviridae Infections"
+        },
+        {
+          "id": "D012327",
+          "term": "RNA Virus Infections"
+        },
+        {
+          "id": "D014777",
+          "term": "Virus Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D011024",
+          "term": "Pneumonia, Viral"
+        },
+        {
+          "id": "D011014",
+          "term": "Pneumonia"
+        },
+        {
+          "id": "D018352",
+          "term": "Coronavirus Infections"
+        },
+        {
+          "id": "D003333",
+          "term": "Coronaviridae Infections"
+        },
+        {
+          "id": "D030341",
+          "term": "Nidovirales Infections"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D007252",
+          "term": "Influenza Vaccines"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014765",
+          "term": "Viral Vaccines"
+        },
+        {
+          "id": "D014612",
+          "term": "Vaccines"
+        },
+        {
+          "id": "D001688",
+          "term": "Biological Products"
+        },
+        {
+          "id": "D045424",
+          "term": "Complex Mixtures"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

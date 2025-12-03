@@ -1,0 +1,962 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05458479",
+      "orgStudyIdInfo": {
+        "id": "2022P000858"
+      },
+      "organization": {
+        "fullName": "Massachusetts General Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Fluoxetine Treatment of Depression in Down Syndrome",
+      "officialTitle": "Fluoxetine Treatment of Depression in Adults With Down Syndrome"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-12-05",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-02-26",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-02-26",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-07-11",
+      "studyFirstSubmitQcDate": "2022-07-13",
+      "studyFirstPostDateStruct": {
+        "date": "2022-07-14",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-02-24",
+      "resultsFirstSubmitQcDate": "2025-03-18",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-03-30",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-03-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-03-30",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Robyn P. Thom, M.D.",
+        "investigatorTitle": "Instructor of Psychiatry",
+        "investigatorAffiliation": "Massachusetts General Hospital"
+      },
+      "leadSponsor": {
+        "name": "Massachusetts General Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of the study is to do a preliminary assessment of whether fluoxetine is effective, safe, and tolerable for the treatment of depression in adults with Down syndrome.",
+      "detailedDescription": "After being informed about the study and potential risks, all patients or their legal guardians giving written informed consent will be screened for study eligibility. Patients who meet the eligibility requirements will participate in a 16-week, flexibly-dosed, open-label trial of fluoxetine. The dose of fluoxetine will be adjusted over the first 12 weeks of the study and a stable dose will be maintained for the final four weeks of the trial. Adverse effects will be reviewed at each visit and standardized measures of depression will be conducted at weeks 4, 8, 12, and 16."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Down Syndrome",
+        "Depression"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 4,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Fluoxetine",
+          "type": "EXPERIMENTAL",
+          "description": "Subjects will receive fluoxetine 5 mg each morning at the start of the trial. The dose will be increased by 5 mg every 2 weeks depending on effectiveness and tolerability. The optimal dose will be reached by week 12 of treatment. The minimum starting dose will be 5 mg and the maximum total daily dose will be 30 mg.",
+          "interventionNames": [
+            "Drug: Fluoxetine"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Fluoxetine",
+          "description": "All participants in the study will receive open-label treatment with orally administered fluoxetine for the full duration of the 16-week trial. Fluoxetine is a selective serotonin reuptake inhibitor. It is approved for the management of major depressive disorder in adults.",
+          "armGroupLabels": [
+            "Fluoxetine"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Proportion of Participants Who Responded to Treatment at 16 Weeks According to Improvement Item of the Clinical Global Impression-Scale (Response Defined as CGI-I=1 or CGI-I=2)",
+          "description": "The Clinical Global Impressions Global Improvement (CGI-I) is designed to take into account all factors to arrive at an assessment of response to treatment. The CGI-I scale ranges from 1 to 7 (1=very much improved; 2=much improved; 3=minimally improved; 4=no change; 5=minimally worse; 6=much worse; 7= very much worse), with lower scores indicating improvement (1=very much improved; 2=much improved). In this study, the CGI-I will be focused on the treatment target of depression symptom severity. Participants with a CGI-I score of 1 or 2 will be classified as responders.",
+          "timeFrame": "Week 16"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Mean 16-Week Change in Montgomery-Asberg Depression Rating Scale (MADRS) Total Score",
+          "description": "The MADRS is one of the most frequently used outcome measures in antidepressant efficacy trials and was developed to assess change in depressive symptoms after treatment with antidepressants. It is clinician-rated and consists of 10 items, each rated on a 0-6 scale and summed to determine the total score (minimum score: 0, maximum score: 60). A total score of 7-19 is indicative of mild depression, 20-34 of moderate depression, and 35-60 of severe depression. The MADRS will be conducted at screening, baseline, and each follow-up visit.",
+          "timeFrame": "Baseline, Week 16"
+        },
+        {
+          "measure": "Mean 16-Week Change in Hamilton Depression Rating Scale (HAM-D) Total Score",
+          "description": "The HAM-D is a clinician-rated scale with scores based on clinical interview and family report. It addresses both somatic and psychological symptoms of depression. Items are rated on either a 5-point scale (0 to 4) or 3-point scale (0 to 2), where higher scores represent increasing severity of depression. The scores of the 17 items are summed to obtain a total score (minimum score: 0, maximum score: 52).",
+          "timeFrame": "Baseline, Week 16"
+        },
+        {
+          "measure": "Mean 16-Week Change in Glasgow Depression Scale for People With a Learning Disability (GDS-LD) Total Score",
+          "description": "The GDS-LD was developed to describe and quantify depressive symptoms in adults with mild-to-moderate learning disabilities. The GDS-LD consists of 19 items scored from 0 to 2. The 19 item scores are summed to obtain the GDS-LD total score (minimum score: 0, maximum score: 38). Higher scores are indicative of more severe depression.",
+          "timeFrame": "Baseline, Week 16"
+        },
+        {
+          "measure": "Mean 16-Week Change in Glasgow Depression Scale for People With a Learning Disability Carer Supplement (GDS-CS) Total Score",
+          "description": "The GDS-CS was developed to describe and quantify depressive symptoms in adults with mild-to-moderate learning disabilities. The GDS-CS consists of 16 items scored from 0 to 2. The 16 item scores are summed to obtain the GDS-CS total score (minimum score: 0, maximum score: 32). Higher scores are indicative of more severe depression.",
+          "timeFrame": "Baseline, Week 16"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age 18-45 years.\n2. Diagnosis of DS confirmed via genetic testing or a clinical diagnosis made by a clinician with significant experience treating patients with DS.\n3. Diagnosis of major depressive disorder based on Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria, confirmed through the Structured Clinical Interview for DSM-5 (SCID-5).\n4. Moderately severe depression as evidenced by a Montgomery-Asberg Depression Rating Scale (MADRS) score of 20 or greater at Screen and Baseline. A severity score on the MADRS was chosen as an inclusion criterion since it has been demonstrated to be sensitive to change in adults with MDD.\n5. A Clinical Global Impression Severity Item score \\> 4 (moderate) for depression symptoms at Screen and Baseline.\n\nExclusion Criteria:\n\n1. Active primary diagnosis of obsessive-compulsive disorder, posttraumatic stress disorder, bipolar disorder, psychosis, or substance use disorder. These disorders are exclusionary since the primary treatment of these disorders may require acute psychosocial or medication treatments that would confound the assessments used in this study. We will evaluate for these disorders using the corresponding SCID-5 modules.\n2. Current or previous diagnosis of dementia, or use of medication to treat dementia. Given the potential overlap between depression and dementia symptoms, we want to ensure we are administering fluoxetine to patients with a diagnosis of depression.\n3. Presence of any past or present conditions that would make treatment with fluoxetine unsafe. This includes allergy to fluoxetine, liver or kidney disease, unstable heart disease, and/or pregnancy (or being sexually active without using acceptable methods to prevent pregnancy).\n4. Use of selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), monoamine oxidase inhibitors (MAOIs), bupropion, mirtazapine, antipsychotics, lithium, valproic acid, or carbamazepine. Subjects will need to be off these classes of medications for at least 5 elimination half-lives prior to beginning the trial.\n5. Use of other psychotropic medications which are ineffective, poorly tolerated, or sub-optimal in terms of dose. A board-certified psychiatrist will assess any other psychotropic medications being used and determine whether they are effective, tolerated, and optimal in terms of dose. If medications are ineffective, poorly tolerated, or sub-optimal in terms of dose, the study psychiatrist will work with the subject and his/her treatment team to either taper or optimize the dose of psychotropic medications prior to study enrollment. Concurrent use of a psychotropic medication (other than SSRIs, SNRIs, TCAs, MAOIs, bupropion, mirtazapine, antipsychotics, lithium, valproic acid, or carbamazepine) will be allowed if the dose has been stable for 30 days and if they meet the criteria of effectiveness, tolerability, and dose.\n6. Previous adequate trial of fluoxetine. An adequate trial will be defined as a total daily dose of ≥30 mg for at least 4 weeks. In addition, subjects who developed significant adverse effects during a trial of fluoxetine at any dose or duration will be excluded.\n7. Severe or profound intellectual disability based on clinical assessment and review of standardized assessment of cognitive skills. Participants determined to have severe or profound intellectual disability will be excluded.\n8. Use of medications that pose a clinically significant risk of a drug-drug interaction with fluoxetine.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "45 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Robyn P. Thom, MD",
+          "affiliation": "Lurie Center for Autism",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Lurie Center for Autism",
+          "city": "Lexington",
+          "state": "Massachusetts",
+          "zip": "02421",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.44732,
+            "lon": -71.2245
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Fluoxetine",
+          "description": "Subjects will receive fluoxetine 5 mg each morning at the start of the trial. The dose will be increased by 5 mg every 2 weeks depending on effectiveness and tolerability. The optimal dose will be reached by week 12 of treatment. The minimum starting dose will be 5 mg and the maximum total daily dose will be 30 mg.\n\nFluoxetine: All participants in the study will receive open-label treatment with orally administered fluoxetine for the full duration of the 16-week trial. Fluoxetine is a selective serotonin reuptake inhibitor. It is approved for the management of major depressive disorder in adults."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                }
+              ]
+            },
+            {
+              "type": "Still Enrolled at Week 4",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Fluoxetine",
+          "description": "Subjects will receive fluoxetine 5 mg each morning at the start of the trial. The dose will be increased by 5 mg every 2 weeks depending on effectiveness and tolerability. The optimal dose will be reached by week 12 of treatment. The minimum starting dose will be 5 mg and the maximum total daily dose will be 30 mg.\n\nFluoxetine: All participants in the study will receive open-label treatment with orally administered fluoxetine for the full duration of the 16-week trial. Fluoxetine is a selective serotonin reuptake inhibitor. It is approved for the management of major depressive disorder in adults."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "4"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "FULL_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "25.9",
+                      "lowerLimit": "18",
+                      "upperLimit": "32"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Proportion of Participants Who Responded to Treatment at 16 Weeks According to Improvement Item of the Clinical Global Impression-Scale (Response Defined as CGI-I=1 or CGI-I=2)",
+          "description": "The Clinical Global Impressions Global Improvement (CGI-I) is designed to take into account all factors to arrive at an assessment of response to treatment. The CGI-I scale ranges from 1 to 7 (1=very much improved; 2=much improved; 3=minimally improved; 4=no change; 5=minimally worse; 6=much worse; 7= very much worse), with lower scores indicating improvement (1=very much improved; 2=much improved). In this study, the CGI-I will be focused on the treatment target of depression symptom severity. Participants with a CGI-I score of 1 or 2 will be classified as responders.",
+          "populationDescription": "All four enrolled participants were included. The participant lost to follow-up prior to completing week 16 assessments was considered not to have responded to fluoxetine treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Proportion of participants",
+          "timeFrame": "Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fluoxetine",
+              "description": "Subjects will receive fluoxetine 5 mg each morning at the start of the trial. The dose will be increased by 5 mg every 2 weeks depending on effectiveness and tolerability. The optimal dose will be reached by week 12 of treatment. The minimum starting dose will be 5 mg and the maximum total daily dose will be 30 mg.\n\nFluoxetine: All participants in the study will receive open-label treatment with orally administered fluoxetine for the full duration of the 16-week trial. Fluoxetine is a selective serotonin reuptake inhibitor. It is approved for the management of major depressive disorder in adults."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.75",
+                      "lowerLimit": "0.30",
+                      "upperLimit": "0.95"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean 16-Week Change in Montgomery-Asberg Depression Rating Scale (MADRS) Total Score",
+          "description": "The MADRS is one of the most frequently used outcome measures in antidepressant efficacy trials and was developed to assess change in depressive symptoms after treatment with antidepressants. It is clinician-rated and consists of 10 items, each rated on a 0-6 scale and summed to determine the total score (minimum score: 0, maximum score: 60). A total score of 7-19 is indicative of mild depression, 20-34 of moderate depression, and 35-60 of severe depression. The MADRS will be conducted at screening, baseline, and each follow-up visit.",
+          "populationDescription": "Three participants contributed both baseline and week 16 total MADRS scores to the analysis. The fourth enrolled participant was missing MADRS total score at baseline and was lost to follow-up prior to the 16 week assessment.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Baseline, Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fluoxetine",
+              "description": "Subjects will receive fluoxetine 5 mg each morning at the start of the trial. The dose will be increased by 5 mg every 2 weeks depending on effectiveness and tolerability. The optimal dose will be reached by week 12 of treatment. The minimum starting dose will be 5 mg and the maximum total daily dose will be 30 mg.\n\nFluoxetine: All participants in the study will receive open-label treatment with orally administered fluoxetine for the full duration of the 16-week trial. Fluoxetine is a selective serotonin reuptake inhibitor. It is approved for the management of major depressive disorder in adults."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-23.7",
+                      "spread": "2.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean 16-Week Change in Hamilton Depression Rating Scale (HAM-D) Total Score",
+          "description": "The HAM-D is a clinician-rated scale with scores based on clinical interview and family report. It addresses both somatic and psychological symptoms of depression. Items are rated on either a 5-point scale (0 to 4) or 3-point scale (0 to 2), where higher scores represent increasing severity of depression. The scores of the 17 items are summed to obtain a total score (minimum score: 0, maximum score: 52).",
+          "populationDescription": "Three participants contributed both baseline and week 16 total HAM-D scores to the analysis. The fourth enrolled participant contributed a baseline total score but was lost to follow-up prior to week 16 assessments. Mean change was estimated using repeated measures linear regression accommodating all observed baseline and week 16 total scores.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Baseline, Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fluoxetine",
+              "description": "Subjects will receive fluoxetine 5 mg each morning at the start of the trial. The dose will be increased by 5 mg every 2 weeks depending on effectiveness and tolerability. The optimal dose will be reached by week 12 of treatment. The minimum starting dose will be 5 mg and the maximum total daily dose will be 30 mg.\n\nFluoxetine: All participants in the study will receive open-label treatment with orally administered fluoxetine for the full duration of the 16-week trial. Fluoxetine is a selective serotonin reuptake inhibitor. It is approved for the management of major depressive disorder in adults."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-11.3",
+                      "spread": "1.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean 16-Week Change in Glasgow Depression Scale for People With a Learning Disability (GDS-LD) Total Score",
+          "description": "The GDS-LD was developed to describe and quantify depressive symptoms in adults with mild-to-moderate learning disabilities. The GDS-LD consists of 19 items scored from 0 to 2. The 19 item scores are summed to obtain the GDS-LD total score (minimum score: 0, maximum score: 38). Higher scores are indicative of more severe depression.",
+          "populationDescription": "Two participants contributed both baseline and Week 16 total GDS-LD scores to the analysis. Of the two participants who did not contribute scores, one was unable to provide ratings at baseline and week 16 due to cognitive ability, and one was unwilling to answer most questions at baseline and was lost to follow-up prior to Week 16 assessments.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Baseline, Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fluoxetine",
+              "description": "Subjects will receive fluoxetine 5 mg each morning at the start of the trial. The dose will be increased by 5 mg every 2 weeks depending on effectiveness and tolerability. The optimal dose will be reached by week 12 of treatment. The minimum starting dose will be 5 mg and the maximum total daily dose will be 30 mg.\n\nFluoxetine: All participants in the study will receive open-label treatment with orally administered fluoxetine for the full duration of the 16-week trial. Fluoxetine is a selective serotonin reuptake inhibitor. It is approved for the management of major depressive disorder in adults."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-8.5",
+                      "spread": "0.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean 16-Week Change in Glasgow Depression Scale for People With a Learning Disability Carer Supplement (GDS-CS) Total Score",
+          "description": "The GDS-CS was developed to describe and quantify depressive symptoms in adults with mild-to-moderate learning disabilities. The GDS-CS consists of 16 items scored from 0 to 2. The 16 item scores are summed to obtain the GDS-CS total score (minimum score: 0, maximum score: 32). Higher scores are indicative of more severe depression.",
+          "populationDescription": "Three participants contributed both baseline and week 16 total GDS-CS scores to the analysis. The fourth enrolled participant was excluded from GDS-CS analysis due to incomplete ratings at baseline and loss to follow-up prior to the 16 week assessment.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Baseline, Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fluoxetine",
+              "description": "Subjects will receive fluoxetine 5 mg each morning at the start of the trial. The dose will be increased by 5 mg every 2 weeks depending on effectiveness and tolerability. The optimal dose will be reached by week 12 of treatment. The minimum starting dose will be 5 mg and the maximum total daily dose will be 30 mg.\n\nFluoxetine: All participants in the study will receive open-label treatment with orally administered fluoxetine for the full duration of the 16-week trial. Fluoxetine is a selective serotonin reuptake inhibitor. It is approved for the management of major depressive disorder in adults."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "3"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-9.3",
+                      "spread": "0.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "The earlier of loss to follow-up or 16 weeks",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Fluoxetine",
+          "description": "Subjects will receive fluoxetine 5 mg each morning at the start of the trial. The dose will be increased by 5 mg every 2 weeks depending on effectiveness and tolerability. The optimal dose will be reached by week 12 of treatment. The minimum starting dose will be 5 mg and the maximum total daily dose will be 30 mg.\n\nFluoxetine: All participants in the study will receive open-label treatment with orally administered fluoxetine for the full duration of the 16-week trial. Fluoxetine is a selective serotonin reuptake inhibitor. It is approved for the management of major depressive disorder in adults.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 4,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 4,
+          "otherNumAffected": 3,
+          "otherNumAtRisk": 4
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        },
+        {
+          "term": "Ear infection",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        },
+        {
+          "term": "Dry mouth",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        },
+        {
+          "term": "Nasal congestion or cold",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        },
+        {
+          "term": "Sinus condition",
+          "organSystem": "Infections and infestations",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        },
+        {
+          "term": "Cough",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        },
+        {
+          "term": "Diarrhea",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        },
+        {
+          "term": "Stomach or abdominal discomfort",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        },
+        {
+          "term": "Localized rash",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        },
+        {
+          "term": "Interrupted sleep",
+          "organSystem": "Psychiatric disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        },
+        {
+          "term": "Foot injury",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 4
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dr. Robyn Thom",
+        "organization": "Massachusetts General Hospital Lurie Center for Autism",
+        "email": "rthom@mgh.harvard.edu",
+        "phone": "7818601700"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-01-31",
+          "uploadDate": "2025-02-24T11:27",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 644238
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-03-25",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D004314",
+          "term": "Down Syndrome"
+        },
+        {
+          "id": "D003863",
+          "term": "Depression"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D008607",
+          "term": "Intellectual Disability"
+        },
+        {
+          "id": "D019954",
+          "term": "Neurobehavioral Manifestations"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D000015",
+          "term": "Abnormalities, Multiple"
+        },
+        {
+          "id": "D000013",
+          "term": "Congenital Abnormalities"
+        },
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        },
+        {
+          "id": "D025063",
+          "term": "Chromosome Disorders"
+        },
+        {
+          "id": "D030342",
+          "term": "Genetic Diseases, Inborn"
+        },
+        {
+          "id": "D001526",
+          "term": "Behavioral Symptoms"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D005473",
+          "term": "Fluoxetine"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011437",
+          "term": "Propylamines"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

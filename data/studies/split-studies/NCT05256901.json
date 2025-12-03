@@ -1,0 +1,1164 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05256901",
+      "orgStudyIdInfo": {
+        "id": "STUDY00003913"
+      },
+      "organization": {
+        "fullName": "Emory University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Sugammadex vs Neostigmine Reversal in Pediatric Appendectomy",
+      "officialTitle": "Effectiveness of Sugammadex Versus Neostigmine on Neuromuscular Reversal in Pediatric Patients Undergoing Laparoscopic Appendectomy for Acute Appendicitis: A Randomized Controlled Trial"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Study was terminated due to lack of funding.",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-07-19",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-07-05",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-08-05",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-02-16",
+      "studyFirstSubmitQcDate": "2022-02-16",
+      "studyFirstPostDateStruct": {
+        "date": "2022-02-25",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-08-12",
+      "resultsFirstSubmitQcDate": "2025-09-11",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-09-30",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-09-11",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-30",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Laura Gilbertson",
+        "investigatorTitle": "Assistant Professor",
+        "investigatorAffiliation": "Emory University"
+      },
+      "leadSponsor": {
+        "name": "Emory University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study is designed as a randomized controlled trial with patients assigned to neuromuscular reversal with either sugammadex or neostigmine/glycopyrrolate reversal. The study will not be blinded to the anesthesiologist to allow for appropriate decision-making on timing and dosage of reversal. This is a single-center study.",
+      "detailedDescription": "Patients presenting to the operating room for laparoscopic appendectomy with a diagnosis of acute appendicitis require rapid sequence induction (RSI) due to significant vomiting and concern for increased gastric content. For this reason, succinylcholine-accompanied by neostigmine-is predominantly used in adults for RSI to prevent potential aspiration. Unfortunately, in pediatric patients, there are many concerns about the use of succinylcholine, including complications such as bradycardia, hyperkalemia, dysrhythmias, and cardiac arrest from undiagnosed skeletal muscle myopathy. For many anesthesiologists, these concerns prompted the decision to use a non-depolarizing muscle relaxant such as rocuronium for induction. However, if the standard RSI dose is used, it often results in residual paralysis at the end of short procedures such as laparoscopic appendectomies. It has recently been demonstrated that prolonged paralysis is prevalent even at low doses of rocuronium in pediatric patients. For these reasons, it is imperative to find a way to provide adequate and safe\n\nRSI conditions for intubation, appropriate muscle relaxation for laparoscopic procedures, and the ability to quickly reverse neuromuscular blockade in this pediatric population. Sugammadex has the potential to allow for the utilization of an appropriate RSI dose of rocuronium for intubation, as it provides the ability to reverse neuromuscular blockade earlier than the neostigmine reversal, which is currently the standard of care. Retrospective reviews have shown the use of Sugammadex in pediatric patients to be safe and effective. However, there has not been prospective data about the effect on operating room efficiency of brief pediatric procedures such as laparoscopic appendectomies, one of the most common urgent pediatric surgeries performed. There are numerous other potential benefits of using sugammadex over typical reversal, including the quicker return of bowel function, faster time to tolerance of an oral diet, and decreased exposure to volatile anesthesia. The return of bowel function is particularly important in pediatric patients undergoing laparoscopic procedures. The research team hypothesizes that the utilization of sugammadex in pediatrics results in a quicker return to bowel function. This has previously been demonstrated in adults, but data are lacking in the pediatric population. Researchers also hypothesize that patients receiving sugammadex versus neostigmine reversal will have an improved time to tolerance of an oral diet, which may impact wound healing and nutrition. As anesthesiologists often underdose rocuronium in these short procedures, due to a lack of quick reversal options, high levels of volatile anesthesia are utilized to compensate for inadequate muscle relaxation. With the use of sugammadex allowing for proper muscle relaxation throughout the entire case, researchers hypothesize that patients will have a lower total volatile anesthetic exposure during the procedure. This is exceedingly important in pediatric anesthesia, where the detrimental effects of volatile anesthetics on the developing brain have been demonstrated in numerous animal studies."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Appendicitis",
+        "Surgery"
+      ],
+      "keywords": [
+        "laparoscopic"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "OTHER",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "PARTICIPANT"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 22,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Sugammadex",
+          "type": "EXPERIMENTAL",
+          "description": "The reversal agent, Sugammadex, will be administered at the start of closure.",
+          "interventionNames": [
+            "Drug: Sugammadex"
+          ]
+        },
+        {
+          "label": "Neostigmine/Glycopyrrolate",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "The reversal agent, Neostigmine, will be administered at the start of closure.",
+          "interventionNames": [
+            "Drug: Neostigmine/Glycopyrrolate"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Sugammadex",
+          "description": "Participants will receive 4mg/kg for a TOF 0-1 and 2mg/kg for a train of four (TOF) 2 or more.",
+          "armGroupLabels": [
+            "Sugammadex"
+          ],
+          "otherNames": [
+            "Intervention Group"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Neostigmine/Glycopyrrolate",
+          "description": "Participants will receive 0.07mg/kg of Neostigmine and 0.01mg/kg of Glycopyrrolate, administered by anesthesia once at least two twitches are present.",
+          "armGroupLabels": [
+            "Neostigmine/Glycopyrrolate"
+          ],
+          "otherNames": [
+            "Regular Care"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Total Time From Surgery End to Out of the Operating Room (OR)",
+          "description": "The time from the end of surgery to discharge from the OR will be evaluated via the Epic computer chart after discharge from the hospital.",
+          "timeFrame": "Up to 2 hours"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Total Time to First Bowel Movement",
+          "description": "Time to first bowel movement will be evaluated via the Epic computer record after discharge from the hospital",
+          "timeFrame": "Up to 48 hours"
+        },
+        {
+          "measure": "Total Time to Tolerance of an Oral Diet",
+          "description": "The research team will evaluate via the Epic computer record after discharge from the hospital",
+          "timeFrame": "Up to 24 hours"
+        },
+        {
+          "measure": "Total Time of Inhalational Anesthesia Exposure",
+          "description": "evaluated via the Epic computer record after discharge from the hospital",
+          "timeFrame": "Up to 5 hours (depending on length of surgical procedure)"
+        },
+        {
+          "measure": "Length of Stay in the Post-anesthesia Care Unit (PACU)",
+          "description": "PACU length of stay was evaluated via the Epic computer record after discharge from the hospital",
+          "timeFrame": "Up to 5 hours (on average depending on post anesthesia recovery)"
+        },
+        {
+          "measure": "Hospital Length of Stay (LoS)",
+          "description": "Hospital LoS will be evaluated via the Epic computer record after discharge from the hospital",
+          "timeFrame": "Up to 5 days (depending on length of hospitalization)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients 2-17 years of age\n* Diagnosis of acute appendicitis\n* Patient undergoing laparoscopic appendectomy at Children's Healthcare of Atlanta- Egleston.\n* Parent or Legal Authorized Representative willing to participate, able to understand and sign an informed consent\n\nExclusion Criteria:\n\n* Patient with an allergy to Sugammadex or Neostigmine\n* History of renal dysfunction\n* Parent or legal guardian unwilling or unable or unable to understand the informed consent",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "2 Years",
+      "maximumAge": "17 Years",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Laura Gilbertson, MD",
+          "affiliation": "Emory University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Children's Healthcare of Atlanta",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30329",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "The research team will share Individual participant data that underlie the results (text, tables, figures, and appendices) reported in the article, after the deidentification",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP"
+      ],
+      "timeFrame": "The research team will share the data immediately following publication and ending 3 years following article publication.",
+      "accessCriteria": "Proposals should be directed to laura.gilbertson@emory.edu. To gain access, data requestors will need to sign a data access agreement."
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Sugammadex",
+          "description": "The reversal agent, Sugammadex, will be administered at the start of closure.\n\nSugammadex: Participants will receive 4mg/kg for a TOF 0-1 and 2mg/kg for a train of four (TOF) 2 or greater."
+        },
+        {
+          "id": "FG001",
+          "title": "Neostigmine/Glycopyrrolate",
+          "description": "The reversal agent, Neostigmine, will be administered at the start of closure.\n\nNeostigmine/Glycopyrrolate: Participants will receive 0.07mg/kg of Neostigmine and 0.01mg/kg of Glycopyrrolate, administered by anesthesia once at least two twitches are present."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "11"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "11"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Sugammadex",
+          "description": "The reversal agent, Sugammadex, will be administered at the start of closure.\n\nSugammadex: Participants will receive 4mg/kg for a TOF 0-1 and 2mg/kg for a train of four (TOF) 2 or greater."
+        },
+        {
+          "id": "BG001",
+          "title": "Neostigmine/Glycopyrrolate",
+          "description": "The reversal agent, Neostigmine, will be administered at the start of closure.\n\nNeostigmine/Glycopyrrolate: Participants will receive 0.07mg/kg of Neostigmine and 0.01mg/kg of Glycopyrrolate, administered by anesthesia once at least two twitches are present."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "11"
+            },
+            {
+              "groupId": "BG001",
+              "value": "11"
+            },
+            {
+              "groupId": "BG002",
+              "value": "22"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "22"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12.55",
+                      "spread": "3.50"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10.18",
+                      "spread": "3.52"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11.37",
+                      "spread": "3.63"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "22"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Total Time From Surgery End to Out of the Operating Room (OR)",
+          "description": "The time from the end of surgery to discharge from the OR will be evaluated via the Epic computer chart after discharge from the hospital.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "minutes",
+          "timeFrame": "Up to 2 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Sugammadex",
+              "description": "The reversal agent, Sugammadex, will be administered at the start of closure.\n\nSugammadex: Participants will receive 4mg/kg for a TOF 0-1 and 2mg/kg for a train of four (TOF) 2 or greater."
+            },
+            {
+              "id": "OG001",
+              "title": "Neostigmine/Glycopyrrolate",
+              "description": "The reversal agent, Neostigmine, will be administered at the start of closure.\n\nNeostigmine/Glycopyrrolate: Participants will receive 0.07mg/kg of Neostigmine and 0.01mg/kg of Glycopyrrolate, administered by anesthesia once at least two twitches are present."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.55",
+                      "spread": "3.03"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10.82",
+                      "spread": "4.87"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Total Time to First Bowel Movement",
+          "description": "Time to first bowel movement will be evaluated via the Epic computer record after discharge from the hospital",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "hours",
+          "timeFrame": "Up to 48 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Sugammadex",
+              "description": "The reversal agent, Sugammadex, will be administered at the start of closure.\n\nSugammadex: Participants will receive 4mg/kg for a TOF 0-1 and 2mg/kg for a train of four (TOF) 2 or greater."
+            },
+            {
+              "id": "OG001",
+              "title": "Neostigmine/Glycopyrrolate",
+              "description": "The reversal agent, Neostigmine, will be administered at the start of closure.\n\nNeostigmine/Glycopyrrolate: Participants will receive 0.07mg/kg of Neostigmine and 0.01mg/kg of Glycopyrrolate, administered by anesthesia once at least two twitches are present."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18.4",
+                      "spread": "6.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "23.78",
+                      "spread": "16.74"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Total Time to Tolerance of an Oral Diet",
+          "description": "The research team will evaluate via the Epic computer record after discharge from the hospital",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "hours",
+          "timeFrame": "Up to 24 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Sugammadex",
+              "description": "The reversal agent, Sugammadex, will be administered at the start of closure.\n\nSugammadex: Participants will receive 4mg/kg for a TOF 0-1 and 2mg/kg for a train of four (TOF) 2 or greater."
+            },
+            {
+              "id": "OG001",
+              "title": "Neostigmine/Glycopyrrolate",
+              "description": "The reversal agent, Neostigmine, will be administered at the start of closure.\n\nNeostigmine/Glycopyrrolate: Participants will receive 0.07mg/kg of Neostigmine and 0.01mg/kg of Glycopyrrolate, administered by anesthesia once at least two twitches are present."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.3",
+                      "spread": "1.96"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "8.05",
+                      "spread": "6.75"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Total Time of Inhalational Anesthesia Exposure",
+          "description": "evaluated via the Epic computer record after discharge from the hospital",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "minutes",
+          "timeFrame": "Up to 5 hours (depending on length of surgical procedure)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Sugammadex",
+              "description": "The reversal agent, Sugammadex, will be administered at the start of closure.\n\nSugammadex: Participants will receive 4mg/kg for a TOF 0-1 and 2mg/kg for a train of four (TOF) 2 or greater."
+            },
+            {
+              "id": "OG001",
+              "title": "Neostigmine/Glycopyrrolate",
+              "description": "The reversal agent, Neostigmine, will be administered at the start of closure.\n\nNeostigmine/Glycopyrrolate: Participants will receive 0.07mg/kg of Neostigmine and 0.01mg/kg of Glycopyrrolate, administered by anesthesia once at least two twitches are present."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "121.30",
+                      "spread": "40.14"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "142.94",
+                      "spread": "34.32"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Length of Stay in the Post-anesthesia Care Unit (PACU)",
+          "description": "PACU length of stay was evaluated via the Epic computer record after discharge from the hospital",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "minutes",
+          "timeFrame": "Up to 5 hours (on average depending on post anesthesia recovery)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Sugammadex",
+              "description": "The reversal agent, Sugammadex, will be administered at the start of closure.\n\nSugammadex: Participants will receive 4mg/kg for a TOF 0-1 and 2mg/kg for a train of four (TOF) 2 or greater."
+            },
+            {
+              "id": "OG001",
+              "title": "Neostigmine/Glycopyrrolate",
+              "description": "The reversal agent, Neostigmine, will be administered at the start of closure.\n\nNeostigmine/Glycopyrrolate: Participants will receive 0.07mg/kg of Neostigmine and 0.01mg/kg of Glycopyrrolate, administered by anesthesia once at least two twitches are present."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "27.91",
+                      "spread": "9.07"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "37.73",
+                      "spread": "12.65"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Hospital Length of Stay (LoS)",
+          "description": "Hospital LoS will be evaluated via the Epic computer record after discharge from the hospital",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "hours",
+          "timeFrame": "Up to 5 days (depending on length of hospitalization)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Sugammadex",
+              "description": "The reversal agent, Sugammadex, will be administered at the start of closure.\n\nSugammadex: Participants will receive 4mg/kg for a TOF 0-1 and 2mg/kg for a train of four (TOF) 2 or greater."
+            },
+            {
+              "id": "OG001",
+              "title": "Neostigmine/Glycopyrrolate",
+              "description": "The reversal agent, Neostigmine, will be administered at the start of closure.\n\nNeostigmine/Glycopyrrolate: Participants will receive 0.07mg/kg of Neostigmine and 0.01mg/kg of Glycopyrrolate, administered by anesthesia once at least two twitches are present."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "34.64",
+                      "spread": "39.07"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "49.51",
+                      "spread": "50.56"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Information on adverse events was collected from the time of consent to participate in the study up to hospital discharge, with an average duration of up to five (5) days.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Sugammadex",
+          "description": "The reversal agent, Sugammadex, will be administered at the start of closure.\n\nSugammadex: Participants will receive 4mg/kg for a TOF 0-1 and 2mg/kg for a train of four (TOF) 2 or greater.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 11,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 11,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 11
+        },
+        {
+          "id": "EG001",
+          "title": "Neostigmine/Glycopyrrolate",
+          "description": "The reversal agent, Neostigmine, will be administered at the start of closure.\n\nNeostigmine/Glycopyrrolate: Participants will receive 0.07mg/kg of Neostigmine and 0.01mg/kg of Glycopyrrolate, administered by anesthesia once at least two twitches are present.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 11,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 11,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 11
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Viola Vaccarino, MD, PhD, Principal Investigator",
+        "organization": "Emory University",
+        "email": "lvaccar@emory.edu",
+        "phone": "404-727-8710"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-09-25",
+          "uploadDate": "2025-08-12T07:33",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 333787
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-08-29",
+            "type": "ESTIMATED"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001064",
+          "term": "Appendicitis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D059413",
+          "term": "Intraabdominal Infections"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D005759",
+          "term": "Gastroenteritis"
+        },
+        {
+          "id": "D005767",
+          "term": "Gastrointestinal Diseases"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D002429",
+          "term": "Cecal Diseases"
+        },
+        {
+          "id": "D007410",
+          "term": "Intestinal Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000077122",
+          "term": "Sugammadex"
+        },
+        {
+          "id": "D009388",
+          "term": "Neostigmine"
+        },
+        {
+          "id": "D006024",
+          "term": "Glycopyrrolate"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D047408",
+          "term": "gamma-Cyclodextrins"
+        },
+        {
+          "id": "D003505",
+          "term": "Cyclodextrins"
+        },
+        {
+          "id": "D047028",
+          "term": "Macrocyclic Compounds"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D003912",
+          "term": "Dextrins"
+        },
+        {
+          "id": "D013213",
+          "term": "Starch"
+        },
+        {
+          "id": "D005936",
+          "term": "Glucans"
+        },
+        {
+          "id": "D011134",
+          "term": "Polysaccharides"
+        },
+        {
+          "id": "D002241",
+          "term": "Carbohydrates"
+        },
+        {
+          "id": "D050338",
+          "term": "Phenylammonium Compounds"
+        },
+        {
+          "id": "D000644",
+          "term": "Quaternary Ammonium Compounds"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D009861",
+          "term": "Onium Compounds"
+        },
+        {
+          "id": "D011759",
+          "term": "Pyrrolidines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

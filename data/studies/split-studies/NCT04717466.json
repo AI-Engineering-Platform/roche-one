@@ -1,0 +1,1381 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04717466",
+      "orgStudyIdInfo": {
+        "id": "20200857"
+      },
+      "organization": {
+        "fullName": "University of Miami",
+        "class": "OTHER"
+      },
+      "briefTitle": "Brain Changes in Psoriasis After Secukinumab Treatment",
+      "officialTitle": "Brain Morphological Changes Accompanied by Effective Biologic Treatments for Psoriasis and Their Associations With the Improvement of Well-being, Itch, and Pain"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-06-29",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-05-16",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-03-04",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-01-15",
+      "studyFirstSubmitQcDate": "2021-01-15",
+      "studyFirstPostDateStruct": {
+        "date": "2021-01-22",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-04-28",
+      "resultsFirstSubmitQcDate": "2025-06-04",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-06-05",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-06-04",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-06-05",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Gil Yosipovitch",
+        "investigatorTitle": "Professor",
+        "investigatorAffiliation": "University of Miami"
+      },
+      "leadSponsor": {
+        "name": "University of Miami",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Novartis",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to assess the effect of a biologic drug targeting the Interleukin (IL)-17 pathway (secukinumab) on brain plasticity and examine whether the plastic changes correlate with the improvement of perception of well-being, itch, and pain in participants with psoriasis."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Psoriasis",
+        "Healthy"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "BASIC_SCIENCE",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 20,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Psoriasis Group",
+          "type": "EXPERIMENTAL",
+          "description": "Psoriasis participants will be given Secukinumab for a total of 4 months. This is a 300mg subcutaneous injection that will occur at weeks 0, 1, 2, 3, 4, 8, and 12.",
+          "interventionNames": [
+            "Biological: Secukinumab"
+          ]
+        },
+        {
+          "label": "Healthy Group",
+          "type": "NO_INTERVENTION",
+          "description": "Healthy participants will not receive any intervention."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Secukinumab",
+          "description": "300mg subcutaneous injection",
+          "armGroupLabels": [
+            "Psoriasis Group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in Gray Matter Density",
+          "description": "Change in brain anatomy for participants will be reported as the change in average gray matter density as measured by Voxel Based Morphometry (VBM) analysis of Magnetic Resonance Imaging (MRI) scans from baseline to week 4",
+          "timeFrame": "Baseline to Week 4 (Visit 3)"
+        },
+        {
+          "measure": "Change in Brain Activity",
+          "description": "Changes in brain activity in participants will be measured using Arterial Spin Labeling (ASL) MRI from baseline to week 4. ASL quantifies cerebral blood flow CBF in units of ml/100g/min (milliliters of blood per 100 grams of tissue per minute).",
+          "timeFrame": "Baseline to Week 4 (Visit 3)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in Itch Score as Measured by the NRS",
+          "description": "Itch will be measured using the Numerical Rating Scaling (NRS) ranging from 0 (no itch) to 10 (the worst itch imaginable) baseline to week 4 in psoriasis participant group only.",
+          "timeFrame": "Baseline to Week 4 (Visit 3)"
+        },
+        {
+          "measure": "Change in Pain Score as Measured by the NRS",
+          "description": "Pain will be measured using a Numerical Rating Scaling (NRS) ranging from 0 (no pain) to 10 (the worst pain imaginable) baseline to week 4 in psoriasis participant group only.",
+          "timeFrame": "Baseline to Week 4 (Visit 3)"
+        },
+        {
+          "measure": "Change in PASI Scores",
+          "description": "Severity of psoriasis will be measured using the Psoriasis Area and Severity Index (PASI), ranging from 0 to 100 with a higher score indicating more severe psoriasis, from baseline to week 4 in psoriasis participant group only.",
+          "timeFrame": "Baseline to Week 4 (Visit 3)"
+        },
+        {
+          "measure": "Change in Participant Well-being as Measured by WHO-5",
+          "description": "Well-being will be measured using the 5-item World Health Organization Well-Being Index (WHO-5), ranging from 0 to 25 with a higher score indicating better well-being, from baseline to week 4.",
+          "timeFrame": "Baseline to Week 4 (Visit 3)"
+        },
+        {
+          "measure": "Change in Quality of Sleep as Measured by a Sleep Numerical Rating Scale Scores",
+          "description": "Changes in participants' quality of sleep by using the Numerical Rating Scaling (NRS) ranging from 0 to 10, with a higher score indicating lower sleep quality between baseline, from baseline to week 4.",
+          "timeFrame": "Baseline to Week 4 (Visit 3)"
+        },
+        {
+          "measure": "Change in Physical Activity as Measured by 7D-PAR",
+          "description": "Physical activity will be measured using the 7-days physical activity recall (7D-PAR), with 0 denoting no exercise and a higher score indicating more physical activity (there is not cap for this score), from baseline to week 4.",
+          "timeFrame": "Baseline to Week 4 (Visit 3)"
+        },
+        {
+          "measure": "Changes in Stress in Daily Life as Measured by PSQ",
+          "description": "Stress in daily life in psoriasis participants will be measured using the Perceived Stress Questionnaire (PSQ), ranging from 0 to 1 with a higher score indicating more stress, from baseline to week 4.",
+          "timeFrame": "Baseline, Up to Week 4 (Visit 3)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion:\n\n1. Between 18 and 65 years of age.\n2. Psoriasis patients (with/without psoriatic arthritis): Psoriasis Area (BSA) is more than 5%.\n3. Psoriasis patients must have had a TB test in the past 8 months (if a patient has not had one, the study will provide one).\n4. Healthy subjects: in general, good health without history of neurological and psychiatric diseases. No chronic itch, pain, skin or systemic conditions currently or in the past.\n5. Women of child bearing potential will be administered a pregnancy test to verify that they are not pregnant.\n6. MRI Compatibility: No major contraindication for MRI (pacemaker, vascular stents, metallic ear tubes, and absence of metal implants or braces) as assessed by MRI technologist using site approved screening form.\n7. Participants have to be able to speak and read English fluently.\n8. Participants must have signed a written informed consent before being enrolled in the study\n\nExclusion:\n\n1. Individuals under 18 or over 65 years of age.\n2. Inability to complete the required measures.\n3. Participants who use antihistamine drugs for itch relief\n4. Suffering from any disease state or physical condition, which would increase their health risk by study participation.\n5. Patients with chronic infectious diseases (e.g., mycobacterial and fungal infections and chronic tuberculosis) or inflammatory bowel disease.\n6. Patients without a negative TB test in the past 12 months.\n7. Hypersensitivity or anaphylaxis to biologics\n8. Patients with treatment of biologics should not receive live vaccines. Thus, age appropriate immunizations according to current immunization guidelines must be completed before the experiment.\n9. Patients with primary immunodeficient lacking IL-17, patients with autoantibodies against IL-17\n10. Currently enrolled in any investigational study in which the subject is receiving any type of drug, biological, or non-drug therapy.\n11. Recent initiation (within last 3 months) or change in dose of centrally acting agents such as antidepressants, neuroleptics or neuropathic medications.\n12. Patients who were previously treated with drugs targeting IL-17\n13. Patients who have used biologics in the past in the past 8 weeks or Otezla in the past 4 weeks.\n14. Patients who use centrally acting agents only when they need. The purpose is to avoid a risk of acute effect of these agents on brain activity.\n15. Current treatment with opioid analgesics.\n16. Uncontrolled thyroid disease.\n17. Use of illicit drugs or history of opiate addiction.\n18. Diagnosis of a major psychiatric disorder such as schizophrenia, major depression or bipolar disorder that is active currently.\n19. Morbid obesity\n20. Weight: 250 lb or more\n21. Any known diseases or disorders that may affect conducting the experiments (e.g., intracranial pathology, claustrophobia, severe respiratory or cardiovascular problems, active fibromyalgia) or diseases that have potential risks of infections (e.g., HIV, Hepatitis C, etc).\n22. Inability to speak and read English.\n23. Pregnant.\n24. Incarcerated.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Gil Yosipovitch, MD",
+          "affiliation": "University of Miami",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Miami",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33136",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Psoriasis Group",
+          "description": "Psoriasis participants will be given Secukinumab for a total of 4 months. This is a 300mg subcutaneous injection that will occur at weeks 0, 1, 2, 3, 4, 8, and 12.\n\nSecukinumab: 300mg subcutaneous injection"
+        },
+        {
+          "id": "FG001",
+          "title": "Healthy Group",
+          "description": "Healthy participants will not receive any intervention."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Psoriasis Group",
+          "description": "Psoriasis participants will be given Secukinumab for a total of 4 months. This is a 300mg subcutaneous injection that will occur at weeks 0, 1, 2, 3, 4, 8, and 12.\n\nSecukinumab: 300mg subcutaneous injection"
+        },
+        {
+          "id": "BG001",
+          "title": "Healthy Group",
+          "description": "Healthy participants will not receive any intervention."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "10"
+            },
+            {
+              "groupId": "BG001",
+              "value": "10"
+            },
+            {
+              "groupId": "BG002",
+              "value": "20"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change in Gray Matter Density",
+          "description": "Change in brain anatomy for participants will be reported as the change in average gray matter density as measured by Voxel Based Morphometry (VBM) analysis of Magnetic Resonance Imaging (MRI) scans from baseline to week 4",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "voxel",
+          "timeFrame": "Baseline to Week 4 (Visit 3)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Psoriasis Group",
+              "description": "Psoriasis participants will be given Secukinumab for a total of 4 months. This is a 300mg subcutaneous injection that will occur at weeks 0, 1, 2, 3, 4, 8, and 12.\n\nSecukinumab: 300mg subcutaneous injection"
+            },
+            {
+              "id": "OG001",
+              "title": "Healthy Group",
+              "description": "Healthy participants will not receive any intervention."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "spread": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0",
+                      "spread": "0.000927413"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Change in Brain Activity",
+          "description": "Changes in brain activity in participants will be measured using Arterial Spin Labeling (ASL) MRI from baseline to week 4. ASL quantifies cerebral blood flow CBF in units of ml/100g/min (milliliters of blood per 100 grams of tissue per minute).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "ml/100g/min",
+          "timeFrame": "Baseline to Week 4 (Visit 3)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Psoriasis Group",
+              "description": "Psoriasis participants will be given Secukinumab for a total of 4 months. This is a 300mg subcutaneous injection that will occur at weeks 0, 1, 2, 3, 4, 8, and 12.\n\nSecukinumab: 300mg subcutaneous injection"
+            },
+            {
+              "id": "OG001",
+              "title": "Healthy Group",
+              "description": "Healthy participants will not receive any intervention."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1",
+                      "spread": "55.79089921"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-18",
+                      "spread": "87.98956788"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Itch Score as Measured by the NRS",
+          "description": "Itch will be measured using the Numerical Rating Scaling (NRS) ranging from 0 (no itch) to 10 (the worst itch imaginable) baseline to week 4 in psoriasis participant group only.",
+          "populationDescription": "Only psoriasis patient group included for this analysis as healthy controls were required by enrollment criteria to not have itch.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Baseline to Week 4 (Visit 3)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Psoriasis Group",
+              "description": "Psoriasis participants will be given Secukinumab for a total of 4 months. This is a 300mg subcutaneous injection that will occur at weeks 0, 1, 2, 3, 4, 8, and 12.\n\nSecukinumab: 300mg subcutaneous injection"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3",
+                      "spread": "0.130835626"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Pain Score as Measured by the NRS",
+          "description": "Pain will be measured using a Numerical Rating Scaling (NRS) ranging from 0 (no pain) to 10 (the worst pain imaginable) baseline to week 4 in psoriasis participant group only.",
+          "populationDescription": "Only psoriasis patient group included for this analysis as healthy controls were required by enrollment criteria to not have pain.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Baseline to Week 4 (Visit 3)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Psoriasis Group",
+              "description": "Psoriasis participants will be given Secukinumab for a total of 4 months. This is a 300mg subcutaneous injection that will occur at weeks 0, 1, 2, 3, 4, 8, and 12.\n\nSecukinumab: 300mg subcutaneous injection"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2",
+                      "spread": "0.186739941"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in PASI Scores",
+          "description": "Severity of psoriasis will be measured using the Psoriasis Area and Severity Index (PASI), ranging from 0 to 100 with a higher score indicating more severe psoriasis, from baseline to week 4 in psoriasis participant group only.",
+          "populationDescription": "Only psoriasis patient group included for this analysis as healthy controls were required by enrollment criteria to not have psoriasis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline to Week 4 (Visit 3)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Psoriasis Group",
+              "description": "Psoriasis participants will be given Secukinumab for a total of 4 months. This is a 300mg subcutaneous injection that will occur at weeks 0, 1, 2, 3, 4, 8, and 12.\n\nSecukinumab: 300mg subcutaneous injection"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8",
+                      "spread": "8.206099453"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Participant Well-being as Measured by WHO-5",
+          "description": "Well-being will be measured using the 5-item World Health Organization Well-Being Index (WHO-5), ranging from 0 to 25 with a higher score indicating better well-being, from baseline to week 4.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Baseline to Week 4 (Visit 3)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Psoriasis Group",
+              "description": "Psoriasis participants will be given Secukinumab for a total of 4 months. This is a 300mg subcutaneous injection that will occur at weeks 0, 1, 2, 3, 4, 8, and 12.\n\nSecukinumab: 300mg subcutaneous injection"
+            },
+            {
+              "id": "OG001",
+              "title": "Healthy Group",
+              "description": "Healthy participants will not receive any intervention."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2",
+                      "spread": "0.59336165"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0",
+                      "spread": "0.382739698"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Quality of Sleep as Measured by a Sleep Numerical Rating Scale Scores",
+          "description": "Changes in participants' quality of sleep by using the Numerical Rating Scaling (NRS) ranging from 0 to 10, with a higher score indicating lower sleep quality between baseline, from baseline to week 4.",
+          "populationDescription": "Initial protocol was to use PSQI survey, but after PI could not get rights for survey use, the protocol was amended to collect sleep disturbance on an NRS scale. Not all study participates completed the Sleep NRS survey, so data was reported on those that did complete this NRS once protocol amendment for its use was IRB approved.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline to Week 4 (Visit 3)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Psoriasis Group",
+              "description": "Psoriasis participants will be given Secukinumab for a total of 4 months. This is a 300mg subcutaneous injection that will occur at weeks 0, 1, 2, 3, 4, 8, and 12.\n\nSecukinumab: 300mg subcutaneous injection"
+            },
+            {
+              "id": "OG001",
+              "title": "Healthy Group",
+              "description": "Healthy participants will not receive any intervention."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "7"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0",
+                      "spread": "0.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2",
+                      "spread": "1.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Physical Activity as Measured by 7D-PAR",
+          "description": "Physical activity will be measured using the 7-days physical activity recall (7D-PAR), with 0 denoting no exercise and a higher score indicating more physical activity (there is not cap for this score), from baseline to week 4.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline to Week 4 (Visit 3)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Psoriasis Group",
+              "description": "Psoriasis participants will be given Secukinumab for a total of 4 months. This is a 300mg subcutaneous injection that will occur at weeks 0, 1, 2, 3, 4, 8, and 12.\n\nSecukinumab: 300mg subcutaneous injection"
+            },
+            {
+              "id": "OG001",
+              "title": "Healthy Group",
+              "description": "Healthy participants will not receive any intervention."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7",
+                      "spread": "9.892384903"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9",
+                      "spread": "0.451011454"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Changes in Stress in Daily Life as Measured by PSQ",
+          "description": "Stress in daily life in psoriasis participants will be measured using the Perceived Stress Questionnaire (PSQ), ranging from 0 to 1 with a higher score indicating more stress, from baseline to week 4.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline, Up to Week 4 (Visit 3)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Psoriasis Group",
+              "description": "Psoriasis participants will be given Secukinumab for a total of 4 months. This is a 300mg subcutaneous injection that will occur at weeks 0, 1, 2, 3, 4, 8, and 12.\n\nSecukinumab: 300mg subcutaneous injection"
+            },
+            {
+              "id": "OG001",
+              "title": "Healthy Group",
+              "description": "Healthy participants will not receive any intervention."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.07",
+                      "spread": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.01",
+                      "spread": "0.01"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "4 months",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Psoriasis Group",
+          "description": "Psoriasis participants will be given Secukinumab for a total of 4 months. This is a 300mg subcutaneous injection that will occur at weeks 0, 1, 2, 3, 4, 8, and 12.\n\nSecukinumab: 300mg subcutaneous injection",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 10,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 10,
+          "otherNumAffected": 4,
+          "otherNumAtRisk": 10
+        },
+        {
+          "id": "EG001",
+          "title": "Healthy Group",
+          "description": "Healthy participants will not receive any intervention.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 10,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 10,
+          "otherNumAffected": 2,
+          "otherNumAtRisk": 10
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Infected Abcess",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Infected Abcess on the left temple",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 10
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "itch",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "itch on the skin or eyes (unrelated or unlikely related to study)",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 10
+            }
+          ]
+        },
+        {
+          "term": "Felt cramped",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Patient felt cramped for a few second twice on the same day (probably related to study)",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 10
+            }
+          ]
+        },
+        {
+          "term": "Bruising",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Bruising on the skin of the injected site (the right thigh) (related to study)",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 10
+            }
+          ]
+        },
+        {
+          "term": "Swelling",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Swelling of the skin of injected site (left thigh) (related to study)",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 10
+            }
+          ]
+        },
+        {
+          "term": "Nasal and chest congestions",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Unrelated to study",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 10
+            }
+          ]
+        },
+        {
+          "term": "tiredness",
+          "organSystem": "General disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "Patient felt tiredness for a couple of day after the initial injection (unrelated to study)",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 10
+            }
+          ]
+        },
+        {
+          "term": "headache",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "unrelated to study",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 10
+            }
+          ]
+        },
+        {
+          "term": "skin with red/raised/itch",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "notes": "On the skin of injected site (both thighs) (related to study)",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 10
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 10
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Dr. Hideki Mochizuki",
+        "organization": "University of Miami",
+        "email": "hxm414@med.miami.edu",
+        "phone": "305-234-4472"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-04-16",
+          "uploadDate": "2025-01-16T13:08",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 350666
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-05-16",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D011565",
+          "term": "Psoriasis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017444",
+          "term": "Skin Diseases, Papulosquamous"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C555450",
+          "term": "secukinumab"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

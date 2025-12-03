@@ -1,0 +1,2317 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06152224",
+      "orgStudyIdInfo": {
+        "id": "2023-1304"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "A532810",
+          "type": "OTHER",
+          "domain": "UW- Madison"
+        },
+        {
+          "id": "Protocol Version 10/1/2024",
+          "type": "OTHER",
+          "domain": "UW - Madison"
+        },
+        {
+          "id": "SMPH/OBGYN BENIGN GYN",
+          "type": "OTHER",
+          "domain": "UW - Madison"
+        }
+      ],
+      "organization": {
+        "fullName": "University of Wisconsin, Madison",
+        "class": "OTHER"
+      },
+      "briefTitle": "Use of the LEVA® Pelvic Health System for Fecal Incontinence",
+      "officialTitle": "Comparison of the Duration of Use of the Leva® Pelvic Health System in Women With Fecal Incontinence"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-01-17",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-12-17",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2026-09",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-11-21",
+      "studyFirstSubmitQcDate": "2023-11-21",
+      "studyFirstPostDateStruct": {
+        "date": "2023-11-30",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-05-12",
+      "resultsFirstSubmitQcDate": "2025-05-29",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-05-30",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-10-13",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-10-30",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Wisconsin, Madison",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": true,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The goal of this clinical trial is to learn about how the duration of use of The Leva Pelvic Health System® affects treatment of fecal incontinence in women. The main question it aims to answer is to test whether use of the The Leva Pelvic Health System® for 8 weeks is as good as using it for 16 weeks.\n\nParticipants will complete surveys, and use the Leva device.",
+      "detailedDescription": "This study will assess whether 8 weeks of use of the Leva Pelvic Health System (Leva) is non-inferior to 16 weeks of use for the treatment of chronic fecal incontinence (symptoms \\>/= 3 months) in adults with a vagina. Participants will be instructed to complete pelvic floor muscle training using the Leva for 8 or 16 weeks.\n\nThe hypothesis is that 8 weeks of use of Leva is non-inferior to 16 weeks of use, assessed by a validated FI symptom severity survey. Surveys will be completed at 0 weeks, 16 weeks, and 24 weeks. Long-term surveys will be completed at 1 year and 2 years from enrollment."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Fecal Incontinence"
+      ],
+      "keywords": [
+        "anal incontinence",
+        "accidental bowel leakage",
+        "pelvic health system"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 38,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "8 week use of Leva",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Device: The Leva Pelvic Health System"
+          ]
+        },
+        {
+          "label": "16 week use of Leva",
+          "type": "ACTIVE_COMPARATOR",
+          "interventionNames": [
+            "Device: The Leva Pelvic Health System"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "The Leva Pelvic Health System",
+          "description": "The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage.",
+          "armGroupLabels": [
+            "16 week use of Leva",
+            "8 week use of Leva"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Vaizey Score to Compare Effectiveness of Improving Fecal Incontinence Between 8 Weeks and 16 Weeks of Use",
+          "description": "Treatment response as length of use on symptom improvement at 16 weeks (comparing 8 weeks vs 16 weeks of use of Leva) as assessed by Vaizey Score, score ranges from 0-24, higher scores indicate more severe symptoms. A difference of -4.3 ± 3 is expected at 8 weeks and 16 weeks (compared to baseline), with an allowable difference of 1.",
+          "timeFrame": "Baseline to 16 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in Fecal Incontinence Severity",
+          "description": "Using St. Mark's Incontinence score, score ranges from 0-24, higher scores indicate more severe symptoms.",
+          "timeFrame": "Baseline to 16 and 24 weeks, long term follow up at 1 and 2 years"
+        },
+        {
+          "measure": "Cumulative Adherence Correlation With Change in St. Mark's Score",
+          "description": "Adherence as a percentage of all expected exercise sessions correlated with change in St Mark's Incontinence Score (1-24)",
+          "timeFrame": "Baseline to 24 weeks, long term follow up at 1 and 2 years"
+        },
+        {
+          "measure": "Patient Satisfaction and Usability of the Smartphone Application Component of the Leva Pelvic Health System",
+          "description": "Measured through the mHealth App Usability Questionnaire. In this questionnaire, 1 - strongly disagree, 2 - disagree, 3 - somewhat disagree, 4 - neither agree nor disagree, 5 - somewhat agree, 6 - agree, 7 - strongly agree. To determine the usability of an app, calculate the total and determine the average of the responses to all statements. The higher the overall average, the higher the usability of the app.",
+          "timeFrame": "Baseline to 16 and 24 weeks, long term follow up at 1 and 2 years"
+        },
+        {
+          "measure": "Change in Fecal Incontinence From Baseline to 24 Weeks After 8 or 16 Weeks of Treatment",
+          "description": "Treatment response as length of use on symptom improvement at 24 weeks (comparing 8 weeks vs 16 weeks of use of Leva) as assessed by St Mark's (Vaizey) scores.",
+          "timeFrame": "Baseline to 24 weeks, long term follow up at 1 and 2 years"
+        },
+        {
+          "measure": "Change in Pelvic Organ Prolapse Quantification System (POP-Q)",
+          "description": "The POP-Q system is an objective, site-specific system used to describe, quantify, and stage pelvic support. Measurements are rated as Stage 0-Stage 4, with Stage 4 being complete prolapse.",
+          "timeFrame": "Baseline to 16 weeks"
+        },
+        {
+          "measure": "Change in Brink Scale Score: Pressure",
+          "description": "The Brink scale evaluates 3 PFM contraction variables: vaginal pressure or muscle force, elevation or vertical displacement of the examiner's fingers, and duration of contraction. Each muscle contraction variable is rated on a 4-point ordinal scale (1-4). Higher scores indicating greater strength.",
+          "timeFrame": "Baseline to 16 weeks"
+        },
+        {
+          "measure": "Change in Brink Scale Score: Vertical Displacement",
+          "description": "The Brink scale evaluates 3 PFM contraction variables: vaginal pressure or muscle force, elevation or vertical displacement of the examiner's fingers, and duration of contraction. Each muscle contraction variable is rated on a 4-point ordinal scale (1-4). Higher scores indicating greater strength.",
+          "timeFrame": "Baseline to 16 weeks"
+        },
+        {
+          "measure": "Change in Brink Scale Score: Duration Contraction",
+          "description": "The Brink scale evaluates 3 PFM contraction variables: vaginal pressure or muscle force, elevation or vertical displacement of the examiner's fingers, and duration of contraction. Each muscle contraction variable is rated on a 4-point ordinal scale (1-4). Higher scores indicating greater strength.",
+          "timeFrame": "Baseline to 16 weeks"
+        },
+        {
+          "measure": "Change in Stool Consistency",
+          "description": "Use the Bristol Stool Scale to evaluate stool consistency. Ranges from Type 1 to Type 7, where Type 1 is hardest consistency and Type 7 is entirely liquid.",
+          "timeFrame": "Baseline to 16 and 24 weeks, long term follow up at 1 and 2 years"
+        },
+        {
+          "measure": "Change in Fecal Incontinence Quality of Life (FIQoL)",
+          "description": "Use FIQoL scale, in which participants rate questions about how often an issue is a concern, and how much they agree with statements on a scale of 1-5. Higher scores indicate lower quality of life.",
+          "timeFrame": "Baseline to 16 and 24 weeks, long term follow up at 1 and 2 years"
+        },
+        {
+          "measure": "Change in Sexual Function (PISQ-IR)",
+          "description": "PISQ-IR is a 20 item survey, where higher scores indicate lower sexual function.",
+          "timeFrame": "Baseline to 16 and 24 weeks, long term follow up at 1 and 2 years"
+        },
+        {
+          "measure": "Patient Global Impression of Improvement (PGI-I)",
+          "description": "PGI-I is a 2 question qualitative survey in which participants state their satisfaction and perception of improvement.",
+          "timeFrame": "16 and 24 weeks, long term follow up at 1 and 2 years"
+        },
+        {
+          "measure": "Patient Satisfaction (PGI-I)",
+          "description": "PGI-I is a 2 question qualitative survey in which participants state their satisfaction and perception of improvement.",
+          "timeFrame": "16 and 24 weeks, long term follow up at 1 and 2 years"
+        },
+        {
+          "measure": "Estimated Percentage of Change",
+          "description": "Qualitative question in which participants state their estimate of how much better they are, on a scale from 0% (no better) to 100% (completely better).",
+          "timeFrame": "16 and 24 weeks, long term follow up at 1 and 2 years"
+        },
+        {
+          "measure": "Change in Global Pelvic Floor Symptoms",
+          "description": "Use the Pelvic Floor Distress Inventory (PFDI-20) to evaluate change in pelvic floor symptoms. It is a 20 item survey with a range from 0-100 where higher scores indicate greater symptoms.",
+          "timeFrame": "Baseline to 16 and 24 weeks, long term follow up at 1 and 2 years"
+        },
+        {
+          "measure": "Evaluate Self-continuation of Pelvic Floor Muscle Exercises",
+          "description": "Participant self-report on whether and how often they continued the pelvic floor muscle exercises.",
+          "timeFrame": "Baseline and 24 weeks, long term follow up at 1 and 2 years"
+        },
+        {
+          "measure": "Number of Cumulative Adverse Events",
+          "description": "Systematic assessment of all adverse events over the course of the study, reported as a number of total AEs.",
+          "timeFrame": "Baseline and 24 weeks, long term follow up at 1 and 2 years"
+        },
+        {
+          "measure": "mHealth App Usability Questionnaire (MAUQ)",
+          "description": "MAUQ is an 18-item survey scored on a 7 point likert scale from 1 (disagree) to 7 (agree) with higher scores indicative of higher usability.",
+          "timeFrame": "16 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult, age ≥ 18years, assigned female at birth\n* Fecal incontinence, defined as any uncontrolled loss of liquid or solid fecal material that occurs at least monthly over the last 3 months that is bothersome enough to desire treatment\n* Able to stand to perform daily training for at least 3 minutes\n* Able to speak and read English due to Leva smartphone application availability in only English at this time\n* Have an email address, owns a smartphone, and can download an app\n\nExclusion Criteria:\n\n* Inability to tolerate insertion of vaginal device (e.g., vaginal agenesis, vaginal stenosis, unremitting pelvic pain, within 12 weeks postpartum)\n* Current diagnosis of colorectal or anal malignancy\n* Diagnosis of uncontrolled inflammatory bowel disease\n* Current rectovaginal fistula or cloacal defect\n* Rectal prolapse (mucosal or full thickness)\n* Inability to utilize smart phone technology (\"app\" use)\n* Chronic Stool Types 6 or 7\n* Fecal impaction by exam\n* Stage 4 pelvic organ prolapse\n* Concurrent supervised anal sphincter exercise/pelvic floor muscle training with or without biofeedback\n* Presence of sacral neuromodulator\n* Pelvic floor surgery (including anal sphincteroplasty) within the past 3 months\n* Currently pregnant",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "genderBased": true,
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Dobie Giles, MD",
+          "affiliation": "University of Wisconsin, Madison",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Wisconsin",
+          "city": "Madison",
+          "state": "Wisconsin",
+          "zip": "53705",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.07305,
+            "lon": -89.40123
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "8 Week Use of Leva",
+          "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+        },
+        {
+          "id": "FG001",
+          "title": "16 Week Use of Leva",
+          "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "19"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "19"
+                }
+              ]
+            },
+            {
+              "type": "8 Week Follow-up",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "18"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "18"
+                }
+              ]
+            },
+            {
+              "type": "16 Week Follow-up Surveys",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "18"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "18"
+                }
+              ]
+            },
+            {
+              "type": "16 Week Follow-up Visit",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "18"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "17"
+                }
+              ]
+            },
+            {
+              "type": "Completed 24 Week Time Point",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "18"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "18"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "19"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "19"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "On Follow Up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "18"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "18"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "8 Week Use of Leva",
+          "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+        },
+        {
+          "id": "BG001",
+          "title": "16 Week Use of Leva",
+          "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "19"
+            },
+            {
+              "groupId": "BG001",
+              "value": "19"
+            },
+            {
+              "groupId": "BG002",
+              "value": "38"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "65.4",
+                      "spread": "13.7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "60.4",
+                      "spread": "17.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62.9",
+                      "spread": "15.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "38"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "38"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "37"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Brinks Score",
+          "description": "Brink Scale measures pelvic floor muscle strength, scored from 1-4 in 3 areas:\n\n* Pressure where 1 is no response and 4 is a strong squeeze\n* Vertical Displacement where 1 is none and 4 is whole fingers pulled in\n* Duration Contraction where 1 is no contraction and 4 is greater than 3 seconds",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "units on a scale",
+          "classes": [
+            {
+              "title": "Pressure",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2.0",
+                      "lowerLimit": "2.0",
+                      "upperLimit": "2.0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2.0",
+                      "lowerLimit": "2.0",
+                      "upperLimit": "3.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2.0",
+                      "lowerLimit": "2.0",
+                      "upperLimit": "2.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Vertical Displacement",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1.0",
+                      "lowerLimit": "1.0",
+                      "upperLimit": "2.0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1.0",
+                      "lowerLimit": "1.0",
+                      "upperLimit": "2.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1.0",
+                      "lowerLimit": "1.0",
+                      "upperLimit": "2.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Contraction Duration",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2.0",
+                      "lowerLimit": "2.0",
+                      "upperLimit": "3.0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2.0",
+                      "lowerLimit": "2.0",
+                      "upperLimit": "3.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2.0",
+                      "lowerLimit": "2.0",
+                      "upperLimit": "3.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Body Mass Index (BMI)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kg/m^2",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "27.2",
+                      "spread": "7.9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "31.5",
+                      "spread": "9.4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "29.3",
+                      "spread": "8.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pelvic Organ Prolapse (POP-Q)",
+          "description": "* Stage 1: Most distal prolapse is more than 1 cm above the hymen\n* Stage 2: Most distal prolapse is between 1 cm above and 1 cm below the hymen",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Stage 1",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    }
+                  ]
+                },
+                {
+                  "title": "Stage 2",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vaisey Score",
+          "description": "A measure of incontinence scored from 0 (perfect continence) to 24 (totally incontinent)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "units on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13.3",
+                      "spread": "4.3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12.5",
+                      "spread": "4.3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12.9",
+                      "spread": "4.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bristol Stool Scale",
+          "description": "Description of stool between 1-7\n\n* Type 1: separate hard lumps, like nuts (hard to pass)\n* Type 2: sausage shaped but lumpy\n* Type 3: like a sausage but with cracks on the surface\n* Type 4: like a sausage or a snake, smooth and soft\n* Type 5: soft blobs with clear edges, (passed easily)\n* Type 6: fluffy pieces with ragged edges, a mushy stool\n* Type 7: watery, no solid pieces, entirely liquid",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Type 1",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Type 2",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Type 3",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Type 4",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "15"
+                    }
+                  ]
+                },
+                {
+                  "title": "Type 5",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    }
+                  ]
+                },
+                {
+                  "title": "Type 6",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                },
+                {
+                  "title": "Type 7",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Vaizey Score to Compare Effectiveness of Improving Fecal Incontinence Between 8 Weeks and 16 Weeks of Use",
+          "description": "Treatment response as length of use on symptom improvement at 16 weeks (comparing 8 weeks vs 16 weeks of use of Leva) as assessed by Vaizey Score, score ranges from 0-24, higher scores indicate more severe symptoms. A difference of -4.3 ± 3 is expected at 8 weeks and 16 weeks (compared to baseline), with an allowable difference of 1.",
+          "populationDescription": "one participant withdrew, one participant was lost to follow up at 16 weeks",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline to 16 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "8 Week Use of Leva",
+              "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+            },
+            {
+              "id": "OG001",
+              "title": "16 Week Use of Leva",
+              "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "baseline",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13.3",
+                      "spread": "4.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "12.5",
+                      "spread": "4.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "16 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.0",
+                      "spread": "5.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.5",
+                      "spread": "4.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "change from baseline",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Power analysis was determined based on a 4.3 point improvement on the Vaizey score in both groups.\n\nWith an allowable difference of 1 point between randomized groups, standard deviation = 3, margin = 4.3, power = 0.8, alpha = 0.05, attrition = 25 percent.",
+              "pValue": "0.918",
+              "pValueComment": "a priori threshold 0.05",
+              "statisticalMethod": "t-test, 2 sided",
+              "statisticalComment": "continuous outcome",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-4.3",
+              "ciNumSides": "TWO_SIDED",
+              "dispersionType": "STANDARD_DEVIATION",
+              "dispersionValue": "3"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Fecal Incontinence Severity",
+          "description": "Using St. Mark's Incontinence score, score ranges from 0-24, higher scores indicate more severe symptoms.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Baseline to 16 and 24 weeks, long term follow up at 1 and 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Cumulative Adherence Correlation With Change in St. Mark's Score",
+          "description": "Adherence as a percentage of all expected exercise sessions correlated with change in St Mark's Incontinence Score (1-24)",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Baseline to 24 weeks, long term follow up at 1 and 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Patient Satisfaction and Usability of the Smartphone Application Component of the Leva Pelvic Health System",
+          "description": "Measured through the mHealth App Usability Questionnaire. In this questionnaire, 1 - strongly disagree, 2 - disagree, 3 - somewhat disagree, 4 - neither agree nor disagree, 5 - somewhat agree, 6 - agree, 7 - strongly agree. To determine the usability of an app, calculate the total and determine the average of the responses to all statements. The higher the overall average, the higher the usability of the app.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Baseline to 16 and 24 weeks, long term follow up at 1 and 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Fecal Incontinence From Baseline to 24 Weeks After 8 or 16 Weeks of Treatment",
+          "description": "Treatment response as length of use on symptom improvement at 24 weeks (comparing 8 weeks vs 16 weeks of use of Leva) as assessed by St Mark's (Vaizey) scores.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Baseline to 24 weeks, long term follow up at 1 and 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Pelvic Organ Prolapse Quantification System (POP-Q)",
+          "description": "The POP-Q system is an objective, site-specific system used to describe, quantify, and stage pelvic support. Measurements are rated as Stage 0-Stage 4, with Stage 4 being complete prolapse.",
+          "populationDescription": "one participant withdrew, one participant was lost to follow up at 16 weeks, one participant completed 16-week surveys but did not follow up for in person visit",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Baseline to 16 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "8 Week Use of Leva",
+              "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+            },
+            {
+              "id": "OG001",
+              "title": "16 Week Use of Leva",
+              "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Stage 1",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "Stage 2",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "Stage 3",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "16 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Stage 1",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "Stage 2",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7"
+                    }
+                  ]
+                },
+                {
+                  "title": "Stage 3",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "change from baseline",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Power analysis was determined based on a 3 point improvement on the Vaizey score in both groups. With an allowable difference of 1 point between randomized groups, type I error level = 0.05, power = 0.8, and standard deviation of outcome of 4.",
+              "pValue": "0.801",
+              "pValueComment": "a prior threshold 0.05",
+              "statisticalMethod": "t-test, 2 sided",
+              "statisticalComment": "continuous outcome"
+            },
+            {
+              "groupIds": [
+                "OG001"
+              ],
+              "groupDescription": "change from baseline",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Power analysis was determined based on a 3 point improvement on the Vaizey score in both groups. With an allowable difference of 1 point between randomized groups, type I error level = 0.05, power = 0.8, and standard deviation of outcome of 4.",
+              "pValue": "0.317",
+              "pValueComment": "a priori threshold 0.05",
+              "statisticalMethod": "t-test, 2 sided",
+              "statisticalComment": "continuous outcome"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Brink Scale Score: Pressure",
+          "description": "The Brink scale evaluates 3 PFM contraction variables: vaginal pressure or muscle force, elevation or vertical displacement of the examiner's fingers, and duration of contraction. Each muscle contraction variable is rated on a 4-point ordinal scale (1-4). Higher scores indicating greater strength.",
+          "populationDescription": "one participant withdrew, one participant was lost to follow up at 16 weeks, one participant completed 16-week surveys but did not follow up for in person visit",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline to 16 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "8 Week Use of Leva",
+              "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+            },
+            {
+              "id": "OG001",
+              "title": "16 Week Use of Leva",
+              "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.0",
+                      "lowerLimit": "2.0",
+                      "upperLimit": "2.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.0",
+                      "lowerLimit": "2.0",
+                      "upperLimit": "3.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "16 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.0",
+                      "lowerLimit": "3.0",
+                      "upperLimit": "3.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.0",
+                      "lowerLimit": "3.0",
+                      "upperLimit": "4.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "change from baseline Brink Score: Pressure",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Power analysis was determined based on a 3 point improvement on the Vaizey score in both groups. With an allowable difference of 1 point between randomized groups, type I error level = 0.05, power = 0.8, and standard deviation of outcome of 4.",
+              "pValue": "<0.001",
+              "pValueComment": "a prior threshold 0.05",
+              "statisticalMethod": "t-test, 2 sided",
+              "statisticalComment": "continuous outcome"
+            },
+            {
+              "groupIds": [
+                "OG001"
+              ],
+              "groupDescription": "change from baseline in Brink Score: Pressure",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Power analysis was determined based on a 3 point improvement on the Vaizey score in both groups. With an allowable difference of 1 point between randomized groups, type I error level = 0.05, power = 0.8, and standard deviation of outcome of 4.",
+              "pValue": "<0.001",
+              "pValueComment": "a prior threshold 0.05",
+              "statisticalMethod": "t-test, 2 sided",
+              "statisticalComment": "continuous outcome"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Brink Scale Score: Vertical Displacement",
+          "description": "The Brink scale evaluates 3 PFM contraction variables: vaginal pressure or muscle force, elevation or vertical displacement of the examiner's fingers, and duration of contraction. Each muscle contraction variable is rated on a 4-point ordinal scale (1-4). Higher scores indicating greater strength.",
+          "populationDescription": "one participant withdrew, one participant was lost to follow up at 16 weeks, one participant completed 16-week surveys but did not follow up for in person visit",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline to 16 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "8 Week Use of Leva",
+              "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+            },
+            {
+              "id": "OG001",
+              "title": "16 Week Use of Leva",
+              "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.0",
+                      "lowerLimit": "1.0",
+                      "upperLimit": "2.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.0",
+                      "lowerLimit": "1.0",
+                      "upperLimit": "2.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "16 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.5",
+                      "lowerLimit": "2.0",
+                      "upperLimit": "4.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.0",
+                      "lowerLimit": "2.0",
+                      "upperLimit": "4.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "Change from baseline in Brink Score: Vertical Displacement",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Power analysis was determined based on a 3 point improvement on the Vaizey score in both groups. With an allowable difference of 1 point between randomized groups, type I error level = 0.05, power = 0.8, and standard deviation of outcome of 4.",
+              "pValue": "<0.001",
+              "pValueComment": "a prior threshold 0.05",
+              "statisticalMethod": "t-test, 2 sided",
+              "statisticalComment": "continuous outcome"
+            },
+            {
+              "groupIds": [
+                "OG001"
+              ],
+              "groupDescription": "change from baseline in Brink Score: Vertical Displacement",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Power analysis was determined based on a 3 point improvement on the Vaizey score in both groups. With an allowable difference of 1 point between randomized groups, type I error level = 0.05, power = 0.8, and standard deviation of outcome of 4.",
+              "pValue": "<0.001",
+              "pValueComment": "a prior threshold 0.05",
+              "statisticalMethod": "t-test, 2 sided",
+              "statisticalComment": "continuous outcome"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Brink Scale Score: Duration Contraction",
+          "description": "The Brink scale evaluates 3 PFM contraction variables: vaginal pressure or muscle force, elevation or vertical displacement of the examiner's fingers, and duration of contraction. Each muscle contraction variable is rated on a 4-point ordinal scale (1-4). Higher scores indicating greater strength.",
+          "populationDescription": "one participant withdrew, one participant was lost to follow up at 16 weeks, one participant completed 16-week surveys but did not follow up for in person visit",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline to 16 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "8 Week Use of Leva",
+              "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+            },
+            {
+              "id": "OG001",
+              "title": "16 Week Use of Leva",
+              "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.0",
+                      "lowerLimit": "2.0",
+                      "upperLimit": "3.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.0",
+                      "lowerLimit": "2.0",
+                      "upperLimit": "3.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "16 weeks",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.0",
+                      "lowerLimit": "3.0",
+                      "upperLimit": "4.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.0",
+                      "lowerLimit": "4.0",
+                      "upperLimit": "4.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000"
+              ],
+              "groupDescription": "change from baseline in Brink Score: Duration Contraction",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Power analysis was determined based on a 3 point improvement on the Vaizey score in both groups. With an allowable difference of 1 point between randomized groups, type I error level = 0.05, power = 0.8, and standard deviation of outcome of 4.",
+              "pValue": "<0.001",
+              "pValueComment": "a prior threshold 0.05",
+              "statisticalMethod": "t-test, 2 sided",
+              "statisticalComment": "continuous outcome"
+            },
+            {
+              "groupIds": [
+                "OG001"
+              ],
+              "groupDescription": "change from baseline in Brink Score: Duration Contraction",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Power analysis was determined based on a 3 point improvement on the Vaizey score in both groups. With an allowable difference of 1 point between randomized groups, type I error level = 0.05, power = 0.8, and standard deviation of outcome of 4.",
+              "pValue": "<0.001",
+              "pValueComment": "a prior threshold 0.05",
+              "statisticalMethod": "t-test, 2 sided",
+              "statisticalComment": "continuous outcome"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Stool Consistency",
+          "description": "Use the Bristol Stool Scale to evaluate stool consistency. Ranges from Type 1 to Type 7, where Type 1 is hardest consistency and Type 7 is entirely liquid.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Baseline to 16 and 24 weeks, long term follow up at 1 and 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Fecal Incontinence Quality of Life (FIQoL)",
+          "description": "Use FIQoL scale, in which participants rate questions about how often an issue is a concern, and how much they agree with statements on a scale of 1-5. Higher scores indicate lower quality of life.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Baseline to 16 and 24 weeks, long term follow up at 1 and 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Sexual Function (PISQ-IR)",
+          "description": "PISQ-IR is a 20 item survey, where higher scores indicate lower sexual function.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Baseline to 16 and 24 weeks, long term follow up at 1 and 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Patient Global Impression of Improvement (PGI-I)",
+          "description": "PGI-I is a 2 question qualitative survey in which participants state their satisfaction and perception of improvement.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "16 and 24 weeks, long term follow up at 1 and 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Patient Satisfaction (PGI-I)",
+          "description": "PGI-I is a 2 question qualitative survey in which participants state their satisfaction and perception of improvement.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "16 and 24 weeks, long term follow up at 1 and 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Estimated Percentage of Change",
+          "description": "Qualitative question in which participants state their estimate of how much better they are, on a scale from 0% (no better) to 100% (completely better).",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "16 and 24 weeks, long term follow up at 1 and 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Global Pelvic Floor Symptoms",
+          "description": "Use the Pelvic Floor Distress Inventory (PFDI-20) to evaluate change in pelvic floor symptoms. It is a 20 item survey with a range from 0-100 where higher scores indicate greater symptoms.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Baseline to 16 and 24 weeks, long term follow up at 1 and 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Evaluate Self-continuation of Pelvic Floor Muscle Exercises",
+          "description": "Participant self-report on whether and how often they continued the pelvic floor muscle exercises.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Baseline and 24 weeks, long term follow up at 1 and 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Cumulative Adverse Events",
+          "description": "Systematic assessment of all adverse events over the course of the study, reported as a number of total AEs.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Baseline and 24 weeks, long term follow up at 1 and 2 years",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "SECONDARY",
+          "title": "mHealth App Usability Questionnaire (MAUQ)",
+          "description": "MAUQ is an 18-item survey scored on a 7 point likert scale from 1 (disagree) to 7 (agree) with higher scores indicative of higher usability.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "16 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "8 Week Use of Leva",
+              "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+            },
+            {
+              "id": "OG001",
+              "title": "16 Week Use of Leva",
+              "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage."
+            },
+            {
+              "id": "OG002",
+              "title": "All Participants",
+              "description": "Summary data for all participants together."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "18"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "18"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "36"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Q1. The app was easy to use",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6.0",
+                      "lowerLimit": "5.0",
+                      "upperLimit": "7.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.0",
+                      "lowerLimit": "6.0",
+                      "upperLimit": "7.0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "7.0",
+                      "lowerLimit": "6.0",
+                      "upperLimit": "7.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Q2. It was easy for me to learn to use the app",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7.0",
+                      "lowerLimit": "6.0",
+                      "upperLimit": "7.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.0",
+                      "lowerLimit": "7.0",
+                      "upperLimit": "7.0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "7.0",
+                      "lowerLimit": "6.0",
+                      "upperLimit": "7.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Q11. I would use this app again",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7.0",
+                      "lowerLimit": "4.0",
+                      "upperLimit": "7.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.0",
+                      "lowerLimit": "6.0",
+                      "upperLimit": "7.0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "7.0",
+                      "lowerLimit": "5.5",
+                      "upperLimit": "7.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Q12. Overall, I am satisfied with this app",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6.0",
+                      "lowerLimit": "6.0",
+                      "upperLimit": "7.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.0",
+                      "lowerLimit": "6.0",
+                      "upperLimit": "7.0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "6.5",
+                      "lowerLimit": "6.0",
+                      "upperLimit": "7.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Q15. The app helped me manage my health effectively",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6.0",
+                      "lowerLimit": "3.0",
+                      "upperLimit": "7.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.0",
+                      "lowerLimit": "5.0",
+                      "upperLimit": "7.0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "6.0",
+                      "lowerLimit": "3.5",
+                      "upperLimit": "7.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Q1. The app was easy to use",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Power analysis was determined based on a 3 point improvement on the Vaizey score in both groups. With an allowable difference of 1 point between randomized groups, type I error level = 0.05, power = 0.8, and standard deviation of outcome of 4.",
+              "pValue": "0.035",
+              "pValueComment": "a prior threshold 0.05",
+              "statisticalMethod": "t-test, 2 sided",
+              "statisticalComment": "continuous outcome"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Q2. It was easy for me to learn to use the app",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Power analysis was determined based on a 3 point improvement on the Vaizey score in both groups. With an allowable difference of 1 point between randomized groups, type I error level = 0.05, power = 0.8, and standard deviation of outcome of 4.",
+              "pValue": "0.063",
+              "pValueComment": "a prior threshold 0.05",
+              "statisticalMethod": "t-test, 2 sided",
+              "statisticalComment": "continuous outcome"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Q11. I would use this app again",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Power analysis was determined based on a 3 point improvement on the Vaizey score in both groups. With an allowable difference of 1 point between randomized groups, type I error level = 0.05, power = 0.8, and standard deviation of outcome of 4.",
+              "pValue": "0.587",
+              "pValueComment": "a prior threshold 0.05",
+              "statisticalMethod": "t-test, 2 sided",
+              "statisticalComment": "continuous outcome"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Q12. Overall, I am satisfied with this app",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Power analysis was determined based on a 3 point improvement on the Vaizey score in both groups. With an allowable difference of 1 point between randomized groups, type I error level = 0.05, power = 0.8, and standard deviation of outcome of 4.",
+              "pValue": "0.107",
+              "pValueComment": "a prior threshold 0.05",
+              "statisticalMethod": "t-test, 2 sided",
+              "statisticalComment": "continuous outcome"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Q15. The app helped me manage my health effectively",
+              "nonInferiorityType": "EQUIVALENCE",
+              "nonInferiorityComment": "Power analysis was determined based on a 3 point improvement on the Vaizey score in both groups. With an allowable difference of 1 point between randomized groups, type I error level = 0.05, power = 0.8, and standard deviation of outcome of 4.",
+              "pValue": "0.486",
+              "pValueComment": "a prior threshold 0.05",
+              "statisticalMethod": "t-test, 2 sided",
+              "statisticalComment": "continuous outcome"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "up to 16 weeks (for primary outcome at the time of reporting)",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "8 Week Use of Leva",
+          "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 19,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 19,
+          "otherNumAffected": 2,
+          "otherNumAtRisk": 19
+        },
+        {
+          "id": "EG001",
+          "title": "16 Week Use of Leva",
+          "description": "The Leva Pelvic Health System: The Leva Pelvic Health System includes an intra-vaginal device that pairs with a smartphone application to provide real-time visual feedback about pelvic floor muscle performance during usage.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 19,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 19,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 19
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Sciatic Pain",
+          "organSystem": "Nervous system disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 19
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 19
+            }
+          ]
+        },
+        {
+          "term": "Pelvic Pain with Urination",
+          "organSystem": "Renal and urinary disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 19
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 19
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Ushma Patel, MD",
+        "organization": "UW School of Medicine and Public Health",
+        "email": "upatel@uwhealth.org",
+        "phone": "(608) 287-5898"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2025-01-23",
+          "uploadDate": "2025-05-12T09:19",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 748201
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D005242",
+          "term": "Fecal Incontinence"
+        },
+        {
+          "id": "D004688",
+          "term": "Encopresis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012002",
+          "term": "Rectal Diseases"
+        },
+        {
+          "id": "D007410",
+          "term": "Intestinal Diseases"
+        },
+        {
+          "id": "D005767",
+          "term": "Gastrointestinal Diseases"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D012817",
+          "term": "Signs and Symptoms, Digestive"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D001526",
+          "term": "Behavioral Symptoms"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        },
+        {
+          "id": "D019960",
+          "term": "Elimination Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

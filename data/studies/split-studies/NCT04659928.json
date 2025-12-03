@@ -1,0 +1,1470 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04659928",
+      "orgStudyIdInfo": {
+        "id": "HSC-DB-20-1017"
+      },
+      "organization": {
+        "fullName": "The University of Texas Health Science Center, Houston",
+        "class": "OTHER"
+      },
+      "briefTitle": "Evaluation of Aerosol in a Dental Clinic",
+      "officialTitle": "Evaluation of Aerosol in a Dental Clinic"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-07-21",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-05-02",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-05-02",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-11-30",
+      "studyFirstSubmitQcDate": "2020-12-08",
+      "studyFirstPostDateStruct": {
+        "date": "2020-12-09",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-06-18",
+      "resultsFirstSubmitQcDate": "2025-06-18",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-07-08",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-06-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-07-08",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Claudia Ruiz Brisuela",
+        "investigatorTitle": "Assistant Professor",
+        "investigatorAffiliation": "The University of Texas Health Science Center, Houston"
+      },
+      "leadSponsor": {
+        "name": "The University of Texas Health Science Center, Houston",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": true,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to evaluate the effectiveness of external evacuation units and mouth rinses during aerosol generating procedures in a dental clinic and to determine the risk level to the dental practitioners during aerosol generating procedures."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Covid19"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 41,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "High volume evacuation (HVE) suction only and hydrogen peroxide",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Device: High volume evacuation (HVE)",
+            "Drug: Hydrogen Peroxide"
+          ]
+        },
+        {
+          "label": "HVE suction and extraoral vacuum aspirator (EVA) and hydrogen peroxide",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Device: High volume evacuation (HVE)",
+            "Device: Extraoral vacuum aspirator (EVA)",
+            "Drug: Hydrogen Peroxide"
+          ]
+        },
+        {
+          "label": "HVE suction and extraoral vacuum aspirator (EVA) and Placebo",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Device: High volume evacuation (HVE)",
+            "Device: Extraoral vacuum aspirator (EVA)",
+            "Drug: Placebo"
+          ]
+        },
+        {
+          "label": "High volume evacuation (HVE) suction only and Placebo",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Device: High volume evacuation (HVE)",
+            "Drug: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "High volume evacuation (HVE)",
+          "description": "Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.",
+          "armGroupLabels": [
+            "HVE suction and extraoral vacuum aspirator (EVA) and Placebo",
+            "HVE suction and extraoral vacuum aspirator (EVA) and hydrogen peroxide",
+            "High volume evacuation (HVE) suction only and Placebo",
+            "High volume evacuation (HVE) suction only and hydrogen peroxide"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "Extraoral vacuum aspirator (EVA)",
+          "description": "Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.",
+          "armGroupLabels": [
+            "HVE suction and extraoral vacuum aspirator (EVA) and Placebo",
+            "HVE suction and extraoral vacuum aspirator (EVA) and hydrogen peroxide"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Hydrogen Peroxide",
+          "description": "Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse",
+          "armGroupLabels": [
+            "HVE suction and extraoral vacuum aspirator (EVA) and hydrogen peroxide",
+            "High volume evacuation (HVE) suction only and hydrogen peroxide"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Subjects will be given a placebo (plain water) mouth rinse",
+          "armGroupLabels": [
+            "HVE suction and extraoral vacuum aspirator (EVA) and Placebo",
+            "High volume evacuation (HVE) suction only and Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Bacterial Colony Forming Units (CFUs)",
+          "description": "At baseline (1 hour before treatment), four agar petri dishes will be placed at standardized distances (2 ft, 3 ft, 4 ft, and 6 ft) from the dental chair headrest in the operating room. An impinger will also be positioned 2 ft from the headrest. The number of bacterial colony-forming units (CFUs) will be counted for each petri dish and the impinger after a 72-hour incubation period. The average number of Bacterial CFUs is reported.",
+          "timeFrame": "Baseline"
+        },
+        {
+          "measure": "Number of Bacterial Colony Forming Units (CFUs)",
+          "description": "At the start of treatment, four agar petri dishes will be placed at standardized distances (2 ft, 3 ft, 4 ft, and 6 ft) from the dental chair headrest in the operating room for one hour. An impinger will also be positioned 2 ft from the headrest for one hour. The number of bacterial colony-forming units (CFUs) will be counted for each petri dish and the impinger after a 72-hour incubation period. The average number of Bacterial CFUs is reported.",
+          "timeFrame": "1 hour from the start of the treatment"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Bacterial Colony Forming Units (CFUs) at Each Location",
+          "description": "At baseline (1 hour before treatment), four agar petri dishes will be placed at standardized distances (2 ft, 3 ft, 4 ft, and 6 ft) from the dental chair headrest in the operating room. An impinger will also be positioned 2 ft from the headrest. The number of bacterial colony-forming units (CFUs) will be counted for each petri dish and the impinger after a 72-hour incubation period. The number of Bacterial CFUs per location is reported",
+          "timeFrame": "Baseline"
+        },
+        {
+          "measure": "Number of Bacterial Colony Forming Units (CFUs) at Each Location",
+          "description": "At the start of treatment, four agar petri dishes will be placed at standardized distances (2 ft, 3 ft, 4 ft, and 6 ft) from the dental chair headrest in the operating room for one hour. An impinger will also be positioned 2 ft from the headrest for one hour. The number of bacterial colony-forming units (CFUs) will be counted for each petri dish and the impinger after a 72-hour incubation period. The number of Bacterial CFUs per location is reported.",
+          "timeFrame": "1 hour from the start of the treatment"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* prepping natural teeth at the appointment\n* at least an hour long procedure\n* procedure will be the first one in the morning",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Claudia Ruiz Brisuela, DDS",
+          "affiliation": "The University of Texas Health Science Center, Houston",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "The University of Texas Health Science Center at Houston",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "High Volume Evacuation (HVE) Suction Only and Hydrogen Peroxide",
+          "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nHydrogen Peroxide: Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse"
+        },
+        {
+          "id": "FG001",
+          "title": "HVE Suction and Extraoral Vacuum Aspirator (EVA) and Hydrogen Peroxide",
+          "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nExtraoral vacuum aspirator (EVA): Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.\n\nHydrogen Peroxide: Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse"
+        },
+        {
+          "id": "FG002",
+          "title": "High Volume Evacuation (HVE) Suction Only and Placebo",
+          "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nPlacebo: Subjects will be given a placebo (plain water) mouth rinse"
+        },
+        {
+          "id": "FG003",
+          "title": "HVE Suction and Extraoral Vacuum Aspirator (EVA) and Placebo",
+          "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nExtraoral vacuum aspirator (EVA): Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.\n\nPlacebo: Subjects will be given a placebo (plain water) mouth rinse"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "11"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "10"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "11"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "High Volume Evacuation (HVE) Suction Only and Hydrogen Peroxide",
+          "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nHydrogen Peroxide: Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse"
+        },
+        {
+          "id": "BG001",
+          "title": "HVE Suction and Extraoral Vacuum Aspirator (EVA) and Hydrogen Peroxide",
+          "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nExtraoral vacuum aspirator (EVA): Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.\n\nHydrogen Peroxide: Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse"
+        },
+        {
+          "id": "BG002",
+          "title": "High Volume Evacuation (HVE) Suction Only and Placebo",
+          "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nPlacebo: Subjects will be given a placebo (plain water) mouth rinse"
+        },
+        {
+          "id": "BG003",
+          "title": "HVE Suction and Extraoral Vacuum Aspirator (EVA) and Placebo",
+          "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nExtraoral vacuum aspirator (EVA): Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.\n\nPlacebo: Subjects will be given a placebo (plain water) mouth rinse"
+        },
+        {
+          "id": "BG004",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "10"
+            },
+            {
+              "groupId": "BG001",
+              "value": "10"
+            },
+            {
+              "groupId": "BG002",
+              "value": "11"
+            },
+            {
+              "groupId": "BG003",
+              "value": "10"
+            },
+            {
+              "groupId": "BG004",
+              "value": "41"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "41"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "26"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "41"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "17"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "24"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "41"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "41"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Bacterial Colony Forming Units (CFUs)",
+          "description": "At baseline (1 hour before treatment), four agar petri dishes will be placed at standardized distances (2 ft, 3 ft, 4 ft, and 6 ft) from the dental chair headrest in the operating room. An impinger will also be positioned 2 ft from the headrest. The number of bacterial colony-forming units (CFUs) will be counted for each petri dish and the impinger after a 72-hour incubation period. The average number of Bacterial CFUs is reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "bacterial colony forming units (CFUs)",
+          "timeFrame": "Baseline",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "High Volume Evacuation (HVE) Suction Only and Hydrogen Peroxide",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nHydrogen Peroxide: Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse"
+            },
+            {
+              "id": "OG001",
+              "title": "HVE Suction and Extraoral Vacuum Aspirator (EVA) and Hydrogen Peroxide",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nExtraoral vacuum aspirator (EVA): Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.\n\nHydrogen Peroxide: Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse"
+            },
+            {
+              "id": "OG002",
+              "title": "High Volume Evacuation (HVE) Suction Only and Placebo",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nPlacebo: Subjects will be given a placebo (plain water) mouth rinse"
+            },
+            {
+              "id": "OG003",
+              "title": "HVE Suction and Extraoral Vacuum Aspirator (EVA) and Placebo",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nExtraoral vacuum aspirator (EVA): Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.\n\nPlacebo: Subjects will be given a placebo (plain water) mouth rinse"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "47.2",
+                      "spread": "16.38"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "125.3",
+                      "spread": "155.43"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "70.7",
+                      "spread": "98.06"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "116.7",
+                      "spread": "143.38"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Bacterial Colony Forming Units (CFUs) at Each Location",
+          "description": "At baseline (1 hour before treatment), four agar petri dishes will be placed at standardized distances (2 ft, 3 ft, 4 ft, and 6 ft) from the dental chair headrest in the operating room. An impinger will also be positioned 2 ft from the headrest. The number of bacterial colony-forming units (CFUs) will be counted for each petri dish and the impinger after a 72-hour incubation period. The number of Bacterial CFUs per location is reported",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Bacterial Colony Forming Units (CFUs)",
+          "timeFrame": "Baseline",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "High Volume Evacuation (HVE) Suction Only and Hydrogen Peroxide",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nHydrogen Peroxide: Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse"
+            },
+            {
+              "id": "OG001",
+              "title": "HVE Suction and Extraoral Vacuum Aspirator (EVA) and Hydrogen Peroxide",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nExtraoral vacuum aspirator (EVA): Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.\n\nHydrogen Peroxide: Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse"
+            },
+            {
+              "id": "OG002",
+              "title": "High Volume Evacuation (HVE) Suction Only and Placebo",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nPlacebo: Subjects will be given a placebo (plain water) mouth rinse"
+            },
+            {
+              "id": "OG003",
+              "title": "HVE Suction and Extraoral Vacuum Aspirator (EVA) and Placebo",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nExtraoral vacuum aspirator (EVA): Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.\n\nPlacebo: Subjects will be given a placebo (plain water) mouth rinse"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Impinger (2 feet from dental chair headrest)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.6",
+                      "spread": "0.96"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "33.4",
+                      "spread": "93.86"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "2.22",
+                      "spread": "3.34"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "35.11",
+                      "spread": "99.36"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Plate 1 (2 feet from dental chair headrest)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13",
+                      "spread": "8.51"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10.8",
+                      "spread": "8.53"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "9.22",
+                      "spread": "5.38"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "18.44",
+                      "spread": "30.61"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Plate 2 (3 feet from dental chair headrest)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12.3",
+                      "spread": "9.63"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.3",
+                      "spread": "5.51"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "40.66",
+                      "spread": "97.39"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "11.11",
+                      "spread": "5.27"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Plate 3 (4 feet from dental chair headrest)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10.7",
+                      "spread": "6.37"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "66.2",
+                      "spread": "123.33"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "9",
+                      "spread": "6.72"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "11.66",
+                      "spread": "14.80"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Plate 4 (6 feet from dental chair headrest)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10.6",
+                      "spread": "7.84"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.6",
+                      "spread": "6.07"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "9.66",
+                      "spread": "6.63"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "40.44",
+                      "spread": "97.47"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Bacterial Colony Forming Units (CFUs) at Each Location",
+          "description": "At the start of treatment, four agar petri dishes will be placed at standardized distances (2 ft, 3 ft, 4 ft, and 6 ft) from the dental chair headrest in the operating room for one hour. An impinger will also be positioned 2 ft from the headrest for one hour. The number of bacterial colony-forming units (CFUs) will be counted for each petri dish and the impinger after a 72-hour incubation period. The number of Bacterial CFUs per location is reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Bacterial Colony Forming Units (CFUs)",
+          "timeFrame": "1 hour from the start of the treatment",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "High Volume Evacuation (HVE) Suction Only and Hydrogen Peroxide",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nHydrogen Peroxide: Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse"
+            },
+            {
+              "id": "OG001",
+              "title": "HVE Suction and Extraoral Vacuum Aspirator (EVA) and Hydrogen Peroxide",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nExtraoral vacuum aspirator (EVA): Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.\n\nHydrogen Peroxide: Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse"
+            },
+            {
+              "id": "OG002",
+              "title": "High Volume Evacuation (HVE) Suction Only and Placebo",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nPlacebo: Subjects will be given a placebo (plain water) mouth rinse"
+            },
+            {
+              "id": "OG003",
+              "title": "HVE Suction and Extraoral Vacuum Aspirator (EVA) and Placebo",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nExtraoral vacuum aspirator (EVA): Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.\n\nPlacebo: Subjects will be given a placebo (plain water) mouth rinse"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Impinger (2 feet from dental chair headrest)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "31.4",
+                      "spread": "94.39"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "31.3",
+                      "spread": "94.43"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "2.9",
+                      "spread": "3.34"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "3.44",
+                      "spread": "5.36"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Plate 1 (2 feet from dental chair headrest)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.4",
+                      "spread": "4.50"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "16.9",
+                      "spread": "28.33"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "11.5",
+                      "spread": "6.98"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "12.33",
+                      "spread": "7.46"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Plate 2 (3 feet from dental chair headrest)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10.8",
+                      "spread": "8.10"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "14.5",
+                      "spread": "16.09"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "13.2",
+                      "spread": "11.28"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "12.11",
+                      "spread": "9.58"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Plate 3 (4 feet from dental chair headrest)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "40.3",
+                      "spread": "91.59"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "11.3",
+                      "spread": "8.05"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "10.2",
+                      "spread": "3.11"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "12.22",
+                      "spread": "8.54"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Plate 4 (6 feet from dental chair headrest)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9.4",
+                      "spread": "5.31"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "13.1",
+                      "spread": "12.99"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "7.9",
+                      "spread": "6.06"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "12.33",
+                      "spread": "8.42"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Bacterial Colony Forming Units (CFUs)",
+          "description": "At the start of treatment, four agar petri dishes will be placed at standardized distances (2 ft, 3 ft, 4 ft, and 6 ft) from the dental chair headrest in the operating room for one hour. An impinger will also be positioned 2 ft from the headrest for one hour. The number of bacterial colony-forming units (CFUs) will be counted for each petri dish and the impinger after a 72-hour incubation period. The average number of Bacterial CFUs is reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "bacterial colony forming units (CFUs)",
+          "timeFrame": "1 hour from the start of the treatment",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "High Volume Evacuation (HVE) Suction Only and Hydrogen Peroxide",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nHydrogen Peroxide: Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse"
+            },
+            {
+              "id": "OG001",
+              "title": "HVE Suction and Extraoral Vacuum Aspirator (EVA) and Hydrogen Peroxide",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nExtraoral vacuum aspirator (EVA): Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.\n\nHydrogen Peroxide: Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse"
+            },
+            {
+              "id": "OG002",
+              "title": "High Volume Evacuation (HVE) Suction Only and Placebo",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nPlacebo: Subjects will be given a placebo (plain water) mouth rinse"
+            },
+            {
+              "id": "OG003",
+              "title": "HVE Suction and Extraoral Vacuum Aspirator (EVA) and Placebo",
+              "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nExtraoral vacuum aspirator (EVA): Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.\n\nPlacebo: Subjects will be given a placebo (plain water) mouth rinse"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "10"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "11"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "101.3",
+                      "spread": "131.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "87.1",
+                      "spread": "101"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "45.7",
+                      "spread": "15.28"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "52.44",
+                      "spread": "17.89"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Up to 1 hour",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "High Volume Evacuation (HVE) Suction Only and Hydrogen Peroxide",
+          "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nHydrogen Peroxide: Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 10,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 10,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 10
+        },
+        {
+          "id": "EG001",
+          "title": "HVE Suction and Extraoral Vacuum Aspirator (EVA) and Hydrogen Peroxide",
+          "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nExtraoral vacuum aspirator (EVA): Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.\n\nHydrogen Peroxide: Subjects will be given 1.5 % Oral Solution of hydrogen peroxide mouth rinse",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 10,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 10,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 10
+        },
+        {
+          "id": "EG002",
+          "title": "High Volume Evacuation (HVE) Suction Only and Placebo",
+          "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nPlacebo: Subjects will be given a placebo (plain water) mouth rinse",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 11,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 11,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 11
+        },
+        {
+          "id": "EG003",
+          "title": "HVE Suction and Extraoral Vacuum Aspirator (EVA) and Placebo",
+          "description": "High volume evacuation (HVE): Intra oral suction will be done and during the procedure,bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given a mouth rinse.\n\nExtraoral vacuum aspirator (EVA): Extraoral suction connected to dental suction will be used and bacterial colony forming units (cfus) will be captured during dental care by placing large format petri dishes containing bacterial culture media in the dental operatory with open lids. Once aerosol capture is complete, petri dishes will be incubated and quantified under BSL-2 safety conditions in the lab. Patient will be given mouth rinse.\n\nPlacebo: Subjects will be given a placebo (plain water) mouth rinse",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 10,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 10,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 10
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Claudia Ruiz Brisuela, DDS",
+        "organization": "The University of Texas Health Science Center at Houston",
+        "email": "Claudia.RuizBrisuela@uth.tmc.edu",
+        "phone": "713-486-4138"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2025-04-04",
+          "uploadDate": "2025-05-27T16:59",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 297769
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000086382",
+          "term": "COVID-19"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011024",
+          "term": "Pneumonia, Viral"
+        },
+        {
+          "id": "D011014",
+          "term": "Pneumonia"
+        },
+        {
+          "id": "D012141",
+          "term": "Respiratory Tract Infections"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D014777",
+          "term": "Virus Diseases"
+        },
+        {
+          "id": "D018352",
+          "term": "Coronavirus Infections"
+        },
+        {
+          "id": "D003333",
+          "term": "Coronaviridae Infections"
+        },
+        {
+          "id": "D030341",
+          "term": "Nidovirales Infections"
+        },
+        {
+          "id": "D012327",
+          "term": "RNA Virus Infections"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006861",
+          "term": "Hydrogen Peroxide"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010545",
+          "term": "Peroxides"
+        },
+        {
+          "id": "D010087",
+          "term": "Oxides"
+        },
+        {
+          "id": "D000838",
+          "term": "Anions"
+        },
+        {
+          "id": "D007477",
+          "term": "Ions"
+        },
+        {
+          "id": "D004573",
+          "term": "Electrolytes"
+        },
+        {
+          "id": "D007287",
+          "term": "Inorganic Chemicals"
+        },
+        {
+          "id": "D017382",
+          "term": "Reactive Oxygen Species"
+        },
+        {
+          "id": "D005609",
+          "term": "Free Radicals"
+        },
+        {
+          "id": "D017601",
+          "term": "Oxygen Compounds"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

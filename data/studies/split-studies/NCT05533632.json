@@ -1,0 +1,1659 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05533632",
+      "orgStudyIdInfo": {
+        "id": "NN9535-4844"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "U1111-1281-5677",
+          "type": "OTHER",
+          "domain": "World Health Organization (WHO)"
+        }
+      ],
+      "organization": {
+        "fullName": "Novo Nordisk A/S",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Safety Study of Weekly Semaglutide in Chilean Participants With Type 2 Diabetes",
+      "officialTitle": "Safety and Tolerability of Weekly Semaglutide 0.5 mg or 1.0 mg in Chilean Subjects With Type 2 Diabetes"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-04-25",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-01-18",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-01-18",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-09-06",
+      "studyFirstSubmitQcDate": "2022-09-06",
+      "studyFirstPostDateStruct": {
+        "date": "2022-09-09",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-01-16",
+      "resultsFirstSubmitQcDate": "2025-01-16",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-02-10",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-09-23",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-24",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Novo Nordisk A/S",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study is testing the safety and tolerability of subcutaneous semaglutide in participants with type 2 diabetes (T2D) in Chile. Participants will get a once-weekly subcutaneous injection of semaglutide in doses decided by the study doctor's criteria, according to participant's personal needs. The study will last for about 24 weeks. Participants will have 4 clinic visits and 2 phone calls. Participants will have 3 laboratory tests during the study (blood and urine samples)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes Mellitus, Type 2"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 104,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Semaglutide",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will receive semaglutide subcutaneous (s.c.) injection once weekly in a dose escalation manner for 24 weeks: 0.25 milligrams (mg) (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24).",
+          "interventionNames": [
+            "Drug: Semaglutide"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Semaglutide",
+          "description": "Participants will receive semaglutide s.c. injection once weekly in a dose escalation manner for 24 weeks.",
+          "armGroupLabels": [
+            "Semaglutide"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Adverse Events (AEs)",
+          "description": "Number of adverse events from baseline (Day 1) to week 24 is presented. An adverse event is any untoward medical occurrence in a clinical study participant that is temporally associated with the use of investigational medicinal product (IMP), whether or not considered related to the IMP. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period ends at the first date of any of the following: follow-up visit, premature discontinuation follow-up visit, last date on study product + 42 days for safety and +7 days for efficacy, end-date for the 'in-trial' observation period.",
+          "timeFrame": "From baseline (Day 1) up to 24 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in Glycosylated Haemoglobin (HbA1c)",
+          "description": "Change in glycosylated haemoglobin (HbA1c) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "timeFrame": "Baseline (week 1), week 24"
+        },
+        {
+          "measure": "Participants Achieving HbA1c Less Than (<) 7.0 Percentage (%) [Yes/No]",
+          "description": "Participants achieving HbA1c less than 7.0% (Yes/No) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "timeFrame": "From baseline (week 1) to week 24"
+        },
+        {
+          "measure": "Change in Fasting Plasma Glucose (FPG) [Milligrams Per Decilitre (mg/dL)]",
+          "description": "Change in fasting plasma glucose (FPG) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "timeFrame": "Baseline (week 1), week 24"
+        },
+        {
+          "measure": "Change in Body Weight (Kilogram [Kg])",
+          "description": "Change in body weight from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "timeFrame": "Baseline (week 1), week 24"
+        },
+        {
+          "measure": "Change in Waist Circumference [Centimeter (cm)]",
+          "description": "Change in waist circumference from baseline (week 1) to week 24 is presented. Waist circumference is defined as the minimal abdominal circumference located midway between the lower rib margin and the iliac crest. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "timeFrame": "Baseline (week 1), week 24"
+        },
+        {
+          "measure": "Participants Achieving Greater Than or Equal (≥) 5% Weight Reduction (Yes/No)",
+          "description": "Participants achieving greater than or equal (≥) 5% weight reduction (Yes/No) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "timeFrame": "From baseline (week 1) to week 24"
+        },
+        {
+          "measure": "Participants Achieving Greater Than or Equal (≥) 10% Weight Reduction (Yes/No)",
+          "description": "Participants achieving greater than or equal (≥) 10% weight reduction (Yes/No) from baseline (week 1) to week is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "timeFrame": "From baseline (week 1) to week 24"
+        },
+        {
+          "measure": "Change in Total Cholesterol (mg/dL)",
+          "description": "Change in total cholesterol (mg/dL) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "timeFrame": "Baseline (week 1), week 24"
+        },
+        {
+          "measure": "Change in Low Density Lipoprotein (LDL) Cholesterol (mg/dL)",
+          "description": "Change in low density lipoprotein (LDL) cholesterol (mg/dL) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "timeFrame": "Baseline (week 1), week 24"
+        },
+        {
+          "measure": "Change in High Density Lipoprotein (HDL) Cholesterol (mg/dL)",
+          "description": "Change in high density lipoprotein (HDL) cholesterol (mg/dL) cholesterol from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "timeFrame": "Baseline (week 1), week 24"
+        },
+        {
+          "measure": "Change in Triglycerides (mg/dL)",
+          "description": "Change in triglycerides (mg/dL) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "timeFrame": "Baseline (week 1), week 24"
+        },
+        {
+          "measure": "Change in Estimated Glomerular Filtration Rate (eGFR) [Millilitre Per Minute (mL/Min) Per 1.73 Square Meter (m^2)]",
+          "description": "Change in estimated glomerular filtration rate (eGFR) \\[millilitre per minute (mL/min) per 1.73 square meter (m\\^2)\\] from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "timeFrame": "Baseline (week 1), week 24"
+        },
+        {
+          "measure": "Change in Urine Albumin-Creatinine Ratio (UACR) [Milligram Per Gram (mg/g)]",
+          "description": "Change in Urine Albumin-Creatinine Ratio (UACR) \\[milligram per gram (mg/g)\\] from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "timeFrame": "Baseline (week 1), week 24"
+        },
+        {
+          "measure": "Participants Discontinued Due to Adverse Events (Treatment Discontinuation)",
+          "description": "Participants discontinued due to adverse events (treatment discontinuation) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period ends at the first date of any of the following: follow-up visit, premature discontinuation follow-up visit, last date on study product + 42 days for safety and +7 days for efficacy, end-date for the 'in-trial' observation period.",
+          "timeFrame": "From baseline (week 1) to week 24"
+        },
+        {
+          "measure": "Number of Severe Hypoglycaemic Episodes",
+          "description": "Number of severe hypoglycaemic episodes from baseline (week 1) to week 24 is presented. Hypoglycaemic episodes were classified as severe if there was no specific glucose threshold but were associated with severe cognitive impairment requiring external assistance for recovery. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), follow-up visit, premature discontinuation follow-up visit.",
+          "timeFrame": "From baseline (week 1) to week 24"
+        },
+        {
+          "measure": "Number of Severe or Blood Glucose Confirmed Symptomatic Hypoglycaemic Episodes",
+          "description": "Number of severe or blood glucose confirmed symptomatic hypoglycaemic episodes from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), follow-up visit, premature discontinuation follow-up visit.",
+          "timeFrame": "From baseline (week 1) to week 24"
+        },
+        {
+          "measure": "Number of Serious Adverse Events (SAEs)",
+          "description": "Number of serious adverse events (SAEs) from baseline (week 1) to week 24 is presented. An SAE is any untoward medical occurrence that fulfils at least one of the following criteria: results in death; is life-threatening; requires inpatient hospitalization or prolongation of existing hospitalization; results in persistent or significant disability/incapacity; is a congenital anomaly/birth defect; important medical event. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period ends at the first date of any of the following: follow-up visit, premature discontinuation follow-up visit, last date on study product + 42 days for safety and +7 days for efficacy, end-date for the 'in-trial' observation period.",
+          "timeFrame": "From baseline (week 1) to week 24"
+        },
+        {
+          "measure": "Number of Adverse Reactions (ARs)",
+          "description": "Number of adverse reactions (ARs) from baseline (week 1) to week 24 is presented. Adverse reaction is an undesired effect of a drug or other type of treatment that can range from mild to severe and can be life-threatening. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period ends at the first date of any of the following: follow-up visit, premature discontinuation follow-up visit, last date on study product + 42 days for safety and +7 days for efficacy, end-date for the 'in-trial' observation period.",
+          "timeFrame": "From baseline (week 1) to week 24"
+        },
+        {
+          "measure": "Number of Serious Adverse Reactions (SARs)",
+          "description": "Number of serious adverse reactions (SARs) from baseline (week 1) to week 24 is presented. Serious adverse reaction is an adverse reaction that results in death, is life-threatening, requires hospitalisation or prolongation of existing hospitalisation, results in persistent or significant disability or incapacity, or is a birth defect. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period ends at the first date of any of the following: follow-up visit, premature discontinuation follow-up visit, last date on study product + 42 days for safety and +7 days for efficacy, end-date for the 'in-trial' observation period.",
+          "timeFrame": "From baseline (week 1) to week 24"
+        },
+        {
+          "measure": "Number of Suspected Unexpected Serious Adverse Reactions (SUSARs) Per Participant",
+          "description": "Number of suspected unexpected serious adverse reactions (SUSARs) per participant from baseline (week 1) to week 24 is presented. SUSAR is a serious adverse event which is unexpected and regarded as possibly or probably related to the trial product. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period ends at the first date of any of the following: follow-up visit, premature discontinuation follow-up visit, last date on study product + 42 days for safety and +7 days for efficacy, end-date for the 'in-trial' observation period.",
+          "timeFrame": "From baseline (week 1) to week 24"
+        },
+        {
+          "measure": "Change From Baseline in Heart Rate (Pulse) After 24 Weeks of Treatment",
+          "description": "Change from baseline in heart rate (pulse) after 24 weeks of treatment is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "timeFrame": "Baseline (week 1), week 24"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants diagnosed (clinically) with type 2 diabetes greater than equal to (≥) 90 days prior to the screening visit.\n* Stable daily dose of Oral Antidiabetic Drug (OAD) and/or insulin treatment for ≥ 60 days prior to the screening visit.\n* HbA1c 7.5-10% (59-86 millimoles per mole \\[mmol/mol\\]) (both inclusive) in Visit 1.\n* Participants in which Ozempic is indicated according to approved local label.\n* Fundoscopy/Fundus photography record less than equal to (≤) 12 months.\n\nExclusion Criteria:\n\n* Known or suspected hypersensitivity to study intervention(s) or related products.\n* Previous participation in this study. Participation is defined as signed informed consent.\n* Female who is pregnant, breast-feeding or intends to become pregnant or is of childbearing potential and not using adequate contraceptive method.\n* Participation in any clinical trial of an approved or non-approved investigational medicinal product within 30 days before the screening visit, except Coronavirus Disease 2019 (COVID-19) related trials (this is allowed).\n* Treatment with any glucagon-like peptide-1 receptor agonists (GLP-1 RA) medication prior to the screening visit.\n* Any disorder which in the investigator's opinion might jeopardise participant's safety or compliance with the protocol.\n* Family or personal history of Multiple Endocrine Neoplasia Type 2 or Medullary Thyroid Carcinoma.\n* History of pancreatitis (acute or chronic).\n* Renal impairment defined as estimated glomerular filtration rate (eGFR) below 30 milliliters/minute (mL/min)/1.73 meter square (m\\^2) as per MDRD-4 (Modification of Diet in Renal Disease).\n* Myocardial infarction, stroke or hospitalisation for unstable angina or transient ischaemic attack within the past 180 days prior to the day of screening.\n* Participants presently classified as being in New York Heart Association (NYHA) Class IV heart failure.\n* Planned coronary, carotid or peripheral artery revascularisation known on the day of screening.\n* Participants with alanine aminotransferase (ALT) \\> 2.5 x upper normal limit (UNL).\n* Use of systemic immunosuppressive treatment within 90 days prior to screening.\n* Treatment with any medication for the indication of diabetes or obesity other than stated in the inclusion criteria in a period of 90 days before the day of screening. An exception is short-term insulin treatment for acute illness for a total of ≤ 14 days.\n* Known hypoglycaemic unawareness and/or recurrent severe hypoglycaemic episodes as judged by the investigator.\n* Proliferative retinopathy or maculopathy requiring acute treatment. Verified by fundus photography or dilated fundoscopy performed within 12 months prior to screening.\n* History or presence of malignant neoplasms within the last 5 years (except basal and squamous cell skin cancer and carcinoma in situ).",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Clinical Transparency dept. 2834",
+          "affiliation": "Novo Nordisk A/S",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Servicios Médicos Godoy Limitada",
+          "city": "Santiago, Región Metropolitana",
+          "zip": "7500710",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.45694,
+            "lon": -70.64827
+          }
+        },
+        {
+          "facility": "Hospital San Juan de Dios_Santiago, Región Metropolitana",
+          "city": "Santiago, Región Metropolitana",
+          "zip": "8350429",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.45694,
+            "lon": -70.64827
+          }
+        },
+        {
+          "facility": "Hospital Padre Hurtado",
+          "city": "Santiago, Región Metropolitana",
+          "zip": "8880465",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.45694,
+            "lon": -70.64827
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "According to the Novo Nordisk disclosure commitment on novonordisk-trials.com",
+      "url": "http://novonordisk-trials.com"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "recruitmentDetails": "The trial was conducted at 3 sites in Chile.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Semaglutide",
+          "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "104"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "93"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Participant no longer wants to participate in study, has other priorities",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Participant moved to another city and will not come back to Santiago",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                }
+              ]
+            },
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Semaglutide",
+          "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "104"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "58.3",
+                      "spread": "9.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "83"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "21"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Indigenous",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "No specific ethnicity",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "60"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "Other",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "35"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Adverse Events (AEs)",
+          "description": "Number of adverse events from baseline (Day 1) to week 24 is presented. An adverse event is any untoward medical occurrence in a clinical study participant that is temporally associated with the use of investigational medicinal product (IMP), whether or not considered related to the IMP. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period ends at the first date of any of the following: follow-up visit, premature discontinuation follow-up visit, last date on study product + 42 days for safety and +7 days for efficacy, end-date for the 'in-trial' observation period.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Events",
+          "timeFrame": "From baseline (Day 1) up to 24 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "104"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "45"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Glycosylated Haemoglobin (HbA1c)",
+          "description": "Change in glycosylated haemoglobin (HbA1c) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product. Overall Number of Participants Analysed = participants with available data.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Percentage of HbA1c",
+          "timeFrame": "Baseline (week 1), week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "92"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.6",
+                      "spread": "1.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Participants Achieving HbA1c Less Than (<) 7.0 Percentage (%) [Yes/No]",
+          "description": "Participants achieving HbA1c less than 7.0% (Yes/No) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product. Overall Number of Participants Analysed = participants with available data.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From baseline (week 1) to week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "92"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "52"
+                    }
+                  ]
+                },
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "40"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Fasting Plasma Glucose (FPG) [Milligrams Per Decilitre (mg/dL)]",
+          "description": "Change in fasting plasma glucose (FPG) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product. Overall Number of Participants Analysed = participants with available data.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mg/dL",
+          "timeFrame": "Baseline (week 1), week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "92"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-26.2",
+                      "spread": "61.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Body Weight (Kilogram [Kg])",
+          "description": "Change in body weight from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product. Overall Number of Participants Analysed = participants with available data.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Kg",
+          "timeFrame": "Baseline (week 1), week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "92"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-5.3",
+                      "spread": "4.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Waist Circumference [Centimeter (cm)]",
+          "description": "Change in waist circumference from baseline (week 1) to week 24 is presented. Waist circumference is defined as the minimal abdominal circumference located midway between the lower rib margin and the iliac crest. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product. Overall Number of Participants Analysed = participants with available data.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "cm",
+          "timeFrame": "Baseline (week 1), week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "92"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-5.7",
+                      "spread": "5.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Participants Achieving Greater Than or Equal (≥) 5% Weight Reduction (Yes/No)",
+          "description": "Participants achieving greater than or equal (≥) 5% weight reduction (Yes/No) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product. Overall Number of Participants Analysed = participants with available data.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From baseline (week 1) to week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "92"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "56"
+                    }
+                  ]
+                },
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "36"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Participants Achieving Greater Than or Equal (≥) 10% Weight Reduction (Yes/No)",
+          "description": "Participants achieving greater than or equal (≥) 10% weight reduction (Yes/No) from baseline (week 1) to week is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product. Overall Number of Participants Analysed = participants with available data.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From baseline (week 1) to week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "92"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    }
+                  ]
+                },
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "75"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Total Cholesterol (mg/dL)",
+          "description": "Change in total cholesterol (mg/dL) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product. Overall Number of Participants Analysed = participants with available data.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mg/dL",
+          "timeFrame": "Baseline (week 1), week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "92"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-14.1",
+                      "spread": "26.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Low Density Lipoprotein (LDL) Cholesterol (mg/dL)",
+          "description": "Change in low density lipoprotein (LDL) cholesterol (mg/dL) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product. Overall Number of Participants Analysed = participants with available data.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mg/dL",
+          "timeFrame": "Baseline (week 1), week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "87"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-12.5",
+                      "spread": "26.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in High Density Lipoprotein (HDL) Cholesterol (mg/dL)",
+          "description": "Change in high density lipoprotein (HDL) cholesterol (mg/dL) cholesterol from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product. Overall Number of Participants Analysed = participants with available data.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mg/dL",
+          "timeFrame": "Baseline (week 1), week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "92"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.1",
+                      "spread": "5.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Triglycerides (mg/dL)",
+          "description": "Change in triglycerides (mg/dL) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product. Overall Number of Participants Analysed = participants with available data.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mg/dL",
+          "timeFrame": "Baseline (week 1), week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "92"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-13.8",
+                      "spread": "105.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Estimated Glomerular Filtration Rate (eGFR) [Millilitre Per Minute (mL/Min) Per 1.73 Square Meter (m^2)]",
+          "description": "Change in estimated glomerular filtration rate (eGFR) \\[millilitre per minute (mL/min) per 1.73 square meter (m\\^2)\\] from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product. Overall Number of Participants Analysed = participants with available data.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mL/min per 1.73 m^2",
+          "timeFrame": "Baseline (week 1), week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "92"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.1",
+                      "spread": "9.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Urine Albumin-Creatinine Ratio (UACR) [Milligram Per Gram (mg/g)]",
+          "description": "Change in Urine Albumin-Creatinine Ratio (UACR) \\[milligram per gram (mg/g)\\] from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product. Overall Number of Participants Analysed = participants with available data.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mg/g",
+          "timeFrame": "Baseline (week 1), week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "88"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-18.0",
+                      "spread": "410.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Participants Discontinued Due to Adverse Events (Treatment Discontinuation)",
+          "description": "Participants discontinued due to adverse events (treatment discontinuation) from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period ends at the first date of any of the following: follow-up visit, premature discontinuation follow-up visit, last date on study product + 42 days for safety and +7 days for efficacy, end-date for the 'in-trial' observation period.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From baseline (week 1) to week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "104"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Severe Hypoglycaemic Episodes",
+          "description": "Number of severe hypoglycaemic episodes from baseline (week 1) to week 24 is presented. Hypoglycaemic episodes were classified as severe if there was no specific glucose threshold but were associated with severe cognitive impairment requiring external assistance for recovery. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), follow-up visit, premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Episodes",
+          "timeFrame": "From baseline (week 1) to week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "104"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Severe or Blood Glucose Confirmed Symptomatic Hypoglycaemic Episodes",
+          "description": "Number of severe or blood glucose confirmed symptomatic hypoglycaemic episodes from baseline (week 1) to week 24 is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), follow-up visit, premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Episodes",
+          "timeFrame": "From baseline (week 1) to week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "104"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Severe",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Symptomatic",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Serious Adverse Events (SAEs)",
+          "description": "Number of serious adverse events (SAEs) from baseline (week 1) to week 24 is presented. An SAE is any untoward medical occurrence that fulfils at least one of the following criteria: results in death; is life-threatening; requires inpatient hospitalization or prolongation of existing hospitalization; results in persistent or significant disability/incapacity; is a congenital anomaly/birth defect; important medical event. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period ends at the first date of any of the following: follow-up visit, premature discontinuation follow-up visit, last date on study product + 42 days for safety and +7 days for efficacy, end-date for the 'in-trial' observation period.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Events",
+          "timeFrame": "From baseline (week 1) to week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "104"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Adverse Reactions (ARs)",
+          "description": "Number of adverse reactions (ARs) from baseline (week 1) to week 24 is presented. Adverse reaction is an undesired effect of a drug or other type of treatment that can range from mild to severe and can be life-threatening. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period ends at the first date of any of the following: follow-up visit, premature discontinuation follow-up visit, last date on study product + 42 days for safety and +7 days for efficacy, end-date for the 'in-trial' observation period.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Events",
+          "timeFrame": "From baseline (week 1) to week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "104"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "39"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Serious Adverse Reactions (SARs)",
+          "description": "Number of serious adverse reactions (SARs) from baseline (week 1) to week 24 is presented. Serious adverse reaction is an adverse reaction that results in death, is life-threatening, requires hospitalisation or prolongation of existing hospitalisation, results in persistent or significant disability or incapacity, or is a birth defect. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period ends at the first date of any of the following: follow-up visit, premature discontinuation follow-up visit, last date on study product + 42 days for safety and +7 days for efficacy, end-date for the 'in-trial' observation period.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Events",
+          "timeFrame": "From baseline (week 1) to week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "104"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Suspected Unexpected Serious Adverse Reactions (SUSARs) Per Participant",
+          "description": "Number of suspected unexpected serious adverse reactions (SUSARs) per participant from baseline (week 1) to week 24 is presented. SUSAR is a serious adverse event which is unexpected and regarded as possibly or probably related to the trial product. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period ends at the first date of any of the following: follow-up visit, premature discontinuation follow-up visit, last date on study product + 42 days for safety and +7 days for efficacy, end-date for the 'in-trial' observation period.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Events",
+          "timeFrame": "From baseline (week 1) to week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "104"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Heart Rate (Pulse) After 24 Weeks of Treatment",
+          "description": "Change from baseline in heart rate (pulse) after 24 weeks of treatment is presented. The outcome measure was evaluated based on the data from on-treatment observation period which was defined as the time period where sub-set of the 'in-trial' observation period and represents the time period where participants are considered exposed to study product. The observation period starts at the date of first dose of study product and ends at any of the following: end of treatment (week 24), premature discontinuation follow-up visit.",
+          "populationDescription": "Full analysis set (FAS) included all participants exposed to the study product. Overall Number of Participants Analysed = participants with available data.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "beats per minute (bpm)",
+          "timeFrame": "Baseline (week 1), week 24",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Semaglutide",
+              "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "92"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.9",
+                      "spread": "11.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Baseline (Day 1) up to Week 24",
+      "description": "All the presented adverse events (AEs) are treatment emergent adverse events (TEAEs). Treatment emergent adverse events (TEAEs): events that had onset date (or increase in severity) during on-treatment observation period. Full analysis set (FAS) included all participants exposed to the study product.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Semaglutide",
+          "description": "Participants received subcutaneous (s.c.) injection of Semaglutide once-weekly in a dose escalation manner for 24 weeks: 0.25 milligrams \\[mg\\], (weeks 1 to 4), 0.5 mg (weeks 5 to 12) and 0.5 mg or 1.0 mg (weeks 13 to 24).",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 104,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 104,
+          "otherNumAffected": 18,
+          "otherNumAtRisk": 104
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Acute myocardial infarction",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 24",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 104
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Diarrhea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 104
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 14,
+              "numAffected": 12,
+              "numAtRisk": 104
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "At the end of the trial, one or more scientific publications may be prepared collaboratively by the investigator(s) and Novo Nordisk. Novo Nordisk reserves the right to postpone publication and/or communication for up to 60 days to protect intellectual property"
+      },
+      "pointOfContact": {
+        "title": "Clinical Reporting Office (2834)",
+        "organization": "Novo Nordisk A/S",
+        "email": "clinicaltrials@novonordisk.com",
+        "phone": "(+1) 866-867-7178"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2022-02-24",
+          "uploadDate": "2025-01-16T06:08",
+          "filename": "Prot_000.pdf",
+          "size": 1516883
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2022-06-29",
+          "uploadDate": "2025-01-16T06:08",
+          "filename": "SAP_001.pdf",
+          "size": 7039279
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000591245",
+          "term": "semaglutide"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

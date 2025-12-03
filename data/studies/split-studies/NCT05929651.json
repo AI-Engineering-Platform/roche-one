@@ -1,0 +1,2911 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05929651",
+      "orgStudyIdInfo": {
+        "id": "MEQ00086"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "U1111-1277-6838",
+          "type": "REGISTRY",
+          "domain": "ICTRP"
+        },
+        {
+          "id": "2025-000002-42",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Sanofi",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Study of Immunogenicity and Safety of MenQuadfi® as a Booster Vaccine in Toddlers 12 to 23 Months, Regardless of the Quadrivalent Meningococcal Conjugate Vaccine Used for Priming in Infancy",
+      "officialTitle": "A Descriptive, Phase IV, Open-label, Single-arm Multi-center Study to Assess the Immunogenicity and Safety of MenQuadfi® as a Booster Vaccine in Healthy Toddlers 12 to 23 Months of Age Who Had Been Primed With at Least 1 Dose of Another Quadrivalent Meningococcal Conjugate Vaccine, ie, Nimenrix® (MCV4-TT) or Menveo® (MCV4-CRM), in Infancy."
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-08",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-09-07",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-09-09",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-09-09",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-06-12",
+      "studyFirstSubmitQcDate": "2023-06-28",
+      "studyFirstPostDateStruct": {
+        "date": "2023-07-03",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-08-29",
+      "resultsFirstSubmitQcDate": "2025-08-29",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-09-22",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-08-29",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-22",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Sanofi Pasteur, a Sanofi Company",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This study evaluated the immunogenicity and safety of a single dose of MenQuadfi® administered as a booster vaccine in toddlers 12 - 23 months of age in Argentina who had been primed with at least 1 dose of the quadrivalent meningococcal conjugate vaccines Nimenrix® or Menveo® during infancy to protect against invasive meningococcal disease (IMD).\n\nParticipants received a single dose of MenQuadfi® at Visit 1. Participants provided 2 blood samples, one at D01 (Visit 1) pre-vaccination and another at D31 (Visit 2) post-vaccination for the immunogenicity assessments.\n\nStudy included 2 visits at D01 (Visit 1) and at D31 (Visit 2), and 1 Telephone call (TC) for safety follow-up at D09 post-study vaccination.",
+      "detailedDescription": "Study duration was approximately 30 days (+14 days) per participant"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Meningococcal Immunisation",
+        "Healthy Volunteers"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 71,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "MenACYW conjugate vaccine",
+          "type": "EXPERIMENTAL",
+          "description": "participants received a single booster dose of the MenACYW conjugate vaccine with an interval of at least 2 months after the last vaccination with Nimenrix® or Menveo® received during infancy before 12 months of age",
+          "interventionNames": [
+            "Biological: MenACYW conjugate vaccine"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "MenACYW conjugate vaccine",
+          "description": "Pharmaceutical form: Liquid solution Route of administration: Intramuscular (IM) injection",
+          "armGroupLabels": [
+            "MenACYW conjugate vaccine"
+          ],
+          "otherNames": [
+            "MenQuadfi®"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Percentage of Participants With Serum Bactericidal Assay Using Human Complement (hSBA) Antibody Titers >=1:8 Against Meningococcal Serogroups A, C, Y, and W",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using human complement (hSBA). Percentages are rounded to the nearest tenth.",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)"
+        },
+        {
+          "measure": "Geometric Mean Titers (GMTs) Against Meningococcal Serogroups A, C, Y, and W as Measured by Serum Bactericidal Assay Using Human Complement",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using human complement (hSBA).",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)"
+        },
+        {
+          "measure": "Percentage of Participants With Serum Bactericidal Assay Using Human Complement Antibody Titers >=1:4 Against Meningococcal Serogroups A, C, Y, and W",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using human complement (hSBA). Percentages are rounded to the nearest tenth.",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)"
+        },
+        {
+          "measure": "Percentage of Participants With Serum Bactericidal Assay Using Human Complement Antibody Titers >=4-Fold Rise From Pre-vaccination to Post-Vaccination",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using human complement (hSBA). Percentages are rounded to the nearest tenth.",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)"
+        },
+        {
+          "measure": "Percentage of Participants With Vaccine Seroresponse by Serum Bactericidal Assay Using Human Complement",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using human complement (hSBA). hSBA vaccine seroresponse was defined for a participant with a pre-vaccination titer \\<1:8 as a post-vaccination titer of \\>=1:16 and for a participant with a pre-vaccination titer \\>=1:8 as a post-vaccination titer that is at least 4-fold greater than the pre-vaccination titer. Percentages are rounded to the nearest tenth.",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post vaccination on Day 1)"
+        },
+        {
+          "measure": "Geometric Mean Titers Against Meningococcal Serogroups A, C, Y, and W as Measured by Serum Bactericidal Antibody Assay Using Baby Rabbit Complement (rSBA)",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using baby rabbit complement (rSBA).",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)"
+        },
+        {
+          "measure": "Percentage of Participants With Serum Bactericidal Antibody Assay Using Baby Rabbit Complement Antibody Titers >=1:8 and >=1:128 Against Meningococcal Serogroups A, C, Y, and W",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using baby rabbit complement (rSBA). Percentages are rounded to the nearest tenth.",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)"
+        },
+        {
+          "measure": "Percentage of Participants With Serum Bactericidal Antibody Assay Using Baby Rabbit Complement Antibody Titers >=4-Fold Rise From Pre-vaccination to Post-Vaccination",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using baby rabbit complement (rSBA). Percentages are rounded to the nearest tenth.",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)"
+        },
+        {
+          "measure": "Percentage of Participants With Vaccine Seroresponse by Serum Bactericidal Antibody Assay Using Baby Rabbit Complement",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using baby rabbit complement (rSBA). rSBA vaccine seroresponse was defined for a participant with a pre-vaccination titer \\<1:8 as a post-vaccination titer of \\>=1:32 and for a participant with a pre-vaccination titer \\>=1:8 as a post-vaccination titer that is at least 4-fold greater than the pre-vaccination titer. Percentages are rounded to the nearest tenth.",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)"
+        },
+        {
+          "measure": "Geometric Mean Concentrations (GMCs) of Antibodies Against Tetanus Toxoid",
+          "description": "Geometric Mean Concentrations (GMCs) of anti-tetanus toxoid antibodies was measured by diphtheria, tetanus, pertussis multiplexed electrochemiluminescent assay.",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)"
+        },
+        {
+          "measure": "Number of Participants With Immediate Unsolicited Systemic Adverse Events (AEs)",
+          "description": "An unsolicited AE was an observed AE that did not fulfill the conditions of solicited reactions, i.e., pre-listed in the CRF in terms of diagnosis and onset window post-vaccination.",
+          "timeFrame": "Up to 30 minutes post-vaccination on Day 1"
+        },
+        {
+          "measure": "Number of Participants With Solicited Injection Site Reactions and Systemic Reactions",
+          "description": "A solicited reaction was an \"expected\" adverse reaction (AR) (sign or symptom) observed and reported under the conditions (nature and onset) pre-listed in the protocol and CRF. An injection site reaction was an AR at and around the injection site. Solicited injection site reactions included injection site tenderness, injection site erythema and injection site swelling. Solicited systemic reactions included fever, vomiting, crying abnormal, drowsiness, appetite loss and irritability.",
+          "timeFrame": "Up to 7 days post-vaccination on Day 1"
+        },
+        {
+          "measure": "Number of Participants With Unsolicited Adverse Events",
+          "description": "An unsolicited AE was an observed AE that did not fulfill the conditions of solicited reactions, i.e., pre-listed in the CRF in terms of diagnosis and/or onset window post-vaccination.",
+          "timeFrame": "Up to 30 days post-vaccination on Day 1"
+        },
+        {
+          "measure": "Number of Participants With Serious Adverse Events (SAEs) and Adverse Events of Special Interest (AESIs)",
+          "description": "An SAE was any AE that at any dose resulted in death, was life-threatening, required inpatient hospitalization or prolongation of existing hospitalization, resulted in persistent or significant disability/incapacity, was a congenital anomaly/birth defect, or was an important medical event. An AESI (serious or non-serious) was defined as one of scientific and medical concern specific to the Sponsor's study intervention or program, for which ongoing monitoring and rapid communication by the investigator to the Sponsor could be appropriate.",
+          "timeFrame": "From vaccination (Day 1) up to 30 days post vaccination, 31 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged 12 to 23 months on the day of inclusion\n* Participants who are healthy as determined by medical evaluation including medical history, physical examination, and judgement of the Investigator\n* Received at least one priming dose of licensed Nimenrix® or Menveo® vaccine during infancy before 12 months of age with an interval of at least 2 months between the last vaccination with Nimenrix® or Menveo® and the MenQuadfi® booster dose\n\nExclusion Criteria:\n\n* Known or suspected congenital or acquired immunodeficiency; or receipt of immunosuppressive therapy, such as anti-cancer chemotherapy or radiation therapy, within the preceding 6 months; or long-term systemic corticosteroid therapy (prednisone or equivalent for more than 2 consecutive weeks within the past 3 months)\n* History of meningococcal infection, confirmed either clinically, serologically, or microbiologically\n* At high risk for meningococcal infection during the study (specifically but not limited to participants with persistent complement deficiency, with anatomic or functional asplenia, or participants traveling to countries with high endemic or epidemic disease)\n* Personal history of Guillain-Barré syndrome\n* Personal history of an Arthus-like reaction after vaccination with a tetanus toxoid containing vaccine\n* Known systemic hypersensitivity to any of the study intervention components, or history of a life-threatening reaction to the study intervention used in the study or to a product containing any of the same substances\n* Moderate or severe acute illness/infection (according to investigator judgment) or febrile illness (temperature ≥ 38.0°C \\[≥ 100.4°F\\]) on the day of study intervention administration. Prospective participant should not be included in the study until the condition has resolved or the febrile event has subsided\n* Receipt of any vaccine (including COVID-19 vaccines) in the 4 weeks preceding the study intervention administration or planned receipt of any vaccine (including COVID-19 vaccines) in the 4 weeks following the study intervention administration except for influenza vaccination, which may be received at least 2 weeks before or 2 weeks after the study intervention. This exception includes monovalent pandemic influenza vaccines and multivalent influenza vaccines.\n* Previous vaccination with a Meningococcal C vaccine or Meningococcal B (MenB) vaccine\n* Receipt of immunoglobulins, blood or blood-derived products in the past 3 months\n* Receipt of oral or injectable antibiotic therapy within 72 hours prior to the first blood draw\n\nNOTE: The above information was not intended to contain all considerations relevant to a patient's potential participation in a clinical trial.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "12 Months",
+      "maximumAge": "23 Months",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Clinical Sciences & Operations",
+          "affiliation": "Sanofi Pasteur, a Sanofi Company",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Investigational Site Number : 0320002",
+          "city": "Buenos Aires",
+          "state": "Buenos Aires F.D.",
+          "zip": "1430",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -34.61315,
+            "lon": -58.37723
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 0320001",
+          "city": "Ciudad Autonoma Buenos Aires",
+          "zip": "C1425EFD",
+          "country": "Argentina"
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "MEQ00086 Plain Language Results Summary",
+          "url": "https://sanofi.trialsummaries.com/Study/StudyDetails?id=25313&tenant=MT_SNY_9011"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Qualified researchers may request access to patient level data and related study documents including the clinical study report, study protocol with any amendments, blank case report form, statistical analysis plan, and dataset specifications. Patient level data will be anonymized and study documents will be redacted to protect the privacy of trial participants. Further details on Sanofi's data sharing criteria, eligible studies, and process for requesting access can be found at: https://vivli.org"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "A total of 71 participants were enrolled in this study.",
+      "recruitmentDetails": "This study was conducted at 2 investigational sites in Argentina between 07 September 2023 to 09 September 2024.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "MenACYW Conjugate Vaccine",
+          "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 milliliter \\[mL\\]) of meningococcal polysaccharide (serogroups A, C, W, and Y) tetanus toxoid (MenACYW conjugate vaccine) as an intramuscular (IM) injection at Day 1."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "71"
+                }
+              ]
+            },
+            {
+              "type": "Safety Analysis Set (SafAS)",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "69"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "68"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Protocol Deviation",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by participant's parents/legally acceptable representatives",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Baseline characteristics were evaluated for study participants with data in case report form (CRF).",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "MenACYW Conjugate Vaccine",
+          "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "71"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "months",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "71"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "14.3",
+                      "spread": "1.50"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "71"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "34"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "37"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Participants With Serum Bactericidal Assay Using Human Complement (hSBA) Antibody Titers >=1:8 Against Meningococcal Serogroups A, C, Y, and W",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using human complement (hSBA). Percentages are rounded to the nearest tenth.",
+          "populationDescription": "The per-protocol analysis set (PPAS) was a subset of the full analysis set (FAS). The FAS included participants who received the study vaccine and had a valid post-vaccination serology result. Only participants with data collected for each specified serogroup are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MenACYW Conjugate Vaccine",
+              "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "64"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Serogroup A: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72.1",
+                      "lowerLimit": "59.2",
+                      "upperLimit": "82.9"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup A: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "58"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "93.8",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "63"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60.3",
+                      "lowerLimit": "47.2",
+                      "upperLimit": "72.4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "94.1",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "62"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "67.7",
+                      "lowerLimit": "54.7",
+                      "upperLimit": "79.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "52"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "93.2",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "73.4",
+                      "lowerLimit": "60.9",
+                      "upperLimit": "83.7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "58"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "93.8",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Geometric Mean Titers (GMTs) Against Meningococcal Serogroups A, C, Y, and W as Measured by Serum Bactericidal Assay Using Human Complement",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using human complement (hSBA).",
+          "populationDescription": "The PPAS was a subset of the FAS. The FAS included participants who received the study vaccine and had a valid post-vaccination serology result. Only participants with data collected for each specified serogroup are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "GEOMETRIC_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Titer",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MenACYW Conjugate Vaccine",
+              "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "64"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Serogroup A: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14.0",
+                      "lowerLimit": "10.1",
+                      "upperLimit": "19.4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup A: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "58"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "244",
+                      "lowerLimit": "163",
+                      "upperLimit": "366"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "63"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12.3",
+                      "lowerLimit": "8.29",
+                      "upperLimit": "18.2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1072",
+                      "lowerLimit": "805",
+                      "upperLimit": "1426"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "62"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14.0",
+                      "lowerLimit": "9.70",
+                      "upperLimit": "20.2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "52"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "945",
+                      "lowerLimit": "683",
+                      "upperLimit": "1309"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "16.9",
+                      "lowerLimit": "11.8",
+                      "upperLimit": "24.2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "58"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "953",
+                      "lowerLimit": "712",
+                      "upperLimit": "1275"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Participants With Serum Bactericidal Assay Using Human Complement Antibody Titers >=1:4 Against Meningococcal Serogroups A, C, Y, and W",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using human complement (hSBA). Percentages are rounded to the nearest tenth.",
+          "populationDescription": "The PPAS was a subset of the FAS. The FAS included participants who received the study vaccine and had a valid post-vaccination serology result. Only participants with data collected for each specified serogroup are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MenACYW Conjugate Vaccine",
+              "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "64"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Serogroup A: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "96.7",
+                      "lowerLimit": "88.7",
+                      "upperLimit": "99.6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup A: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "58"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "93.8",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "63"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "76.2",
+                      "lowerLimit": "63.8",
+                      "upperLimit": "86.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "94.1",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "62"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "85.5",
+                      "lowerLimit": "74.2",
+                      "upperLimit": "93.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "52"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "93.2",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "87.5",
+                      "lowerLimit": "76.8",
+                      "upperLimit": "94.4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "58"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "93.8",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Participants With Serum Bactericidal Assay Using Human Complement Antibody Titers >=4-Fold Rise From Pre-vaccination to Post-Vaccination",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using human complement (hSBA). Percentages are rounded to the nearest tenth.",
+          "populationDescription": "The PPAS was a subset of the FAS. The FAS included participants who received the study vaccine and had a valid post-vaccination serology result. Only participants with data collected for each specified serogroup are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MenACYW Conjugate Vaccine",
+              "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "59"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Serogroup A",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "56"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "91.1",
+                      "lowerLimit": "80.4",
+                      "upperLimit": "97.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "59"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "93.9",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "96.1",
+                      "lowerLimit": "86.5",
+                      "upperLimit": "99.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "57"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "93.7",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Participants With Vaccine Seroresponse by Serum Bactericidal Assay Using Human Complement",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using human complement (hSBA). hSBA vaccine seroresponse was defined for a participant with a pre-vaccination titer \\<1:8 as a post-vaccination titer of \\>=1:16 and for a participant with a pre-vaccination titer \\>=1:8 as a post-vaccination titer that is at least 4-fold greater than the pre-vaccination titer. Percentages are rounded to the nearest tenth.",
+          "populationDescription": "The PPAS was a subset of the FAS. The FAS included participants who received the study vaccine and had a valid post-vaccination serology result. Only participants with data collected for each specified serogroup are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post vaccination on Day 1)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MenACYW Conjugate Vaccine",
+              "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "59"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Serogroup A",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "56"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "91.1",
+                      "lowerLimit": "80.4",
+                      "upperLimit": "97.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "59"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "93.9",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "96.1",
+                      "lowerLimit": "86.5",
+                      "upperLimit": "99.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "57"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "93.7",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Geometric Mean Titers Against Meningococcal Serogroups A, C, Y, and W as Measured by Serum Bactericidal Antibody Assay Using Baby Rabbit Complement (rSBA)",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using baby rabbit complement (rSBA).",
+          "populationDescription": "The PPAS was a subset of the FAS. The FAS included participants who received the study vaccine and had a valid post-vaccination serology result. Only participants with data collected for each specified serogroup are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "GEOMETRIC_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Titer",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MenACYW Conjugate Vaccine",
+              "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "64"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Serogroup A: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "55"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "82.3",
+                      "lowerLimit": "33.3",
+                      "upperLimit": "203"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup A: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4715",
+                      "lowerLimit": "3547",
+                      "upperLimit": "6268"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11.6",
+                      "lowerLimit": "6.54",
+                      "upperLimit": "20.7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3676",
+                      "lowerLimit": "2707",
+                      "upperLimit": "4990"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "59"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "30.9",
+                      "lowerLimit": "15.6",
+                      "upperLimit": "61.2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5198",
+                      "lowerLimit": "4091",
+                      "upperLimit": "6604"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "63"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "28.0",
+                      "lowerLimit": "14.7",
+                      "upperLimit": "53.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9329",
+                      "lowerLimit": "6627",
+                      "upperLimit": "13132"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Participants With Serum Bactericidal Antibody Assay Using Baby Rabbit Complement Antibody Titers >=1:8 and >=1:128 Against Meningococcal Serogroups A, C, Y, and W",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using baby rabbit complement (rSBA). Percentages are rounded to the nearest tenth.",
+          "populationDescription": "The PPAS was a subset of the FAS. The FAS included participants who received the study vaccine and had a valid post-vaccination serology result. Only participants with data collected for each specified serogroup are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MenACYW Conjugate Vaccine",
+              "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "64"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Serogroup A: >=1:8: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "55"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "56.4",
+                      "lowerLimit": "42.3",
+                      "upperLimit": "69.7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup A: >=1:128: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "55"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "54.5",
+                      "lowerLimit": "40.6",
+                      "upperLimit": "68.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup A: >=1:8: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "94.4",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup A: >=1:128: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "94.4",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C: >=1:8: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "39.3",
+                      "lowerLimit": "27.1",
+                      "upperLimit": "52.7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C: >=1:128: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "61"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "24.6",
+                      "lowerLimit": "14.5",
+                      "upperLimit": "37.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C: >=1:8: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "94.4",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C: >=1:128: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "94.4",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y: >=1:8: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "59"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "55.9",
+                      "lowerLimit": "42.4",
+                      "upperLimit": "68.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y: >=1:128: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "59"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "44.1",
+                      "lowerLimit": "31.2",
+                      "upperLimit": "57.6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y: >=1:8: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "94.4",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y: >=1:128: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "94.4",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W: >=1:8: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "63"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "61.9",
+                      "lowerLimit": "48.8",
+                      "upperLimit": "73.9"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W: >=1:128: Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "63"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "41.3",
+                      "lowerLimit": "29.0",
+                      "upperLimit": "54.4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W: >=1:8: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "94.4",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W: >=1:128: Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "94.4",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Participants With Serum Bactericidal Antibody Assay Using Baby Rabbit Complement Antibody Titers >=4-Fold Rise From Pre-vaccination to Post-Vaccination",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using baby rabbit complement (rSBA). Percentages are rounded to the nearest tenth.",
+          "populationDescription": "The PPAS was a subset of the FAS. The FAS included participants who received the study vaccine and had a valid post-vaccination serology result. Only participants with data collected for each specified serogroup are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MenACYW Conjugate Vaccine",
+              "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "62"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Serogroup A",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "54"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "83.3",
+                      "lowerLimit": "70.7",
+                      "upperLimit": "92.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "98.3",
+                      "lowerLimit": "91.1",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "58"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "98.3",
+                      "lowerLimit": "90.8",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "62"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "94.2",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Participants With Vaccine Seroresponse by Serum Bactericidal Antibody Assay Using Baby Rabbit Complement",
+          "description": "Functional meningococcal antibody activity against serogroups A, C, Y, and W was measured in a serum bactericidal assay using baby rabbit complement (rSBA). rSBA vaccine seroresponse was defined for a participant with a pre-vaccination titer \\<1:8 as a post-vaccination titer of \\>=1:32 and for a participant with a pre-vaccination titer \\>=1:8 as a post-vaccination titer that is at least 4-fold greater than the pre-vaccination titer. Percentages are rounded to the nearest tenth.",
+          "populationDescription": "The PPAS was a subset of the FAS. The FAS included participants who received the study vaccine and had a valid post-vaccination serology result. Only participants with data collected for each specified serogroup are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MenACYW Conjugate Vaccine",
+              "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "62"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Serogroup A",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "54"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "83.3",
+                      "lowerLimit": "70.7",
+                      "upperLimit": "92.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup C",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "98.3",
+                      "lowerLimit": "91.1",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup Y",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "58"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "98.3",
+                      "lowerLimit": "90.8",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serogroup W",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "62"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "100",
+                      "lowerLimit": "94.2",
+                      "upperLimit": "100"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Geometric Mean Concentrations (GMCs) of Antibodies Against Tetanus Toxoid",
+          "description": "Geometric Mean Concentrations (GMCs) of anti-tetanus toxoid antibodies was measured by diphtheria, tetanus, pertussis multiplexed electrochemiluminescent assay.",
+          "populationDescription": "The PPAS was a subset of the FAS. The FAS included participants who received the study vaccine and had a valid post-vaccination serology result. Only participants with data collected for each specified serogroup are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "GEOMETRIC_MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "International units/milliliter",
+          "timeFrame": "Day 1 (pre-vaccination) and Day 31 (30 days post-vaccination on Day 1)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MenACYW Conjugate Vaccine",
+              "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "65"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Day 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.642",
+                      "lowerLimit": "0.482",
+                      "upperLimit": "0.854"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Day 31",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8.56",
+                      "lowerLimit": "6.17",
+                      "upperLimit": "11.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Immediate Unsolicited Systemic Adverse Events (AEs)",
+          "description": "An unsolicited AE was an observed AE that did not fulfill the conditions of solicited reactions, i.e., pre-listed in the CRF in terms of diagnosis and onset window post-vaccination.",
+          "populationDescription": "The SafAS included participants who received the study vaccine.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 30 minutes post-vaccination on Day 1",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MenACYW Conjugate Vaccine",
+              "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "69"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Solicited Injection Site Reactions and Systemic Reactions",
+          "description": "A solicited reaction was an \"expected\" adverse reaction (AR) (sign or symptom) observed and reported under the conditions (nature and onset) pre-listed in the protocol and CRF. An injection site reaction was an AR at and around the injection site. Solicited injection site reactions included injection site tenderness, injection site erythema and injection site swelling. Solicited systemic reactions included fever, vomiting, crying abnormal, drowsiness, appetite loss and irritability.",
+          "populationDescription": "The SafAS included participants who received the study vaccine.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 7 days post-vaccination on Day 1",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MenACYW Conjugate Vaccine",
+              "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "69"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Solicited injection site reaction",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "24"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Solicited systemic reaction",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "35"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Unsolicited Adverse Events",
+          "description": "An unsolicited AE was an observed AE that did not fulfill the conditions of solicited reactions, i.e., pre-listed in the CRF in terms of diagnosis and/or onset window post-vaccination.",
+          "populationDescription": "The SafAS included participants who received the study vaccine.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 30 days post-vaccination on Day 1",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MenACYW Conjugate Vaccine",
+              "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "69"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Serious Adverse Events (SAEs) and Adverse Events of Special Interest (AESIs)",
+          "description": "An SAE was any AE that at any dose resulted in death, was life-threatening, required inpatient hospitalization or prolongation of existing hospitalization, resulted in persistent or significant disability/incapacity, was a congenital anomaly/birth defect, or was an important medical event. An AESI (serious or non-serious) was defined as one of scientific and medical concern specific to the Sponsor's study intervention or program, for which ongoing monitoring and rapid communication by the investigator to the Sponsor could be appropriate.",
+          "populationDescription": "The SafAS included participants who received the study vaccine.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From vaccination (Day 1) up to 30 days post vaccination, 31 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MenACYW Conjugate Vaccine",
+              "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "69"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "SAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "AESIs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "AEs, SAEs and all-cause mortality (deaths) were collected from vaccination (Day 1) up to 30 days post vaccination, 31 days.",
+      "description": "Analysis was performed on SafAS.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "MenACYW Conjugate Vaccine",
+          "description": "Participants who had received at least 1 of 2 priming doses of either Nimenrix® or Menveo® vaccine during infancy as part of their routine immunization before 12 months of age received a single booster dose (0.5 mL) of MenACYW conjugate vaccine as an IM injection at Day 1.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 69,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 69,
+          "otherNumAffected": 45,
+          "otherNumAtRisk": 69
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Febrile Convulsion",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDra 28.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 69
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDra 28.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Decreased Appetite",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDra 28.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 14,
+              "numAffected": 14,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Irritability",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDra 28.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 22,
+              "numAffected": 22,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Somnolence",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDra 28.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 13,
+              "numAffected": 13,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDra 28.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDra 28.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 13,
+              "numAffected": 13,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Crying",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDra 28.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 14,
+              "numAffected": 14,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Injection Site Erythema",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDra 28.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Injection Site Pain",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDra 28.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 21,
+              "numAffected": 21,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Injection Site Swelling",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDra 28.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 69
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDra 28.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 15,
+              "numAffected": 14,
+              "numAtRisk": 69
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "The Sponsor must have the opportunity to review at least 60 days prior to submission for publication or presentation. If review indicates that potentially patentable subject matter would be disclosed, publication or public disclosure may be delayed for a maximum of an additional 60 days to allow for filing the necessary patent applications."
+      },
+      "pointOfContact": {
+        "title": "Trial Transparency Team",
+        "organization": "Sanofi Pasteur",
+        "email": "Contact-US@sanofi.com",
+        "phone": "800-633-1610 ext: 6#"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-02-03",
+          "uploadDate": "2025-08-29T13:13",
+          "filename": "Prot_000.pdf",
+          "size": 734200
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2025-03-04",
+          "uploadDate": "2025-08-29T13:13",
+          "filename": "SAP_001.pdf",
+          "size": 441387
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    }
+  },
+  "hasResults": true
+}

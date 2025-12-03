@@ -1,0 +1,801 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04306510",
+      "orgStudyIdInfo": {
+        "id": "TEG4004"
+      },
+      "organization": {
+        "fullName": "Akcea Therapeutics",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Characterize Adverse Events Occurring Within One Day of TEGSEDI Administration to Adult Participants With hATTR-PN",
+      "officialTitle": "A Phase 4 Safety Study Assessing the Adverse Events Occurring Within One Day of TEGSEDI Administration in Patients With Polyneuropathy of Hereditary Transthyretin-mediated Amyloidosis (hATTR-PN)"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-03",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Withdrawal of TEGSEDI from sale was not related to any safety issues.",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-01-21",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-03-20",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-03-20",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-02-07",
+      "studyFirstSubmitQcDate": "2020-03-10",
+      "studyFirstPostDateStruct": {
+        "date": "2020-03-13",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-03-20",
+      "resultsFirstSubmitQcDate": "2025-03-20",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-04-10",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-03-20",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-04-10",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Akcea Therapeutics",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The objective of the study was to characterize adverse events (AEs) occurring within one day of TEGSEDI administration to adult participants with hATTR-PN overall and in individual participants with respect to time course of AE onset, vital sign changes, preventive measures, treatment required, risk factors, and subsequent adverse outcomes."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Hereditary Transthyretin Amyloidosis With Polyneuropthy"
+      ],
+      "keywords": [
+        "Hereditary Transthyretin Amyloidosis",
+        "hATTR-PN",
+        "hATTR",
+        "Amyloidosis"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "OTHER",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 8,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "TEGSEDI",
+          "type": "EXPERIMENTAL",
+          "description": "Participants received TEGSEDI 284 milligrams (mg), subcutaneously (SC) once weekly, as prescribed by their physician per the product label.",
+          "interventionNames": [
+            "Drug: TEGSEDI"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "TEGSEDI",
+          "description": "SC injection.",
+          "armGroupLabels": [
+            "TEGSEDI"
+          ],
+          "otherNames": [
+            "Inotersen"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants With Incident, Onset and Duration of Treatment Emergent Adverse Events (TEAEs) Occurring Within 24 Hours of Each TEGSEDI Administration",
+          "description": "An adverse event (AE) is defined as any unfavorable and unintended sign, symptom, or disease temporally associated with the use of medicinal product, whether or not the AE is considered related to the medicinal product. TEAEs are defined as AEs with an onset date/time on or after the date/time of the first on study administration of TEGSEDI.",
+          "timeFrame": "Up to 2 years (24 hours post each TEGSEDI injection)"
+        },
+        {
+          "measure": "Number of Participants With Clinically Significant Changes in Vital Signs",
+          "description": "Vital signs including body temperature, heart rate, respiratory rate, and systolic/diastolic blood pressure (BP).",
+          "timeFrame": "Up to 2 years (24 hours post each TEGSEDI injection)"
+        },
+        {
+          "measure": "Number of Participants With Clinically Significant Changes in Cytokine Levels and Inflammatory Markers",
+          "description": "Cytokines and inflammatory markers including the following parameters: Immunoglobulin (Ig)E, IgG, IgM, C-reactive protein, erythrocyte sedimentation rate, interferon-alpha, interferon beta, chemokines (macrophage inflammatory protein-1a and membrane cofactor protein-1, granulocyte-macrophage colony-stimulating factor, Interleukin (IL)-1alpha (α), IL-1 beta (β), IL-6, IL-8, IL-12, and tumor necrosis factor-α.",
+          "timeFrame": "Up to 2 years (24 hours post each TEGSEDI injection)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Satisfy one of the following:\n\n   1. United States (US) Participants: Adult participants (≥ 18 years old) diagnosed with hATTR-PN and prescribed TEGSEDI according to the United States Prescribing Information (USPI).\n   2. Canadian participants: Adult participants (≥ 18 years old) diagnosed with stage 1 or stage 2 hATTR-PN and prescribed TEGSEDI according to the Canadian Product Monograph (CPM).\n2. Must have given written informed consent for participation in this study.\n3. Must provide access to their previous medical records.\n4. Are about to initiate or have recently initiated treatment with TEGSEDI and have not received more than 9 doses in total.\n5. Be willing to complete required testing and report any AEs and/or changes in medications.\n6. Satisfy one of the following:\n\n   1. Females: Non-pregnant and non-lactating; abstinent, or if engaged in sexual relations of childbearing potential, participant is using an acceptable contraceptive method from time of signing the informed consent form (ICF) until 13 weeks after the last dose of TEGSEDI administration\n   2. Males: Abstinent or if engaged in sexual relations with a female of childbearing potential, participant is utilizing an acceptable contraceptive method from the time of signing the ICF until 13 weeks after the last dose of TEGSEDI administration\n\nExclusion Criteria:\n\n* None",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Study Center",
+          "city": "Rosedale",
+          "state": "New York",
+          "zip": "11422",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.66205,
+            "lon": -73.73541
+          }
+        },
+        {
+          "facility": "Study Center",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M3K0A6",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "A total of 8 participants with polyneuropathy of hereditary transthyretin-mediated amyloidosis (hATTR-PN) were screened for the study, of which 7 participants were treated with TEGSEDI. The 8th participant was enrolled after the sponsor had notified the sites about the study close-out activities, therefore only 7 participants were included in the study.",
+      "recruitmentDetails": "Participants took part at 2 clinical sites in the United States of America (USA) and Canada from 21 January 2021 to 20 March 2024.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "TEGSEDI",
+          "description": "Participants received TEGSEDI 284 milligrams (mg), subcutaneously (SC) once weekly, as prescribed by their physician per the product label."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "8"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "6"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Voluntarily withdrawal",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Enrolled but Not Treated",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "The safety set included all participants who received at least 1 dose of TEGSEDI while enrolled in this study protocol.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "TEGSEDI",
+          "description": "Participants with hATTR-PN received TEGSEDI 284 mg, SC once weekly, as prescribed by their physician per the product label."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "7"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "67.6",
+                      "spread": "8.62"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Incident, Onset and Duration of Treatment Emergent Adverse Events (TEAEs) Occurring Within 24 Hours of Each TEGSEDI Administration",
+          "description": "An adverse event (AE) is defined as any unfavorable and unintended sign, symptom, or disease temporally associated with the use of medicinal product, whether or not the AE is considered related to the medicinal product. TEAEs are defined as AEs with an onset date/time on or after the date/time of the first on study administration of TEGSEDI.",
+          "populationDescription": "The evaluable set included participants in the safety set having at least 1 post-dose assessment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "timeFrame": "Up to 2 years (24 hours post each TEGSEDI injection)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "TEGSEDI",
+              "description": "Participants received TEGSEDI 284 mg, SC once weekly, as prescribed by their physician per the product label."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "7"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Clinically Significant Changes in Vital Signs",
+          "description": "Vital signs including body temperature, heart rate, respiratory rate, and systolic/diastolic blood pressure (BP).",
+          "populationDescription": "The evaluable set included participants in the safety set having at least 1 post-dose assessment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "timeFrame": "Up to 2 years (24 hours post each TEGSEDI injection)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "TEGSEDI",
+              "description": "Participants received TEGSEDI 284 mg, SC once weekly, as prescribed by their physician per the product label."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "7"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Clinically Significant Changes in Cytokine Levels and Inflammatory Markers",
+          "description": "Cytokines and inflammatory markers including the following parameters: Immunoglobulin (Ig)E, IgG, IgM, C-reactive protein, erythrocyte sedimentation rate, interferon-alpha, interferon beta, chemokines (macrophage inflammatory protein-1a and membrane cofactor protein-1, granulocyte-macrophage colony-stimulating factor, Interleukin (IL)-1alpha (α), IL-1 beta (β), IL-6, IL-8, IL-12, and tumor necrosis factor-α.",
+          "populationDescription": "The evaluable set included participants in the safety set having at least 1 post-dose assessment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "timeFrame": "Up to 2 years (24 hours post each TEGSEDI injection)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "TEGSEDI",
+              "description": "Participants received TEGSEDI 284 mg, SC once weekly, as prescribed by their physician per the product label."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "7"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Up to 2 years (24 hours post each TEGSEDI injection)",
+      "description": "The evaluable set included participants in the safety set having at least 1 post-dose assessment.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "TEGSEDI",
+          "description": "Participants with hATTR-PN received TEGSEDI 284 mg, SC once weekly, as prescribed by their physician per the product label.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 7,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 7,
+          "otherNumAffected": 6,
+          "otherNumAtRisk": 7
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Chills",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA25.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 7
+            }
+          ]
+        },
+        {
+          "term": "Influenza like illness",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA25.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 7
+            }
+          ]
+        },
+        {
+          "term": "Injection site discomfort",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA25.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 7
+            }
+          ]
+        },
+        {
+          "term": "Injection site pain",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA25.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 7
+            }
+          ]
+        },
+        {
+          "term": "Myalgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA25.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 7
+            }
+          ]
+        },
+        {
+          "term": "Pain in extremity",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA25.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 7
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA25.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 7
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA25.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 7
+            }
+          ]
+        },
+        {
+          "term": "Decreased appetite",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA25.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 7
+            }
+          ]
+        },
+        {
+          "term": "Dizziness",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA25.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 7
+            }
+          ]
+        },
+        {
+          "term": "Hyperhidrosis",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA25.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 7
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "This study was subject to limitations due to the rarity of hATTR-PN, which limits the enrollment of potentially eligible patients. Additionally, the availability of concurrent clinical trials and newer therapies targeting the same patient population further complicated efforts to achieve the planned enrollment."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "GT60",
+        "restrictiveAgreement": true
+      },
+      "pointOfContact": {
+        "title": "Ionis Pharmaceuticals, Inc.",
+        "organization": "Ionis Pharmaceuticals, Inc.",
+        "email": "globalregulatoryaffairs@ionis.com",
+        "phone": "760-603-2346"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-10-06",
+          "uploadDate": "2025-03-20T16:36",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 3340467
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C567782",
+          "term": "Amyloidosis, Hereditary, Transthyretin-Related"
+        },
+        {
+          "id": "D000686",
+          "term": "Amyloidosis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D057165",
+          "term": "Proteostasis Deficiencies"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000629536",
+          "term": "Inotersen"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

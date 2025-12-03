@@ -1,0 +1,1432 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04163328",
+      "orgStudyIdInfo": {
+        "id": "000526521"
+      },
+      "organization": {
+        "fullName": "University of Alabama at Birmingham",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effects of Supplementation With PUFAs and Antioxidants for Contact Lens Discomfort",
+      "officialTitle": "Effects of Supplementation With PUFAs and Antioxidants for Contact Lens Discomfort"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-03",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "COVID disruptions to recruitment and study completion, unforeseen staffing and other issues",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-09-16",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-08-21",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-08-21",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2019-11-12",
+      "studyFirstSubmitQcDate": "2019-11-12",
+      "studyFirstPostDateStruct": {
+        "date": "2019-11-14",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-10-31",
+      "resultsFirstSubmitQcDate": "2025-03-03",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-03-06",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-03-03",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-03-06",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Kelly Nichols",
+        "investigatorTitle": "Dean, Professor",
+        "investigatorAffiliation": "University of Alabama at Birmingham"
+      },
+      "leadSponsor": {
+        "name": "University of Alabama at Birmingham",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "HydroEye® is a dietary omega 3 fatty acid supplement that contains both EPA and DHA, as well as GLA and ALA in the form of black currant seed oil. It also has vitamins A, E, C, B6, and magnesium, many of which are involved in fatty acid metabolism. In 2013, Sheppard et al. tested HydroEye® in dry eye patients who were not contact lens wearers and found that symptoms and corneal smoothness improved in response to HydroEye® supplementation. To date, HydroEye® has not been assessed in patients with contact lens discomfort; therefore, the purpose of this clinical trial is to determine the efficacy of HydroEye® as a treatment for contact lens discomfort."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Dry Eye",
+        "Contact Lens Complication"
+      ],
+      "keywords": [
+        "HydroEye®",
+        "Contact Lens Discomfort",
+        "Dry Eye",
+        "Supplement"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "maskingDescription": "The proposed research study is a randomized, double-masked, controlled clinical trial to test the efficacy of HydroEye® nutraceutical in subjects with contact lens discomfort.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 31,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "HydroEye®",
+          "type": "EXPERIMENTAL",
+          "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).",
+          "interventionNames": [
+            "Drug: HydroEye®"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).",
+          "interventionNames": [
+            "Drug: HydroEye®"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "HydroEye®",
+          "description": "This is an omega-3 fatty acids supplement.",
+          "armGroupLabels": [
+            "HydroEye®",
+            "Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Average Contact Lens Dry Eye Questionnaire (CLDEQ-8) Score",
+          "description": "The CLDEQ-8 is a contact lens specific symptoms survey, range = 0-37 with 37 being most symptomatic.",
+          "timeFrame": "6 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Average of Tear LTB4 Levels in Picograms Per Milliliter",
+          "description": "If there is an adequate number of tear samples collected, LTB4 values will be tested with a biochemical assay to estimate eye surface inflammation. Pooled tears may be needed.",
+          "timeFrame": "Baseline, 6 months"
+        },
+        {
+          "measure": "Average Standardized Patient Evaluation of Eye Dryness (SPEED) Questionnaire Score",
+          "description": "The SPEED is a dry eye specific symptoms survey, we are using the Rasch validated version; range = 0-28 with 28 being most symptomatic.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Number of Participants With a Non-zero Neuropathic Pain Symptom Inventory (NPSI) Questionnaire Score",
+          "description": "NPSI is a pain specific symptoms survey; range = 0-100 with 100 being most symptomatic. The survey is used to assess serious and chronic pain; therefore the number of subjects with non-zero NPSI values was expected to be minimal, and change to non-zero values was measured in treatment and placebo arms.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Average Tear Breakup Time in Seconds",
+          "description": "This is a measure of tear stability with higher values being better (seconds).",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Average Schirmer I Test in mm",
+          "description": "This is a measure of tear volume with higher values being better (0 mm - 35 mm).",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Average Corneal Staining Score",
+          "description": "This is a measure of eye irritation with higher values being worse (NEI scale with range of 0 to 15) with higher scores being worse.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Average Conjunctival Staining Score",
+          "description": "This is a measure of eye irritation with higher values being worse (NEI scale with range of 0 to 18).",
+          "timeFrame": "6 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age ≥18 years\n2. Provide informed consent and authorization to disclose protected health information\n3. Willing to follow study protocol\n4. Habitual, contact lens-corrected visual acuity of at least 20/30 in each eye\n5. Wear soft contact lenses as daily wear for at least 6 hours per day and at least 5 days per week for the past 30 days\n6. Have at least a 2-hour difference between overall wear time and comfortable wear time of contact lenses\n7. Have symptoms consistent with Contact Lens Dry Eye based on CLDEQ-8 (score ≥ 12)\n8. Increased severity of dry eye symptoms with contact lens wear by at least 25% as determined by patient self-report\n9. Clinical assessment that contact lens material, fit, prescription, and care system are not reasons for contact lens discomfort\n10. Demonstrate at least 80% compliance in completion of daily electronic diary (submitted through Qualtrics Research Suite) between V1 and V2\n11. Willing to discontinue use of any current dry eye treatment (including use of commercial hygiene masks, and except for artificial tears) for 4 weeks before randomization and during the course of the 6-month study.\n\nExclusion Criteria:\n\n1. Meibomian gland dropout ≥75% in either eyelid\n2. Any changes to the contact lens material, fit, prescription, or care system in the 30 days preceding enrollment or anticipates needing to make changes during the course of the study\n3. Any systemic disease known to be associated with dry eye\n4. Any significant ocular surface abnormality that could be associated with ocular surface discomfort, such as ectropion, entropion, trichiasis, infection, severe allergic conjunctivitis, severe eyelid inflammation, etc.\n5. Any overnight wear of contact lenses or use of daily disposable contact lenses\n6. Any previous corneal surgery, including all types of corneorefractive surgery\n7. Have temporary and/or permanent punctal plugs inserted\n8. Use of supplemental fish oil, or seed oils from borage, evening primrose, sea buckthorn, flaxseed, or black currant within the last 60 days\n9. Routine, usual dietary intake of more than 8 oz. of cold-water fatty fish (tuna, salmon, mackerel, sea bass, sardines or herring) per week).\n10. Use of anticoagulant therapy or regular, daily use of aspirin, NSAIDs, or steroid medications within the past 30 days, or a history of easy bruising\n11. Allergy or intolerance to fish or any ingredients contained in the active or placebo formulas \\[See appendix or ingredient list\\]\n12. Participation in a clinical trial in the past 30 days\n13. Current pregnancy or breast feeding as indicated by self-report",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Kelly K Nichols, OD, PhD",
+          "affiliation": "University of Alabama at Birmingham",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Alabama at Birmingham",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35294",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "recruitmentDetails": "n=31 patients consented and examined n=12 patients randomized/completed (18 screen fails, one discontinued prior to randomization)\n\nThe study was terminated by the sponsor prior to completing recruitment due to a variety of events including haulted COVID recruitment and manufacturing of the active and placebo formulations. The shelf-life of the initial batches of active and control/placebo expired.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "HydroEye®",
+          "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 active (A)"
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo",
+          "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 placebo (P)"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "6"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "6"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "The study was terminated by the sponsor before completing enrollment.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "HydroEye®",
+          "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 active (A)"
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo",
+          "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 placebo (P)"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "6"
+            },
+            {
+              "groupId": "BG001",
+              "value": "6"
+            },
+            {
+              "groupId": "BG002",
+              "value": "12"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CLDEQ survey",
+          "description": "The Contact Lens Dry Eye Questionnaire (the CLDEQ-8) is a survey to evaluate comfort of the eyes while wearing contact lenses. The scale range is 0 to 37 where 0 is good and 37 is worse.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "units on a scale",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "23.7",
+                      "spread": "4.2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "23.5",
+                      "spread": "6.2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "23.6",
+                      "spread": "5.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of participants with a non-zero Neuropathic Pain Symptom Inventory (NPSI) Score",
+          "description": "On the Neuropathic Pain Symptom Inventory (NPSI), each of the 10 pain descriptor items is rated on a scale from 0 to 10, with a higher score indicating greater severity of neuropathic pain, and the total score is calculated by summing up the scores from all 10 items, resulting in a potential range from 0 to 100; a higher total score signifies more severe neuropathic pain symptoms.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tear Film Break-up time",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "seconds",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "14.8",
+                      "spread": "11.2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "13.6",
+                      "spread": "6.3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14.2",
+                      "spread": "8.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Schirmer I score",
+          "description": "The Schirmer test strip is 35mm in length, so the range is 0-35mm wetting of the strip in 5 min. Low values indicate more severe dry eye (less wetting of strip).",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mm",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19.8",
+                      "spread": "12.5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "24.5",
+                      "spread": "10.8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "22.2",
+                      "spread": "13.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Corneal Staining",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "points",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3.2",
+                      "spread": "2.1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2.8",
+                      "spread": "1.2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3.0",
+                      "spread": "2.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Conjunctival staining",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "points",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2.2",
+                      "spread": "1.8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2.2",
+                      "spread": "1.2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2.2",
+                      "spread": "1.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SPEED survey",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "points",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10.2",
+                      "spread": "2.9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7.5",
+                      "spread": "4.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8.8",
+                      "spread": "2.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Average Contact Lens Dry Eye Questionnaire (CLDEQ-8) Score",
+          "description": "The CLDEQ-8 is a contact lens specific symptoms survey, range = 0-37 with 37 being most symptomatic.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HydroEye®",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 active (A)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 placebo (P)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "6"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "6"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "15.0",
+                      "spread": "2.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "11.3",
+                      "spread": "6.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Average of Tear LTB4 Levels in Picograms Per Milliliter",
+          "description": "If there is an adequate number of tear samples collected, LTB4 values will be tested with a biochemical assay to estimate eye surface inflammation. Pooled tears may be needed.",
+          "populationDescription": "This lab test was not performed. There was insufficient tears collected to do the analysis due to the sponsor cancelling the study before adequate enough samples could be collected. Due to study termination and the prohibitive costs of performing the laboratory testing, samples collected from 12 participants, approximately 1/4 the number needed to justify processing the samples based on an a priori power analysis, were never assayed and will never be assayed.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "Baseline, 6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HydroEye®",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 active (A)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 placebo (P)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Average Standardized Patient Evaluation of Eye Dryness (SPEED) Questionnaire Score",
+          "description": "The SPEED is a dry eye specific symptoms survey, we are using the Rasch validated version; range = 0-28 with 28 being most symptomatic.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HydroEye®",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 active (A)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 placebo (P)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "6"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "6"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.8",
+                      "spread": "1.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.7",
+                      "spread": "3.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With a Non-zero Neuropathic Pain Symptom Inventory (NPSI) Questionnaire Score",
+          "description": "NPSI is a pain specific symptoms survey; range = 0-100 with 100 being most symptomatic. The survey is used to assess serious and chronic pain; therefore the number of subjects with non-zero NPSI values was expected to be minimal, and change to non-zero values was measured in treatment and placebo arms.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HydroEye®",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 active (A)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 placebo (P)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "6"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "6"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Average Tear Breakup Time in Seconds",
+          "description": "This is a measure of tear stability with higher values being better (seconds).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "seconds",
+          "timeFrame": "6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HydroEye®",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 active (A)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 placebo (P)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "6"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "6"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "16.0",
+                      "spread": "15.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "8.3",
+                      "spread": "2.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Average Schirmer I Test in mm",
+          "description": "This is a measure of tear volume with higher values being better (0 mm - 35 mm).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mm",
+          "timeFrame": "6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HydroEye®",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 active (A)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 placebo (P)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "6"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "6"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "22.8",
+                      "spread": "13.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "21.7",
+                      "spread": "14.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Average Corneal Staining Score",
+          "description": "This is a measure of eye irritation with higher values being worse (NEI scale with range of 0 to 15) with higher scores being worse.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HydroEye®",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 active (A)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 placebo (P)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "6"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "6"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.3",
+                      "spread": "2.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3.3",
+                      "spread": "3.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Average Conjunctival Staining Score",
+          "description": "This is a measure of eye irritation with higher values being worse (NEI scale with range of 0 to 18).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "HydroEye®",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 active (A)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.\n\nn=31 patients completed consent and were examined n=12 patients randomized/completed (18 screen fails, one discontinued)\n\nn=6 placebo (P)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "6"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "6"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.3",
+                      "spread": "2.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.5",
+                      "spread": "1.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "6 months",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "HydroEye®",
+          "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 6,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 6,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 6
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo",
+          "description": "Subjects will take a total of four capsules daily, with meals (two capsules taken orally, twice a day).\n\nHydroEye®: This is an omega-3 fatty acids supplement.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 6,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 6,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 6
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "The study was terminated by the sponsor. Covid impacted recruitment and the active and placebo self-life was exceeded."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Dr. Kelly K. Nichols",
+        "organization": "UAB",
+        "email": "nicholsk@uab.edu",
+        "phone": "205-975-9935"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-06-16",
+          "uploadDate": "2024-10-31T11:48",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 386681
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2024-11-27",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015352",
+          "term": "Dry Eye Syndromes"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007766",
+          "term": "Lacrimal Apparatus Diseases"
+        },
+        {
+          "id": "D005128",
+          "term": "Eye Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

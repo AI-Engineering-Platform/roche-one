@@ -1,0 +1,1524 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05661942",
+      "orgStudyIdInfo": {
+        "id": "IRB00107053"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "22.135",
+          "type": "OTHER",
+          "domain": "Advocate Aurora Health Care"
+        }
+      ],
+      "organization": {
+        "fullName": "Wake Forest University Health Sciences",
+        "class": "OTHER"
+      },
+      "briefTitle": "Diltiazem in the Treatment of Atrial Fibrillation or Atrial Flutter With Rapid Ventricular Rate",
+      "officialTitle": "Diltiazem in the Treatment of Atrial Fibrillation or Atrial Flutter With Rapid Ventricular Rate (AFF RVR): Comparing Calcium Pre-treatment vs Placebo in Prevention of Diltiazem Induced Hypotension",
+      "acronym": "AFFRVR"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-11",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-11-30",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-11-20",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-11-20",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-12-15",
+      "studyFirstSubmitQcDate": "2022-12-15",
+      "studyFirstPostDateStruct": {
+        "date": "2022-12-22",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-10-02",
+      "resultsFirstSubmitQcDate": "2025-10-27",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-11-10",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-10-27",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-11-10",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Wake Forest University Health Sciences",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to see how well calcium pre-treatment works for decreasing incidence of drug-induced hypotension after diltiazem administration for treatment of atrial flutter with rapid ventricular rate.",
+      "detailedDescription": "Non-dihydropyridine calcium channel blockers(CCB) are routinely used in the treatment of atrial fibrillation or flutter with rapid ventricular response (AFF with RVR); however, their use can be limited by drug-induced hypotension. This drug induced hypotension limits and complicates CCB use in the treatment of AFF with RVR. Calcium pre-treatment with calcium channel blocker administration has been studied extensively with verapamil administration in preventing drug induced hypotension however, similar studies evaluating calcium pretreatment with diltiazem administration in the prevention of drug-induced hypotension are limited.\n\nThe purpose of this study is to compare the relative efficacy and safety for calcium pretreatment with diltiazem in the treatment of AFF with RVR in preventing drug-induced hypotension. This prospective, randomized double-blinded study will evaluate patients who present to the emergency department at Advocate Christ Medical Center with a diagnosis of AFF with RVR with ventricular rate greater than or equal to 120 beats per minute from IRB approval to June 1, 2024. Via simple randomization, patients will be administered calcium pretreatment versus control prior to diltiazem administration. Calcium gluconate 1 gm or 100 mL of normal saline will be administered as an intravenous infusion over 5 minutes followed by bolus diltiazem 0.25 mg/kg IV push (with a 20 mg max) with repeat diltiazem bolus dose after 15 minutes if rate control not achieved 0.35mg/kg IV push. Calcium gluconate will not be administered with repeat doses of diltiazem. Weight-based dosing of diltiazem was most utilized, though some providers may elect to modify based on the clinical scenario. The primary outcome will be the mean difference in systolic blood pressure evaluated at 5 and 15 minutes after administration of diltiazem bolus. Secondary outcomes include decrease in heart rate, conversion to sinus rhythm, and adverse effects of medication administered."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Atrial Fibrillation With Rapid Ventricular Response",
+        "Hypotension Drug-Induced"
+      ],
+      "keywords": [
+        "diltiazem",
+        "calcium"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 92,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Calcium pre-treatment",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl",
+          "interventionNames": [
+            "Drug: Calcium pre-treatment"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "diluent (NS) vials",
+          "interventionNames": [
+            "Other: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Calcium pre-treatment",
+          "description": "The intervention is Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl) over 5 minutes.",
+          "armGroupLabels": [
+            "Calcium pre-treatment"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo",
+          "description": "Placebo/ no calcium pre-treatment.",
+          "armGroupLabels": [
+            "Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Mean Difference in Systolic Blood Pressure",
+          "description": "Mean difference in systolic blood pressure after administration of diltiazem bolus. Monitors were set to obtain an automated full set of vitals every 5 minutes after administration of diltiazem.",
+          "timeFrame": "Baseline to 5 Minutes"
+        },
+        {
+          "measure": "Mean Difference in Systolic Blood Pressure",
+          "description": "Mean difference in systolic blood pressure evaluated after administration of diltiazem bolus. Monitors were set to obtain an automated full set of vitals every 5 minutes after administration of diltiazem.",
+          "timeFrame": "Baseline to 10 Minutes"
+        },
+        {
+          "measure": "Mean Difference in Systolic Blood Pressure",
+          "description": "Mean difference in systolic blood pressure after administration of diltiazem bolus. Monitors were set to obtain an automated full set of vitals every 5 minutes after administration of diltiazem",
+          "timeFrame": "Baseline to 15 Minutes"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Mean Change in Heart Rate",
+          "description": "Mean difference in heart rate evaluated after administration of diltiazem bolus. Monitors were set to obtain an automated full set of vitals every 5 minutes after administration of diltiazem.",
+          "timeFrame": "Baseline to 5 Minutes"
+        },
+        {
+          "measure": "Mean Change in Heart Rate",
+          "description": "Mean difference in heart rate evaluated after administration of diltiazem bolus. Monitors were set to obtain an automated full set of vitals every 5 minutes after administration of diltiazem.",
+          "timeFrame": "Baseline to 10 Minutes"
+        },
+        {
+          "measure": "Mean Change in Heart Rate",
+          "description": "Mean difference in heart rate evaluated after administration of diltiazem bolus. Monitors were set to obtain an automated full set of vitals every 5 minutes after administration of diltiazem.",
+          "timeFrame": "Baseline to 15 Minutes"
+        },
+        {
+          "measure": "Heart Rhythm at 5 Minutes",
+          "description": "Heart rhythm category after 5 minutes of initial diltiazem administration for treatment of AFF with RVR.",
+          "timeFrame": "Baseline to 5 Minutes"
+        },
+        {
+          "measure": "Heart Rhythm at 15 Minutes",
+          "description": "Heart rhythm category after 15 minutes of initial diltiazem administration for treatment of AFF with RVR.",
+          "timeFrame": "Baseline to 15 Minutes"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 years or older\n* Able to provide informed consent\n* Primary diagnosis AFF with RVR greater than or equal to 120 bpm\n\nExclusion Criteria:\n\n* Pregnancy defined as a positive urine HCG\n* Hemodynamically unstable patients (SBP \\<90, MAP \\<65)\n* Stated history of systolic heart failure with reduced ejection fraction (\\<40%) or evidence of acute heart failure or reduced EF (peripheral edema, JVD, pulmonary edema) on clinical exam or bedside echo\n* Patients with left ventricular assist device\n* Sinus node dysfunction or preexcitation with accessory pathway (known diagnosis of SVT, WPW or sick sinus syndrome. Delta waves or other evidence of accessory pathway on EKG)\n* 2nd or 3rd degree atrioventricular block\n* Allergy or sensitivity to any study drugs\n* Previously enrolled in this trial during a different patient encounter\n* Non-English speaking",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Michael V Cirone, MD",
+          "affiliation": "Advocate Aurora Health (AAH)",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Advocate Christ Medical Center Emergency Department (ACMC ED)",
+          "city": "Oak Lawn",
+          "state": "Illinois",
+          "zip": "60453",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.71087,
+            "lon": -87.75811
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Calcium Pre-treatment",
+          "description": "Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl\n\nCalcium pre-treatment: The intervention is Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl) over 5 minutes."
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo",
+          "description": "diluent (NS) vials\n\nPlacebo: Placebo/ no calcium pre-treatment."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "46"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "46"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "44"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "39"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "7"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Nine patients were excluded due to change in hemodynamic status and consent withdrawal.",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "7"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Calcium Pre-treatment",
+          "description": "Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl\n\nCalcium pre-treatment: The intervention is Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl) over 5 minutes."
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo",
+          "description": "diluent (NS) vials\n\nPlacebo: Placebo/ no calcium pre-treatment."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "44"
+            },
+            {
+              "groupId": "BG001",
+              "value": "39"
+            },
+            {
+              "groupId": "BG002",
+              "value": "83"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "66.9545",
+                      "spread": "10.9395"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "68.6923",
+                      "spread": "11.3721"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "67.7711",
+                      "spread": "11.1107"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "43"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "40"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "21"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "60"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "83"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Weight (kg)",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "kilograms",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "87.1000",
+                      "lowerLimit": "73.4000",
+                      "upperLimit": "114.4000"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "90.1500",
+                      "lowerLimit": "79.2000",
+                      "upperLimit": "111.1500"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "87.3000",
+                      "lowerLimit": "75.4000",
+                      "upperLimit": "114.3000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Height (cm)",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "centimeters",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "167.6000",
+                      "lowerLimit": "160.0000",
+                      "upperLimit": "177.8000"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "172.7000",
+                      "lowerLimit": "165.1000",
+                      "upperLimit": "181.6000"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "170.2000",
+                      "lowerLimit": "162.6000",
+                      "upperLimit": "180.3000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "On rate Control Medicine (yes/no)?",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "29"
+                    }
+                  ]
+                },
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "54"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Which Rate Control Agent?",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Metroprolol",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Diltiazem",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                },
+                {
+                  "title": "Digoxin",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Other",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not on Rate Controlled Agent",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "54"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "On Rhythm Medication for PTA?",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Yes",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "No",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "38"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Mean Difference in Systolic Blood Pressure",
+          "description": "Mean difference in systolic blood pressure after administration of diltiazem bolus. Monitors were set to obtain an automated full set of vitals every 5 minutes after administration of diltiazem.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmHg",
+          "timeFrame": "Baseline to 5 Minutes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Calcium Pre-treatment",
+              "description": "Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl\n\nCalcium pre-treatment: The intervention is Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl) over 5 minutes."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "diluent (NS) vials\n\nPlacebo: Placebo/ no calcium pre-treatment."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "39"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-11.7500",
+                      "spread": "15.7689"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-19.5385",
+                      "spread": "16.1259"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Mean Difference in Systolic Blood Pressure",
+          "description": "Mean difference in systolic blood pressure evaluated after administration of diltiazem bolus. Monitors were set to obtain an automated full set of vitals every 5 minutes after administration of diltiazem.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmHg",
+          "timeFrame": "Baseline to 10 Minutes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Calcium Pre-treatment",
+              "description": "Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl\n\nCalcium pre-treatment: The intervention is Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl) over 5 minutes."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "diluent (NS) vials\n\nPlacebo: Placebo/ no calcium pre-treatment."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "39"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-7.8182",
+                      "spread": "14.4484"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-16.2564",
+                      "spread": "15.0660"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Mean Difference in Systolic Blood Pressure",
+          "description": "Mean difference in systolic blood pressure after administration of diltiazem bolus. Monitors were set to obtain an automated full set of vitals every 5 minutes after administration of diltiazem",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mmHg",
+          "timeFrame": "Baseline to 15 Minutes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Calcium Pre-treatment",
+              "description": "Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl\n\nCalcium pre-treatment: The intervention is Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl) over 5 minutes."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "diluent (NS) vials\n\nPlacebo: Placebo/ no calcium pre-treatment."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "39"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-7.2273",
+                      "spread": "14.1994"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-13.6667",
+                      "spread": "16.1267"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Change in Heart Rate",
+          "description": "Mean difference in heart rate evaluated after administration of diltiazem bolus. Monitors were set to obtain an automated full set of vitals every 5 minutes after administration of diltiazem.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "beats per minute",
+          "timeFrame": "Baseline to 5 Minutes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Calcium Pre-treatment",
+              "description": "Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl\n\nCalcium pre-treatment: The intervention is Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl) over 5 minutes."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "diluent (NS) vials\n\nPlacebo: Placebo/ no calcium pre-treatment."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "39"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-37.8864",
+                      "spread": "21.5355"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-36.2564",
+                      "spread": "20.6687"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Change in Heart Rate",
+          "description": "Mean difference in heart rate evaluated after administration of diltiazem bolus. Monitors were set to obtain an automated full set of vitals every 5 minutes after administration of diltiazem.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "beats per minute",
+          "timeFrame": "Baseline to 10 Minutes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Calcium Pre-treatment",
+              "description": "Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl\n\nCalcium pre-treatment: The intervention is Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl) over 5 minutes."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "diluent (NS) vials\n\nPlacebo: Placebo/ no calcium pre-treatment."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "39"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-43.9545",
+                      "spread": "19.6551"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-35.0000",
+                      "spread": "21.5174"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mean Change in Heart Rate",
+          "description": "Mean difference in heart rate evaluated after administration of diltiazem bolus. Monitors were set to obtain an automated full set of vitals every 5 minutes after administration of diltiazem.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "beats per minute",
+          "timeFrame": "Baseline to 15 Minutes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Calcium Pre-treatment",
+              "description": "Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl\n\nCalcium pre-treatment: The intervention is Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl) over 5 minutes."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "diluent (NS) vials\n\nPlacebo: Placebo/ no calcium pre-treatment."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "39"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-43.1136",
+                      "spread": "19.1860"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-33.7949",
+                      "spread": "22.2405"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Heart Rhythm at 5 Minutes",
+          "description": "Heart rhythm category after 5 minutes of initial diltiazem administration for treatment of AFF with RVR.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Baseline to 5 Minutes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Calcium Pre-treatment",
+              "description": "Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl\n\nCalcium pre-treatment: The intervention is Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl) over 5 minutes."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "diluent (NS) vials\n\nPlacebo: Placebo/ no calcium pre-treatment."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "39"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "AFF",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "29"
+                    }
+                  ]
+                },
+                {
+                  "title": "AFF RVR",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "NSR",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Heart Rhythm at 15 Minutes",
+          "description": "Heart rhythm category after 15 minutes of initial diltiazem administration for treatment of AFF with RVR.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Baseline to 15 Minutes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Calcium Pre-treatment",
+              "description": "Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl\n\nCalcium pre-treatment: The intervention is Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl) over 5 minutes."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "diluent (NS) vials\n\nPlacebo: Placebo/ no calcium pre-treatment."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "39"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "AFF",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "27"
+                    }
+                  ]
+                },
+                {
+                  "title": "AFF RVR",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "NSR",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Adverse event data was collected at the 5 minutes, 10 minutes, and 15 minutes intervals after initiation of diltiazem infusion by the emergency department pharmacy staff associated with this study.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Calcium Pre-treatment",
+          "description": "Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl\n\nCalcium pre-treatment: The intervention is Calcium gluconate 1 gram/100ml 0.9% NaCl or 100ml 0.9% NaCl) over 5 minutes.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 44,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 44,
+          "otherNumAffected": 5,
+          "otherNumAtRisk": 44
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo",
+          "description": "diluent (NS) vials\n\nPlacebo: Placebo/ no calcium pre-treatment.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 39,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 39,
+          "otherNumAffected": 2,
+          "otherNumAtRisk": 39
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "hypotension",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 44
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 39
+            }
+          ]
+        },
+        {
+          "term": "extravasation via Calcium Gluconate",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 44
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 39
+            }
+          ]
+        },
+        {
+          "term": "ringing in ears/chest pressure",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 44
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 39
+            }
+          ]
+        },
+        {
+          "term": "extravasation via CCB",
+          "organSystem": "General disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 44
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 39
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "Limitations: this was a single-center study with a relatively small sample size, which may limit generalizability. There was variability in diltiazem dosing amongst providers. Additionally, variability in provider practice and in dosing and timing of administration was present with the use of magnesium sulfate for atrial flutter with rapid ventricular rate. The timing and dose of magnesium administration was not protocolized."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Michael Cirone, MD",
+        "organization": "Advocate Health",
+        "email": "michael.cirone@aah.org",
+        "phone": "7086841710"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-11-06",
+          "uploadDate": "2025-10-17T15:14",
+          "filename": "Prot_SAP_002.pdf",
+          "size": 309286
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2024-09-12",
+          "uploadDate": "2025-01-15T12:39",
+          "filename": "ICF_000.pdf",
+          "size": 491884
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-10-20",
+            "type": "ESTIMATED"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D007022",
+          "term": "Hypotension"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

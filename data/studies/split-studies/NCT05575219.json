@@ -1,0 +1,1172 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05575219",
+      "orgStudyIdInfo": {
+        "id": "HSC-MS-22-0410"
+      },
+      "organization": {
+        "fullName": "The University of Texas Health Science Center, Houston",
+        "class": "OTHER"
+      },
+      "briefTitle": "Protocolized Initiation of Clonidine to Prevent Dexmedetomidine Withdrawal",
+      "officialTitle": "Protocolized Initiation of Clonidine to Prevent Dexmedetomidine Withdrawal: A Prospective Cohort Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-10-08",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-02-15",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-02-15",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-10-05",
+      "studyFirstSubmitQcDate": "2022-10-07",
+      "studyFirstPostDateStruct": {
+        "date": "2022-10-12",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-01-02",
+      "resultsFirstSubmitQcDate": "2025-01-02",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-01-28",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-01-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-01-28",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Andrea Leigh Heifner",
+        "investigatorTitle": "Clinical Fellow",
+        "investigatorAffiliation": "The University of Texas Health Science Center, Houston"
+      },
+      "leadSponsor": {
+        "name": "The University of Texas Health Science Center, Houston",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to determine if the protocolized use of clonidine will reduce dexmedetomidine withdrawal symptoms, reduce PICU length of stay, and reduce costs related to sedation during hospital admission."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Withdrawal; Therapeutic Substance"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 128,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Usual care (without protocolized clonidine initiation)",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion.",
+          "interventionNames": [
+            "Drug: Clonidine (without protocolized initiation)"
+          ]
+        },
+        {
+          "label": "Intervention (protocolized clonidine initiation)",
+          "type": "EXPERIMENTAL",
+          "description": "A protocol for clonidine initiation will be implemented based on the time on dexmedetomidine and the average hourly dose of dexmedetomidine.",
+          "interventionNames": [
+            "Drug: Clonidine (protocolized initiation)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Clonidine (without protocolized initiation)",
+          "description": "Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion.",
+          "armGroupLabels": [
+            "Usual care (without protocolized clonidine initiation)"
+          ],
+          "otherNames": [
+            "Clondine"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Clonidine (protocolized initiation)",
+          "description": "* Observe participants without initiating clonidine with dexmedetomidine infusion time of 72-119 hours. To wean off dexmedetomidine, decrease the infusion by 25% of the starting dose every 6 hours.\n* Begin clonidine at 1 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of 120-144 hours.\n* Begin clonidine at 1.5 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion times of 145-167 hours.\n* Begin clonidine at 2 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of \\>/= 168 hours or with infusion time of 120-167 hours at doses \\>/= 1.1 mcg/kg/min.\n* If clonidine is started decrease the dexmedetomidine infusion by 25% of the starting dose 1 hour after each dose of clonidine until off (wean every 6 hours).",
+          "armGroupLabels": [
+            "Intervention (protocolized clonidine initiation)"
+          ],
+          "otherNames": [
+            "Clondine"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants With Withdrawal",
+          "description": "The number of participants with withdrawal is reported. Withdrawal is defined as: (increase in heart rate, systolic blood pressure, and/or diastolic blood pressure by at least 10% from the 24 hours prior to dexmedetomidine weaning to the 24 hours after dexmedetomidine is discontinued) AND (two documented WAT (Withdrawal assessment tool)-1 scores of ≥ 3 and/or two study questionnaire scores of ≥ 3). WAT and questionnaire scores will be collected every 12 hours starting with the first dexmedetomidine wean until 72 hours after dexmedetomidine is discontinued.\n\nWAT-1 is a scoring tool used to evaluate symptoms of withdrawal with a total score that ranges from 0 to 12. The higher the score the more severe the withdrawal.\n\nThe study questionnaire is used to evaluate degree of agitation and/or insomnia with a total score that ranges from 0 to 7, a higher score indicates higher degrees of agitation and/or insomnia.",
+          "timeFrame": "from the time dexmedetomidine is first weaned until 72 hours after dexmedetomidine is off (about 3-14 days)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Hours on Dexmedetomidine",
+          "description": "number of total hours on dexmedetomidine",
+          "timeFrame": "During time in Pediatric Intensive Care Unit (about 260 Hours)"
+        },
+        {
+          "measure": "Pediatric Intensive Care Unit (PICU) Length of Stay",
+          "description": "number of days in the PICU",
+          "timeFrame": "During time in Pediatric Intensive Care Unit (about 10 to 30 days)"
+        },
+        {
+          "measure": "Dexmedetomidine Cost Per Kilogram During Hospitalization",
+          "timeFrame": "During time in Pediatric Intensive Care Unit (about 24 days)"
+        },
+        {
+          "measure": "Clonidine Cost Per Kilogram During Hospitalization",
+          "timeFrame": "During time in Pediatric Intensive Care Unit (about 24 days)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Dexmedetomidine infusion for greater than or equal to 72 hours\n\nExclusion Criteria:\n\n* Admission for head trauma\n* Psychiatric history\n* Use of alpha-2 agonist medications at home\n* Death while on dexmedetomidine",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "4 Weeks",
+      "maximumAge": "18 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Andrea Heifner, MD",
+          "affiliation": "The University of Texas Health Science Center, Houston",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Children's Memorial Hermann Hospital",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "20051795",
+          "type": "BACKGROUND",
+          "citation": "Berkenbosch JW. Dexmedetomidine and pediatric (cardiac) critical care--are we there yet? Pediatr Crit Care Med. 2010 Jan;11(1):148-9. doi: 10.1097/PCC.0b013e3181bc57c0. No abstract available."
+        },
+        {
+          "pmid": "33424504",
+          "type": "BACKGROUND",
+          "citation": "Berrens ZJ, Sauro AL, Tillman EM. Prevention of Withdrawal in Pediatric Patients Receiving Long-term Dexmedetomidine Infusions. J Pediatr Pharmacol Ther. 2021;26(1):81-86. doi: 10.5863/1551-6776-26.1.81. Epub 2021 Jan 4."
+        },
+        {
+          "pmid": "33163969",
+          "type": "BACKGROUND",
+          "citation": "Bhatt K, Thompson Quan A, Baumgartner L, Jia S, Croci R, Puntillo K, Ramsay J, Bouajram RH. Effects of a Clonidine Taper on Dexmedetomidine Use and Withdrawal in Adult Critically Ill Patients-A Pilot Study. Crit Care Explor. 2020 Nov 3;2(11):e0245. doi: 10.1097/CCE.0000000000000245. eCollection 2020 Nov."
+        },
+        {
+          "pmid": "16446601",
+          "type": "BACKGROUND",
+          "citation": "Curley MA, Harris SK, Fraser KA, Johnson RA, Arnold JH. State Behavioral Scale: a sedation assessment instrument for infants and young children supported on mechanical ventilation. Pediatr Crit Care Med. 2006 Mar;7(2):107-14. doi: 10.1097/01.PCC.0000200955.40962.38."
+        },
+        {
+          "pmid": "20051785",
+          "type": "BACKGROUND",
+          "citation": "Darnell C, Steiner J, Szmuk P, Sheeran P. Withdrawal from multiple sedative agent therapy in an infant: is dexmedetomidine the cause or the cure? Pediatr Crit Care Med. 2010 Jan;11(1):e1-3. doi: 10.1097/PCC.0b013e3181a66131."
+        },
+        {
+          "pmid": "18838937",
+          "type": "BACKGROUND",
+          "citation": "Franck LS, Harris SK, Soetenga DJ, Amling JK, Curley MA. The Withdrawal Assessment Tool-1 (WAT-1): an assessment instrument for monitoring opioid and benzodiazepine withdrawal symptoms in pediatric patients. Pediatr Crit Care Med. 2008 Nov;9(6):573-80. doi: 10.1097/PCC.0b013e31818c8328."
+        },
+        {
+          "pmid": "22093817",
+          "type": "BACKGROUND",
+          "citation": "Franck LS, Scoppettuolo LA, Wypij D, Curley MAQ. Validity and generalizability of the Withdrawal Assessment Tool-1 (WAT-1) for monitoring iatrogenic withdrawal syndrome in pediatric patients. Pain. 2012 Jan;153(1):142-148. doi: 10.1016/j.pain.2011.10.003. Epub 2011 Nov 16."
+        },
+        {
+          "pmid": "29290746",
+          "type": "BACKGROUND",
+          "citation": "Haenecour AS, Seto W, Urbain CM, Stephens D, Laussen PC, Balit CR. Prolonged Dexmedetomidine Infusion and Drug Withdrawal In Critically Ill Children. J Pediatr Pharmacol Ther. 2017 Nov-Dec;22(6):453-460. doi: 10.5863/1551-6776-22.6.453."
+        },
+        {
+          "pmid": "25859170",
+          "type": "BACKGROUND",
+          "citation": "Lardieri AB, Fusco NM, Simone S, Walker LK, Morgan JA, Parbuoni KA. Effects of Clonidine on Withdrawal From Long-term Dexmedetomidine in the Pediatric Patient. J Pediatr Pharmacol Ther. 2015 Jan-Feb;20(1):45-53. doi: 10.5863/1551-6776-20.1.45."
+        },
+        {
+          "pmid": "32461740",
+          "type": "BACKGROUND",
+          "citation": "Liu J, Miller J, Ferguson M, Bagwell S, Bourque J. The Impact of a Clonidine Transition Protocol on Dexmedetomidine Withdrawal in Critically Ill Pediatric Patients. J Pediatr Pharmacol Ther. 2020;25(4):278-287. doi: 10.5863/1551-6776-25.4.278."
+        },
+        {
+          "pmid": "34790072",
+          "type": "BACKGROUND",
+          "citation": "Nguyen TL, Lam WM, Orr H, Gulbis B, Mauricio R, Tom E, Modem VM, Coronado-Munoz A. Clonidine for the Treatment of Agitation After Dexmedetomidine Discontinuation in Pediatric Patients: A Retrospective Cohort Study. J Pediatr Pharmacol Ther. 2021;26(8):821-827. doi: 10.5863/1551-6776-26.8.821. Epub 2021 Nov 10."
+        },
+        {
+          "pmid": "29341985",
+          "type": "BACKGROUND",
+          "citation": "Shutes BL, Gee SW, Sargel CL, Fink KA, Tobias JD. Dexmedetomidine as Single Continuous Sedative During Noninvasive Ventilation: Typical Usage, Hemodynamic Effects, and Withdrawal. Pediatr Crit Care Med. 2018 Apr;19(4):287-297. doi: 10.1097/PCC.0000000000001451."
+        },
+        {
+          "pmid": "30837809",
+          "type": "BACKGROUND",
+          "citation": "Thompson RZ, Gardner BM, Autry EB, Day SB, Krishna AS. Survey of the Current Use of Dexmedetomidine and Management of Withdrawal Symptoms in Critically Ill Children. J Pediatr Pharmacol Ther. 2019 Jan-Feb;24(1):16-21. doi: 10.5863/1551-6776-24.1.16."
+        },
+        {
+          "pmid": "24145848",
+          "type": "BACKGROUND",
+          "citation": "Traube C, Silver G, Kearney J, Patel A, Atkinson TM, Yoon MJ, Halpert S, Augenstein J, Sickles LE, Li C, Greenwald B. Cornell Assessment of Pediatric Delirium: a valid, rapid, observational tool for screening delirium in the PICU*. Crit Care Med. 2014 Mar;42(3):656-63. doi: 10.1097/CCM.0b013e3182a66b76."
+        },
+        {
+          "pmid": "18095980",
+          "type": "BACKGROUND",
+          "citation": "Weber MD, Thammasitboon S, Rosen DA. Acute discontinuation syndrome from dexmedetomidine after protracted use in a pediatric patient. Paediatr Anaesth. 2008 Jan;18(1):87-8. doi: 10.1111/j.1460-9592.2007.02377.x. No abstract available."
+        },
+        {
+          "pmid": "32071584",
+          "type": "BACKGROUND",
+          "citation": "Lee MM, Caylor K, Gockenbach N. Evaluating the Transition From Dexmedetomidine to Clonidine for the Prevention of Withdrawal in Critically Ill Pediatric Patients. J Pediatr Pharmacol Ther. 2020;25(2):104-110. doi: 10.5863/1551-6776-25.2.104."
+        },
+        {
+          "pmid": "22477791",
+          "type": "BACKGROUND",
+          "citation": "Miller JL, Allen C, Johnson PN. Neurologic withdrawal symptoms following abrupt discontinuation of a prolonged dexmedetomidine infusion in a child. J Pediatr Pharmacol Ther. 2010 Jan;15(1):38-42."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Usual Care (Without Protocolized Clonidine Initiation)",
+          "description": "Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion.\n\nClonidine (without protocolized initiation): Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion."
+        },
+        {
+          "id": "FG001",
+          "title": "Intervention (Protocolized Clonidine Initiation)",
+          "description": "A protocol for clonidine initiation will be implemented based on the time on dexmedetomidine and the average hourly dose of dexmedetomidine.\n\nClonidine (protocolized initiation): - Observe participants without initiating clonidine with dexmedetomidine infusion time of 72-119 hours. To wean off dexmedetomidine, decrease the infusion by 25% of the starting dose every 6 hours.\n\n* Begin clonidine at 1 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of 120-144 hours.\n* Begin clonidine at 1.5 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion times of 145-167 hours.\n* Begin clonidine at 2 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of \\>/= 168 hours or with infusion time of 120-167 hours at doses \\>/= 1.1 mcg/kg/min.\n* If clonidine is started decrease the dexmedetomidine infusion by 25% of the starting dose 1 hour after each dose of clonidine until off (wean every 6 hours)."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "96"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "32"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "96"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "32"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Usual Care (Without Protocolized Clonidine Initiation)",
+          "description": "Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion.\n\nClonidine (without protocolized initiation): Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion."
+        },
+        {
+          "id": "BG001",
+          "title": "Intervention (Protocolized Clonidine Initiation)",
+          "description": "A protocol for clonidine initiation will be implemented based on the time on dexmedetomidine and the average hourly dose of dexmedetomidine.\n\nClonidine (protocolized initiation): - Observe participants without initiating clonidine with dexmedetomidine infusion time of 72-119 hours. To wean off dexmedetomidine, decrease the infusion by 25% of the starting dose every 6 hours.\n\n* Begin clonidine at 1 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of 120-144 hours.\n* Begin clonidine at 1.5 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion times of 145-167 hours.\n* Begin clonidine at 2 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of \\>/= 168 hours or with infusion time of 120-167 hours at doses \\>/= 1.1 mcg/kg/min.\n* If clonidine is started decrease the dexmedetomidine infusion by 25% of the starting dose 1 hour after each dose of clonidine until off (wean every 6 hours)."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "96"
+            },
+            {
+              "groupId": "BG001",
+              "value": "32"
+            },
+            {
+              "groupId": "BG002",
+              "value": "128"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "months",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "96"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "128"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10",
+                      "lowerLimit": "3",
+                      "upperLimit": "28.5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16.5",
+                      "lowerLimit": "4.75",
+                      "upperLimit": "113.75"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10.5",
+                      "lowerLimit": "3.75",
+                      "upperLimit": "47.75"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "96"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "128"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "54"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "75"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "42"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "53"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "96"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "128"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "96"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "128"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Weight",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "kilograms",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "96"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "128"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7.515",
+                      "lowerLimit": "4.525",
+                      "upperLimit": "12.325"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10.95",
+                      "lowerLimit": "5.885",
+                      "upperLimit": "26.475"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8.418",
+                      "lowerLimit": "4.778",
+                      "upperLimit": "16.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Primary Diagnosis",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "96"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "128"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Cardiac Diagnosis",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "40"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "40"
+                    }
+                  ]
+                },
+                {
+                  "title": "Respiratory Diagnosis",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "67"
+                    }
+                  ]
+                },
+                {
+                  "title": "Neurologic Diagnosis",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "Sepsis Diagnosis",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "Hematology/Oncology Diagnosis",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Other Diagnosis",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Withdrawal",
+          "description": "The number of participants with withdrawal is reported. Withdrawal is defined as: (increase in heart rate, systolic blood pressure, and/or diastolic blood pressure by at least 10% from the 24 hours prior to dexmedetomidine weaning to the 24 hours after dexmedetomidine is discontinued) AND (two documented WAT (Withdrawal assessment tool)-1 scores of ≥ 3 and/or two study questionnaire scores of ≥ 3). WAT and questionnaire scores will be collected every 12 hours starting with the first dexmedetomidine wean until 72 hours after dexmedetomidine is discontinued.\n\nWAT-1 is a scoring tool used to evaluate symptoms of withdrawal with a total score that ranges from 0 to 12. The higher the score the more severe the withdrawal.\n\nThe study questionnaire is used to evaluate degree of agitation and/or insomnia with a total score that ranges from 0 to 7, a higher score indicates higher degrees of agitation and/or insomnia.",
+          "populationDescription": "Data were not collected from 5 participants in the Usual care (without protocolized clonidine initiation) arm. Data were not collected from 2 participants in the Intervention (protocolized clonidine initiation) arm.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "from the time dexmedetomidine is first weaned until 72 hours after dexmedetomidine is off (about 3-14 days)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Usual Care (Without Protocolized Clonidine Initiation)",
+              "description": "Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion.\n\nClonidine (without protocolized initiation): Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention (Protocolized Clonidine Initiation)",
+              "description": "A protocol for clonidine initiation will be implemented based on the time on dexmedetomidine and the average hourly dose of dexmedetomidine.\n\nClonidine (protocolized initiation): - Observe participants without initiating clonidine with dexmedetomidine infusion time of 72-119 hours. To wean off dexmedetomidine, decrease the infusion by 25% of the starting dose every 6 hours.\n\n* Begin clonidine at 1 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of 120-144 hours.\n* Begin clonidine at 1.5 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion times of 145-167 hours.\n* Begin clonidine at 2 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of \\>/= 168 hours or with infusion time of 120-167 hours at doses \\>/= 1.1 mcg/kg/min.\n* If clonidine is started decrease the dexmedetomidine infusion by 25% of the starting dose 1 hour after each dose of clonidine until off (wean every 6 hours)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "91"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "30"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Hours on Dexmedetomidine",
+          "description": "number of total hours on dexmedetomidine",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "Hours",
+          "timeFrame": "During time in Pediatric Intensive Care Unit (about 260 Hours)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Usual Care (Without Protocolized Clonidine Initiation)",
+              "description": "Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion.\n\nClonidine (without protocolized initiation): Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention (Protocolized Clonidine Initiation)",
+              "description": "A protocol for clonidine initiation will be implemented based on the time on dexmedetomidine and the average hourly dose of dexmedetomidine.\n\nClonidine (protocolized initiation): - Observe participants without initiating clonidine with dexmedetomidine infusion time of 72-119 hours. To wean off dexmedetomidine, decrease the infusion by 25% of the starting dose every 6 hours.\n\n* Begin clonidine at 1 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of 120-144 hours.\n* Begin clonidine at 1.5 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion times of 145-167 hours.\n* Begin clonidine at 2 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of \\>/= 168 hours or with infusion time of 120-167 hours at doses \\>/= 1.1 mcg/kg/min.\n* If clonidine is started decrease the dexmedetomidine infusion by 25% of the starting dose 1 hour after each dose of clonidine until off (wean every 6 hours)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "96"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "32"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "153.43",
+                      "lowerLimit": "114.79",
+                      "upperLimit": "218.62"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "155.33",
+                      "lowerLimit": "132.83",
+                      "upperLimit": "260.23"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Pediatric Intensive Care Unit (PICU) Length of Stay",
+          "description": "number of days in the PICU",
+          "populationDescription": "Data were not collected for 8 participants in the Usual care (without protocolized clonidine initiation) arm.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "Days",
+          "timeFrame": "During time in Pediatric Intensive Care Unit (about 10 to 30 days)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Usual Care (Without Protocolized Clonidine Initiation)",
+              "description": "Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion.\n\nClonidine (without protocolized initiation): Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention (Protocolized Clonidine Initiation)",
+              "description": "A protocol for clonidine initiation will be implemented based on the time on dexmedetomidine and the average hourly dose of dexmedetomidine.\n\nClonidine (protocolized initiation): - Observe participants without initiating clonidine with dexmedetomidine infusion time of 72-119 hours. To wean off dexmedetomidine, decrease the infusion by 25% of the starting dose every 6 hours.\n\n* Begin clonidine at 1 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of 120-144 hours.\n* Begin clonidine at 1.5 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion times of 145-167 hours.\n* Begin clonidine at 2 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of \\>/= 168 hours or with infusion time of 120-167 hours at doses \\>/= 1.1 mcg/kg/min.\n* If clonidine is started decrease the dexmedetomidine infusion by 25% of the starting dose 1 hour after each dose of clonidine until off (wean every 6 hours)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "88"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "32"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13",
+                      "lowerLimit": "9",
+                      "upperLimit": "28"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10.5",
+                      "lowerLimit": "8.75",
+                      "upperLimit": "16.25"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Dexmedetomidine Cost Per Kilogram During Hospitalization",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "dollars per kilogram",
+          "timeFrame": "During time in Pediatric Intensive Care Unit (about 24 days)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Usual Care (Without Protocolized Clonidine Initiation)",
+              "description": "Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion.\n\nClonidine (without protocolized initiation): Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention (Protocolized Clonidine Initiation)",
+              "description": "A protocol for clonidine initiation will be implemented based on the time on dexmedetomidine and the average hourly dose of dexmedetomidine.\n\nClonidine (protocolized initiation): - Observe participants without initiating clonidine with dexmedetomidine infusion time of 72-119 hours. To wean off dexmedetomidine, decrease the infusion by 25% of the starting dose every 6 hours.\n\n* Begin clonidine at 1 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of 120-144 hours.\n* Begin clonidine at 1.5 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion times of 145-167 hours.\n* Begin clonidine at 2 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of \\>/= 168 hours or with infusion time of 120-167 hours at doses \\>/= 1.1 mcg/kg/min.\n* If clonidine is started decrease the dexmedetomidine infusion by 25% of the starting dose 1 hour after each dose of clonidine until off (wean every 6 hours)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "96"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "32"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19.98",
+                      "lowerLimit": "14.5",
+                      "upperLimit": "32.72"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "29.46",
+                      "lowerLimit": "20.19",
+                      "upperLimit": "47.64"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Clonidine Cost Per Kilogram During Hospitalization",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "cents per kilogram",
+          "timeFrame": "During time in Pediatric Intensive Care Unit (about 24 days)",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Usual Care (Without Protocolized Clonidine Initiation)",
+              "description": "Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion.\n\nClonidine (without protocolized initiation): Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion."
+            },
+            {
+              "id": "OG001",
+              "title": "Intervention (Protocolized Clonidine Initiation)",
+              "description": "A protocol for clonidine initiation will be implemented based on the time on dexmedetomidine and the average hourly dose of dexmedetomidine.\n\nClonidine (protocolized initiation): - Observe participants without initiating clonidine with dexmedetomidine infusion time of 72-119 hours. To wean off dexmedetomidine, decrease the infusion by 25% of the starting dose every 6 hours.\n\n* Begin clonidine at 1 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of 120-144 hours.\n* Begin clonidine at 1.5 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion times of 145-167 hours.\n* Begin clonidine at 2 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of \\>/= 168 hours or with infusion time of 120-167 hours at doses \\>/= 1.1 mcg/kg/min.\n* If clonidine is started decrease the dexmedetomidine infusion by 25% of the starting dose 1 hour after each dose of clonidine until off (wean every 6 hours)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "96"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "32"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.06",
+                      "lowerLimit": "0.03",
+                      "upperLimit": "0.14"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.05",
+                      "lowerLimit": "0.02",
+                      "upperLimit": "0.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "From baseline to time in PICU (about 24 days)",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Usual Care (Without Protocolized Clonidine Initiation)",
+          "description": "Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion.\n\nClonidine (without protocolized initiation): Participants will be observed for dexmedetomidine withdrawal and clonidine will be started at clinician discretion.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 96,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 96,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 96
+        },
+        {
+          "id": "EG001",
+          "title": "Intervention (Protocolized Clonidine Initiation)",
+          "description": "A protocol for clonidine initiation will be implemented based on the time on dexmedetomidine and the average hourly dose of dexmedetomidine.\n\nClonidine (protocolized initiation): - Observe participants without initiating clonidine with dexmedetomidine infusion time of 72-119 hours. To wean off dexmedetomidine, decrease the infusion by 25% of the starting dose every 6 hours.\n\n* Begin clonidine at 1 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of 120-144 hours.\n* Begin clonidine at 1.5 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion times of 145-167 hours.\n* Begin clonidine at 2 mcg/kg enterally every 6 hours for participants with dexmedetomidine infusion time of \\>/= 168 hours or with infusion time of 120-167 hours at doses \\>/= 1.1 mcg/kg/min.\n* If clonidine is started decrease the dexmedetomidine infusion by 25% of the starting dose 1 hour after each dose of clonidine until off (wean every 6 hours).",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 32,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 32,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 32
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Andrea Leigh Heifner, MD",
+        "organization": "The University of Texas Health Science Center at Houston",
+        "email": "andrea.heifner@stjude.org",
+        "phone": "407-729-2972"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-11-15",
+          "uploadDate": "2024-12-10T13:33",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 1457007
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003000",
+          "term": "Clonidine"
+        },
+        {
+          "id": "C039529",
+          "term": "clonidine 4-methylisothiocyanate"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D048288",
+          "term": "Imidazolines"
+        },
+        {
+          "id": "D007093",
+          "term": "Imidazoles"
+        },
+        {
+          "id": "D001393",
+          "term": "Azoles"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

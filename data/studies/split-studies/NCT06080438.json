@@ -1,0 +1,840 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06080438",
+      "orgStudyIdInfo": {
+        "id": "20220083"
+      },
+      "organization": {
+        "fullName": "University of Miami",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effect of Topical Botulinum Toxin Eyedrop on Palpebral Fissure",
+      "officialTitle": "The Effect of Topical Botulinum Toxin Eyedrop on Palpebral Fissure Height, Ocular Surface and Tearing"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-11",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Patient recruitment shortage and study coordinator turnover",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-11-29",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-07-28",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-07-28",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-10-05",
+      "studyFirstSubmitQcDate": "2023-10-06",
+      "studyFirstPostDateStruct": {
+        "date": "2023-10-12",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-07-31",
+      "resultsFirstSubmitQcDate": "2024-11-12",
+      "resultsFirstPostDateStruct": {
+        "date": "2024-12-05",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-11-12",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-12-05",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Wendy Lee",
+        "investigatorTitle": "Professor of Clinical",
+        "investigatorAffiliation": "University of Miami"
+      },
+      "leadSponsor": {
+        "name": "University of Miami",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this research study is to test if Topical (applied to the surface of the eye) Botulinum Toxin temporarily lowers the upper eyelid and makes the eyelid appear less open and thereby affects the eye surface and decreases reflexive tearing."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Tears; Excess",
+        "Eyelid Spasm"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 2,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Botulinum toxin group",
+          "type": "EXPERIMENTAL",
+          "description": "The left eye of each participant will receive botulinum toxin eye drops and will remain in this group for up to 40 minutes.",
+          "interventionNames": [
+            "Drug: Botulinum toxin"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Botulinum toxin",
+          "description": "15 units of botulinum toxin administered one time to the eye via eye drops",
+          "armGroupLabels": [
+            "Botulinum toxin group"
+          ],
+          "otherNames": [
+            "BOTOX"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in Palpebral Fissure Height",
+          "description": "Palpebral fissure on Day 3 minus palpebral fissure at baseline.\n\nPalpebral fissure is the area between the upper and lower eyelid margins. Palpebral fissure height on eyes is measured in primary gaze position with a clear ruler held in a central vertical position between the upper and lower eyelid margin.",
+          "timeFrame": "baseline and Day 3"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Corneal Staining Density",
+          "description": "Scoring of the ocular surface will be done by fluorescein staining and evaluating with a slit lamp and grading scale: 0-3 0 (no punctate staining)\n\n1. (sparse density)\n2. (moderate density)\n3. (high density and overlapping lesions).",
+          "timeFrame": "Baseline"
+        },
+        {
+          "measure": "Corneal Staining Density",
+          "description": "Scoring of the ocular surface will be done by fluorescein staining and evaluating with a slit lamp and grading scale: 0-3 0 (no punctate staining)\n\n1. (sparse density)\n2. (moderate density)\n3. (high density and overlapping lesions).",
+          "timeFrame": "Day 3"
+        },
+        {
+          "measure": "Change in Tearing",
+          "description": "Change in tearing will be calculated as tearing on Day 3 minus tearing at baseline.\n\nTearing will be assessed using the Schirmer test with anesthesia. Schirmer strip is inserted into the lower conjunctival sac at the junction of the lateral and middle thirds, avoiding touching the cornea, and the length of wetting strips in millimeters is recorded after 5 minutes.\n\nThe result can range from a minimum of 0 mm (no tearing) to a maximum of 35 mm (maximum tearing).",
+          "timeFrame": "baseline and Day 3"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults aged 18 and above that present to the oculoplastic and reconstructive surgery department that are able to provide informed consent to participate\n* Presence of upper eyelid retraction or asymmetry( \\>1mm)\n\nExclusion Criteria:\n\n* Adults unable to consent\n* Individuals less than 18 years of age\n* Prisoners\n* Pregnant women. o Patients will be asked if they are pregnant by research staff before participation in the study.\n\nWomen who are breast-feeding\n\n* Known contradictions or sensitivities to study medication\n* Grossly abnormal lid margins, anatomical abnormalities\n* Variable ptosis or eyelid position (e.g., myasthenia gravis, blepharospasm)\n* Any ocular or systemic condition that, in the opinion of the investigator, would confound study data, interfere with the subject's study participation, or affected the subject's safety or trial parameters\n* Presence of an active ocular infection\n* Inability to sit comfortably for 15 - 30 minutes\n* Botulinum toxin injection in the eyelids during the past 3 weeks.\n* Neuromuscular disorders (e.g., Parkinson's disease or myasthenia gravis)\n* Medication use known to interfere with the effects of botulinum toxin-A within the previous 1 month (e.g., aminoglycoside or benzodiazepines),\n* Previous history of hypersensitivity reactions to botulinum toxin-A\n* Dysfunction of tear production or secretion (e.g., meibomian gland dysfunction or Sjogren's syndrome),",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Wendy Lee, MD",
+          "affiliation": "University of Miami",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Miami",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33135",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "For interim analysis of futility, the investigators conducted the study with BT eye drops on first 10 patients and then evaluate the results to see if there are any significant effects. If clinically significant effects are seen, then 34 patients totally (17 in BT vs 17 in saline) are included. The study was terminated and did not continue; therefore, only the first phase of the study was conducted with only one arm (BT eye drops) with results reported for the first phase only.",
+      "typeUnitsAnalyzed": "eyes",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Botulinum Toxin Group",
+          "description": "The left eye of each participant will receive botulinum toxin eye drops and will remain in this group for up to 40 minutes.\n\nBotulinum toxin: 15 units of botulinum toxin administered one time to the eye via eye drops"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2",
+                  "numUnits": "2"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2",
+                  "numUnits": "2"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "typeUnitsAnalyzed": "eyes",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Botulinum Toxin Group",
+          "description": "The left eye of each participant will receive botulinum toxin eye drops and will remain in this group for up to 40 minutes.\n\nBotulinum toxin: 15 units of botulinum toxin administered one time to the eye via eye drops"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "units": "eyes",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "2"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "denomUnitsSelected": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "denomUnitsSelected": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "57",
+                      "spread": "4.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "denomUnitsSelected": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "denomUnitsSelected": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Palpebral fissure",
+          "description": "Palpebral fissure is the area between the upper and lower eyelid margins. Palpebral fissure height on eyes is measured in primary gaze position with a clear ruler held in a central vertical position between the upper and lower eyelid margin.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "mm",
+          "denomUnitsSelected": "eyes",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11.75",
+                      "spread": "0.42"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change in Palpebral Fissure Height",
+          "description": "Palpebral fissure on Day 3 minus palpebral fissure at baseline.\n\nPalpebral fissure is the area between the upper and lower eyelid margins. Palpebral fissure height on eyes is measured in primary gaze position with a clear ruler held in a central vertical position between the upper and lower eyelid margin.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mm",
+          "timeFrame": "baseline and Day 3",
+          "typeUnitsAnalyzed": "eyes",
+          "denomUnitsSelected": "eyes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Botulinum Toxin Group",
+              "description": "The left eye of each participant will receive botulinum toxin eye drops and will remain in this group for up to 40 minutes.\n\nBotulinum toxin: 15 units of botulinum toxin administered one time to the eye via eye drops"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "2"
+                }
+              ]
+            },
+            {
+              "units": "eyes",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.5",
+                      "spread": "0.69"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Corneal Staining Density",
+          "description": "Scoring of the ocular surface will be done by fluorescein staining and evaluating with a slit lamp and grading scale: 0-3 0 (no punctate staining)\n\n1. (sparse density)\n2. (moderate density)\n3. (high density and overlapping lesions).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline",
+          "typeUnitsAnalyzed": "eyes",
+          "denomUnitsSelected": "eyes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Botulinum Toxin Group",
+              "description": "The left eye of each participant will receive botulinum toxin eye drops and will remain in this group for up to 40 minutes.\n\nBotulinum toxin: 15 units of botulinum toxin administered one time to the eye via eye drops"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "2"
+                }
+              ]
+            },
+            {
+              "units": "eyes",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2",
+                      "spread": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Corneal Staining Density",
+          "description": "Scoring of the ocular surface will be done by fluorescein staining and evaluating with a slit lamp and grading scale: 0-3 0 (no punctate staining)\n\n1. (sparse density)\n2. (moderate density)\n3. (high density and overlapping lesions).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Day 3",
+          "typeUnitsAnalyzed": "eyes",
+          "denomUnitsSelected": "eyes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Botulinum Toxin Group",
+              "description": "The left eye of each participant will receive botulinum toxin eye drops and will remain in this group for up to 40 minutes.\n\nBotulinum toxin: 15 units of botulinum toxin administered one time to the eye via eye drops"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "2"
+                }
+              ]
+            },
+            {
+              "units": "eyes",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2",
+                      "spread": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Tearing",
+          "description": "Change in tearing will be calculated as tearing on Day 3 minus tearing at baseline.\n\nTearing will be assessed using the Schirmer test with anesthesia. Schirmer strip is inserted into the lower conjunctival sac at the junction of the lateral and middle thirds, avoiding touching the cornea, and the length of wetting strips in millimeters is recorded after 5 minutes.\n\nThe result can range from a minimum of 0 mm (no tearing) to a maximum of 35 mm (maximum tearing).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mm",
+          "timeFrame": "baseline and Day 3",
+          "typeUnitsAnalyzed": "eyes",
+          "denomUnitsSelected": "eyes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Botulinum Toxin Group",
+              "description": "The left eye of each participant will receive botulinum toxin eye drops and will remain in this group for up to 40 minutes.\n\nBotulinum toxin: 15 units of botulinum toxin administered one time to the eye via eye drops"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "2"
+                }
+              ]
+            },
+            {
+              "units": "eyes",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3",
+                      "spread": "5.54"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "6 months",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Botulinum Toxin Group",
+          "description": "The left eye of each participant will receive botulinum toxin eye drops and will remain in this group for up to 40 minutes.\n\nBotulinum toxin: 15 units of botulinum toxin administered one time to the eye via eye drops",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 2,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 2,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 2
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "For interim analysis of futility, the investigators conducted the study with BT eye drops on the first 10 patients and then evaluated the results to see if there were any significant effects. If clinically significant effects are seen, then 34 patients totally (17 in BT vs 17 in saline) are included. The study was terminated and did not continue; therefore, only the first phase of the study was conducted with only one arm (BT eye drops) with results reported for the first phase only."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Principal investigator",
+        "organization": "University of Miami",
+        "email": "wlee@med.miami.edu",
+        "phone": "305-326-6434"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2022-09-26",
+          "uploadDate": "2024-07-30T18:27",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 296535
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2024-08-27",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D022125",
+          "term": "Lacerations"
+        },
+        {
+          "id": "D001764",
+          "term": "Blepharospasm"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014947",
+          "term": "Wounds and Injuries"
+        },
+        {
+          "id": "D005141",
+          "term": "Eyelid Diseases"
+        },
+        {
+          "id": "D005128",
+          "term": "Eye Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001905",
+          "term": "Botulinum Toxins"
+        },
+        {
+          "id": "D019274",
+          "term": "Botulinum Toxins, Type A"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D008666",
+          "term": "Metalloendopeptidases"
+        },
+        {
+          "id": "D010450",
+          "term": "Endopeptidases"
+        },
+        {
+          "id": "D010447",
+          "term": "Peptide Hydrolases"
+        },
+        {
+          "id": "D006867",
+          "term": "Hydrolases"
+        },
+        {
+          "id": "D004798",
+          "term": "Enzymes"
+        },
+        {
+          "id": "D045762",
+          "term": "Enzymes and Coenzymes"
+        },
+        {
+          "id": "D045726",
+          "term": "Metalloproteases"
+        },
+        {
+          "id": "D001426",
+          "term": "Bacterial Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D001427",
+          "term": "Bacterial Toxins"
+        },
+        {
+          "id": "D014118",
+          "term": "Toxins, Biological"
+        },
+        {
+          "id": "D001685",
+          "term": "Biological Factors"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

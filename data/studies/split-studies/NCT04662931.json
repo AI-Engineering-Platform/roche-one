@@ -1,0 +1,961 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04662931",
+      "orgStudyIdInfo": {
+        "id": "CSEG101A2403"
+      },
+      "organization": {
+        "fullName": "Novartis",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "An Indian Multi-centric Phase IV Study to Assess the Safety of Crizanlizumab in Sickle Cell Disease Patients",
+      "officialTitle": "An Indian Multi-centric Phase IV Study to Assess the Safety of Crizanlizumab With or Without Hydroxyurea Therapy in Sickle Cell Disease Patients With Vaso-occlusive Crises."
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-07-14",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-02-14",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-02-14",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-11-24",
+      "studyFirstSubmitQcDate": "2020-12-09",
+      "studyFirstPostDateStruct": {
+        "date": "2020-12-10",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-11-22",
+      "resultsFirstSubmitQcDate": "2024-11-22",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-01-08",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-09-24",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-26",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Novartis Pharmaceuticals",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Sickle cell disease (SCD) is a genetic blood disorder. Crizanlizumab is indicated to reduce the frequency of vaso-occlusive crises (VOCs) in patients with SCD aged 16 years and older.\n\nThe purpose of this local Phase IV study was to evaluate the safety of crizanlizumab specifically in Indian patients with SCD aged 16 years or older with a history of VOC leading to healthcare visit.",
+      "detailedDescription": "Sickle cell disease (SCD) is a genetic blood disorder, caused by a mutation in the β-globin gene, which early on progresses into a systemic disease. Vaso-occlusion is a hallmark of SCD and can lead to serious acute and chronic complications.\n\nThe purpose of this local Phase IV study was to evaluate the safety of crizanlizumab specifically in Indian patients with SCD aged 16 years or older with a history of VOC leading to healthcare visit.\n\nThe study was open label and single armed. 140 patients were treated with crizanlizumab for approximately one year at a dose of 5 mg/kg in addition to receiving standard of care.\n\nThe primary objective was to assess frequency, severity and causality of serious adverse events (SAEs) during the treatment period. Secondary objective was to assess overall safety and tolerability of crizanlizumab."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Sickle Cell Disease (SCD)"
+      ],
+      "keywords": [
+        "Sickle cell disease",
+        "Sickle cell disorder",
+        "SCD",
+        "Sickle cell anemia",
+        "Hemoglobin SC disease",
+        "Sickling disorder due to hemoglobin S",
+        "Vaso-occlusive crisis",
+        "VOC",
+        "P-selectin",
+        "Crizanlizumab",
+        "SEG101"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 140,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Crizanlizumab",
+          "type": "EXPERIMENTAL",
+          "description": "Participants received Crizanlizumab at a dose of 5.0 mg/kg, and standard of care.",
+          "interventionNames": [
+            "Drug: crizanlizumab"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "crizanlizumab",
+          "description": "Crizanlizumab 5.0 mg/kg i.v. initial dose on Week 1 Day 1, second dose on Week 3 Day 1. Subsequently, Day 1 of every 4 weeks until Week 51, in addition of standard of care.",
+          "armGroupLabels": [
+            "Crizanlizumab"
+          ],
+          "otherNames": [
+            "SEG101"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants With Treatment Emergent Serious Adverse Events (SAEs)",
+          "description": "Number of participants with treatment emergent SAEs and SAEs grade \\>=3. Adverse events were assessed and graded according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5. CTCAE ranges severity from Grade 1 through 5 being Grade 1 the lowest severity grade.",
+          "timeFrame": "Up to 15 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Participants With Treatment Emergent Adverse Events (AEs)",
+          "description": "Number of participants with treatment emergent AEs, AEs grade \\>=3, AEs led to study treatment discontinuation, AEs leading to dose adjustment/interruption, and AEs requiring additional therapy. Adverse events were assessed and graded according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.",
+          "timeFrame": "Up to 15 months"
+        },
+        {
+          "measure": "Number of Participants With Adverse Events of Special Interest (AESI)",
+          "description": "The AESIs were designated medical events, infections, infusion-related reaction (IRR), infusion-related reaction new combined and pain events. Pain events are potential infusion-related reactions presenting as pain events (occurred on the day of infusion).\n\nIRR (Standard search): Standard search, excluding infusion site-reaction and investigating the most common, nonspecific, potential signs and symptoms indicative of IRRs, and occurring on the day of infusion.\n\nIRR (Combined search): Comprised of severe reactions (e.g. bronchospasm, anaphylactic reaction etc.), that occurs any time after infusion (regardless of grade and causality) and pain events on the day of infusion along with the events that are covered under standard search.\n\nDesignated medical events (DMEs): European Medicines Agency, as well as EEA Member States released a list of DMEs, to identify reports of suspected ADRs that deserve special attention, irrespective of statistical criteria used to prioritize safety reviews.",
+          "timeFrame": "Up to 15 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Male or female participant aged 16 years and older\n* Confirmed diagnosis of SCD by hemoglobin electrophoresis or high performance liquid chromatography (HPLC). All SCD genotypes are eligible.\n* History of VOC leading to healthcare visit prior to screening visit\n* Participants must meet the following central laboratory values at the screening visit:\n\nAbsolute Neutrophil Count ≥1.0 x 109/L Platelet count ≥75 x 109/L Hemoglobin: for adults (Hb) ≥4.0 g/dL and for adolescents (Hb) ≥5.5 g/dL Glomerular filtration rate ≥ 45 mL/min/1.73 m2 using CKD-EPI formula Direct (conjugated) bilirubin \\< 2.0 x ULN Alanine Aminotransferase (ALT) \\< 3.0 x ULN\n\n* ECOG performance status ≤2 for adults and Karnofsky Performance Scale ≥ 50% for adolescents.\n\nExclusion Criteria:\n\n* Contraindication or hypersensitivity to any drug or metabolites from similar class as study drug. History of severe hypersensitivity reaction to other monoclonal antibodies which in the opinion of the investigator may pose an increased risk of serious infusion reaction.\n* Participant has received crizanlizumab and/or other P-selectin inhibitor prior to the study or plans to receive it during the duration of the study.\n* Concurrent severe and/or uncontrolled medical conditions which, in the opinion of the Investigator, could cause unacceptable safety risks or compromise participation in the study.\n* Any condition which, in the opinion of the investigator, is likely to interfere with the successful collection of the measurements required for the study.\n* Participant has documented immunogenicity to a prior biological drug.\n* Participants who are on active treatment with Voxelotor, other investigational drug or other monoclonal antibody, or intend to initiate the same during the course of the trial.\n* Pregnant females or females who have given birth within the past 90 days prior screening or who are breastfeeding.\n* Women of childbearing potential unless using highly effective methods of contraception during dosing and for 15 weeks after stopping treatment\n* Significant bleeding disorder\n* Active HIV infection\n* Active Hepatitis B infection\n* Positive test for Hepatitis C RNA\n* Malignant disease\n* Active infection or immune deficiency",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "16 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Novartis Pharmaceuticals Novartis Pharmaceuticals",
+          "affiliation": "Novartis Pharmaceuticals",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Guwahati",
+          "state": "Assam",
+          "zip": "781003",
+          "country": "India",
+          "geoPoint": {
+            "lat": 26.1844,
+            "lon": 91.7458
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Raipur",
+          "state": "Chhattisgarh",
+          "zip": "492099",
+          "country": "India",
+          "geoPoint": {
+            "lat": 21.23333,
+            "lon": 81.63333
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kozhikode",
+          "state": "Kerala",
+          "zip": "673008",
+          "country": "India",
+          "geoPoint": {
+            "lat": 11.24802,
+            "lon": 75.7804
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bhubaneswar",
+          "state": "Odisha",
+          "zip": "751003",
+          "country": "India",
+          "geoPoint": {
+            "lat": 20.27241,
+            "lon": 85.83385
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "zip": "500082",
+          "country": "India",
+          "geoPoint": {
+            "lat": 17.38405,
+            "lon": 78.45636
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Lucknow",
+          "state": "Uttar Pradesh",
+          "zip": "226014",
+          "country": "India",
+          "geoPoint": {
+            "lat": 26.83928,
+            "lon": 80.92313
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kolkata",
+          "state": "West Bengal",
+          "zip": "700014",
+          "country": "India",
+          "geoPoint": {
+            "lat": 22.56263,
+            "lon": 88.36304
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "A Plain Language Trial Summary is available on www.novctrd.com",
+          "url": "https://www.novctrd.com/ctrdweb/patientsummary/patientsummaries?patientSummaryId=2477"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Novartis is committed to sharing with qualified external researchers, access to patient-level data and supporting clinical documents from eligible studies. These requests are reviewed and approved by an independent expert panel on the basis of scientific merit. All data provided is anonymized to respect the privacy of patients who have participated in the trial in line with applicable laws and regulations.\n\nThis trial data is currently available according to the process described on www.clinicalstudydatarequest.com",
+      "url": "http://www.clinicalstudydatarequest.com"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "During the screening period, which occurred within 35 days before enrollment, participants signed written informed consent according to local guidelines. All screening evaluations were performed during this period.",
+      "recruitmentDetails": "Participants took part in 8 investigative sites in India.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Crizanlizumab 5.0 mg/kg i.v.",
+          "description": "Crizanlizumab 5.0 mg/kg i.v. initial dose on Week 1 Day 1, second dose on Week 3 Day 1. Subsequently, Day 1 of every 4 weeks until Week 51, in addition of standard of care."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "140"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "116"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "24"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "17"
+                }
+              ]
+            },
+            {
+              "type": "Death",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "Guardian Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Crizanlizumab 5.0 mg/kg i.v.",
+          "description": "Crizanlizumab 5.0 mg/kg i.v. initial dose on Week 1 Day 1, second dose on Week 3 Day 1. Subsequently, Day 1 of every 4 weeks until Week 51, in addition of standard of care."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "140"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "26.2",
+                      "spread": "10.67"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "65"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "75"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Not Hispanic or Latino",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "137"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hispanic or Latino",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Not reported",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Unknown",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Treatment Emergent Serious Adverse Events (SAEs)",
+          "description": "Number of participants with treatment emergent SAEs and SAEs grade \\>=3. Adverse events were assessed and graded according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5. CTCAE ranges severity from Grade 1 through 5 being Grade 1 the lowest severity grade.",
+          "populationDescription": "The Safety Set included all participants who received at least one dose of study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 15 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Crizanlizumab 5.0 mg/kg i.v.",
+              "description": "Crizanlizumab 5.0 mg/kg i.v. initial dose on Week 1 Day 1, second dose on Week 3 Day 1. Subsequently, Day 1 of every 4 weeks until Week 51, in addition of standard of care."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "140"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Serious adverse events",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serious adverse events grade >=3",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Treatment Emergent Adverse Events (AEs)",
+          "description": "Number of participants with treatment emergent AEs, AEs grade \\>=3, AEs led to study treatment discontinuation, AEs leading to dose adjustment/interruption, and AEs requiring additional therapy. Adverse events were assessed and graded according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.",
+          "populationDescription": "The Safety Set included all participants who received at least one dose of study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 15 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Crizanlizumab 5.0 mg/kg i.v.",
+              "description": "Crizanlizumab 5.0 mg/kg i.v. initial dose on Week 1 Day 1, second dose on Week 3 Day 1. Subsequently, Day 1 of every 4 weeks until Week 51, in addition of standard of care."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "140"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Adverse events",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "53"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Adverse events grade >=3",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "AEs leading to discontinuation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "AEs leading to dose adjustment/interruption",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "AEs requiring additional therapy",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "46"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Adverse Events of Special Interest (AESI)",
+          "description": "The AESIs were designated medical events, infections, infusion-related reaction (IRR), infusion-related reaction new combined and pain events. Pain events are potential infusion-related reactions presenting as pain events (occurred on the day of infusion).\n\nIRR (Standard search): Standard search, excluding infusion site-reaction and investigating the most common, nonspecific, potential signs and symptoms indicative of IRRs, and occurring on the day of infusion.\n\nIRR (Combined search): Comprised of severe reactions (e.g. bronchospasm, anaphylactic reaction etc.), that occurs any time after infusion (regardless of grade and causality) and pain events on the day of infusion along with the events that are covered under standard search.\n\nDesignated medical events (DMEs): European Medicines Agency, as well as EEA Member States released a list of DMEs, to identify reports of suspected ADRs that deserve special attention, irrespective of statistical criteria used to prioritize safety reviews.",
+          "populationDescription": "The Safety Set included all participants who received at least one dose of study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 15 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Crizanlizumab 5.0 mg/kg i.v.",
+              "description": "Crizanlizumab 5.0 mg/kg i.v. initial dose on Week 1 Day 1, second dose on Week 3 Day 1. Subsequently, Day 1 of every 4 weeks until Week 51, in addition of standard of care."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "140"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Designated medical events",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Infections (All)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Infusion-related reaction (standard search)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Infusion-related reactions (IRR) (new combined search)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pain events",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Any AESI",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "3",
+      "timeFrame": "Adverse events were reported from first dose of study treatment until end of study treatment plus follow up period of 105 days, up to a maximum duration of approximately 15 months.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Crizanlizumab 5.0 mg/kg i.v.",
+          "description": "Crizanlizumab 5.0 mg/kg i.v. initial dose on Week 1 Day 1, second dose on Week 3 Day 1. Subsequently, Day 1 of every 4 weeks until Week 51, in addition of standard of care.",
+          "deathsNumAffected": 3,
+          "deathsNumAtRisk": 140,
+          "seriousNumAffected": 3,
+          "seriousNumAtRisk": 140,
+          "otherNumAffected": 25,
+          "otherNumAtRisk": 140
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Sudden cardiac death",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 140
+            }
+          ]
+        },
+        {
+          "term": "Road traffic accident",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 140
+            }
+          ]
+        },
+        {
+          "term": "Pulmonary embolism",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 140
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Anaemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 140
+            }
+          ]
+        },
+        {
+          "term": "Pain",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 10,
+              "numAtRisk": 140
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 140
+            }
+          ]
+        },
+        {
+          "term": "Arthralgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 140
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "The terms and conditions of Novartis' agreements with its investigators may vary. However, Novartis does not prohibit any investigator from publishing. Any publications from a single-site are postponed until the publication of the pooled data (i.e., data from all sites) in the clinical trial."
+      },
+      "pointOfContact": {
+        "title": "Study Director",
+        "organization": "Novartis Pharmaceuticals",
+        "email": "novartis.email@novartis.com",
+        "phone": "+ 1 862 778 8300"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2020-07-27",
+          "uploadDate": "2024-11-22T06:17",
+          "filename": "Prot_000.pdf",
+          "size": 638434
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-05-20",
+          "uploadDate": "2024-11-22T06:17",
+          "filename": "SAP_001.pdf",
+          "size": 440489
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000755",
+          "term": "Anemia, Sickle Cell"
+        },
+        {
+          "id": "D006450",
+          "term": "Hemoglobin SC Disease"
+        },
+        {
+          "id": "D000098644",
+          "term": "Vaso-Occlusive Crises"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000745",
+          "term": "Anemia, Hemolytic, Congenital"
+        },
+        {
+          "id": "D000743",
+          "term": "Anemia, Hemolytic"
+        },
+        {
+          "id": "D000740",
+          "term": "Anemia"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D006453",
+          "term": "Hemoglobinopathies"
+        },
+        {
+          "id": "D030342",
+          "term": "Genetic Diseases, Inborn"
+        },
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000614139",
+          "term": "crizanlizumab"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

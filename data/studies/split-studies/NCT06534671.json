@@ -1,0 +1,700 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06534671",
+      "orgStudyIdInfo": {
+        "id": "240535"
+      },
+      "organization": {
+        "fullName": "Vanderbilt University Medical Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "Diltiazem in Jervell and Lange-Nielsen Syndrome",
+      "officialTitle": "Diltiazem in Jervell and Lange-Nielsen Syndrome"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-10-16",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-10-23",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-10-23",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-07-29",
+      "studyFirstSubmitQcDate": "2024-07-29",
+      "studyFirstPostDateStruct": {
+        "date": "2024-08-02",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-09-03",
+      "resultsFirstSubmitQcDate": "2025-09-24",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-10-14",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-09-24",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-10-14",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Prince Joseph Kannankeril",
+        "investigatorTitle": "Professor",
+        "investigatorAffiliation": "Vanderbilt University Medical Center"
+      },
+      "leadSponsor": {
+        "name": "Vanderbilt University Medical Center",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study will test the effect of diltiazem, a calcium channel blocking drug, on the QT interval in patients with Jervell and Lange-Nielsen syndrome. This will be a single IV dose and acute effects (within minutes) will be observed.",
+      "detailedDescription": "Subjects will be recruited by study personnel and will be scheduled for a single outpatient visit. If an implanted cardiac device (pacemaker or ICD) is in place, it will be interrogated to ensure no recent rhythm abnormalities. Just prior to administering diltiazem, an ECG and BP will be obtained. If baseline SBP is \\< 100 mm Hg or DBP \\< 60 mm Hg, the study will be terminated. A single dose of I.V. diltiazem (0.25 mg/kg over 2 minutes) will be administered with 12-lead ECG and BP obtained at 2, 5, 7, 10, 15 and 20 minutes. If at 10 minutes there has been no QT shortening, and the SBP is stable (\\<20% drop from baseline and \\> 100 mm Hg) a repeat dose (0.35 mg/kg) will be given at 15 minutes, with 12-lead ECG and BP obtained at 17, 20, 22, 25, 30 and 35 minutes. After 20 minutes (single dose) or 35 minutes (2 doses), the test will end and the subject will remain on continuous telemetry for 2 hours. Prior to discharge the IV will be removed. The primary analysis will be a repeated measures (paired) comparison of the QTc at baseline and following diltiazem."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Jervell and Lange Nielsen Syndrome"
+      ],
+      "keywords": [
+        "Long QT syndrome"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 1,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Diltiazem",
+          "type": "EXPERIMENTAL",
+          "description": "IV diltiazem (0.25 mg/kg) will be given over 2 minutes. A second IV dose (0.35 mg/kg) may be given at 10 minutes.",
+          "interventionNames": [
+            "Drug: diltiazem"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "diltiazem",
+          "description": "IV diltiazem (0.25 mg/kg) will be given over 2 minutes, with ECG and blood pressure measurements at baseline, 2, 5, 7, 10, 15 and 20 minutes. If at 10 minutes there is no QT shortening, and blood pressure is stable, an additional dose (0.35 mg/kg) will be given with ECG and blood pressure measurements at 17, 20, 22, 25, 30 and 35 minutes.",
+          "armGroupLabels": [
+            "Diltiazem"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "QT Interval",
+          "description": "QT interval (on 12-lead ECG) in ms",
+          "timeFrame": "Baseline"
+        },
+        {
+          "measure": "QT Interval",
+          "description": "QT interval (on 12-lead ECG) in ms",
+          "timeFrame": "5 minutes"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age greater than 18 years\n* Genetically confirmed diagnosis of Jervell and Lange-Nielsen syndrome\n* Able to provide written informed consent\n\nExclusion Criteria:\n\n* Known hypersensitivity to diltiazem\n* Pregnancy\n* Congestive heart failure, angina, preexcitation, or chronic obstructive pulmonary disease\n* Sick sinus syndrome or atrioventricular block in the absence of a pacemaker/defibrillator\n* Any clinically significant ongoing medical or surgical condition that might jeopardize the subject's safety or interfere with the conduct of the study in the judgement of the investigator\n* Baseline systolic blood pressure less than 100 Hg or diastolic blood pressure less than 60 Hg",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Prince J Kannankeril, MD, MSCI",
+          "affiliation": "Vanderbilt University Medical Center",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Vanderbilt University Medical Center",
+          "city": "Nashville",
+          "state": "Tennessee",
+          "zip": "37232",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.16589,
+            "lon": -86.78444
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Individual-level QT results will be published. Data obtained through this study may be provided to qualified researchers with no PHI included.",
+      "timeFrame": "Data requests can be submitted immediately after article publication and the data will be made accessible for up to 36 months.",
+      "accessCriteria": "Access may be requested by qualified researchers and will be provided following review and approval of a research proposal and execution of a Data Use Agreement."
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Diltiazem",
+          "description": "IV diltiazem (0.25 mg/kg) will be given over 2 minutes. A second IV dose (0.35 mg/kg) may be given at 10 minutes.\n\ndiltiazem: IV diltiazem (0.25 mg/kg) will be given over 2 minutes, with ECG and blood pressure measurements at baseline, 2, 5, 7, 10, 15 and 20 minutes. If at 10 minutes there is no QT shortening, and blood pressure is stable, an additional dose (0.35 mg/kg) will be given with ECG and blood pressure measurements at 17, 20, 22, 25, 30 and 35 minutes."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Diltiazem",
+          "description": "IV diltiazem (0.25 mg/kg) will be given over 2 minutes. A second IV dose (0.35 mg/kg) may be given at 10 minutes.\n\ndiltiazem: IV diltiazem (0.25 mg/kg) will be given over 2 minutes, with ECG and blood pressure measurements at baseline, 2, 5, 7, 10, 15 and 20 minutes. If at 10 minutes there is no QT shortening, and blood pressure is stable, an additional dose (0.35 mg/kg) will be given with ECG and blood pressure measurements at 17, 20, 22, 25, 30 and 35 minutes."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "1"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Continuous",
+          "description": "Years",
+          "paramType": "MEDIAN",
+          "dispersionType": "FULL_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "29",
+                      "lowerLimit": "29",
+                      "upperLimit": "29"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "QT Interval",
+          "description": "QT interval (on 12-lead ECG) in ms",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "ms",
+          "timeFrame": "Baseline",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Diltiazem",
+              "description": "IV diltiazem (0.25 mg/kg) will be given over 2 minutes. A second IV dose (0.35 mg/kg) may be given at 10 minutes.\n\ndiltiazem: IV diltiazem (0.25 mg/kg) will be given over 2 minutes, with ECG and blood pressure measurements at baseline, 2, 5, 7, 10, 15 and 20 minutes. If at 10 minutes there is no QT shortening, and blood pressure is stable, an additional dose (0.35 mg/kg) will be given with ECG and blood pressure measurements at 17, 20, 22, 25, 30 and 35 minutes."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "1"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "623"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "QT Interval",
+          "description": "QT interval (on 12-lead ECG) in ms",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "ms",
+          "timeFrame": "5 minutes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Diltiazem",
+              "description": "IV diltiazem (0.25 mg/kg) will be given over 2 minutes. A second IV dose (0.35 mg/kg) may be given at 10 minutes.\n\ndiltiazem: IV diltiazem (0.25 mg/kg) will be given over 2 minutes, with ECG and blood pressure measurements at baseline, 2, 5, 7, 10, 15 and 20 minutes. If at 10 minutes there is no QT shortening, and blood pressure is stable, an additional dose (0.35 mg/kg) will be given with ECG and blood pressure measurements at 17, 20, 22, 25, 30 and 35 minutes."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "1"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "570"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "1",
+      "timeFrame": "2 days",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Diltiazem",
+          "description": "IV diltiazem (0.25 mg/kg) will be given over 2 minutes. A second IV dose (0.35 mg/kg) may be given at 10 minutes.\n\ndiltiazem: IV diltiazem (0.25 mg/kg) will be given over 2 minutes, with ECG and blood pressure measurements at baseline, 2, 5, 7, 10, 15 and 20 minutes. If at 10 minutes there is no QT shortening, and blood pressure is stable, an additional dose (0.35 mg/kg) will be given with ECG and blood pressure measurements at 17, 20, 22, 25, 30 and 35 minutes.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 1,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 1,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 1
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Prince J. Kannankeril, MD, MSCI",
+        "organization": "Vanderbilt University Medical Center",
+        "email": "prince.kannankeril@vumc.org",
+        "phone": "(615) 322-7447"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "noSap": true,
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2024-04-02",
+          "uploadDate": "2025-09-24T13:43",
+          "filename": "Prot_002.pdf",
+          "size": 284023
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2024-07-08",
+          "uploadDate": "2024-12-06T12:38",
+          "filename": "ICF_000.pdf",
+          "size": 601666
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-09-23",
+            "type": "ESTIMATED"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D029593",
+          "term": "Jervell-Lange Nielsen Syndrome"
+        },
+        {
+          "id": "D008133",
+          "term": "Long QT Syndrome"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001145",
+          "term": "Arrhythmias, Cardiac"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D000075224",
+          "term": "Cardiac Conduction System Disease"
+        },
+        {
+          "id": "D006330",
+          "term": "Heart Defects, Congenital"
+        },
+        {
+          "id": "D018376",
+          "term": "Cardiovascular Abnormalities"
+        },
+        {
+          "id": "D000013",
+          "term": "Congenital Abnormalities"
+        },
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D004110",
+          "term": "Diltiazem"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001552",
+          "term": "Benzazepines"
+        },
+        {
+          "id": "D006574",
+          "term": "Heterocyclic Compounds, 2-Ring"
+        },
+        {
+          "id": "D000072471",
+          "term": "Heterocyclic Compounds, Fused-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

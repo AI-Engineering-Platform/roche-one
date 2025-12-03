@@ -1,0 +1,1056 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04805073",
+      "orgStudyIdInfo": {
+        "id": "IRB202002297-A"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "OCR40099",
+          "type": "OTHER",
+          "domain": "UFOnCore"
+        }
+      ],
+      "organization": {
+        "fullName": "University of Florida",
+        "class": "OTHER"
+      },
+      "briefTitle": "Treatment of Pruritus With Intramuscular Promethazine",
+      "officialTitle": "Assessing Efficacy of Intramuscular Promethazine for the Treatment of Intrathecal Morphine Induced Pruritus"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-04",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-08-09",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-05-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-05-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-03-15",
+      "studyFirstSubmitQcDate": "2021-03-15",
+      "studyFirstPostDateStruct": {
+        "date": "2021-03-18",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-04-01",
+      "resultsFirstSubmitQcDate": "2025-04-22",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-05-04",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-05-04",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Florida",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "Neuraxial narcotics are commonly used in obstetric patients for cesarean delivery to help with pain control over the first 24 hours after the surgery. The aim is to evaluate effectiveness of promethazine (IMP) treatment of intrathecal morphine induced pruritus (ITIMIP). A treatment for ITMIP, other than naloxone, will allow for increased use of intrathecal narcotics and decrease the use of systemic opioids in the initial post-operative period."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Pruritus",
+        "Pregnancy Related"
+      ],
+      "keywords": [
+        "cesarean section"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "maskingDescription": "Stratified randomization design",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 72,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Promethazine",
+          "type": "EXPERIMENTAL",
+          "description": "The treatment will consist of a blinded syringe of 1cc clear liquid 25mg/ml Promethazine",
+          "interventionNames": [
+            "Drug: Promethazine"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "The treatment will consist of a blinded syringe of 1cc 0.9% Sodium Chloride",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Promethazine",
+          "description": "1cc 25mg/ml Promethazine (study medication)",
+          "armGroupLabels": [
+            "Promethazine"
+          ],
+          "otherNames": [
+            "Phenergan"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "1cc 0.9% Sodium Chloride (placebo)",
+          "armGroupLabels": [
+            "Placebo"
+          ],
+          "otherNames": [
+            "salt water"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Does the Addition of Promethazine Reduce Itching After Spinal Morphine for Cesarean Delivery?",
+          "description": "Pruritus (itching) will be quantified by the ItchyQuant Scale. The ItchyQuant scale is a 0 -10 scale with 0 denoting no itch and 10, the worst itch possible. Participants were asked at 3 different time points (1 hour, 4 hours and 24 hours) after surgery to rate their itching. In the results here we reported any itching (a score greater than zero on the ItchyQuant scale) at 24 hours after surgery in each group.",
+          "timeFrame": "Within first 24 hours after cesarean section"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Does Promethazine Impact Level of Consciousness Compared to Placebo After Cesarean Delivery?",
+          "description": "Level of consciousness will be quantified by the RASS Scale. The RASS scale is scored with +4 to -5 scale with +4=combative, 0=alert and calm and -5=unrousable. Participants were asked at 3 different time points (1 hour, 4 hours and 24 hours) after surgery to rate their level of consciousness. In the results here we reported any score not noted to be 0 (alert and calm) at 24 hours after surgery in each group.",
+          "timeFrame": "Within first 24 hours post cesarean section"
+        },
+        {
+          "measure": "Does Promethazine Change Nausea and Vomiting After Cesarean Compared to Normal Saline?",
+          "description": "We asked patients to rate their sensation of nausea and/or vomiting as none, mild, moderate or severe at 4 time points after cesarean (1 hour, 4 hours and 24 hours after cesarean). Here, we rate any report of nausea and/or vomiting as opposed to no nausea and/or vomiting at 24 hours after cesarean among the patients who had Promethazine and normal saline.",
+          "timeFrame": "Within first 24 hours post cesarean section"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Pregnant adult female patients of at least 18 years of age consenting to a cesarean birth\n* Willing to consent to study.\n\nExclusion Criteria:\n\n* Male patients\n* Incarceration\n* Inability to communicate with the investigators\n* Allergies to any medications used in the study\n* Possessing any contraindication to spinal anesthesia (lack of consent, elevated intracranial pressure, preexisting neurological disease, thrombocytopenia/coagulopathy, hypovolemia, infection at the site of the procedure)\n* Patients with an already prolonged QTc (\\>500 ms)\n* Any reason an investigator believes study participation would not be in the best interest of the potential subject.",
+      "healthyVolunteers": true,
+      "sex": "FEMALE",
+      "genderBased": true,
+      "genderDescription": "Pregnant adult female patients of at least 18 years of age consenting to a cesarean birth.",
+      "minimumAge": "18 Years",
+      "maximumAge": "99 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Adam Wendling, MD",
+          "affiliation": "University of Florida",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "UF Health at the University of Florida",
+          "city": "Gainesville",
+          "state": "Florida",
+          "zip": "32610",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.65163,
+            "lon": -82.32483
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "2043531",
+          "type": "BACKGROUND",
+          "citation": "Morgan PJ, Mehta S, Kapala DM. Nalbuphine pretreatment in cesarean section patients receiving epidural morphine. Reg Anesth. 1991 Mar-Apr;16(2):84-8."
+        },
+        {
+          "pmid": "1416128",
+          "type": "BACKGROUND",
+          "citation": "Cohen SE, Ratner EF, Kreitzman TR, Archer JH, Mignano LR. Nalbuphine is better than naloxone for treatment of side effects after epidural morphine. Anesth Analg. 1992 Nov;75(5):747-52."
+        },
+        {
+          "pmid": "31573495",
+          "type": "BACKGROUND",
+          "citation": "Vice-O'Con K, Austin PN, Pugh MA. Pharmacologic Methods for Preventing Pruritus in Patients Receiving Intrathecal Opioids for Cesarean Delivery. AANA J. 2018 Feb;86(1):59-66."
+        },
+        {
+          "pmid": "3144443",
+          "type": "BACKGROUND",
+          "citation": "Penning JP, Samson B, Baxter AD. Reversal of epidural morphine-induced respiratory depression and pruritus with nalbuphine. Can J Anaesth. 1988 Nov;35(6):599-604. doi: 10.1007/BF03020347."
+        },
+        {
+          "pmid": "9350364",
+          "type": "BACKGROUND",
+          "citation": "Alhashemi JA, Crosby ET, Grodecki W, Duffy PJ, Hull KA, Gallant C. Treatment of intrathecal morphine-induced pruritus following caesarean section. Can J Anaesth. 1997 Oct;44(10):1060-5. doi: 10.1007/BF03019227."
+        },
+        {
+          "pmid": "29770203",
+          "type": "BACKGROUND",
+          "citation": "Ituk U, Habib AS. Enhanced recovery after cesarean delivery. F1000Res. 2018 Apr 27;7:F1000 Faculty Rev-513. doi: 10.12688/f1000research.13895.1. eCollection 2018."
+        },
+        {
+          "pmid": "37455197",
+          "type": "BACKGROUND",
+          "citation": "Singh PM, Sultan P, O'Carroll J, Blake L, Carvalho B, Singh NP, Monks DT. Pharmacological agents for prevention of pruritus in women undergoing Caesarean delivery with neuraxial morphine: a systematic review and Bayesian network meta-analysis. Br J Anaesth. 2023 Sep;131(3):556-571. doi: 10.1016/j.bja.2023.05.028. Epub 2023 Jul 14."
+        },
+        {
+          "pmid": "27212754",
+          "type": "BACKGROUND",
+          "citation": "Moustafa AA, Baaror AS, Abdelazim IA. Comparative study between nalbuphine and ondansetron in prevention of intrathecal morphine-induced pruritus in women undergoing cesarean section. Anesth Essays Res. 2016 May-Aug;10(2):238-44. doi: 10.4103/0259-1162.167839."
+        },
+        {
+          "pmid": "11009242",
+          "type": "BACKGROUND",
+          "citation": "Charuluxananan S, Somboonviboon W, Kyokong O, Nimcharoendee K. Ondansetron for treatment of intrathecal morphine-induced pruritus after cesarean delivery. Reg Anesth Pain Med. 2000 Sep-Oct;25(5):535-9. doi: 10.1053/rapm.2000.7809."
+        },
+        {
+          "pmid": "27089000",
+          "type": "BACKGROUND",
+          "citation": "Sultan P, Halpern SH, Pushpanathan E, Patel S, Carvalho B. The Effect of Intrathecal Morphine Dose on Outcomes After Elective Cesarean Delivery: A Meta-Analysis. Anesth Analg. 2016 Jul;123(1):154-64. doi: 10.1213/ANE.0000000000001255."
+        },
+        {
+          "pmid": "24106351",
+          "type": "BACKGROUND",
+          "citation": "Kumar K, Singh SI. Neuraxial opioid-induced pruritus: An update. J Anaesthesiol Clin Pharmacol. 2013 Jul;29(3):303-7. doi: 10.4103/0970-9185.117045."
+        },
+        {
+          "pmid": "8498418",
+          "type": "BACKGROUND",
+          "citation": "Ito S, Blajchman A, Stephenson M, Eliopoulos C, Koren G. Prospective follow-up of adverse reactions in breast-fed infants exposed to maternal medication. Am J Obstet Gynecol. 1993 May;168(5):1393-9. doi: 10.1016/s0002-9378(11)90771-6."
+        },
+        {
+          "pmid": "12694022",
+          "type": "BACKGROUND",
+          "citation": "Anwari JS, Iqbal S. Antihistamines and potentiation of opioid induced sedation and respiratory depression. Anaesthesia. 2003 May;58(5):494-5. doi: 10.1046/j.1365-2044.2003.03154_18.x. No abstract available."
+        },
+        {
+          "pmid": "7848959",
+          "type": "RESULT",
+          "citation": "Eldor J, Fishelev V, Levine S, Guedj P, Dudakova I. Prevention of epidural morphine pruritus by intramuscular promethazine in parturients. Reg Anesth. 1994 Nov-Dec;19(6):433-4. No abstract available."
+        },
+        {
+          "pmid": "11050519",
+          "type": "RESULT",
+          "citation": "Slappendel R, Weber EW, Benraad B, van Limbeek J, Dirksen R. Itching after intrathecal morphine. Incidence and treatment. Eur J Anaesthesiol. 2000 Oct;17(10):616-21. doi: 10.1046/j.1365-2346.2000.00727.x."
+        },
+        {
+          "pmid": "16597655",
+          "type": "RESULT",
+          "citation": "Horta ML, Morejon LC, da Cruz AW, Dos Santos GR, Welling LC, Terhorst L, Costa RC, Alam RU. Study of the prophylactic effect of droperidol, alizapride, propofol and promethazine on spinal morphine-induced pruritus. Br J Anaesth. 2006 Jun;96(6):796-800. doi: 10.1093/bja/ael072. Epub 2006 Apr 5."
+        },
+        {
+          "pmid": "27521593",
+          "type": "RESULT",
+          "citation": "Haydek CG, Love E, Mollanazar NK, Valdes Rodriguez R, Lee H, Yosipovitch G, Tharp MD, Hanifin JM, Chen KH, Chen SC. Validation and Banding of the ItchyQuant: A Self-Report Itch Severity Scale. J Invest Dermatol. 2017 Jan;137(1):57-61. doi: 10.1016/j.jid.2016.06.633. Epub 2016 Aug 10."
+        },
+        {
+          "pmid": "25971957",
+          "type": "RESULT",
+          "citation": "Koju RB, Gurung BS, Dongol Y. Prophylactic administration of ondansetron in prevention of intrathecal morphine-induced pruritus and post-operative nausea and vomiting in patients undergoing caesarean section. BMC Anesthesiol. 2015 Feb 17;15:18. doi: 10.1186/1471-2253-15-18."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Promethazine",
+          "description": "The treatment will consist of a blinded syringe of 1cc clear liquid 25mg/ml Promethazine\n\nPromethazine: 1cc 25mg/ml Promethazine (study medication)"
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo",
+          "description": "The treatment will consist of a blinded syringe of 1cc 0.9% Sodium Chloride\n\nPlacebo: 1cc 0.9% Sodium Chloride (placebo)"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "36"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "36"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "34"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "33"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "3"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "study personnel not available",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "spinal anesthesia failure",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Not recorded",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Promethazine",
+          "description": "The treatment will consist of a blinded syringe of 1cc clear liquid 25mg/ml Promethazine\n\nPromethazine: 1cc 25mg/ml Promethazine (study medication)"
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo",
+          "description": "The treatment will consist of a blinded syringe of 1cc 0.9% Sodium Chloride\n\nPlacebo: 1cc 0.9% Sodium Chloride (placebo)"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "36"
+            },
+            {
+              "groupId": "BG001",
+              "value": "36"
+            },
+            {
+              "groupId": "BG002",
+              "value": "72"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "72"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "72"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "72"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Does the Addition of Promethazine Reduce Itching After Spinal Morphine for Cesarean Delivery?",
+          "description": "Pruritus (itching) will be quantified by the ItchyQuant Scale. The ItchyQuant scale is a 0 -10 scale with 0 denoting no itch and 10, the worst itch possible. Participants were asked at 3 different time points (1 hour, 4 hours and 24 hours) after surgery to rate their itching. In the results here we reported any itching (a score greater than zero on the ItchyQuant scale) at 24 hours after surgery in each group.",
+          "populationDescription": "Sixty-seven patients completed the protocol; of these, 34 received intramuscular promethazine (IMP) and 33 received intramuscular saline placebo (NS). There was incomplete data for 2 patients who received IMP and 1 patient who received NS.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Within first 24 hours after cesarean section",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Promethazine",
+              "description": "The treatment will consist of a blinded syringe of 1cc clear liquid 25mg/ml Promethazine\n\nPromethazine: 1cc 25mg/ml Promethazine (study medication)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "The treatment will consist of a blinded syringe of 1cc 0.9% Sodium Chloride\n\nPlacebo: 1cc 0.9% Sodium Chloride (placebo)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "32"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "32"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "No Itching at 24 hour",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "17"
+                    }
+                  ]
+                },
+                {
+                  "title": "Itching at 24 hour",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Does Promethazine Impact Level of Consciousness Compared to Placebo After Cesarean Delivery?",
+          "description": "Level of consciousness will be quantified by the RASS Scale. The RASS scale is scored with +4 to -5 scale with +4=combative, 0=alert and calm and -5=unrousable. Participants were asked at 3 different time points (1 hour, 4 hours and 24 hours) after surgery to rate their level of consciousness. In the results here we reported any score not noted to be 0 (alert and calm) at 24 hours after surgery in each group.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Within first 24 hours post cesarean section",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Promethazine",
+              "description": "The treatment will consist of a blinded syringe of 1cc clear liquid 25mg/ml Promethazine\n\nPromethazine: 1cc 25mg/ml Promethazine (study medication)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "The treatment will consist of a blinded syringe of 1cc 0.9% Sodium Chloride\n\nPlacebo: 1cc 0.9% Sodium Chloride (placebo)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "32"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "32"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Alert and Calm at 24 hour",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "31"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Alert and Calm at 24 hour",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Does Promethazine Change Nausea and Vomiting After Cesarean Compared to Normal Saline?",
+          "description": "We asked patients to rate their sensation of nausea and/or vomiting as none, mild, moderate or severe at 4 time points after cesarean (1 hour, 4 hours and 24 hours after cesarean). Here, we rate any report of nausea and/or vomiting as opposed to no nausea and/or vomiting at 24 hours after cesarean among the patients who had Promethazine and normal saline.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Within first 24 hours post cesarean section",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Promethazine",
+              "description": "The treatment will consist of a blinded syringe of 1cc clear liquid 25mg/ml Promethazine\n\nPromethazine: 1cc 25mg/ml Promethazine (study medication)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "The treatment will consist of a blinded syringe of 1cc 0.9% Sodium Chloride\n\nPlacebo: 1cc 0.9% Sodium Chloride (placebo)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "32"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "32"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "No nausea or vomiting at 24 hours",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "32"
+                    }
+                  ]
+                },
+                {
+                  "title": "Nausea and/or vomiting at 24 hours",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "24 hours after study drug administration",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Promethazine",
+          "description": "The treatment will consist of a blinded syringe of 1cc clear liquid 25mg/ml Promethazine\n\nPromethazine: 1cc 25mg/ml Promethazine (study medication)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 34,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 34,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 34
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo",
+          "description": "The treatment will consist of a blinded syringe of 1cc 0.9% Sodium Chloride\n\nPlacebo: 1cc 0.9% Sodium Chloride (placebo)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 33,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 33,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 33
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "We failed to enroll the planned number of patients due to a variety of factors, including challenges in availability of the study drug coupled with slow enrollment. Over two-thirds of the patients who were screened and were able to be contacted prior to surgery declined to participate. This did not support continuing enrollment."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Adam Wendling, MD, Division Chief Obstetric Anesthesiology",
+        "organization": "University of Florida Health Gainesville",
+        "email": "Awendling@anest.ufl.edu",
+        "phone": "3528707461"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2025-04-22",
+          "uploadDate": "2025-04-22T14:56",
+          "filename": "Prot_SAP_001.pdf",
+          "size": 438917
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-04-20",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D011537",
+          "term": "Pruritus"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D012877",
+          "term": "Skin Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D011398",
+          "term": "Promethazine"
+        },
+        {
+          "id": "D005457",
+          "term": "Fluoridation"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011437",
+          "term": "Propylamines"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D010640",
+          "term": "Phenothiazines"
+        },
+        {
+          "id": "D013457",
+          "term": "Sulfur Compounds"
+        },
+        {
+          "id": "D006575",
+          "term": "Heterocyclic Compounds, 3-Ring"
+        },
+        {
+          "id": "D000072471",
+          "term": "Heterocyclic Compounds, Fused-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D011313",
+          "term": "Preventive Dentistry"
+        },
+        {
+          "id": "D003813",
+          "term": "Dentistry"
+        },
+        {
+          "id": "D011636",
+          "term": "Public Health Dentistry"
+        },
+        {
+          "id": "D004778",
+          "term": "Environment and Public Health"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

@@ -1,0 +1,2327 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05058391",
+      "orgStudyIdInfo": {
+        "id": "TAK-665-4001"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2022-004193-39",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Takeda",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study of Elaprase in Children and Adults With Hunter Syndrome (Mucopolysaccharidosis II) in India",
+      "officialTitle": "A Prospective, Multicenter, Single-arm, Open-label, Interventional Phase IV Study to Evaluate the Safety and Efficacy of Idursulfase (r-DNA Origin) (Elaprase™) in Indian Pediatric and Adult Population With Hunter Syndrome (Mucopolysaccharidosis II)"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-12",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-04-21",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-04-06",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-04-18",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-09-24",
+      "studyFirstSubmitQcDate": "2021-09-24",
+      "studyFirstPostDateStruct": {
+        "date": "2021-09-27",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-12-18",
+      "resultsFirstSubmitQcDate": "2024-12-18",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-01-23",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-12-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-01-23",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Takeda",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The main aim of this study is to learn more about the safety profile of Elaprase in Indian children and adults with hunter syndrome.\n\nParticipants will receive Elaprase once per week over a 3-hour period which can be reduced to 1 hour as determined by the study doctor. Participants will need to visit the clinic weekly during the duration of the study."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Hunter Syndrome"
+      ],
+      "keywords": [
+        "Mucopolysaccharidosis II"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 5,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Elaprase 0.5 mg/kg",
+          "type": "EXPERIMENTAL",
+          "description": "Participants received a single dose of elaprase 0.5 milligrams per kilogram (mg/kg) IV infusion every week from Week 1 (Day 1) up to end of treatment (EOT) at Week 52.",
+          "interventionNames": [
+            "Biological: Elaprase"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Elaprase",
+          "description": "Elaprase IV infusion.",
+          "armGroupLabels": [
+            "Elaprase 0.5 mg/kg"
+          ],
+          "otherNames": [
+            "Idursulfase"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants With Treatment Emergent Adverse Events (TEAEs), Serious TEAEs, Discontinuation Due to TEAEs and Death",
+          "description": "An adverse event (AE) was defined as any untoward medical occurrence in a clinical investigation participant administered a drug; it does not necessarily have to have a causal relationship with this treatment. An AE can therefore be any unfavorable and unintended sign (example, a clinically significant abnormal laboratory value), symptom, or disease temporally associated with the use of a drug whether or not it is considered related to the drug. A serious TEAE was defined as any untoward medical occurrence that at any dose results in: death; is life-threatening: requires inpatient hospitalization or results in prolongation of existing hospitalization; persistent or significant disability/incapacity; leads to a congenital anomaly/birth defect or is an important medical event. Number of participants with TEAEs, serious TEAEs, discontinuation due to TEAEs, and death are reported.",
+          "timeFrame": "From start of the study drug administration up to Week 53"
+        },
+        {
+          "measure": "Number of Participants With Adverse Drug Reactions (ADRs)",
+          "description": "An ADR was defined as a response to a drug which was noxious and unintended, and which occurred at doses normally used in humans for prophylaxis, diagnosis, or therapy of disease, or for the modification of physiological function.",
+          "timeFrame": "From start of the study drug administration up to Week 53"
+        },
+        {
+          "measure": "Number of Participants With Infusion-related Reactions (IRRs)",
+          "description": "An IRR was defined as an AE that had been assessed as at least possibly related to treatment with elaprase and occurred during an infusion or up to 24 hours post-infusion.",
+          "timeFrame": "From start of the study drug administration up to Week 53"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change From Baseline in Percentage Forced Vital Capacity (%FVC) at Weeks 27 and 53",
+          "description": "FVC is the amount of air that can be forcibly exhaled from your lungs after taking the deepest breath possible, as measured by spirometry. FVC is a measure of respiratory function.",
+          "timeFrame": "Baseline, Weeks 27 and 53"
+        },
+        {
+          "measure": "Change From Baseline in 6 Minute Walk Test (6MWT) at Weeks 27 and 53",
+          "description": "6MWT is the distance covered over a time of 6 minutes and is a measure of physical functional capacity which is determined on a walking course.",
+          "timeFrame": "Baseline, Weeks 27 and 53"
+        },
+        {
+          "measure": "Change From Baseline in Cardiac Left Ventricular Mass Index (LVMI) at Weeks 27 and 53",
+          "description": "Cardiac LVMI was measured by 2-dimensional (2D) echocardiography. Cardiac LVMI is the left ventricular mass (LVM) in grams indexed to body surface area (BSA), in square meters (m\\^2). Cardiac LVMI (in grams per square meter \\[g/m\\^2\\])=LVM divided by BSA.",
+          "timeFrame": "Baseline, Weeks 27 and 53"
+        },
+        {
+          "measure": "Change From Baseline in Left Ventricular Ejection Fraction (LVEF) at Weeks 27 and 53",
+          "description": "The LVEF was measured by 2D echocardiography and considered a sufficiently sensitive measure to evaluate any changes in cardiac function.",
+          "timeFrame": "Baseline, Weeks 27 and 53"
+        },
+        {
+          "measure": "Change From Baseline in Liver Volume at Weeks 27 and 53",
+          "description": "Liver volume was determined by Ultrasonography (USG).",
+          "timeFrame": "Baseline, Weeks 27 and 53"
+        },
+        {
+          "measure": "Change From Baseline in Spleen Volume at Weeks 27 and 53",
+          "description": "Spleen volume was determined by USG.",
+          "timeFrame": "Baseline, Weeks 27 and 53"
+        },
+        {
+          "measure": "Change From Baseline in Normalized Urine Glycosaminoglycan (uGAG) Levels at Week 14, 27, 40, and 53",
+          "description": "Normalized uGAG was analyzed using urine testing. The uGAG levels were normalized to urine creatinine and were reported as microgram glycosaminoglycan (GAG) per milligram creatinine (μg GAG/mg creatinine).",
+          "timeFrame": "Baseline, Weeks 14, 27, 40, and 53"
+        },
+        {
+          "measure": "Change From Baseline in Global Joint Range of Motion (JROM) Score at Weeks 27 and 53",
+          "description": "Passive joint mobility is defined as the range of motion of the shoulder, elbow, wrist, hip, knee, and ankle joints, as assessed by one expert physician using universal goniometry method. Global JROM (% of normal range of motion) is the average of 11 ratios multiplied by 100. Ratios are left/right means of passive range of motion in shoulder (flexion/extension, abduction, internal/external rotation), elbow (flexion/extension), wrist (flexion/extension), index finger (flexion/extension \\[combined metacarpophalangeal joint, proximal interphalangeal joint, distal interphalangeal joint motion\\]), hip (flexion/extension, abduction, internal/external rotation), knee (flexion/extension), and ankle (dorsiflexion) divided by the normal range (American Academy of Orthopedic Surgeons and American Medical Association).",
+          "timeFrame": "Baseline, Weeks 27 and 53"
+        },
+        {
+          "measure": "Change From Baseline in Anthropometric Parameter: Height at Weeks 27 and 53",
+          "description": "Change from baseline in height (centimeters \\[cm\\]) was assessed in participants less than (\\<)18 years of age.",
+          "timeFrame": "Baseline, Weeks 27 and 53"
+        },
+        {
+          "measure": "Change From Baseline in Anthropometric Parameter: Weight at Weeks 27 and 53",
+          "description": "Change from baseline in weight (kilograms\\[kg\\]) was assessed in all participants.",
+          "timeFrame": "Baseline, Weeks 27 and 53"
+        },
+        {
+          "measure": "Health-related Quality of Life (HRQoL) Based on Change From Baseline in the Hunter Syndrome-Functional Outcomes for Clinical Understanding Scale (HS-FOCUS) Domain Scores",
+          "description": "HS-FOCUS is developed as disease-specific measure of the impact of Hunter syndrome on HRQL. The HS-FOCUS is designed to gather information on the participant's daily life and wellbeing, satisfaction with treatment, and hospitalizations, as well as on how Hunter syndrome impacts participant's general quality of life. HS-FOCUS includes 2 validated components: a parent version and a participant self-reported version for those over age 12 years. The HS-FOCUS (shortened version) questionnaire has 5 function domains (walking/standing, grip/reach, school/work, activities, and breathing). Items are scored using a response scale from 0 to 3, with 0 signifying an ability to complete the activity-related functions 'without any difficulty' and 3 denoting highest disability. Higher scores on each domain indicate greater disability.",
+          "timeFrame": "Baseline, Weeks 27 and 53"
+        },
+        {
+          "measure": "Change From Baseline in the HRQoL Based on Childhood Health Assessment Questionnaire (CHAQ) Domain Scores",
+          "description": "The CHAQ was initially developed for assessing juvenile idiopathic arthritis, from the perspective of the parent or participant, and has been previously applied to other chronic disabling conditions such as Hunter syndrome. It is a 30-item instrument that measures functional capacity and independence in activities of daily life across eight domains: dressing and grooming, arising, eating, walking, reach, grip, hygiene, and activities. For each domain, there is a 4-level difficulty scale that is scored from 0 to 3, with 0 corresponding to 'without any difficulty' and 3 to 'unable to do'. Higher scores on each domain indicate greater disability.",
+          "timeFrame": "Baseline, Weeks 27 and 53"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female Elaprase naive participants (and who are not part of any other program at the time of study enrollment and during the study period) of any age with confirmed diagnosis of Hunter syndrome based on the following documented biochemical and genetic criteria:\n\n  * Documented deficiency in iduronate 2-sulfatase (IDS \\[12S\\]) enzyme activity of less than or equal to 10 percent (%) of the lower limit of the normal range as measured in plasma, fibroblasts, or leukocytes (based on normal range of measuring laboratory).\n  * A normal enzyme activity level of one other sulfatase as measured in plasma, fibroblasts, or leukocytes (based on normal range of measuring laboratory).\n  * The participant has a documented mutation in the IDS gene.\n* In the opinion of the investigator, the participant or the participant's parents/guardians are capable of understanding and complying with protocol requirements.\n* The participant or, when applicable, the participant's parents/guardians/legal authorized representative (LAR) signs and dates a written, informed consent form and any required privacy authorization prior to the initiation of any study procedures. If the participant participating in this study is greater than or equal to (\\>=) 7 years and less than (\\<) 18 years of age signs and dates an assent form.\n* A male participant who is nonsterilized and sexually active with a female partner of childbearing potential agrees to use barrier method of contraception (example, condom with or without spermicide) from signing of informed consent throughout the duration of the study. The female partner of a male participant should also be advised to use a highly effective/effective method of contraception.\n* A female participant of childbearing potential who is sexually active with a nonsterilized male partner agrees to use a highly effective method of contraception from signing of informed consent throughout the duration of the study.\n\nExclusion criteria:\n\n* Participant has received hematopoietic stem cell transplant (HSCT) or a bone marrow transplant at any time.\n* Participant is unable to comply with the protocol, example, uncooperative with protocol schedule, refusal to agree to all of the study procedures, inability to return for safety evaluations, or is otherwise unlikely to complete the study, as determined by the investigator.\n* Participant is suffering from any comorbid conditions (including hepatic impairment, acute or chronic) or having any other clinical observation or history during the screening examination, which would interfere with the objectives of the study as per investigators judgement.\n* The participant has a chronic kidney disease with estimated Glomerular Filtration rate less than 15 milliliter per minute per 1.73 meter square (mL/min/1.73 m\\^2) and/or is on dialysis.\n* The participant is an immediate family member, study site employee, or is in a dependent relationship with a study site employee who is involved in conduct of this study (example, spouse, parent, child, sibling) or may consent under duress.\n* The participant has a history of hypersensitivity or allergies to related compounds including any associated excipients.\n* If female, the participant is pregnant or lactating or intending to become pregnant before participating in this study, during the study; or intending to donate ova during such time period.\n* If male, the participant intends to donate sperm during the course of this study.\n* The participant has participated in another clinical study or received any investigational compound or non-investigational idursulfase beta within the past 30 days before informed consent.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Medical Director",
+          "affiliation": "Takeda",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "SAT Hospital - Govt Medical College",
+          "city": "Thiruvananthapuram",
+          "state": "Kerala",
+          "zip": "69501",
+          "country": "India",
+          "geoPoint": {
+            "lat": 8.4855,
+            "lon": 76.94924
+          }
+        },
+        {
+          "facility": "JK Lone Hospital",
+          "city": "Jaipur",
+          "state": "Rajasthan",
+          "zip": "302004",
+          "country": "India",
+          "geoPoint": {
+            "lat": 26.91962,
+            "lon": 75.78781
+          }
+        },
+        {
+          "facility": "Institute of Child Health",
+          "city": "Kolkata",
+          "zip": "700017",
+          "country": "India",
+          "geoPoint": {
+            "lat": 22.56263,
+            "lon": 88.36304
+          }
+        },
+        {
+          "facility": "All India Institute of Medical Sciences (AIIMS)",
+          "city": "New Delhi",
+          "zip": "110 029",
+          "country": "India",
+          "geoPoint": {
+            "lat": 28.62137,
+            "lon": 77.2148
+          }
+        },
+        {
+          "facility": "Sir Gangaram Hospital",
+          "city": "New Delhi",
+          "zip": "110060",
+          "country": "India",
+          "geoPoint": {
+            "lat": 28.62137,
+            "lon": 77.2148
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "To obtain more information on the study, click here/on this link",
+          "url": "https://clinicaltrials.takeda.com/study-detail/61522220c15195002c0ba323"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "De-identified individual participant data from this particular study will not be shared as there is a reasonable likelihood that individual participants could be re-identified (due to the limited number of study participants)"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Participants with a diagnosis of Hunters Syndrome were enrolled in this study to receive elaprase intravenous (IV) infusion.",
+      "recruitmentDetails": "Participants took part in the study at investigative sites in India from 21 April 2022 to 18 April 2024.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Elaprase 0.5 mg/kg",
+          "description": "Participants received a single dose of elaprase 0.5 milligrams per kilogram (mg/kg) IV infusion every week from Week 1 (Day 1) up to end of treatment (EOT) at Week 52."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "The Safety Analysis Set (SAS) included all participants who received at least one dose of study drug at any time during trial.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Elaprase 0.5 mg/kg",
+          "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "5"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8.0",
+                      "spread": "4.85"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Treatment Emergent Adverse Events (TEAEs), Serious TEAEs, Discontinuation Due to TEAEs and Death",
+          "description": "An adverse event (AE) was defined as any untoward medical occurrence in a clinical investigation participant administered a drug; it does not necessarily have to have a causal relationship with this treatment. An AE can therefore be any unfavorable and unintended sign (example, a clinically significant abnormal laboratory value), symptom, or disease temporally associated with the use of a drug whether or not it is considered related to the drug. A serious TEAE was defined as any untoward medical occurrence that at any dose results in: death; is life-threatening: requires inpatient hospitalization or results in prolongation of existing hospitalization; persistent or significant disability/incapacity; leads to a congenital anomaly/birth defect or is an important medical event. Number of participants with TEAEs, serious TEAEs, discontinuation due to TEAEs, and death are reported.",
+          "populationDescription": "The SAS included all participants who received at least one dose of study drug at any time during trial.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From start of the study drug administration up to Week 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "TEAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serious TEAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Discontinuation due to TEAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Death",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Adverse Drug Reactions (ADRs)",
+          "description": "An ADR was defined as a response to a drug which was noxious and unintended, and which occurred at doses normally used in humans for prophylaxis, diagnosis, or therapy of disease, or for the modification of physiological function.",
+          "populationDescription": "The SAS included all participants who received at least one dose of study drug at any time during trial.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From start of the study drug administration up to Week 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Infusion-related Reactions (IRRs)",
+          "description": "An IRR was defined as an AE that had been assessed as at least possibly related to treatment with elaprase and occurred during an infusion or up to 24 hours post-infusion.",
+          "populationDescription": "The SAS included all participants who received at least one dose of study drug at any time during trial.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From start of the study drug administration up to Week 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Percentage Forced Vital Capacity (%FVC) at Weeks 27 and 53",
+          "description": "FVC is the amount of air that can be forcibly exhaled from your lungs after taking the deepest breath possible, as measured by spirometry. FVC is a measure of respiratory function.",
+          "populationDescription": "The Full Analysis Set (FAS) included all enrolled participants who received at least one dose of study drug and with at least one post-baseline evaluation of any of the efficacy endpoints. Overall number analyzed is the number of participants with data available for analyses. Number analyzed is the number of participants with data available for analysis for the specified category.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "%FVC",
+          "timeFrame": "Baseline, Weeks 27 and 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-2.0",
+                      "spread": "4.24"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.0",
+                      "spread": "2.83"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in 6 Minute Walk Test (6MWT) at Weeks 27 and 53",
+          "description": "6MWT is the distance covered over a time of 6 minutes and is a measure of physical functional capacity which is determined on a walking course.",
+          "populationDescription": "The FAS included all enrolled participants who received at least one dose of study drug and with at least one post-baseline evaluation of any of the efficacy endpoints. Overall number analyzed is the number of participants with data available for analyses. Number analyzed is the number of participants with data available for analysis for the specified category.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "meters",
+          "timeFrame": "Baseline, Weeks 27 and 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "24.3",
+                      "spread": "24.31"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "184.8",
+                      "spread": "138.96"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Cardiac Left Ventricular Mass Index (LVMI) at Weeks 27 and 53",
+          "description": "Cardiac LVMI was measured by 2-dimensional (2D) echocardiography. Cardiac LVMI is the left ventricular mass (LVM) in grams indexed to body surface area (BSA), in square meters (m\\^2). Cardiac LVMI (in grams per square meter \\[g/m\\^2\\])=LVM divided by BSA.",
+          "populationDescription": "The FAS included all enrolled participants who received at least one dose of study drug and with at least one post-baseline evaluation of any of the efficacy endpoints. Overall number analyzed is the number of participants with data available for analyses. Number analyzed is the number of participants with data available for analysis for the specified category.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "g/m^2",
+          "timeFrame": "Baseline, Weeks 27 and 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-12.0",
+                      "spread": "20.91"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-20.9",
+                      "spread": "15.59"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Left Ventricular Ejection Fraction (LVEF) at Weeks 27 and 53",
+          "description": "The LVEF was measured by 2D echocardiography and considered a sufficiently sensitive measure to evaluate any changes in cardiac function.",
+          "populationDescription": "The FAS included all enrolled participants who received at least one dose of study drug and with at least one post-baseline evaluation of any of the efficacy endpoints. Overall number analyzed is the number of participants with data available for analyses. Number analyzed is the number of participants with data available for analysis for the specified category.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "percentage of LVEF",
+          "timeFrame": "Baseline, Weeks 27 and 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.1",
+                      "spread": "3.30"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6.6",
+                      "spread": "7.87"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Liver Volume at Weeks 27 and 53",
+          "description": "Liver volume was determined by Ultrasonography (USG).",
+          "populationDescription": "The FAS included all enrolled participants who received at least one dose of study drug and with at least one post-baseline evaluation of any of the efficacy endpoints. Overall number analyzed is the number of participants with data available for analyses. Number analyzed is the number of participants with data available for analysis for the specified category.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "cubic centimeters (cm^3)",
+          "timeFrame": "Baseline, Weeks 27 and 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "67.0",
+                      "spread": "245.27"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "175.3",
+                      "spread": "255.56"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Spleen Volume at Weeks 27 and 53",
+          "description": "Spleen volume was determined by USG.",
+          "populationDescription": "The FAS included all enrolled participants who received at least one dose of study drug and with at least one post-baseline evaluation of any of the efficacy endpoints. Overall number analyzed is the number of participants with data available for analyses. Number analyzed is the number of participants with data available for analysis for the specified category.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "cm^3",
+          "timeFrame": "Baseline, Weeks 27 and 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "48.3",
+                      "spread": "129.60"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "123.7",
+                      "spread": "207.15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Normalized Urine Glycosaminoglycan (uGAG) Levels at Week 14, 27, 40, and 53",
+          "description": "Normalized uGAG was analyzed using urine testing. The uGAG levels were normalized to urine creatinine and were reported as microgram glycosaminoglycan (GAG) per milligram creatinine (μg GAG/mg creatinine).",
+          "populationDescription": "The FAS included all enrolled participants who received at least one dose of study drug and with at least one post-baseline evaluation of any of the efficacy endpoints. Number analyzed is the number of participants with data available for analysis for the specified category.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "μg GAG/mg creatinine",
+          "timeFrame": "Baseline, Weeks 14, 27, 40, and 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 14",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "33.3",
+                      "spread": "112.91"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 27",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-28.9",
+                      "spread": "31.92"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 40",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "123.4",
+                      "spread": "222.41"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 53",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8.6",
+                      "spread": "29.50"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Global Joint Range of Motion (JROM) Score at Weeks 27 and 53",
+          "description": "Passive joint mobility is defined as the range of motion of the shoulder, elbow, wrist, hip, knee, and ankle joints, as assessed by one expert physician using universal goniometry method. Global JROM (% of normal range of motion) is the average of 11 ratios multiplied by 100. Ratios are left/right means of passive range of motion in shoulder (flexion/extension, abduction, internal/external rotation), elbow (flexion/extension), wrist (flexion/extension), index finger (flexion/extension \\[combined metacarpophalangeal joint, proximal interphalangeal joint, distal interphalangeal joint motion\\]), hip (flexion/extension, abduction, internal/external rotation), knee (flexion/extension), and ankle (dorsiflexion) divided by the normal range (American Academy of Orthopedic Surgeons and American Medical Association).",
+          "populationDescription": "The FAS included all enrolled participants who received at least one dose of study drug and with at least one post-baseline evaluation of any of the efficacy endpoints. Overall number analyzed is the number of participants with data available for analyses. Number analyzed is the number of participants with data available for analysis for the specified category.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "percentage of normal range of motion",
+          "timeFrame": "Baseline, Weeks 27 and 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-8.0",
+                      "spread": "7.14"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-14.0",
+                      "spread": "0.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Anthropometric Parameter: Height at Weeks 27 and 53",
+          "description": "Change from baseline in height (centimeters \\[cm\\]) was assessed in participants less than (\\<)18 years of age.",
+          "populationDescription": "The FAS included all enrolled participants who received at least one dose of study drug and with at least one post-baseline evaluation of any of the efficacy endpoints. Overall number analyzed is the number of participants with data available for analyses. Number analyzed is the number of participants with data available for analysis for the specified category.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "cm",
+          "timeFrame": "Baseline, Weeks 27 and 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.0",
+                      "spread": "2.34"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.7",
+                      "spread": "3.08"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Anthropometric Parameter: Weight at Weeks 27 and 53",
+          "description": "Change from baseline in weight (kilograms\\[kg\\]) was assessed in all participants.",
+          "populationDescription": "The FAS included all enrolled participants who received at least one dose of study drug and with at least one post-baseline evaluation of any of the efficacy endpoints. Overall number analyzed is the number of participants with data available for analyses. Number analyzed is the number of participants with data available for analysis for the specified category.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "kg",
+          "timeFrame": "Baseline, Weeks 27 and 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.3",
+                      "spread": "1.50"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.6",
+                      "spread": "1.11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Health-related Quality of Life (HRQoL) Based on Change From Baseline in the Hunter Syndrome-Functional Outcomes for Clinical Understanding Scale (HS-FOCUS) Domain Scores",
+          "description": "HS-FOCUS is developed as disease-specific measure of the impact of Hunter syndrome on HRQL. The HS-FOCUS is designed to gather information on the participant's daily life and wellbeing, satisfaction with treatment, and hospitalizations, as well as on how Hunter syndrome impacts participant's general quality of life. HS-FOCUS includes 2 validated components: a parent version and a participant self-reported version for those over age 12 years. The HS-FOCUS (shortened version) questionnaire has 5 function domains (walking/standing, grip/reach, school/work, activities, and breathing). Items are scored using a response scale from 0 to 3, with 0 signifying an ability to complete the activity-related functions 'without any difficulty' and 3 denoting highest disability. Higher scores on each domain indicate greater disability.",
+          "populationDescription": "The FAS included all enrolled participants who received at least one dose of study drug and with at least one post-baseline evaluation of any of the efficacy endpoints. Overall number analyzed is the number of participants with data available for analyses. Number analyzed is the number of participants with data available for analysis for the specified category.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline, Weeks 27 and 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Walking/ Standing: Week 27",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.3",
+                      "spread": "0.22"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Walking/ Standing: Week 53",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.5",
+                      "spread": "0.41"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Grip/Reach: Week 27",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.1",
+                      "spread": "0.49"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Grip/Reach: Week 53",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.1",
+                      "spread": "0.52"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "School/ Work: Week 27",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.3",
+                      "spread": "0.58"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "School/ Work: Week 53",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.0",
+                      "spread": "1.73"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Activities: Week 27",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.1",
+                      "spread": "0.25"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Activities: Week 53",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.9",
+                      "spread": "1.03"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Breathing: Week 27",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.7",
+                      "spread": "0.80"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Breathing: Week 53",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.8",
+                      "spread": "1.19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in the HRQoL Based on Childhood Health Assessment Questionnaire (CHAQ) Domain Scores",
+          "description": "The CHAQ was initially developed for assessing juvenile idiopathic arthritis, from the perspective of the parent or participant, and has been previously applied to other chronic disabling conditions such as Hunter syndrome. It is a 30-item instrument that measures functional capacity and independence in activities of daily life across eight domains: dressing and grooming, arising, eating, walking, reach, grip, hygiene, and activities. For each domain, there is a 4-level difficulty scale that is scored from 0 to 3, with 0 corresponding to 'without any difficulty' and 3 to 'unable to do'. Higher scores on each domain indicate greater disability.",
+          "populationDescription": "The FAS included all enrolled participants who received at least one dose of study drug and with at least one post-baseline evaluation of any of the efficacy endpoints. Overall number analyzed is the number of participants with data available for analyses. Number analyzed is the number of participants with data available for analysis for the specified category.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Baseline, Weeks 27 and 53",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Elaprase 0.5 mg/kg",
+              "description": "Participants received a single dose of elaprase 0.5 mg/kg IV infusion every week from Week 1 (Day 1) up to EOT at Week 52."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Dressing/ Grooming: Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.0",
+                      "spread": "2.16"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Dressing/ Grooming: Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.5",
+                      "spread": "2.65"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Arising: Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.3",
+                      "spread": "0.50"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Arising: Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.3",
+                      "spread": "0.50"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Eating: Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.3",
+                      "spread": "0.50"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Eating: Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.3",
+                      "spread": "0.50"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Walking: Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.3",
+                      "spread": "0.50"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Walking: Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.3",
+                      "spread": "0.50"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hygiene: Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.5",
+                      "spread": "0.58"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hygiene: Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.8",
+                      "spread": "0.96"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Reach: Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.0",
+                      "spread": "1.41"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Reach: Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.8",
+                      "spread": "0.96"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Grip: Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.5",
+                      "spread": "1.00"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Grip: Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.3",
+                      "spread": "1.50"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Activities: Week 27",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.0",
+                      "spread": "0.00"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Activities: Week 53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.5",
+                      "spread": "1.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "From start of the study drug administration up to Week 53",
+      "description": "The SAS included all participants who received at least one dose of study drug at any time during trial.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Elaprase 0.5 mg/kg",
+          "description": "Participants received a single dose of elaprase 0.5 milligrams per kilogram (mg/kg) IV infusion every week from Week 1 (Day 1) up to end of treatment (EOT) at Week 52.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 5,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 5,
+          "otherNumAffected": 5,
+          "otherNumAtRisk": 5
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Lower Respiratory Tract Infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Ear Pain",
+          "organSystem": "Ear and labyrinth disorders",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Abdominal Pain Upper",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Mouth Ulceration",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Hernia Pain",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Infusion Site Extravasation",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 7,
+              "numAffected": 3,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Swelling",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Conjunctivitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Ear Infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 8,
+              "numAffected": 4,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Limb Injury",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Asthma",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Cough",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 4,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Sneezing",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Dermatitis Allergic",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        },
+        {
+          "term": "Urticaria",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 1,
+              "numAtRisk": 5
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": true
+      },
+      "pointOfContact": {
+        "title": "Study Director",
+        "organization": "Takeda",
+        "email": "TrialDisclosures@takeda.com",
+        "phone": "+1-877-825-3327"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2022-10-27",
+          "uploadDate": "2024-12-18T06:55",
+          "filename": "Prot_000.pdf",
+          "size": 1803542
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-05-21",
+          "uploadDate": "2024-12-18T07:09",
+          "filename": "SAP_001.pdf",
+          "size": 1223495
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016532",
+          "term": "Mucopolysaccharidosis II"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D038901",
+          "term": "X-Linked Intellectual Disability"
+        },
+        {
+          "id": "D008607",
+          "term": "Intellectual Disability"
+        },
+        {
+          "id": "D019954",
+          "term": "Neurobehavioral Manifestations"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D040181",
+          "term": "Genetic Diseases, X-Linked"
+        },
+        {
+          "id": "D030342",
+          "term": "Genetic Diseases, Inborn"
+        },
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        },
+        {
+          "id": "D020271",
+          "term": "Heredodegenerative Disorders, Nervous System"
+        },
+        {
+          "id": "D009083",
+          "term": "Mucopolysaccharidoses"
+        },
+        {
+          "id": "D002239",
+          "term": "Carbohydrate Metabolism, Inborn Errors"
+        },
+        {
+          "id": "D008661",
+          "term": "Metabolism, Inborn Errors"
+        },
+        {
+          "id": "D016464",
+          "term": "Lysosomal Storage Diseases"
+        },
+        {
+          "id": "D017520",
+          "term": "Mucinoses"
+        },
+        {
+          "id": "D003240",
+          "term": "Connective Tissue Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C517982",
+          "term": "idursulfase"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

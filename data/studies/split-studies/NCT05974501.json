@@ -1,0 +1,1910 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05974501",
+      "orgStudyIdInfo": {
+        "id": "20230147"
+      },
+      "organization": {
+        "fullName": "University of Miami",
+        "class": "OTHER"
+      },
+      "briefTitle": "Pre vs Post Block in Total Knee Arthroplasty (TKA)",
+      "officialTitle": "Pre vs. Postoperative Adductor Canal Block for Total Knee Arthroplasty: Prospective Randomized Trial"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-09-29",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-01-22",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-01-22",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-07-26",
+      "studyFirstSubmitQcDate": "2023-07-26",
+      "studyFirstPostDateStruct": {
+        "date": "2023-08-03",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-01-21",
+      "resultsFirstSubmitQcDate": "2025-01-21",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-02-12",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-01-21",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-02-12",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Victor Hugo Hernandez",
+        "investigatorTitle": "Professor of Clinical",
+        "investigatorAffiliation": "University of Miami"
+      },
+      "leadSponsor": {
+        "name": "University of Miami",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this project is to determine if a change in patient reported pain, nausea and vomiting after total knee arthroplasty can be observed with the substitution of a post operative adductor canal block for a preoperative adductor canal block in the current established peri-operative pain protocol and if these changes lead to a decrease in opioid consumption (in morphine equivalents)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Knee Osteoarthritis",
+        "Arthroplasty Complications",
+        "Postoperative Pain"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "SUPPORTIVE_CARE",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 84,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Preoperative Adductor Canal Block Group",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.",
+          "interventionNames": [
+            "Drug: Dexamethasone",
+            "Drug: Acetaminophen",
+            "Drug: Lyrica",
+            "Drug: Celebrex",
+            "Drug: Meloxicam",
+            "Drug: Oxycodone",
+            "Drug: Ropivacaine"
+          ]
+        },
+        {
+          "label": "Postoperative Adductor Canal Block Group",
+          "type": "EXPERIMENTAL",
+          "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours",
+          "interventionNames": [
+            "Drug: Dexamethasone",
+            "Drug: Acetaminophen",
+            "Drug: Lyrica",
+            "Drug: Celebrex",
+            "Drug: Meloxicam",
+            "Drug: Oxycodone",
+            "Drug: Ropivacaine"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Dexamethasone",
+          "description": "Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling",
+          "armGroupLabels": [
+            "Postoperative Adductor Canal Block Group",
+            "Preoperative Adductor Canal Block Group"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Acetaminophen",
+          "description": "1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively",
+          "armGroupLabels": [
+            "Postoperative Adductor Canal Block Group",
+            "Preoperative Adductor Canal Block Group"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Lyrica",
+          "description": "Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively",
+          "armGroupLabels": [
+            "Postoperative Adductor Canal Block Group",
+            "Preoperative Adductor Canal Block Group"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Celebrex",
+          "description": "200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively",
+          "armGroupLabels": [
+            "Postoperative Adductor Canal Block Group",
+            "Preoperative Adductor Canal Block Group"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Meloxicam",
+          "description": "30mg administered via IV once postoperatively within 24 hours for pain and swelling",
+          "armGroupLabels": [
+            "Postoperative Adductor Canal Block Group",
+            "Preoperative Adductor Canal Block Group"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Oxycodone",
+          "description": "5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively",
+          "armGroupLabels": [
+            "Postoperative Adductor Canal Block Group",
+            "Preoperative Adductor Canal Block Group"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Ropivacaine",
+          "description": "20 milliliters Ropivacaine 0.2% administered via injection perioperatively.",
+          "armGroupLabels": [
+            "Postoperative Adductor Canal Block Group",
+            "Preoperative Adductor Canal Block Group"
+          ],
+          "otherNames": [
+            "Adductor Canal Block"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Pain Status as Measured by Numeric Pain Scale",
+          "description": "Scale with numeric scores ranging from 0 (least) to 10 (most) pain",
+          "timeFrame": "2 hours postoperatively"
+        },
+        {
+          "measure": "Pain Status as Measured by Numeric Pain Scale",
+          "description": "Scale with numeric scores ranging from 0 (least) to 10 (most) pain",
+          "timeFrame": "24 hours postoperatively"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Patients Reporting Nausea",
+          "description": "Count of the number of patients reporting nausea",
+          "timeFrame": "2 hours postoperatively"
+        },
+        {
+          "measure": "Episodes of Nausea",
+          "description": "Count of the number of episodes of nausea per patient",
+          "timeFrame": "2 hours postoperatively"
+        },
+        {
+          "measure": "Patients Reporting Nausea",
+          "description": "Count of the number of patients reporting nausea",
+          "timeFrame": "24 hours postoperatively"
+        },
+        {
+          "measure": "Episodes of Nausea",
+          "description": "Count of the number of episodes of nausea per patient",
+          "timeFrame": "24 hours postoperatively"
+        },
+        {
+          "measure": "Patients Reporting Vomiting",
+          "description": "Count of the number of patients reporting vomiting",
+          "timeFrame": "2 hours postoperatively"
+        },
+        {
+          "measure": "Episodes of Vomiting",
+          "description": "Count of the number of episodes of vomiting per patient",
+          "timeFrame": "2 hours postoperatively"
+        },
+        {
+          "measure": "Patients Reporting Vomiting",
+          "description": "Count of the number of patients reporting vomiting",
+          "timeFrame": "24 hours postoperatively"
+        },
+        {
+          "measure": "Episodes of Vomiting",
+          "description": "Count of the number of episodes of vomiting per patient",
+          "timeFrame": "24 hours postoperatively"
+        },
+        {
+          "measure": "Total Opioid Consumption",
+          "description": "Measure of the amount of morphine milliequivalents consumed by the patient",
+          "timeFrame": "2 hours postoperatively"
+        },
+        {
+          "measure": "Total Opioid Consumption",
+          "description": "Measure of the amount of morphine milliequivalents consumed by the patient",
+          "timeFrame": "24 hours postoperatively"
+        },
+        {
+          "measure": "Nights Hospitalized",
+          "description": "Number of nights hospitalized",
+          "timeFrame": "Up to 14 nights postoperatively"
+        },
+        {
+          "measure": "Hours Hospitalized",
+          "description": "Number of hours hospitalized",
+          "timeFrame": "Up to 336 hours postoperatively"
+        },
+        {
+          "measure": "Discharges by Midnight POD0",
+          "description": "The number of patients discharged home by midnight on postoperative day zero",
+          "timeFrame": "Up to 24 hours postoperatively"
+        },
+        {
+          "measure": "Discharges by Midnight on POD1",
+          "description": "The number of patients discharged home by midnight postoperative day one",
+          "timeFrame": "Up to 48 hours postoperatively"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1- Patients 18 or older 2 - Patients undergoing primary total knee replacement at the University of Miami Hospital 3 - Patients that have capacity to provide medical consent\n\nExclusion Criteria:\n\n1. All patients under the age of 18\n2. Prisoners, uncontrolled diabetics, increased risk of bleeding, pregnant women, women planning on becoming pregnant in the next year, and women who think they might be pregnant.\n3. Patients with prior surgery or history of infection on the joint of interest.\n4. Patients on steroid preoperatively.\n5. Inability to provide medical consent.\n6. Patients with a history of significant unmitigated pain in parts of their body not including the knee the procedure is to be performed or a history of pain catastrophizing (the tendency to magnify the threat value of the pain stimulus and to feel helpless in the context of pain, and by a relative inability to inhibit pain-related thoughts in anticipation of, during or following a painful event) regarding pain anywhere in the body.\n7. Any condition that, in the opinion of the investigator, would compromise the well-being of the patient or the study or prevent the patient from meeting or performing study requirements will exclude the participant.\n8. Allergy to local anesthetic or any medication used in the standard protocol for joint replacement.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Victor H. Hernandez, MD",
+          "affiliation": "University of Miami",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Miami",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33136",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Preoperative Adductor Canal Block Group",
+          "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+        },
+        {
+          "id": "FG001",
+          "title": "Postoperative Adductor Canal Block Group",
+          "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "46"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "38"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "46"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "37"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Physician Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "The number of individual patients in the respective group",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Preoperative Adductor Canal Block Group",
+          "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+        },
+        {
+          "id": "BG001",
+          "title": "Postoperative Adductor Canal Block Group",
+          "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "46"
+            },
+            {
+              "groupId": "BG001",
+              "value": "38"
+            },
+            {
+              "groupId": "BG002",
+              "value": "84"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "38"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "84"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "65",
+                      "spread": "9.12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "65",
+                      "spread": "9.75"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "65",
+                      "spread": "9.38"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "38"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "84"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "57"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "27"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Body Mass Index (BMI)",
+          "paramType": "MEDIAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kg/m^2",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "38"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "84"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "30.50",
+                      "spread": "4.73"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "30.90",
+                      "spread": "4.18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "30.80",
+                      "spread": "4.51"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Pain Status as Measured by Numeric Pain Scale",
+          "description": "Scale with numeric scores ranging from 0 (least) to 10 (most) pain",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "2 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2",
+                      "lowerLimit": "1.00",
+                      "upperLimit": "6.00"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4.00",
+                      "lowerLimit": "1.00",
+                      "upperLimit": "5.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Pain Status as Measured by Numeric Pain Scale",
+          "description": "Scale with numeric scores ranging from 0 (least) to 10 (most) pain",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "24 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6.00",
+                      "lowerLimit": "4.00",
+                      "upperLimit": "7.00"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.00",
+                      "lowerLimit": "5.00",
+                      "upperLimit": "8.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Patients Reporting Nausea",
+          "description": "Count of the number of patients reporting nausea",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "2 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Episodes of Nausea",
+          "description": "Count of the number of episodes of nausea per patient",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "number of episodes per patient",
+          "timeFrame": "2 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.00",
+                      "lowerLimit": "0.00",
+                      "upperLimit": "0.00"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.00",
+                      "lowerLimit": "0.00",
+                      "upperLimit": "0.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Patients Reporting Nausea",
+          "description": "Count of the number of patients reporting nausea",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "24 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Episodes of Nausea",
+          "description": "Count of the number of episodes of nausea per patient",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "number of episodes per patient",
+          "timeFrame": "24 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.00",
+                      "lowerLimit": "0.00",
+                      "upperLimit": "0.00"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.00",
+                      "lowerLimit": "0.00",
+                      "upperLimit": "0.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Patients Reporting Vomiting",
+          "description": "Count of the number of patients reporting vomiting",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "2 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Episodes of Vomiting",
+          "description": "Count of the number of episodes of vomiting per patient",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "number of episodes per patient",
+          "timeFrame": "2 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.00",
+                      "lowerLimit": "0.00",
+                      "upperLimit": "0.00"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.00",
+                      "lowerLimit": "0.00",
+                      "upperLimit": "0.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Patients Reporting Vomiting",
+          "description": "Count of the number of patients reporting vomiting",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "24 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Episodes of Vomiting",
+          "description": "Count of the number of episodes of vomiting per patient",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "number of episodes per patient",
+          "timeFrame": "24 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.00",
+                      "lowerLimit": "0.00",
+                      "upperLimit": "0.00"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.00",
+                      "lowerLimit": "0.00",
+                      "upperLimit": "0.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Total Opioid Consumption",
+          "description": "Measure of the amount of morphine milliequivalents consumed by the patient",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "milligram morphine equivalents",
+          "timeFrame": "2 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19.50",
+                      "lowerLimit": "8.00",
+                      "upperLimit": "30.00"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "30.00",
+                      "lowerLimit": "15.00",
+                      "upperLimit": "32.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Total Opioid Consumption",
+          "description": "Measure of the amount of morphine milliequivalents consumed by the patient",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "milligram morphine equivalents",
+          "timeFrame": "24 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "45.00",
+                      "lowerLimit": "30.00",
+                      "upperLimit": "56.00"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "36.00",
+                      "lowerLimit": "30.00",
+                      "upperLimit": "56.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Nights Hospitalized",
+          "description": "Number of nights hospitalized",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "nights",
+          "timeFrame": "Up to 14 nights postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.00",
+                      "lowerLimit": "1.00",
+                      "upperLimit": "1.00"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.00",
+                      "lowerLimit": "1.00",
+                      "upperLimit": "1.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Hours Hospitalized",
+          "description": "Number of hours hospitalized",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "hours",
+          "timeFrame": "Up to 336 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23.66",
+                      "lowerLimit": "21.92",
+                      "upperLimit": "25.48"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "25.92",
+                      "lowerLimit": "23.60",
+                      "upperLimit": "27.07"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Discharges by Midnight POD0",
+          "description": "The number of patients discharged home by midnight on postoperative day zero",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 24 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Discharges by Midnight on POD1",
+          "description": "The number of patients discharged home by midnight postoperative day one",
+          "populationDescription": "Patients who completed the study in one of the two groups",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 48 hours postoperatively",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Preoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            },
+            {
+              "id": "OG001",
+              "title": "Postoperative Adductor Canal Block Group",
+              "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "40"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "29"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "24 hours postoperatively",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Preoperative Adductor Canal Block Group",
+          "description": "Participants in this group will receive the standard of care treatment for pain management for TKA including a preoperative adductor canal block. Participants will be in this group for up to 24 hours after surgery.\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 46,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 46,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 46
+        },
+        {
+          "id": "EG001",
+          "title": "Postoperative Adductor Canal Block Group",
+          "description": "Participants in this group will receive the standard of care treatment for pain management after TKA, however, the adductor canal block will be placed postoperatively. Participants will be in this group for up to 24 hours\n\nDexamethasone: Dexamethasone 10mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nAcetaminophen: 1,000mg administered via tablet every 8 hours for pain during the first 1-2 weeks postoperatively\n\nLyrica: Administered via tablet 75mg nightly for pain during the first 1-2 weeks postoperatively\n\nCelebrex: 200mg administered via tablet twice a day for pain and swelling during the first 1-2 weeks postoperatively\n\nMeloxicam: 30mg administered via IV once postoperatively within 24 hours for pain and swelling\n\nOxycodone: 5mg administered via tablet every 4 hours as needed for pain during the first 1-2 weeks postoperatively\n\nRopivacaine: 20 milliliters Ropivacaine 0.2% administered via injection perioperatively.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 38,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 38,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 38
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Dr. Victor H. Hernandez",
+        "organization": "University of Miami",
+        "email": "vhh1@med.miami.edu",
+        "phone": "305-243-4000"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2025-01-13",
+          "uploadDate": "2025-01-18T15:02",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 303761
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D020370",
+          "term": "Osteoarthritis, Knee"
+        },
+        {
+          "id": "D010149",
+          "term": "Pain, Postoperative"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010003",
+          "term": "Osteoarthritis"
+        },
+        {
+          "id": "D001168",
+          "term": "Arthritis"
+        },
+        {
+          "id": "D007592",
+          "term": "Joint Diseases"
+        },
+        {
+          "id": "D009140",
+          "term": "Musculoskeletal Diseases"
+        },
+        {
+          "id": "D012216",
+          "term": "Rheumatic Diseases"
+        },
+        {
+          "id": "D011183",
+          "term": "Postoperative Complications"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D010146",
+          "term": "Pain"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003907",
+          "term": "Dexamethasone"
+        },
+        {
+          "id": "D000082",
+          "term": "Acetaminophen"
+        },
+        {
+          "id": "D000069583",
+          "term": "Pregabalin"
+        },
+        {
+          "id": "D000068579",
+          "term": "Celecoxib"
+        },
+        {
+          "id": "D000077239",
+          "term": "Meloxicam"
+        },
+        {
+          "id": "D010098",
+          "term": "Oxycodone"
+        },
+        {
+          "id": "D000077212",
+          "term": "Ropivacaine"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011246",
+          "term": "Pregnadienetriols"
+        },
+        {
+          "id": "D011245",
+          "term": "Pregnadienes"
+        },
+        {
+          "id": "D011278",
+          "term": "Pregnanes"
+        },
+        {
+          "id": "D013256",
+          "term": "Steroids"
+        },
+        {
+          "id": "D000072473",
+          "term": "Fused-Ring Compounds"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D013259",
+          "term": "Steroids, Fluorinated"
+        },
+        {
+          "id": "D000083",
+          "term": "Acetanilides"
+        },
+        {
+          "id": "D000813",
+          "term": "Anilides"
+        },
+        {
+          "id": "D000577",
+          "term": "Amides"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D000814",
+          "term": "Aniline Compounds"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D005680",
+          "term": "gamma-Aminobutyric Acid"
+        },
+        {
+          "id": "D000613",
+          "term": "Aminobutyrates"
+        },
+        {
+          "id": "D002087",
+          "term": "Butyrates"
+        },
+        {
+          "id": "D000144",
+          "term": "Acids, Acyclic"
+        },
+        {
+          "id": "D002264",
+          "term": "Carboxylic Acids"
+        },
+        {
+          "id": "D000596",
+          "term": "Amino Acids"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D000096926",
+          "term": "Benzenesulfonamides"
+        },
+        {
+          "id": "D013449",
+          "term": "Sulfonamides"
+        },
+        {
+          "id": "D001555",
+          "term": "Benzene Derivatives"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D013450",
+          "term": "Sulfones"
+        },
+        {
+          "id": "D013457",
+          "term": "Sulfur Compounds"
+        },
+        {
+          "id": "D011720",
+          "term": "Pyrazoles"
+        },
+        {
+          "id": "D001393",
+          "term": "Azoles"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D013843",
+          "term": "Thiazines"
+        },
+        {
+          "id": "D013844",
+          "term": "Thiazoles"
+        },
+        {
+          "id": "D003061",
+          "term": "Codeine"
+        },
+        {
+          "id": "D009022",
+          "term": "Morphine Derivatives"
+        },
+        {
+          "id": "D009019",
+          "term": "Morphinans"
+        },
+        {
+          "id": "D053610",
+          "term": "Opiate Alkaloids"
+        },
+        {
+          "id": "D000470",
+          "term": "Alkaloids"
+        },
+        {
+          "id": "D006572",
+          "term": "Heterocyclic Compounds, Bridged-Ring"
+        },
+        {
+          "id": "D006576",
+          "term": "Heterocyclic Compounds, 4 or More Rings"
+        },
+        {
+          "id": "D000072471",
+          "term": "Heterocyclic Compounds, Fused-Ring"
+        },
+        {
+          "id": "D010616",
+          "term": "Phenanthrenes"
+        },
+        {
+          "id": "D011084",
+          "term": "Polycyclic Aromatic Hydrocarbons"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

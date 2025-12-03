@@ -1,0 +1,1355 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05030766",
+      "orgStudyIdInfo": {
+        "id": "20201296"
+      },
+      "organization": {
+        "fullName": "University of Miami",
+        "class": "OTHER"
+      },
+      "briefTitle": "Testing Integrative Smoking Cessation for HIV Patients",
+      "officialTitle": "A Pilot SMART Pre- and Post-testing of an Integrative Mindfulness-Based Smoking Cessation Intervention for HIV Patients"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-05",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-01-04",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-05-23",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-05-23",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-08-26",
+      "studyFirstSubmitQcDate": "2021-08-31",
+      "studyFirstPostDateStruct": {
+        "date": "2021-09-01",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-05-16",
+      "resultsFirstSubmitQcDate": "2025-05-16",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-06-04",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-05-16",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-06-04",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Taghrid Asfar",
+        "investigatorTitle": "Research Assistant Professor",
+        "investigatorAffiliation": "University of Miami"
+      },
+      "leadSponsor": {
+        "name": "University of Miami",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to examine the feasibility, acceptability and effect of a combined smoking cessation intervention integrating contingency management (reward-based) strategies with Mindfulness training to identify the optimal dynamic strategy to promote smoking cessation among HIV patients."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Smoking",
+        "Smoking Cessation",
+        "HIV Infections"
+      ],
+      "keywords": [
+        "Mindfulness Training",
+        "Contingency Management"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "SEQUENTIAL",
+        "primaryPurpose": "OTHER",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 95,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "MT plus NRT Group-Phase 1",
+          "type": "EXPERIMENTAL",
+          "description": "Participants who receive the Mindfulness Training (MT) intervention for 4 weeks in addition to 6 weeks of Nicotine Replacement Therapy (NRT).These participants are responders (have quit smoking at the 1 month follow up) or non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive no additional intervention.",
+          "interventionNames": [
+            "Drug: Nicotine Replacement Therapy",
+            "Behavioral: Mindfulness Training Smoking Cessation Intervention"
+          ]
+        },
+        {
+          "label": "CM plus NRT Group-Phase1",
+          "type": "EXPERIMENTAL",
+          "description": "Participants who receive the Contingency Management (CM) intervention for 4 weeks in addition to 6 weeks of NRT. These participants are responders (have quit smoking at the 1 month follow up) or non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive no additional intervention.",
+          "interventionNames": [
+            "Drug: Nicotine Replacement Therapy",
+            "Behavioral: Contingency Management Smoking Cessation Intervention"
+          ]
+        },
+        {
+          "label": "MT plus NRT with additional CM Group-Phase2",
+          "type": "EXPERIMENTAL",
+          "description": "Participants who received the MT intervention for 4 weeks with 6 weeks of NRT and are non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive an additional CM intervention for another 4 weeks.",
+          "interventionNames": [
+            "Drug: Nicotine Replacement Therapy",
+            "Behavioral: Mindfulness Training Smoking Cessation Intervention",
+            "Behavioral: Contingency Management Smoking Cessation Intervention"
+          ]
+        },
+        {
+          "label": "CM plus NRT with additional MT Group-Phase2",
+          "type": "EXPERIMENTAL",
+          "description": "Participants who received the CM intervention for 4 weeks with 6 weeks of NRT and are non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive an additional MT intervention for another 4 weeks.",
+          "interventionNames": [
+            "Drug: Nicotine Replacement Therapy",
+            "Behavioral: Mindfulness Training Smoking Cessation Intervention",
+            "Behavioral: Contingency Management Smoking Cessation Intervention"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Nicotine Replacement Therapy",
+          "description": "6 weeks of Nicotine replacement patches",
+          "armGroupLabels": [
+            "CM plus NRT Group-Phase1",
+            "CM plus NRT with additional MT Group-Phase2",
+            "MT plus NRT Group-Phase 1",
+            "MT plus NRT with additional CM Group-Phase2"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Mindfulness Training Smoking Cessation Intervention",
+          "description": "Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions.",
+          "armGroupLabels": [
+            "CM plus NRT with additional MT Group-Phase2",
+            "MT plus NRT Group-Phase 1",
+            "MT plus NRT with additional CM Group-Phase2"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Contingency Management Smoking Cessation Intervention",
+          "description": "Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom.",
+          "armGroupLabels": [
+            "CM plus NRT Group-Phase1",
+            "CM plus NRT with additional MT Group-Phase2",
+            "MT plus NRT with additional CM Group-Phase2"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants Reporting 7-day Point-prevalence Abstinence",
+          "description": "Defined as self-report of not smoking in the past 7-days, not even a puff and confirmed by expired carbon monoxide (CO) level cutoff of \\< 8 ppm using a coVita iCO™ Smokerlyzer® and/or NicoTests saliva sample of ≤ 30 ng/mL.",
+          "timeFrame": "4 weeks (end of treatment), and 3 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Retention Rate",
+          "description": "Treatment specific retention rates reported as the percentage of participants who completed their final 3-month assessment divided by the total of participants enrolled.",
+          "timeFrame": "3 months"
+        },
+        {
+          "measure": "Treatment Specific Adherence Rates",
+          "description": "Defined as number of phone-call check-ins attended by each participant (4 for mindfulness training, 12 for contingency management).",
+          "timeFrame": "3 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosed with HIV (based on self-report).\n* Be 18 years and older\n* Have smoked ≥ 5 cigarettes/day in the past year\n* Be interested in making a quit attempt in the next 30 days\n* Own a smartphone (apple/android), and plan to keep it active for the next 6 months\n* Able to consent\n* Have no plans to move in the next 6 months\n* Are not pregnant or planning to be pregnant in the following 6 months\n* Have any condition that, in the opinion of the investigator, would compromise the well-being of the patient or the study or prevent the patient from meeting or performing study requirements\n\nExclusion Criteria:\n\n* Have contraindication to NRT (past month myocardial infarction, history of serious arrhythmias/or unstable angina pectoris, dermatological disorder)\n* Are currently being treated for a psychiatric condition.\n* Are currently being treated for smoking cessation, alcoholism, or illicit drug use\n* Are adults unable to consent\n* Are individuals who are not yet adults\n* Are pregnant women\n* Are prisoners",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Taghrid A. Asfar, MD, MSPH",
+          "affiliation": "University of Miami",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Miami",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33136",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Phase 2 participants are participants that did not quit smoking in their respective Phase 1 group, who were then assigned to the opposite group in Phase 2. Phase 1 MT participants who did not quit smoking go to Phase 2 CM, Phase 1 CM participants who did not quit smoking go to Phase 2 MT. Those participants who quit smoking do not get randomized again.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Mindfulness Training (MT) and NRT (Phase 1)",
+          "description": "Participants who receive the Mindfulness Training (MT) intervention for 4 weeks in addition to 6 weeks of Nicotine Replacement Therapy (NRT).These participants are responders (have quit smoking at the 1 month follow up) or non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive no additional intervention.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions."
+        },
+        {
+          "id": "FG001",
+          "title": "Contingency Management (CM) and NRT (Phase 1)",
+          "description": "Participants who receive the Contingency Management (CM) intervention for 4 weeks in addition to 6 weeks of NRT. These participants are responders (have quit smoking at the 1 month follow up) or non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive no additional intervention.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom."
+        },
+        {
+          "id": "FG002",
+          "title": "Mindfulness Training (MT) and NRT + Additional CM Group (Phase 2)",
+          "description": "Participants who received the MT intervention for 4 weeks with 6 weeks of NRT and are non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive an additional CM intervention for another 4 weeks.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions.\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom."
+        },
+        {
+          "id": "FG003",
+          "title": "Contingency Management (CM) and NRT + Additional MT Group (Phase 2)",
+          "description": "Participants who received the CM intervention for 4 weeks with 6 weeks of NRT and are non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive an additional MT intervention for another 4 weeks.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions.\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Phase 1 Participants",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "49"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "46"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "21"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "15"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "28"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "31"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "12"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "22"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Did not attend sessions after being randomized",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "16"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "9"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Phase 2 Participants",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "12"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "8"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Mindfulness Training (MT) and NRT (Phase 1)",
+          "description": "Participants who receive the Mindfulness Training (MT) intervention for 4 weeks in addition to 6 weeks of Nicotine Replacement Therapy (NRT).These participants are responders (have quit smoking at the 1 month follow up) or non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive no additional intervention.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions."
+        },
+        {
+          "id": "BG001",
+          "title": "Contingency Management (CM) and NRT (Phase 1)",
+          "description": "Participants who receive the Contingency Management (CM) intervention for 4 weeks in addition to 6 weeks of NRT. These participants are responders (have quit smoking at the 1 month follow up) or non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive no additional intervention.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "49"
+            },
+            {
+              "groupId": "BG001",
+              "value": "46"
+            },
+            {
+              "groupId": "BG002",
+              "value": "95"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "54.54",
+                      "spread": "8.49"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "51.59",
+                      "spread": "11.63"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "53.07",
+                      "spread": "10.24"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "46"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "49"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "75"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Non-Hispanic White",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Non-Hispanic Black",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "68"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hispanic",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Asian/ Asian American / Pacific Islander",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Other",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants Reporting 7-day Point-prevalence Abstinence",
+          "description": "Defined as self-report of not smoking in the past 7-days, not even a puff and confirmed by expired carbon monoxide (CO) level cutoff of \\< 8 ppm using a coVita iCO™ Smokerlyzer® and/or NicoTests saliva sample of ≤ 30 ng/mL.",
+          "populationDescription": "Only those who participated in their treatment (completed at least one session).",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "4 weeks (end of treatment), and 3 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mindfulness Training (MT) and NRT (Phase 1)",
+              "description": "Participants who receive the Mindfulness Training (MT) intervention for 4 weeks in addition to 6 weeks of Nicotine Replacement Therapy (NRT).These participants are responders (have quit smoking at the 1 month follow up) or non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive no additional intervention.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions."
+            },
+            {
+              "id": "OG001",
+              "title": "Contingency Management (CM) and NRT (Phase 1)",
+              "description": "Participants who receive the Contingency Management (CM) intervention for 4 weeks in addition to 6 weeks of NRT. These participants are responders (have quit smoking at the 1 month follow up) or non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive no additional intervention.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom."
+            },
+            {
+              "id": "OG002",
+              "title": "Mindfulness Training (MT) and NRT + Additional CM Group (Phase 2)",
+              "description": "Participants who received the MT intervention for 4 weeks with 6 weeks of NRT and are non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive an additional CM intervention for another 4 weeks.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions.\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom."
+            },
+            {
+              "id": "OG003",
+              "title": "Contingency Management (CM) and NRT + Additional MT Group (Phase 2)",
+              "description": "Participants who received the CM intervention for 4 weeks with 6 weeks of NRT and are non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive an additional MT intervention for another 4 weeks.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions.\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "49"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "12"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "4 weeks (end of treatment)",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "37"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "3 months",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "37"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Retention Rate",
+          "description": "Treatment specific retention rates reported as the percentage of participants who completed their final 3-month assessment divided by the total of participants enrolled.",
+          "populationDescription": "All participants who enrolled and were randomized.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of patients",
+          "timeFrame": "3 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mindfulness Training (MT) and NRT (Phase 1)",
+              "description": "Participants who receive the Mindfulness Training (MT) intervention for 4 weeks in addition to 6 weeks of Nicotine Replacement Therapy (NRT).These participants are responders (have quit smoking at the 1 month follow up) or non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive no additional intervention.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions."
+            },
+            {
+              "id": "OG001",
+              "title": "Contingency Management (CM) and NRT (Phase 1)",
+              "description": "Participants who receive the Contingency Management (CM) intervention for 4 weeks in addition to 6 weeks of NRT. These participants are responders (have quit smoking at the 1 month follow up) or non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive no additional intervention.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom."
+            },
+            {
+              "id": "OG002",
+              "title": "Mindfulness Training (MT) and NRT + Additional CM Group (Phase 2)",
+              "description": "Participants who received the MT intervention for 4 weeks with 6 weeks of NRT and are non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive an additional CM intervention for another 4 weeks.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions.\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom."
+            },
+            {
+              "id": "OG003",
+              "title": "Contingency Management (CM) and NRT + Additional MT Group (Phase 2)",
+              "description": "Participants who received the CM intervention for 4 weeks with 6 weeks of NRT and are non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive an additional MT intervention for another 4 weeks.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions.\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "49"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "12"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "42.83"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "32.61"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "50.00"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "80.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Treatment Specific Adherence Rates",
+          "description": "Defined as number of phone-call check-ins attended by each participant (4 for mindfulness training, 12 for contingency management).",
+          "populationDescription": "Includes all participants who were randomized to a treatment arm. Note that Phase 1 and Phase 2 participants are not mutually exclusive (Phase 2 participants come from Phase 1). Mindfulness Training participants did one call per week of treatment, 4 calls in total. Contingency management did 3 calls per week of treatment for a total of 12 calls.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "3 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mindfulness Training (MT) and NRT (Phase 1)",
+              "description": "Participants who receive the Mindfulness Training (MT) intervention for 4 weeks in addition to 6 weeks of Nicotine Replacement Therapy (NRT).These participants are responders (have quit smoking at the 1 month follow up) or non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive no additional intervention.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions."
+            },
+            {
+              "id": "OG001",
+              "title": "Contingency Management (CM) and NRT (Phase 1)",
+              "description": "Participants who receive the Contingency Management (CM) intervention for 4 weeks in addition to 6 weeks of NRT. These participants are responders (have quit smoking at the 1 month follow up) or non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive no additional intervention.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom."
+            },
+            {
+              "id": "OG002",
+              "title": "Mindfulness Training (MT) and NRT + Additional CM Group (Phase 2)",
+              "description": "Participants who received the MT intervention for 4 weeks with 6 weeks of NRT and are non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive an additional CM intervention for another 4 weeks.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions.\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom."
+            },
+            {
+              "id": "OG003",
+              "title": "Contingency Management (CM) and NRT + Additional MT Group (Phase 2)",
+              "description": "Participants who received the CM intervention for 4 weeks with 6 weeks of NRT and are non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive an additional MT intervention for another 4 weeks.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions.\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "49"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "46"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "12"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "0 check-ins",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Less than half the check-ins",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Half of the check-ins",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "More than half the check-ins but did not complete all",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Completed all check-ins",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "3 months",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Mindfulness Training (MT) and NRT (Phase 1)",
+          "description": "Participants who receive the Mindfulness Training (MT) intervention for 4 weeks in addition to 6 weeks of Nicotine Replacement Therapy (NRT).These participants are responders (have quit smoking at the 1 month follow up) or non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive no additional intervention.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 49,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 49,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 49
+        },
+        {
+          "id": "EG001",
+          "title": "Contingency Management (CM) and NRT (Phase 1)",
+          "description": "Participants who receive the Contingency Management (CM) intervention for 4 weeks in addition to 6 weeks of NRT. These participants are responders (have quit smoking at the 1 month follow up) or non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive no additional intervention.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 46,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 46,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 46
+        },
+        {
+          "id": "EG002",
+          "title": "Mindfulness Training (MT) and NRT + Additional CM Group (Phase 2)",
+          "description": "Participants who received the MT intervention for 4 weeks with 6 weeks of NRT and are non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive an additional CM intervention for another 4 weeks.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions.\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 12,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 12,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 12
+        },
+        {
+          "id": "EG003",
+          "title": "Contingency Management (CM) and NRT + Additional MT Group (Phase 2)",
+          "description": "Participants who received the CM intervention for 4 weeks with 6 weeks of NRT and are non-responders (those who have not quit smoking at the 1 month follow up) and randomized to receive an additional MT intervention for another 4 weeks.\n\nNicotine Replacement Therapy: 6 weeks of Nicotine replacement patches\n\nMindfulness Training Smoking Cessation Intervention: Mindfulness Training Smoking Cessation Intervention administered online via Zoom. Each session lasts 60-90 minutes, twice weekly for 4 weeks for a total of 8 sessions.\n\nContingency Management Smoking Cessation Intervention: Contingency Management Smoking Cessation Intervention includes one orientation session lasting about 60-90 minutes administered via Zoom. Participants will then be required to contact the research associate about their quitting progress three times a week for 4 weeks also by zoom.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 10,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 10,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 10
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Dr. Taghrid Asfar",
+        "organization": "University of Miami",
+        "email": "tasfar@miami.edu",
+        "phone": "+1 (901) 371-7229"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2025-05-09",
+          "uploadDate": "2025-05-09T16:58",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 507149
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D012907",
+          "term": "Smoking"
+        },
+        {
+          "id": "D016540",
+          "term": "Smoking Cessation"
+        },
+        {
+          "id": "D015658",
+          "term": "HIV Infections"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        },
+        {
+          "id": "D015438",
+          "term": "Health Behavior"
+        },
+        {
+          "id": "D000086982",
+          "term": "Blood-Borne Infections"
+        },
+        {
+          "id": "D003141",
+          "term": "Communicable Diseases"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D015229",
+          "term": "Sexually Transmitted Diseases, Viral"
+        },
+        {
+          "id": "D012749",
+          "term": "Sexually Transmitted Diseases"
+        },
+        {
+          "id": "D016180",
+          "term": "Lentivirus Infections"
+        },
+        {
+          "id": "D012192",
+          "term": "Retroviridae Infections"
+        },
+        {
+          "id": "D012327",
+          "term": "RNA Virus Infections"
+        },
+        {
+          "id": "D014777",
+          "term": "Virus Diseases"
+        },
+        {
+          "id": "D000091662",
+          "term": "Genital Diseases"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D007153",
+          "term": "Immunologic Deficiency Syndromes"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000095488",
+          "term": "Nicotine Replacement Therapy"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D004358",
+          "term": "Drug Therapy"
+        },
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

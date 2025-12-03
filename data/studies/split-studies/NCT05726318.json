@@ -1,0 +1,1462 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05726318",
+      "orgStudyIdInfo": {
+        "id": "STUDY22060176"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "DK131273",
+          "type": "OTHER",
+          "domain": "NIDDK"
+        },
+        {
+          "id": "R01DK131273",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R01DK131273"
+        }
+      ],
+      "organization": {
+        "fullName": "University of Pittsburgh",
+        "class": "OTHER"
+      },
+      "briefTitle": "Randomized Trial of Culture Directed Versus Empiric Antibiotics for Urinary Tract Infections in Older Women",
+      "officialTitle": "A Randomized Pilot and Feasibility Study of a cultuRE-Directed Approach to Urinary traCT Infection Symptoms in Older womeN: a Mixed Methods Evaluation - the REDUCTION Trial",
+      "acronym": "REDUCTION"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-08",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-02-17",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-08-02",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-08-02",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-01-19",
+      "studyFirstSubmitQcDate": "2023-02-03",
+      "studyFirstPostDateStruct": {
+        "date": "2023-02-13",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-07-01",
+      "resultsFirstSubmitQcDate": "2025-08-08",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-08-27",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-08-08",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-08-27",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR_INVESTIGATOR",
+        "investigatorFullName": "Megan Bradley",
+        "investigatorTitle": "Assistant Professor",
+        "investigatorAffiliation": "University of Pittsburgh"
+      },
+      "leadSponsor": {
+        "name": "Megan Bradley",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+          "class": "NIH"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "To evaluate the feasibility of recruiting eligible subjects into a randomized trial of a culture-directed versus empiric antibiotic strategy for patient-reported urinary tract infection symptoms in older women and the adherence to study procedures.",
+      "detailedDescription": "To evaluate A) the feasibility of recruiting eligible subjects into a randomized trial of a culture-directed versus empiric antibiotic strategy for patient-reported urinary tract infection (UTI) symptoms in older women and B) the adherence to study procedures. We will recruit and enroll women with a history of recurrent UTI (rUTI) from the Women's Center for Bladder and Pelvic Health and the University of Pittsburgh's Clinical and Translational Science Institute (CTSI) Pitt+Me® Research Registry. Once enrolled and randomized, women will be followed for a total of 28 days to document both clinical resolution at day 7 from symptom onset and adverse events. H1) Enrolling a total of 70 subjects in \\<1 year (at least 10% of eligible patients) will demonstrate feasibility of recruitment and H2) Documenting at least 70% patient compliance with study procedures will confirm patient adherence to study protocol. Exploratory Aim: To explore the safety of a culture-directed UTI treatment strategy and preliminary secondary outcomes of assigned treatments. H1) There will be an overall low number of adverse events and H2) Preliminary outcome data will help power future trial."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "UTI"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 70,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Culture-directed antibiotic",
+          "type": "OTHER",
+          "description": "Participants will be directed to refrain from taking antibiotics until results of urine culture are reported, which is expected within 48-72h.",
+          "interventionNames": [
+            "Drug: Antibiotics"
+          ]
+        },
+        {
+          "label": "Empiric antibiotic",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Antibiotic Protocol. For participants in the empiric Rx arm, we will choose an antibiotic with consideration of patient reported allergies, current medications and current Infectious Disease Society of American (IDSA) guidelines. If there is a contraindication to the first antibiotic on the list they will progress to the next option until a suitable selection is achieved.",
+          "interventionNames": [
+            "Drug: Antibiotics"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Antibiotics",
+          "description": "Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days",
+          "armGroupLabels": [
+            "Culture-directed antibiotic",
+            "Empiric antibiotic"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Eligible Subjects That Were Enrolled in the Study",
+          "description": "Number and proportion of eligible subjects that were enrolled in the study",
+          "timeFrame": "Through study completion, an average of 17.5 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Persons That Were Screened for Participation",
+          "description": "Overall number of persons that were screened for participation",
+          "timeFrame": "Through study completion, an average of 17.5 months"
+        },
+        {
+          "measure": "Proportion of Persons Screened Who Met Inclusion/Exclusion Criteria",
+          "description": "Number of person screened who met include/exclusion criteria divided by number participants screened",
+          "timeFrame": "30 days"
+        },
+        {
+          "measure": "Proportion of Persons Screened Who Declined Participation or Were Ineligible",
+          "description": "Number of person screened who declined or were ineligible divided by number participants screened",
+          "timeFrame": "30 days"
+        },
+        {
+          "measure": "Proportion of Participants Enrolled Who Completed the Study",
+          "description": "Number of persons enrolled who completed the study (at least one follow-up questionnaire and completed the day 28 questionnaire) divided by number participants enrolled",
+          "timeFrame": "30 days"
+        },
+        {
+          "measure": "Monthly Enrollment Rate",
+          "description": "number of participants that were enrolled each month",
+          "timeFrame": "Through study completion, an average of 17.5 months"
+        },
+        {
+          "measure": "Proportion of Enrolled Participants That Completed All Study Procedures",
+          "description": "Number of persons enrolled who completed all study procedures (completed all 4 follow-up questionnaires) divided by number participants enrolled",
+          "timeFrame": "30 days"
+        },
+        {
+          "measure": "Proportion of Enrolled Participants That Took Alternative Agents for Management of Symptoms",
+          "description": "Number of persons enrolled who took alternative agents for management of symptoms divided by number participants enrolled",
+          "timeFrame": "30 days"
+        },
+        {
+          "measure": "Proportion of Participants in the Culture-directed Arm That Acquired Off-protocol Antibiotics for Their Symptoms",
+          "description": "Number of participants in the culture-directed arm that acquired off-protocol antibiotics for their symptoms divided by the number of participants in the culture-directed arm",
+          "timeFrame": "30 days"
+        },
+        {
+          "measure": "Proportion of Enrolled Participants That Completed Electronic Surveys",
+          "description": "Number of persons enrolled who completed all electronic surveys divided by number participants enrolled",
+          "timeFrame": "30 days"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Clinical Success at 14 Days",
+          "description": "Score of \\<1 on question 1 (urinary burning),3 (urinary urgency) and 5 (urinary frequency) on Urinary Tract Infection Symptom Assessment at day 14. A lower scale correlates with better symptoms with 0 being no symptoms and 1 being \"little\" symptoms.",
+          "timeFrame": "14 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Female biologic Sex\n* Age ≥65 years old\n* History of recurrent UTI per patient report of greater than 2 UTIs in the last 6 months or 3 UTIs in the last year\n* Patient reported UTI defined as:\n\n  * Dysuria, increased urinary urgency/frequency and/or suprapubic pain\n\nExclusion Criteria:\n\n* Male biologic sex\n* Age \\<65 years old\n* History of augmentation cystoplasty or cystectomy\n* Currently performing clean intermittent self-catheterization\n* Current indwelling foley catheter\n* Urinary tract instrumentation (i.e., cystourethroscopy, foley catheter placement) in the last 30 days\n* Undergoing treatment for malignancy\n* History of either confirmed or patient reported pyelonephritis and/or urosepsis\n* Cirrhosis and/or end stage liver disease\n* Chronic kidney disease with most recent estimated glomerular filtration rate \\<50 ml/min\n* Dementia and/or currently reside in skilled nursing facility\n* Current high-dose chronic steroids (\\>20mg/day of prednisone)\n* Previous solid organ transplant\n* Provider concern for pyelonephritis and/or sepsis (i.e., fevers)\n* Unwilling or unable to comply with study procedures",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "minimumAge": "65 Years",
+      "stdAges": [
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Megan S Bradley",
+          "affiliation": "University of Pittsburgh",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Magee Women's Hospital of UPMC",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15213",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Will review each request individually and work with University of Pittsburgh Research Agreements to share.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP",
+        "ICF",
+        "CSR",
+        "ANALYTIC_CODE"
+      ],
+      "timeFrame": "1 year after completion",
+      "accessCriteria": "unknown at this time"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Culture-directed Antibiotic",
+          "description": "Participants will be directed to refrain from taking antibiotics until results of urine culture are reported, which is expected within 48-72h.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days"
+        },
+        {
+          "id": "FG001",
+          "title": "Empiric Antibiotic",
+          "description": "Antibiotic Protocol. For participants in the empiric Rx arm, we will choose an antibiotic with consideration of patient reported allergies, current medications and current Infectious Disease Society of America (IDSA) guidelines. If there is a contraindication to the first antibiotic on the list they will progress to the next option until a suitable selection is achieved.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "35"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "35"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "31"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "31"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Culture-directed Antibiotic",
+          "description": "Participants will be directed to refrain from taking antibiotics until results of urine culture are reported, which is expected within 48-72h.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days"
+        },
+        {
+          "id": "BG001",
+          "title": "Empiric Antibiotic",
+          "description": "Antibiotic Protocol. For participants in the empiric Rx arm, we will choose an antibiotic with consideration of patient reported allergies, current medications and current IDSA guidelines. If there is a contraindication to the first antibiotic on the list they will progress to the next option until a suitable selection is achieved.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "35"
+            },
+            {
+              "groupId": "BG001",
+              "value": "35"
+            },
+            {
+              "groupId": "BG002",
+              "value": "70"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "74.1",
+                      "spread": "7.1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "75.7",
+                      "spread": "6.8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "74.9",
+                      "spread": "6.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "70"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "69"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "69"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Number of Participants with Diabetes Mellitus",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BMI",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "kg/m^2",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "30.5",
+                      "spread": "7.6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "28.5",
+                      "spread": "6.1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "29.5",
+                      "spread": "6.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pelvic Floor Distress Inventory-20",
+          "description": "The Pelvic Floor Distress Inventory - Short Form 20 (PFDI-20) is a validated, patient-reported outcome measure that assesses symptom distress related to pelvic floor disorders. The PFDI-20 consists of 20 items divided into three subscales: Each item is scored from 0 to 4. Each subscale is scored by: Calculating the mean of the answered items in that subscale and multiplying the mean by 25. The total PFDI-20 score is the sum of the three subscale scores. Interpretation of Scores: Higher scores represent worse pelvic floor symptom distress.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "units on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "137.9",
+                      "spread": "59.9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "146.0",
+                      "spread": "68.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "142.0",
+                      "spread": "63.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Eligible Subjects That Were Enrolled in the Study",
+          "description": "Number and proportion of eligible subjects that were enrolled in the study",
+          "populationDescription": "There were 103 eligible participants in the study time frame",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Through study completion, an average of 17.5 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Overall Number and Proportion of Eligible Subjects That Were Enrolled in the Study",
+              "description": "Overall number and proportion of eligible subjects that were enrolled in the study"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "103"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "70"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Persons That Were Screened for Participation",
+          "description": "Overall number of persons that were screened for participation",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Through study completion, an average of 17.5 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Number of Subjects That Were Screened for Participation",
+              "description": "Number of subjects that were screened for participation"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "131"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "131"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Persons Screened Who Met Inclusion/Exclusion Criteria",
+          "description": "Number of person screened who met include/exclusion criteria divided by number participants screened",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "30 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Number and Proportion of Subjects Screened Who Met Inclusion/Exclusion Criteria",
+              "description": "Number and proportion of subjects screened who met inclusion/exclusion criteria"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "131"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "103"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Persons Screened Who Declined Participation or Were Ineligible",
+          "description": "Number of person screened who declined or were ineligible divided by number participants screened",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "30 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Proportion of Persons Screened Who Declined Participation or Were Ineligible",
+              "description": "Number of people screened who ultimately declined participation or were ineligible"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "131"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "43"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Participants Enrolled Who Completed the Study",
+          "description": "Number of persons enrolled who completed the study (at least one follow-up questionnaire and completed the day 28 questionnaire) divided by number participants enrolled",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "30 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Culture-directed Antibiotic",
+              "description": "Participants will be directed to refrain from taking antibiotics until results of urine culture are reported, which is expected within 48-72h.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days"
+            },
+            {
+              "id": "OG001",
+              "title": "Empiric Antibiotic",
+              "description": "Antibiotic Protocol. For participants in the empiric Rx arm, we will choose an antibiotic with consideration of patient reported allergies, current medications and current Infectious Disease Society of American (IDSA) guidelines. If there is a contraindication to the first antibiotic on the list they will progress to the next option until a suitable selection is achieved.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "35"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "35"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "31"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": ".78",
+              "statisticalMethod": "Chi-squared"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Monthly Enrollment Rate",
+          "description": "number of participants that were enrolled each month",
+          "populationDescription": "How many of the total 70 participants we enrolled per month",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "participants enrolled per month",
+          "timeFrame": "Through study completion, an average of 17.5 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Monthly Enrollment Rate",
+              "description": "Monthly Enrollment Rate (the number of patients on average enrolled per month to get to the total enrolled number)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "70"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4",
+                      "lowerLimit": "2",
+                      "upperLimit": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Enrolled Participants That Completed All Study Procedures",
+          "description": "Number of persons enrolled who completed all study procedures (completed all 4 follow-up questionnaires) divided by number participants enrolled",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "30 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Culture-directed Antibiotic",
+              "description": "Participants will be directed to refrain from taking antibiotics until results of urine culture are reported, which is expected within 48-72h.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days"
+            },
+            {
+              "id": "OG001",
+              "title": "Empiric Antibiotics",
+              "description": "Antibiotic Protocol. For participants in the empiric Rx arm, we will choose an antibiotic with consideration of patient reported allergies, current medications and current Infectious Disease Society of American (IDSA) guidelines. If there is a contraindication to the first antibiotic on the list they will progress to the next option until a suitable selection is achieved.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "35"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "35"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "31"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": ".78",
+              "statisticalMethod": "Chi-squared"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Enrolled Participants That Took Alternative Agents for Management of Symptoms",
+          "description": "Number of persons enrolled who took alternative agents for management of symptoms divided by number participants enrolled",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "30 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Culture-directed Antibiotic",
+              "description": "Participants will be directed to refrain from taking antibiotics until results of urine culture are reported, which is expected within 48-72h.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days"
+            },
+            {
+              "id": "OG001",
+              "title": "Empiric Antibiotic",
+              "description": "Antibiotic Protocol. For participants in the empiric Rx arm, we will choose an antibiotic with consideration of patient reported allergies, current medications and current IDSA guidelines. If there is a contraindication to the first antibiotic on the list they will progress to the next option until a suitable selection is achieved.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "35"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "35"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": ".68",
+              "statisticalMethod": "Chi-squared"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Participants in the Culture-directed Arm That Acquired Off-protocol Antibiotics for Their Symptoms",
+          "description": "Number of participants in the culture-directed arm that acquired off-protocol antibiotics for their symptoms divided by the number of participants in the culture-directed arm",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "30 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Culture-directed Arm",
+              "description": "Culture-directed Arm of Participants Only"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "35"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Proportion of Enrolled Participants That Completed Electronic Surveys",
+          "description": "Number of persons enrolled who completed all electronic surveys divided by number participants enrolled",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "30 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Culture-directed Antibiotic",
+              "description": "Participants will be directed to refrain from taking antibiotics until results of urine culture are reported, which is expected within 48-72h.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days"
+            },
+            {
+              "id": "OG001",
+              "title": "Empiric Antibiotics",
+              "description": "Antibiotic Protocol. For participants in the empiric Rx arm, we will choose an antibiotic with consideration of patient reported allergies, current medications and current Infectious Disease Society of American (IDSA) guidelines. If there is a contraindication to the first antibiotic on the list they will progress to the next option until a suitable selection is achieved.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "35"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "35"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "31"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": ".78",
+              "statisticalMethod": "Chi-squared"
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Clinical Success at 14 Days",
+          "description": "Score of \\<1 on question 1 (urinary burning),3 (urinary urgency) and 5 (urinary frequency) on Urinary Tract Infection Symptom Assessment at day 14. A lower scale correlates with better symptoms with 0 being no symptoms and 1 being \"little\" symptoms.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "14 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Culture-directed Antibiotic",
+              "description": "Participants will be directed to refrain from taking antibiotics until results of urine culture are reported, which is expected within 48-72h.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days"
+            },
+            {
+              "id": "OG001",
+              "title": "Empiric Antibiotic",
+              "description": "Antibiotic Protocol. For participants in the empiric Rx arm, we will choose an antibiotic with consideration of patient reported allergies, current medications and current Infectious Disease Society of American (IDSA) guidelines. If there is a contraindication to the first antibiotic on the list they will progress to the next option until a suitable selection is achieved.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "31"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "31"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.13",
+              "statisticalMethod": "Chi-squared"
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "28 days",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Culture-directed Antibiotic",
+          "description": "Participants will be directed to refrain from taking antibiotics until results of urine culture are reported, which is expected within 48-72h.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 35,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 35,
+          "otherNumAffected": 5,
+          "otherNumAtRisk": 35
+        },
+        {
+          "id": "EG001",
+          "title": "Empiric Antibiotic",
+          "description": "Antibiotic Protocol. For participants in the empiric Rx arm, we will choose an antibiotic with consideration of patient reported allergies, current medications and current IDSA guidelines. If there is a contraindication to the first antibiotic on the list they will progress to the next option until a suitable selection is achieved.\n\nAntibiotics: Participants will be provided either nitrofurantoin 100 mg oral twice a day for 5 days, trimethoprim/sulfamethoxazole 875/125 oral twice a day for 3 days, fosfomycin 3g once oral, ciprofloxacin 250 mg oral twice a day for 5 days or cephalexin 500 mg oral twice a day for 5 days",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 35,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 35,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 35
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Nausea/Vomiting Symptoms",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Nausea, vomiting",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 35
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 35
+            }
+          ]
+        },
+        {
+          "term": "Diarrhea",
+          "organSystem": "Gastrointestinal disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 35
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 35
+            }
+          ]
+        },
+        {
+          "term": "Rash",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 35
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 35
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Megan Bradley, MD",
+        "organization": "University of Pittsburgh",
+        "email": "bradleym4@upmc.edu",
+        "phone": "412-641-3189"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2025-04-01",
+          "uploadDate": "2025-07-01T15:07",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 658917
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2024-04-16",
+          "uploadDate": "2025-07-01T13:17",
+          "filename": "ICF_001.pdf",
+          "size": 448200
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-07-22",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000900",
+          "term": "Anti-Bacterial Agents"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000890",
+          "term": "Anti-Infective Agents"
+        },
+        {
+          "id": "D045506",
+          "term": "Therapeutic Uses"
+        },
+        {
+          "id": "D020228",
+          "term": "Pharmacologic Actions"
+        },
+        {
+          "id": "D020164",
+          "term": "Chemical Actions and Uses"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

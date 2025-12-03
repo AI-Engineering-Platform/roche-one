@@ -1,0 +1,951 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04703075",
+      "orgStudyIdInfo": {
+        "id": "IRB00284317"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "U01AI152961",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/U01AI152961"
+        }
+      ],
+      "organization": {
+        "fullName": "Johns Hopkins University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Ultra Curto (Ultra Short) TB Prevention Therapy",
+      "officialTitle": "Safety and Tolerability of Ultra-short Course Rifapentine and Isoniazid (1HP) for Prevention of Tuberculosis in HIV-Uninfected Individuals"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-03-24",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-06-10",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-06-10",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-01-07",
+      "studyFirstSubmitQcDate": "2021-01-07",
+      "studyFirstPostDateStruct": {
+        "date": "2021-01-11",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-06-04",
+      "resultsFirstSubmitQcDate": "2025-06-04",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-06-19",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-06-04",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-06-19",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Johns Hopkins University",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Institute of Allergy and Infectious Diseases (NIAID)",
+          "class": "NIH"
+        },
+        {
+          "name": "Sanofi",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "To compare treatment success (adherence and completion of treatment) and safety of 1HP with 3HP in HIV-uninfected adults and adolescents at increased risk of TB.",
+      "detailedDescription": "Tuberculosis (TB) is the leading infectious killer globally and a major cause of illness and suffering. The World Health Organization has prioritized TB preventive therapy (TPT) for people with latent TB infection (LTBI) as a key strategy for controlling the epidemic. Prevention of TB with isoniazid preventive therapy (IPT) is effective and reduces morbidity and mortality, and has been the mainstay of TB prevention for decades. But for an intervention with an excellent evidence of efficacy, global uptake has been abysmal. Completion rates for IPT when it is administered are poor (Gillespie 2008; Durovni 2010), with a large proportion of patients unable to complete treatment (McClintock 2017; Sterling 2011). While uptake is influenced by a variety of factors, a critical element has been the duration of IPT, with adherence falling sharply over time in clinical trials and practice. Shorter course regimens have a much higher completion rate and are more acceptable to patients, clinicians, and programs."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Tuberculosis"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Arm A (n=250): Experimental arm. Rifapentine 600 mg daily and isoniazid 300 mg daily for 4 weeks.\n\nArm B (n=250): Control arm. Rifapentine 900 mg and isoniazid 900 mg weekly for 12 weeks.",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 531,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Arm A: 1HP",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will receive Rifapentine 600 mg daily and isoniazid (INH) 300 mg daily for 4 weeks.",
+          "interventionNames": [
+            "Drug: Rifapentine 600 mg and INH 300 mg"
+          ]
+        },
+        {
+          "label": "Arm B: 3HP",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants will receive Rifapentine 900 mg and isoniazid 900 mg weekly for 12 weeks.",
+          "interventionNames": [
+            "Drug: Rifapentine 900 mg and INH 900 mg"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Rifapentine 600 mg and INH 300 mg",
+          "description": "Participants will receive Rifapentine 600 mg and INH 300 mg",
+          "armGroupLabels": [
+            "Arm A: 1HP"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Rifapentine 900 mg and INH 900 mg",
+          "description": "Participants will receive Rifapentine 900 mg and INH 900mg",
+          "armGroupLabels": [
+            "Arm B: 3HP"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants Who Complete Treatment With >90% Adherence",
+          "description": "To compare treatment success (completion of treatment with \\>90% adherence) of 1HP with 3HP in HIV-uninfected adults and adolescents at increased risk of TB.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Frequency of Targeted Adverse Events or Treatment Discontinuation for Side Effects",
+          "description": "Participants with targeted adverse event grade 2 or more or discontinuing treatment for any side effect.",
+          "timeFrame": "6 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Positive tuberculin skin test or interferon-gamma release assay (IGRA) test and\n* Household contact of an infectious TB case within previous 90 days, defined as sleeping at least once in a residence with a person diagnosed with pulmonary TB, or\n* Documented conversion of Tuberculin skin test (TST)/IGRA from negative to positive within 2 years\n\nExclusion Criteria:\n\n* Documented HIV infection\n* Evidence of active tuberculosis on clinical exam or chest x-ray\n* Known intolerance of any study drug\n* Treatment for active or latent TB in the past for more than 14 days\n* Known close contact to someone with INH or rifampin resistant TB\n* Active liver disease or Aspartate aminotransferase(AST)/Alanine transaminase (ALT) \\>3 times upper limit of normal (ULN)\n* Neutropenia (ANC \\<1000)\n* Peripheral neuropathy \\>Grade 1 by DAIDS Grading Table\n* Pregnant or breastfeeding. Women of childbearing potential must agree to use non-hormonal contraception during study treatment.\n* Weight \\<40 kg",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "15 Years",
+      "maximumAge": "99 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Richard Chaisson, MD",
+          "affiliation": "Johns Hopkins University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Fundacao de Medicina Tropical Doutor Heitor",
+          "city": "Manaus",
+          "state": "Amazonas",
+          "zip": "69040-000",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -3.10194,
+            "lon": -60.025
+          }
+        },
+        {
+          "facility": "NAPDOT",
+          "city": "Rio de Janeiro",
+          "state": "Rio de Janeiro",
+          "zip": "22450-221",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -22.90642,
+            "lon": -43.18223
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "531 people signed consent to be screened for eligibility. 31 people did not meet the eligibility criteria. The reasons were: Risk for Bad Outcome n=8, Active TB n=5, Withdrew Consent n=3, Pregnant n=1, Neutropenia n=2, AST/ALT \\> 3 times ULN n=8, HIV infection n= 1, Drug-Drug Interaction n=2, Past TB-TPT treatment n=1. 500 people were assigned to a treatment group in the study. 249 were Randomized to Arm A:1HP. 251 were randomized to Arm B: 3HP",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Arm A: 1HP",
+          "description": "Participants will receive Rifapentine 600 mg daily and isoniazid (INH) 300 mg daily for 4 weeks.\n\nRifapentine 600 mg and INH 300 mg: Participants will receive Rifapentine 600 mg and INH 300 mg"
+        },
+        {
+          "id": "FG001",
+          "title": "Arm B: 3HP",
+          "description": "Participants will receive Rifapentine 900 mg and isoniazid 900 mg weekly for 12 weeks.\n\nRifapentine 900 mg and INH 900 mg: Participants will receive Rifapentine 900 mg and INH 900mg"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "249"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "251"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "223"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "211"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "26"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "40"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "7"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "12"
+                }
+              ]
+            },
+            {
+              "type": "Physician Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Moved",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Index INH Resistant",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Lack of Efficacy",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "18"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Thirty one participants were not eligible and not randomized to the arms.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Arm A: 1HP",
+          "description": "Participants will receive Rifapentine 600 mg daily and isoniazid (INH) 300 mg daily for 4 weeks.\n\nRifapentine 600 mg and INH 300 mg: Participants will receive Rifapentine 600 mg and INH 300 mg"
+        },
+        {
+          "id": "BG001",
+          "title": "Arm B: 3HP",
+          "description": "Participants will receive Rifapentine 900 mg and isoniazid 900 mg weekly for 12 weeks.\n\nRifapentine 900 mg and INH 900 mg: Participants will receive Rifapentine 900 mg and INH 900mg"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "249"
+            },
+            {
+              "groupId": "BG001",
+              "value": "251"
+            },
+            {
+              "groupId": "BG002",
+              "value": "500"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "40",
+                      "lowerLimit": "15",
+                      "upperLimit": "90"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "38",
+                      "lowerLimit": "15",
+                      "upperLimit": "81"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "39",
+                      "lowerLimit": "15",
+                      "upperLimit": "90"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "calculatePct": false,
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "167"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "140"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "307"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "82"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "111"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "193"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "38"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "61"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "70"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "70"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "140"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "141"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "155"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "296"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Brazil",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "249"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "251"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "500"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants Who Complete Treatment With >90% Adherence",
+          "description": "To compare treatment success (completion of treatment with \\>90% adherence) of 1HP with 3HP in HIV-uninfected adults and adolescents at increased risk of TB.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Arm A: 1HP",
+              "description": "Participants will receive Rifapentine 600 mg daily and isoniazid (INH) 300 mg daily for 4 weeks.\n\nRifapentine 600 mg and INH 300 mg: Participants will receive Rifapentine 600 mg and INH 300 mg"
+            },
+            {
+              "id": "OG001",
+              "title": "Arm B: 3HP",
+              "description": "Participants will receive Rifapentine 900 mg and isoniazid 900 mg weekly for 12 weeks.\n\nRifapentine 900 mg and INH 900 mg: Participants will receive Rifapentine 900 mg and INH 900mg"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "249"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "251"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "223"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "211"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.07",
+              "statisticalMethod": "Chi-squared, Corrected",
+              "paramType": "Risk Difference (RD)",
+              "paramValue": "5.5",
+              "ciNumSides": "TWO_SIDED"
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Frequency of Targeted Adverse Events or Treatment Discontinuation for Side Effects",
+          "description": "Participants with targeted adverse event grade 2 or more or discontinuing treatment for any side effect.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "6 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Arm A: 1HP",
+              "description": "Participants will receive Rifapentine 600 mg daily and isoniazid (INH) 300 mg daily for 4 weeks.\n\nRifapentine 600 mg and INH 300 mg: Participants will receive Rifapentine 600 mg and INH 300 mg"
+            },
+            {
+              "id": "OG001",
+              "title": "Arm B: 3HP",
+              "description": "Participants will receive Rifapentine 900 mg and isoniazid 900 mg weekly for 12 weeks.\n\nRifapentine 900 mg and INH 900 mg: Participants will receive Rifapentine 900 mg and INH 900mg"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "249"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "251"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "40"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "26"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Up to 6 months",
+      "description": "Targeted adverse events",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Arm A: 1HP",
+          "description": "Participants will receive Rifapentine 600 mg daily and isoniazid (INH) 300 mg daily for 4 weeks.\n\nRifapentine 600 mg and INH 300 mg: Participants will receive Rifapentine 600 mg and INH 300 mg",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 249,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 249,
+          "otherNumAffected": 13,
+          "otherNumAtRisk": 249
+        },
+        {
+          "id": "EG001",
+          "title": "Arm B: 3HP",
+          "description": "Participants will receive Rifapentine 900 mg and isoniazid 900 mg weekly for 12 weeks.\n\nRifapentine 900 mg and INH 900 mg: Participants will receive Rifapentine 900 mg and INH 900mg",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 251,
+          "seriousNumAffected": 2,
+          "seriousNumAtRisk": 251,
+          "otherNumAffected": 10,
+          "otherNumAtRisk": 251
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Hospitalization",
+          "organSystem": "Surgical and medical procedures",
+          "sourceVocabulary": "Protocol",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 249
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 251
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Hepatotoxicity",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "Protocol",
+          "assessmentType": "NON_SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 13,
+              "numAffected": 13,
+              "numAtRisk": 249
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 10,
+              "numAffected": 10,
+              "numAtRisk": 251
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Maria Beatriz Kohler, Senior Research Nurse",
+        "organization": "Johns Hopkins University School of Medicine",
+        "email": "bkohler@jhmi.edu",
+        "phone": "4104048921"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-07-04",
+          "uploadDate": "2025-06-02T11:19",
+          "filename": "Prot_000.pdf",
+          "size": 922648
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2023-02-20",
+          "uploadDate": "2025-05-30T18:14",
+          "filename": "SAP_001.pdf",
+          "size": 382453
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D014376",
+          "term": "Tuberculosis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009164",
+          "term": "Mycobacterium Infections"
+        },
+        {
+          "id": "D000193",
+          "term": "Actinomycetales Infections"
+        },
+        {
+          "id": "D016908",
+          "term": "Gram-Positive Bacterial Infections"
+        },
+        {
+          "id": "D001424",
+          "term": "Bacterial Infections"
+        },
+        {
+          "id": "D001423",
+          "term": "Bacterial Infections and Mycoses"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C018421",
+          "term": "rifapentine"
+        },
+        {
+          "id": "D007538",
+          "term": "Isoniazid"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006834",
+          "term": "Hydrazines"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D007539",
+          "term": "Isonicotinic Acids"
+        },
+        {
+          "id": "D000147",
+          "term": "Acids, Heterocyclic"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D011725",
+          "term": "Pyridines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

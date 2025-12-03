@@ -1,0 +1,1432 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06019728",
+      "orgStudyIdInfo": {
+        "id": "LPS17726"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "U1111-1287-8570",
+          "type": "REGISTRY",
+          "domain": "ICTRP"
+        }
+      ],
+      "organization": {
+        "fullName": "Sanofi",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Prospective Study to Investigate Safety and Tolerability of Shorter Infusion of Fabrazyme",
+      "officialTitle": "A Study to Investigate Safety and Tolerability of Higher Infusion Rate to shORten the duraTion of FabrazymE Infusion",
+      "acronym": "SHORTEN"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "COMPLETED",
+      "startDateStruct": {
+        "date": "2023-11-10",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-10-25",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-10-25",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-08-25",
+      "studyFirstSubmitQcDate": "2023-08-30",
+      "studyFirstPostDateStruct": {
+        "date": "2023-08-31",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-10-07",
+      "resultsFirstSubmitQcDate": "2025-10-07",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-10-21",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-10-07",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-10-21",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Sanofi",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This Phase 4 study will evaluate the safety and tolerability of Fabrazyme at current approved dose with increases in the infusion rate and reduced infusion volume. This study aims to generate data to provide the guidance on how infusion rate can be safely increased and minimize the burden of the life-long treatment with Fabrazyme.",
+      "detailedDescription": "The total duration will be up to 7 months"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Fabry's Disease"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 8,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "agalsidase beta",
+          "type": "EXPERIMENTAL",
+          "description": "agalsidase beta 1 mg/kg infusion once every other week",
+          "interventionNames": [
+            "Drug: AGALSIDASE BETA (GZ419828)",
+            "Drug: Acetaminophen",
+            "Drug: Diphenhydramine",
+            "Drug: Dexamethasone",
+            "Drug: Montelukast",
+            "Drug: Loratadine",
+            "Drug: Cetirizine",
+            "Drug: Fexofenadine"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "AGALSIDASE BETA (GZ419828)",
+          "description": "Pharmaceutical form: Lyophilized powder for reconstitution Route of administration: IV infusion",
+          "armGroupLabels": [
+            "agalsidase beta"
+          ],
+          "otherNames": [
+            "Fabrazyme"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Acetaminophen",
+          "description": "Tablet or solution; Oral",
+          "armGroupLabels": [
+            "agalsidase beta"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Diphenhydramine",
+          "description": "Tablet or solution; Oral",
+          "armGroupLabels": [
+            "agalsidase beta"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Dexamethasone",
+          "description": "Tablet or solution; Oral",
+          "armGroupLabels": [
+            "agalsidase beta"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Montelukast",
+          "description": "Tablet or chewable tablet or oral granules; Oral",
+          "armGroupLabels": [
+            "agalsidase beta"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Loratadine",
+          "description": "Tablet or chewable tablet; Oral",
+          "armGroupLabels": [
+            "agalsidase beta"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Cetirizine",
+          "description": "Tablet or oral solution; Oral",
+          "armGroupLabels": [
+            "agalsidase beta"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Fexofenadine",
+          "description": "Tablet or oral suspension; Oral",
+          "armGroupLabels": [
+            "agalsidase beta"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Percent Reduction in Shortest Tolerated Infusion Duration From Pre-study Average of Recent 3 Infusions",
+          "description": "Percent reduction was with respect to the shortest tolerated infusion for the participant. The shortest infusion duration tolerated was the actual shortest duration (highest infusion rate) of a completed infusion tolerated by the participant without experiencing a second infusion associated reaction (IAR). The pre-study infusion duration was derived as the average of the duration of 3 most recent infusions the participant received prior to participating to this study. Percent reduction of infusion duration was calculated as: 100 x (average of pre-study infusion duration \\[minutes\\] - actual shortest infusion duration tolerated \\[minutes\\]) / average of pre-study infusion duration (minutes).",
+          "timeFrame": "Up to 16 weeks"
+        },
+        {
+          "measure": "Shortest Actual Tolerated Infusion Duration",
+          "description": "The shortest infusion duration tolerated was the actual shortest duration (highest infusion rate) of a completed infusion tolerated by the participant without experiencing a second IAR. IARs were events recorded as adverse event of special interest (AESI) and were defined as AEs the Investigator considered related to Fabrazyme® infusion, that occurred on same day as infusion and only after infusion had begun.",
+          "timeFrame": "Up to 16 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Participants Who Achieved the Shortest Planned Duration of Infusion Time Without Experiencing Any Infusion Associated Reaction",
+          "description": "Number of participants who achieved the shortest planned duration of infusion time without experiencing any IAR is reported. ARs were events recorded as AESI and were defined as AEs the Investigator considered related to Fabrazyme® infusion, that occurred on same day as infusion and only after infusion had begun.",
+          "timeFrame": "Up to 16 weeks"
+        },
+        {
+          "measure": "Number of Participants Who Achieved the Shortest Planned Duration of Infusion Time Without Experiencing a Second Infusion Associated Reaction",
+          "description": "Number of participants who achieved the shortest planned duration of infusion time without experiencing a second IAR is reported. ARs were events recorded as AESI and were defined as AEs the Investigator considered related to Fabrazyme® infusion, that occurred on same day as infusion and only after infusion had begun.",
+          "timeFrame": "Up to 16 weeks"
+        },
+        {
+          "measure": "Number of Participants Who Tolerated Planned Infusion Duration Shorter Than 90 Minutes Without Experiencing Any Infusion Associated Reaction",
+          "description": "Number of participants who tolerated the shortest planned duration of infusion time without experiencing any IAR is reported. ARs were events recorded as AESI and were defined as AEs the Investigator considered related to Fabrazyme® infusion, that occurred on same day as infusion and only after infusion had begun. Participants with an initial planned target duration \\<90 minutes were considered a responder if they tolerated at least 1 infusion during the study treatment period with actual duration \\<90 minutes.",
+          "timeFrame": "Up to 16 weeks"
+        },
+        {
+          "measure": "Number of Participants Who Tolerated Planned Infusion Duration Shorter Than 90 Minutes Without Experiencing a Second Infusion Associated Reaction",
+          "description": "Number of participants who tolerated the shortest planned duration of infusion time without experiencing a second IAR is reported. ARs were events recorded as AESI and were defined as AEs the Investigator considered related to Fabrazyme® infusion, that occurred on same day as infusion and only after infusion had begun. Participants with an initial planned target duration \\<90 minutes were considered a responder if they tolerated at least 1 infusion during the study treatment period with actual duration \\<90 minutes.",
+          "timeFrame": "Up to 16 weeks"
+        },
+        {
+          "measure": "Number of Participants Who Tolerated Each Planned Infusion Duration Without Experiencing Any Infusion Associated Reaction",
+          "description": "Number of participants who tolerated each planned infusion duration without experiencing any IAR is reported. ARs were events recorded as AESI and were defined as AEs the Investigator considered related to Fabrazyme® infusion, that occurred on same day as infusion and only after infusion had begun. The planned duration of infusion time was 120 minutes, 90 minutes, 60 minutes, 40 minutes, and 20 minutes.",
+          "timeFrame": "Up to 16 weeks"
+        },
+        {
+          "measure": "Number of Participants Who Tolerated Each Planned Infusion Duration Without Experiencing a Second Infusion Associated Reaction",
+          "description": "Number of participants who tolerated each planned infusion duration without experiencing a second IAR is reported. ARs were events recorded as AESI and were defined as AEs the Investigator considered related to Fabrazyme® infusion, that occurred on same day as infusion and only after infusion had begun. The planned duration of infusion time was 120 minutes, 90 minutes, 60 minutes, 40 minutes, and 20 minutes.",
+          "timeFrame": "Up to 16 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n\\- Participants with confirmed diagnosis of FD who are ≥2 and ≤65 years of age at the time of signing the informed consent form (ICF) or assent, if applicable.\n\n* Cohort 1: female participants with body weight ≥30 kg who have been treated with Fabrazyme for at least 3 months without IARs during the most recent 3 infusions.\n* Cohort 2: non-classic male participants with body weight ≥30 kg who have been treated with Fabrazyme for at least 3 months without IARs during the most recent 3 infusions.\n* Cohort 3: classic male participants with body weight ≥30 kg who have been treated with Fabrazyme for at least 3 months without IARs during the most recent 3 infusions.\n* Cohort 4: participants with body weight \\<30 kg who have been treated with Fabrazyme for at least 3 months without IARs during the most recent 3 infusions.\n\nWomen of childbearing potential must use a highly effective method of contraception through the study.\n\nExclusion Criteria:\n\n* Female participants who are pregnant or breastfeeding.\n* History of significant allergic disease or hypersensitivity to Fabrazyme or other medicinal products.\n* Contraindication to Fabrazyme or any of the premedications or rescue medications (diphenhydramine, loratadine, cetirizine, fexofenadine, acetaminophen, montelukast, dexamethasone).\n* Any other medical condition considered to make the increased infusion rate not tolerable at the Investigator's discretion.\n\nThe above information is not intended to contain all considerations relevant to a potential participation in a clinical trial.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "2 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Clinical Sciences & Operations",
+          "affiliation": "Sanofi",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "UCLA Medical Center Site Number : 1003",
+          "city": "Santa Monica",
+          "state": "California",
+          "zip": "90404",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.01949,
+            "lon": -118.49138
+          }
+        },
+        {
+          "facility": "Emory University School of Medicine Site Number : 1005",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30322-1007",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "Infusion Associates Site Number : 1001",
+          "city": "Grand Rapids",
+          "state": "Michigan",
+          "zip": "49525",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.96336,
+            "lon": -85.66809
+          }
+        },
+        {
+          "facility": "Metropolitan Hospital Center Site Number : 1004",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10021",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Lysosomal and Rare Disorders Research and Treatment Center, Inc Site Number : 1002",
+          "city": "Fairfax",
+          "state": "Virginia",
+          "zip": "22030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.84622,
+            "lon": -77.30637
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "LPS17726 Plain Language Results Summary",
+          "url": "https://sanofi.trialsummaries.com/Study/StudyDetails?id=25537&tenant=MT_SNY_9011"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Qualified researchers may request access to patient level data and related study documents including the clinical study report, study protocol with any amendments, blank case report form, statistical analysis plan, and dataset specifications. Patient level data will be anonymized and study documents will be redacted to protect the privacy of trial participants. Further details on Sanofi's data sharing criteria, eligible studies, and process for requesting access can be found at: https://vivli.org"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "A total of 8 participants were enrolled in the study. All participants received same dose in this single-group, single arm study as pre-specified in the protocol and statistical analysis plan (SAP). Note: Reason for not completed = Reason for permanent full study treatment discontinuation.",
+      "recruitmentDetails": "The study was conducted at 4 centers in United States. A total of 8 participants were screened from 10 November 2023 to 27 August 2024, of which none were screen failures.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Fabrazyme®",
+          "description": "All participants received Fabrazyme® 1 milligram per kilogram (mg/kg) every 2 weeks (Q2W) via intravenous (IV) infusion for up to 16 weeks (up to 9 infusions)."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "8"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "8"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "The Intent-to-treat (ITT) analysis set included all participants who were enrolled and allocated to study treatment.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Fabrazyme®",
+          "description": "All participants received Fabrazyme® 1 mg/kg Q2W via IV infusion for up to 16 weeks (up to 9 infusions)."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "8"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "40.0",
+                      "spread": "17.40"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Percent Reduction in Shortest Tolerated Infusion Duration From Pre-study Average of Recent 3 Infusions",
+          "description": "Percent reduction was with respect to the shortest tolerated infusion for the participant. The shortest infusion duration tolerated was the actual shortest duration (highest infusion rate) of a completed infusion tolerated by the participant without experiencing a second infusion associated reaction (IAR). The pre-study infusion duration was derived as the average of the duration of 3 most recent infusions the participant received prior to participating to this study. Percent reduction of infusion duration was calculated as: 100 x (average of pre-study infusion duration \\[minutes\\] - actual shortest infusion duration tolerated \\[minutes\\]) / average of pre-study infusion duration (minutes).",
+          "populationDescription": "The ITT analysis set included all participants who were enrolled and allocated to study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "percent",
+          "timeFrame": "Up to 16 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fabrazyme®",
+              "description": "All participants received Fabrazyme® 1 mg/kg Q2W via IV infusion for up to 16 weeks (up to 9 infusions)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "84.19",
+                      "lowerLimit": "80.56",
+                      "upperLimit": "86.32"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Shortest Actual Tolerated Infusion Duration",
+          "description": "The shortest infusion duration tolerated was the actual shortest duration (highest infusion rate) of a completed infusion tolerated by the participant without experiencing a second IAR. IARs were events recorded as adverse event of special interest (AESI) and were defined as AEs the Investigator considered related to Fabrazyme® infusion, that occurred on same day as infusion and only after infusion had begun.",
+          "populationDescription": "The ITT analysis set included all participants who were enrolled and allocated to study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "minutes",
+          "timeFrame": "Up to 16 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fabrazyme®",
+              "description": "All participants received Fabrazyme® 1 mg/kg Q2W via IV infusion for up to 16 weeks (up to 9 infusions)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "20.00",
+                      "lowerLimit": "20.00",
+                      "upperLimit": "20.00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Who Achieved the Shortest Planned Duration of Infusion Time Without Experiencing Any Infusion Associated Reaction",
+          "description": "Number of participants who achieved the shortest planned duration of infusion time without experiencing any IAR is reported. ARs were events recorded as AESI and were defined as AEs the Investigator considered related to Fabrazyme® infusion, that occurred on same day as infusion and only after infusion had begun.",
+          "populationDescription": "The ITT analysis set included all participants who were enrolled and allocated to study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 16 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fabrazyme®",
+              "description": "All participants received Fabrazyme® 1 mg/kg Q2W via IV infusion for up to 16 weeks (up to 9 infusions)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Who Achieved the Shortest Planned Duration of Infusion Time Without Experiencing a Second Infusion Associated Reaction",
+          "description": "Number of participants who achieved the shortest planned duration of infusion time without experiencing a second IAR is reported. ARs were events recorded as AESI and were defined as AEs the Investigator considered related to Fabrazyme® infusion, that occurred on same day as infusion and only after infusion had begun.",
+          "populationDescription": "The ITT analysis set included all participants who were enrolled and allocated to study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 16 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fabrazyme®",
+              "description": "All participants received Fabrazyme® 1 mg/kg Q2W via IV infusion for up to 16 weeks (up to 9 infusions)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Who Tolerated Planned Infusion Duration Shorter Than 90 Minutes Without Experiencing Any Infusion Associated Reaction",
+          "description": "Number of participants who tolerated the shortest planned duration of infusion time without experiencing any IAR is reported. ARs were events recorded as AESI and were defined as AEs the Investigator considered related to Fabrazyme® infusion, that occurred on same day as infusion and only after infusion had begun. Participants with an initial planned target duration \\<90 minutes were considered a responder if they tolerated at least 1 infusion during the study treatment period with actual duration \\<90 minutes.",
+          "populationDescription": "The ITT analysis set included all participants who were enrolled and allocated to study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 16 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fabrazyme®",
+              "description": "All participants received Fabrazyme® 1 mg/kg Q2W via IV infusion for up to 16 weeks (up to 9 infusions)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Who Tolerated Planned Infusion Duration Shorter Than 90 Minutes Without Experiencing a Second Infusion Associated Reaction",
+          "description": "Number of participants who tolerated the shortest planned duration of infusion time without experiencing a second IAR is reported. ARs were events recorded as AESI and were defined as AEs the Investigator considered related to Fabrazyme® infusion, that occurred on same day as infusion and only after infusion had begun. Participants with an initial planned target duration \\<90 minutes were considered a responder if they tolerated at least 1 infusion during the study treatment period with actual duration \\<90 minutes.",
+          "populationDescription": "The ITT analysis set included all participants who were enrolled and allocated to study treatment.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 16 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fabrazyme®",
+              "description": "All participants received Fabrazyme® 1 mg/kg Q2W via IV infusion for up to 16 weeks (up to 9 infusions)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Who Tolerated Each Planned Infusion Duration Without Experiencing Any Infusion Associated Reaction",
+          "description": "Number of participants who tolerated each planned infusion duration without experiencing any IAR is reported. ARs were events recorded as AESI and were defined as AEs the Investigator considered related to Fabrazyme® infusion, that occurred on same day as infusion and only after infusion had begun. The planned duration of infusion time was 120 minutes, 90 minutes, 60 minutes, 40 minutes, and 20 minutes.",
+          "populationDescription": "The ITT analysis set included all participants who were enrolled and allocated to study treatment. Only those participants with data collected at specified timepoints are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 16 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fabrazyme®",
+              "description": "All participants received Fabrazyme® 1 mg/kg Q2W via IV infusion for up to 16 weeks (up to 9 infusions)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "120 minutes",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "90 minutes",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "60 minutes",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "40 minutes",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "20 minutes",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Who Tolerated Each Planned Infusion Duration Without Experiencing a Second Infusion Associated Reaction",
+          "description": "Number of participants who tolerated each planned infusion duration without experiencing a second IAR is reported. ARs were events recorded as AESI and were defined as AEs the Investigator considered related to Fabrazyme® infusion, that occurred on same day as infusion and only after infusion had begun. The planned duration of infusion time was 120 minutes, 90 minutes, 60 minutes, 40 minutes, and 20 minutes.",
+          "populationDescription": "The ITT analysis set included all participants who were enrolled and allocated to study treatment. Only those participants with data collected at specified timepoints are reported.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to 16 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fabrazyme®",
+              "description": "All participants received Fabrazyme® 1 mg/kg Q2W via IV infusion for up to 16 weeks (up to 9 infusions)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "8"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "120 minutes",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "90 minutes",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "60 minutes",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "40 minutes",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "20 minutes",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Adverse events and all-cause mortality were collected from the first dose of study treatment (Day 1) up to 16 weeks",
+      "description": "Analysis was performed on the safety analysis set which included all participants who received any amount of study drug (Fabrazyme®) during study treatment period.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Fabrazyme®",
+          "description": "All participants received Fabrazyme® 1 mg/kg Q2W via IV infusion for up to 16 weeks (up to 9 infusions).",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 8,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 8,
+          "otherNumAffected": 2,
+          "otherNumAtRisk": 8
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Influenza",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "Globotriaosylsphingosine Increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDra 27.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "The Sponsor supports publication of clinical trial results but may request that investigators temporarily delay or alter publications in order to protect proprietary information. The Sponsor may also require that the results of multicenter studies be published only in their entirety and not as individual site data."
+      },
+      "pointOfContact": {
+        "title": "Trial Transparency Team",
+        "organization": "Sanofi aventis recherche & développement",
+        "email": "Contact-US@sanofi.com",
+        "phone": "800-633-1610 ext 6#"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2024-07-09",
+          "uploadDate": "2025-10-07T12:35",
+          "filename": "Prot_000.pdf",
+          "size": 1003098
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-10-22",
+          "uploadDate": "2025-10-07T12:36",
+          "filename": "SAP_001.pdf",
+          "size": 1804576
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000795",
+          "term": "Fabry Disease"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013106",
+          "term": "Sphingolipidoses"
+        },
+        {
+          "id": "D020140",
+          "term": "Lysosomal Storage Diseases, Nervous System"
+        },
+        {
+          "id": "D020739",
+          "term": "Brain Diseases, Metabolic, Inborn"
+        },
+        {
+          "id": "D001928",
+          "term": "Brain Diseases, Metabolic"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D059345",
+          "term": "Cerebral Small Vessel Diseases"
+        },
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D040181",
+          "term": "Genetic Diseases, X-Linked"
+        },
+        {
+          "id": "D030342",
+          "term": "Genetic Diseases, Inborn"
+        },
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        },
+        {
+          "id": "D008661",
+          "term": "Metabolism, Inborn Errors"
+        },
+        {
+          "id": "D008064",
+          "term": "Lipidoses"
+        },
+        {
+          "id": "D008052",
+          "term": "Lipid Metabolism, Inborn Errors"
+        },
+        {
+          "id": "D016464",
+          "term": "Lysosomal Storage Diseases"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D052439",
+          "term": "Lipid Metabolism Disorders"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C459420",
+          "term": "agalsidase beta"
+        },
+        {
+          "id": "D000082",
+          "term": "Acetaminophen"
+        },
+        {
+          "id": "D004155",
+          "term": "Diphenhydramine"
+        },
+        {
+          "id": "D003907",
+          "term": "Dexamethasone"
+        },
+        {
+          "id": "C093875",
+          "term": "montelukast"
+        },
+        {
+          "id": "D017336",
+          "term": "Loratadine"
+        },
+        {
+          "id": "D017332",
+          "term": "Cetirizine"
+        },
+        {
+          "id": "C093230",
+          "term": "fexofenadine"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000083",
+          "term": "Acetanilides"
+        },
+        {
+          "id": "D000813",
+          "term": "Anilides"
+        },
+        {
+          "id": "D000577",
+          "term": "Amides"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D000814",
+          "term": "Aniline Compounds"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D005021",
+          "term": "Ethylamines"
+        },
+        {
+          "id": "D001559",
+          "term": "Benzhydryl Compounds"
+        },
+        {
+          "id": "D001555",
+          "term": "Benzene Derivatives"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D011246",
+          "term": "Pregnadienetriols"
+        },
+        {
+          "id": "D011245",
+          "term": "Pregnadienes"
+        },
+        {
+          "id": "D011278",
+          "term": "Pregnanes"
+        },
+        {
+          "id": "D013256",
+          "term": "Steroids"
+        },
+        {
+          "id": "D000072473",
+          "term": "Fused-Ring Compounds"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D013259",
+          "term": "Steroids, Fluorinated"
+        },
+        {
+          "id": "D003533",
+          "term": "Cyproheptadine"
+        },
+        {
+          "id": "D003986",
+          "term": "Dibenzocycloheptenes"
+        },
+        {
+          "id": "D001567",
+          "term": "Benzocycloheptenes"
+        },
+        {
+          "id": "D011084",
+          "term": "Polycyclic Aromatic Hydrocarbons"
+        },
+        {
+          "id": "D010880",
+          "term": "Piperidines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D006919",
+          "term": "Hydroxyzine"
+        },
+        {
+          "id": "D010879",
+          "term": "Piperazines"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

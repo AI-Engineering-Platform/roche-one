@@ -1,0 +1,2597 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05701995",
+      "orgStudyIdInfo": {
+        "id": "IM011-237"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "U1111-1276-5158",
+          "type": "REGISTRY",
+          "domain": "WHO"
+        }
+      ],
+      "organization": {
+        "fullName": "Bristol-Myers Squibb",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Evaluate the Effect of Deucravacitinib on Quality of Life in Participants With Plaque Psoriasis in a Community Setting",
+      "officialTitle": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Effect of Deucravacitinib on Quality of Life in Participants With Plaque Psoriasis in a Community Setting",
+      "acronym": "ARTISTYK"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-08",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-01-31",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-08-23",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-05-29",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-01-16",
+      "studyFirstSubmitQcDate": "2023-01-26",
+      "studyFirstPostDateStruct": {
+        "date": "2023-01-27",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-08-01",
+      "resultsFirstSubmitQcDate": "2025-08-21",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-09-10",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-08-21",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-10",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Bristol-Myers Squibb",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to evaluate the effect of deucravacitinib on quality of life (QoL) in participants with plaque psoriasis in a community setting."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Psoriasis"
+      ],
+      "keywords": [
+        "plaque psoriasis",
+        "deucravacitinib",
+        "BMS-986165",
+        "Health related quality of life (HrQoL)",
+        "QoL (quality of life)",
+        "SOTYKTU"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 180,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Deucravacitinib",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: Deucravacitinib"
+          ]
+        },
+        {
+          "label": "Placebo then Deucravacitinib",
+          "type": "PLACEBO_COMPARATOR",
+          "interventionNames": [
+            "Drug: Deucravacitinib",
+            "Other: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Deucravacitinib",
+          "description": "Specified dose on specified days.",
+          "armGroupLabels": [
+            "Deucravacitinib",
+            "Placebo then Deucravacitinib"
+          ],
+          "otherNames": [
+            "BMS-986165",
+            "Sotyktu"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo",
+          "description": "Specified dose on specified days.",
+          "armGroupLabels": [
+            "Placebo then Deucravacitinib"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Percentage of Participants Achieving Dermatology Life Quality Index (DLQI) Score of 0 or 1 at Week 16",
+          "description": "Dermatology Life Quality Index (DLQI) is a participant-reported Quality of Life (QoL) survey which consists of 10 questions concerning symptoms and feelings, daily activities, leisure, work, school, personal relationships, and treatment during the last week. Each question is scored on a 4-point scale:\n\n0=not at all\n\n1. a little\n2. a lot\n3. very much The scores are added up to give a total score between 0 and 30. A lower total score means a better quality of life.",
+          "timeFrame": "At Week 16"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Percentage of Participants Achieving a ≥ 4-point Reduction From Baseline in Dermatology Life Quality Index (DLQI) at Week 16",
+          "description": "The Dermatology Life Quality Index (DLQI) is a simple, 10-question survey used to measure the impact of skin conditions on a patient's quality of life. It assesses how much a skin condition affects various aspects of daily life, including symptoms, feelings, daily activities, work or school, personal relationships, and treatment.\n\nThe DLQI is scored by summing the responses to its 10 questions. Each question is scored on a scale from 0 to 3:\n\n0 = Not at all\n\n1. = A little\n2. = A lot\n3. = Very much The total score ranges from 0 to 30, with higher scores indicating a greater impact on the patient's quality of life.",
+          "timeFrame": "At Week 16"
+        },
+        {
+          "measure": "Change From Baseline in Whole-body Itch Numerical Rating Scale (NRS) Score at Week 16",
+          "description": "The whole-body itch Numerical Rating Scale (NRS) is a survey that participants fill out themselves. It uses an 11-point scale from 0 to 10, where 0 means 'no itch' and 10 means 'worst itch imaginable.' Participants indicate the severity of their itching from psoriasis by selecting the number that best describes the worst level of itching they experienced in the past 24 hours. A lower score means better outcomes, indicating less severe itching.",
+          "timeFrame": "Baseline and at Week 16"
+        },
+        {
+          "measure": "Percentage of Participants With a Static Physician's Global Assessment (s-PGA) Score of 0 (Clear) or 1 (Almost Clear) With at Least a 2-point Reduction From Baseline at Week 16",
+          "description": "The Static Physician's Global Assessment (s-PGA) is a 5-point scale to evaluate the average severity of all psoriatic lesions based on redness, scaling, and thickness. The s-PGA measures psoriasis severity at a single point in time, without considering the initial condition. The scale rates the severity as clear (0), almost clear (1), mild (2), moderate (3), or severe (4). A lower score means better outcomes, indicating less severe psoriasis.",
+          "timeFrame": "At Week 16"
+        },
+        {
+          "measure": "Number of Participants With Treatment Emergent Adverse Events (AEs) From Week 0 to Week 16",
+          "description": "An adverse event (AE) is defined as any new untoward medical occurrence or worsening of a pre-existing medical condition in a clinical investigation participant administered study treatment that does not necessarily have a causal relationship with this treatment.",
+          "timeFrame": "From Week 0 through Week 16"
+        },
+        {
+          "measure": "Number of Participants With Treatment Emergent Serious Adverse Events (SAEs) From Week 0 to Week 16",
+          "description": "Serious Adverse Event (SAE) is defined as any untoward medical occurrence that, at any dose results in death, is life-threatening, and requires inpatient hospitalization or causes prolongation of existing hospitalization.",
+          "timeFrame": "From Week 0 through Week 16"
+        },
+        {
+          "measure": "Number of Participants With Laboratory Abnormalities in Potential Drug-Induced Liver Injury Tests From Week 0 to Week 16",
+          "description": "Number of participants with laboratory abnormalities in potential drug-induced liver injury tests.\n\nALT=Alanine aminotransferase AST=Aspartate aminotransferase ULN=Upper limit of normal",
+          "timeFrame": "From Week 0 through Week 16"
+        },
+        {
+          "measure": "Number of Participants With Grade 3/ Grade 4 Laboratory Abnormalities From Week 0 to Week 16",
+          "description": "Blood samples were collected to assess the abnormalities in laboratory parameters. The laboratory parameters were graded by Common Terminology Criteria for Adverse Events (CTCAE). Grade 3=Severe; Grade 4=Life-threatening.",
+          "timeFrame": "From Week 0 through Week 16"
+        },
+        {
+          "measure": "Number of Participants With Abnormalities in Vital Signs From Week 0 to Week 16",
+          "description": "Number of participants with abnormalities in vital signs including heart rate, systolic blood pressure, and diastolic blood pressure.",
+          "timeFrame": "From Week 0 through Week 16"
+        },
+        {
+          "measure": "Number of Participants With Clinically Significant Changes in Vital Signs From Week 0 to Week 16",
+          "description": "Vital Sign Measurements include: Body Temperature (C), Respiratory Rate (breaths/min), Seated Blood Pressure (mmHg) and Heart Rate (beats/min).\n\nClinically significant changes in these measurements may need medical attention as they could indicate a potential health concern.",
+          "timeFrame": "From Week 0 through Week 16"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria\n\n* Men and women diagnosed with stable plaque psoriasis for 6 months or more. Stable psoriasis is defined as no morphology changes or significant flares of disease activity in the opinion of the investigator.\n* Deemed by the investigator to be a candidate for phototherapy or systemic therapy.\n* ≥ 3% of Body Surface Area (BSA) involvement at the Screening Visit and Day 1\n* Dermatology Life Quality Index (DLQI) score \\> 5 at the Screening Visit and Day 1\n* Moderate-to-severe plaque psoriasis as defined by static Physician Global Assessment (s-PGA) ≥ 3 at the Screening Visit and Day 1\n\nExclusion Criteria:\n\nTarget Disease Exceptions:\n\n* Non-plaque psoriasis (that is, guttate, pustular, erythrodermic, palmoplantar only involvement or drug-induced psoriasis) at Screening Visit or Day 1\n\nOther protocol-defined inclusion/exclusion criteria apply.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Bristol-Myers Squibb",
+          "affiliation": "Bristol-Myers Squibb",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Local Institution - 0006",
+          "city": "Phoenix",
+          "state": "Arizona",
+          "zip": "85006",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.44838,
+            "lon": -112.07404
+          }
+        },
+        {
+          "facility": "Local Institution - 0034",
+          "city": "Scottsdale",
+          "state": "Arizona",
+          "zip": "85260",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.50921,
+            "lon": -111.89903
+          }
+        },
+        {
+          "facility": "Local Institution - 0015",
+          "city": "North Little Rock",
+          "state": "Arkansas",
+          "zip": "72117",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.76954,
+            "lon": -92.26709
+          }
+        },
+        {
+          "facility": "Local Institution - 0004",
+          "city": "Bakersfield",
+          "state": "California",
+          "zip": "93309",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.37329,
+            "lon": -119.01871
+          }
+        },
+        {
+          "facility": "Local Institution - 0009",
+          "city": "Sacramento",
+          "state": "California",
+          "zip": "95815",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.58157,
+            "lon": -121.4944
+          }
+        },
+        {
+          "facility": "Local Institution - 0022",
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92103",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.71571,
+            "lon": -117.16472
+          }
+        },
+        {
+          "facility": "Local Institution - 0030",
+          "city": "Centennial",
+          "state": "Colorado",
+          "zip": "80111",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.57916,
+            "lon": -104.87692
+          }
+        },
+        {
+          "facility": "Local Institution - 0024",
+          "city": "Washington D.C.",
+          "state": "District of Columbia",
+          "zip": "20016",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.89511,
+            "lon": -77.03637
+          }
+        },
+        {
+          "facility": "Local Institution - 0027",
+          "city": "Brandon",
+          "state": "Florida",
+          "zip": "33511",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.9378,
+            "lon": -82.28592
+          }
+        },
+        {
+          "facility": "Local Institution - 0016",
+          "city": "Coral Gables",
+          "state": "Florida",
+          "zip": "33134",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.72149,
+            "lon": -80.26838
+          }
+        },
+        {
+          "facility": "Riverchase Dermatology",
+          "city": "Pembroke Pines",
+          "state": "Florida",
+          "zip": "33028",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.00315,
+            "lon": -80.22394
+          }
+        },
+        {
+          "facility": "Local Institution - 0037",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30331",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "Local Institution - 0020",
+          "city": "Snellville",
+          "state": "Georgia",
+          "zip": "30078",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.85733,
+            "lon": -84.01991
+          }
+        },
+        {
+          "facility": "Local Institution - 0007",
+          "city": "Rolling Meadows",
+          "state": "Illinois",
+          "zip": "60008",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.08419,
+            "lon": -88.01313
+          }
+        },
+        {
+          "facility": "Local Institution - 0025",
+          "city": "Skokie",
+          "state": "Illinois",
+          "zip": "60077",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.03336,
+            "lon": -87.73339
+          }
+        },
+        {
+          "facility": "Local Institution - 0036",
+          "city": "Springfield",
+          "state": "Illinois",
+          "zip": "62703",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.80172,
+            "lon": -89.64371
+          }
+        },
+        {
+          "facility": "Local Institution - 0003",
+          "city": "Baton Rouge",
+          "state": "Louisiana",
+          "zip": "70809",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.44332,
+            "lon": -91.18747
+          }
+        },
+        {
+          "facility": "Local Institution - 0018",
+          "city": "Rockville",
+          "state": "Maryland",
+          "zip": "20850",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.084,
+            "lon": -77.15276
+          }
+        },
+        {
+          "facility": "Local Institution - 0010",
+          "city": "Auburn Hills",
+          "state": "Michigan",
+          "zip": "48326",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.68753,
+            "lon": -83.2341
+          }
+        },
+        {
+          "facility": "Local Institution - 0002",
+          "city": "Waterford",
+          "state": "Michigan",
+          "zip": "48328",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.69303,
+            "lon": -83.41181
+          }
+        },
+        {
+          "facility": "Local Institution - 0017",
+          "city": "Las Vegas",
+          "state": "Nevada",
+          "zip": "89148",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.17497,
+            "lon": -115.13722
+          }
+        },
+        {
+          "facility": "Local Institution - 0035",
+          "city": "Reno",
+          "state": "Nevada",
+          "zip": "89509",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.52963,
+            "lon": -119.8138
+          }
+        },
+        {
+          "facility": "Local Institution - 0032",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10011",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Local Institution - 0013",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10128",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Local Institution - 0001",
+          "city": "Rochester",
+          "state": "New York",
+          "zip": "14623",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.15478,
+            "lon": -77.61556
+          }
+        },
+        {
+          "facility": "Local Institution - 0005",
+          "city": "Bexley",
+          "state": "Ohio",
+          "zip": "43209",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96895,
+            "lon": -82.93768
+          }
+        },
+        {
+          "facility": "Local Institution - 0012",
+          "city": "Mayfield Heights",
+          "state": "Ohio",
+          "zip": "44124",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.51922,
+            "lon": -81.4579
+          }
+        },
+        {
+          "facility": "Local Institution - 0019",
+          "city": "Charleston",
+          "state": "South Carolina",
+          "zip": "29407",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.77632,
+            "lon": -79.93275
+          }
+        },
+        {
+          "facility": "Local Institution - 0029",
+          "city": "Cypress",
+          "state": "Texas",
+          "zip": "77433",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.96911,
+            "lon": -95.69717
+          }
+        },
+        {
+          "facility": "Local Institution - 0028",
+          "city": "Frisco",
+          "state": "Texas",
+          "zip": "75034",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.15067,
+            "lon": -96.82361
+          }
+        },
+        {
+          "facility": "Local Institution - 0008",
+          "city": "South Jordan",
+          "state": "Utah",
+          "zip": "84095",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.56217,
+            "lon": -111.92966
+          }
+        },
+        {
+          "facility": "Local Institution - 0033",
+          "city": "Springville",
+          "state": "Utah",
+          "zip": "84663",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.16523,
+            "lon": -111.61075
+          }
+        },
+        {
+          "facility": "Local Institution - 0021",
+          "city": "Bellevue",
+          "state": "Washington",
+          "zip": "98004",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 47.61038,
+            "lon": -122.20068
+          }
+        },
+        {
+          "facility": "Local Institution - 0031",
+          "city": "Mill Creek",
+          "state": "Washington",
+          "zip": "98012",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 47.8601,
+            "lon": -122.2043
+          }
+        },
+        {
+          "facility": "Local Institution - 0014",
+          "city": "Spokane",
+          "state": "Washington",
+          "zip": "99202",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 47.65966,
+            "lon": -117.42908
+          }
+        },
+        {
+          "facility": "Local Institution - 0040",
+          "city": "Caguas",
+          "zip": "00727",
+          "country": "Puerto Rico",
+          "geoPoint": {
+            "lat": 18.23412,
+            "lon": -66.0485
+          }
+        },
+        {
+          "facility": "Local Institution - 0038",
+          "city": "Carolina",
+          "zip": "00985",
+          "country": "Puerto Rico",
+          "geoPoint": {
+            "lat": 18.38078,
+            "lon": -65.95739
+          }
+        },
+        {
+          "facility": "Local Institution - 0039",
+          "city": "San Juan",
+          "zip": "00917",
+          "country": "Puerto Rico",
+          "geoPoint": {
+            "lat": 18.46633,
+            "lon": -66.10572
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "BMS Clinical Trial Information",
+          "url": "https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html"
+        },
+        {
+          "label": "BMS Clinical Trial Patient Recruiting",
+          "url": "https://www.BMSClinicalTrials.com"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "BMS will provide access to individual anonymized participant data upon request from qualified researchers, and subject to certain criteria. Additional information regarding Bristol-Myers Squibb's data sharing policy and process can be found at: https://www.bms.com/researchers-and-partners/clinical-trials-and-research/disclosure-commitment.html",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP",
+        "CSR"
+      ],
+      "timeFrame": "See Plan Description",
+      "accessCriteria": "See Plan Description",
+      "url": "https://www.bms.com/researchers-and-partners/clinical-trials-and-research/disclosure-commitment.html"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "A total of 180 participants were randomized and of these 178 received at least one dose of study treatment.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "BMS-986165 6mg QD",
+          "description": "Participants received deucravacitinib at a dose of 6 mg daily (QD)"
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo",
+          "description": "Participants received placebo daily (QD)"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Pre-Treatment",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "comment": "Started = Full Analysis Set/Randomized",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "120"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "60"
+                }
+              ]
+            },
+            {
+              "type": "Full Analysis Set Sub-population",
+              "comment": "All participants who were randomized to any treatment group with baseline static physician global assessment (s-PGA) \\>=3",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "107"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "49"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "comment": "Completed = Treated",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "119"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "59"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Randomization Error",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Treatment",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "comment": "Started = Treated",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "119"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "59"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "104"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "49"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "15"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "10"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "8"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Other Reason",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Death",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Physician Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "BMS-986165 6mg QD",
+          "description": "Participants received deucravacitinib at a dose of 6 mg daily (QD)"
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo",
+          "description": "Participants received placebo daily (QD)"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "120"
+            },
+            {
+              "groupId": "BG001",
+              "value": "60"
+            },
+            {
+              "groupId": "BG002",
+              "value": "180"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "49.1",
+                      "spread": "14.92"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "47.5",
+                      "spread": "13.55"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "48.6",
+                      "spread": "14.46"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "48"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "68"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "72"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "40"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "112"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "56"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "122"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "American Indian or Alaska Native",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Asian",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Black or African American",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Native Hawaiian or Other Pacific Islander",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "White",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "108"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "50"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "158"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Other",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Unknown or Not Reported",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Participants Achieving Dermatology Life Quality Index (DLQI) Score of 0 or 1 at Week 16",
+          "description": "Dermatology Life Quality Index (DLQI) is a participant-reported Quality of Life (QoL) survey which consists of 10 questions concerning symptoms and feelings, daily activities, leisure, work, school, personal relationships, and treatment during the last week. Each question is scored on a 4-point scale:\n\n0=not at all\n\n1. a little\n2. a lot\n3. very much The scores are added up to give a total score between 0 and 30. A lower total score means a better quality of life.",
+          "populationDescription": "Full Analysis Set: All Randomized Participants Full Analysis Set Sub-Population: All Randomized Participants with baseline static Physician Global Assessment ≥3 (s-PGA≥3)",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of Participants",
+          "timeFrame": "At Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "BMS-986165 6mg QD",
+              "description": "Participants received deucravacitinib at a dose of 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants received placebo daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "120"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "60"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Full Analysis Set",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "120"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "60"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "33.3",
+                      "lowerLimit": "25.0",
+                      "upperLimit": "42.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.7",
+                      "lowerLimit": "1.8",
+                      "upperLimit": "16.2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Full Analysis Set Sub-population",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "107"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "49"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "32.7",
+                      "lowerLimit": "24.0",
+                      "upperLimit": "42.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.1",
+                      "lowerLimit": "1.3",
+                      "upperLimit": "16.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Full Analysis Set",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0001",
+              "statisticalMethod": "Stratified Cochran-Mantel-Haenszel (CMH)",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "7.7",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "2.5",
+              "ciUpperLimit": "23.6"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Full Analysis Set Sub-population",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0003",
+              "statisticalMethod": "Stratified Cochran-Mantel-Haenszel (CMH)",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "8.5",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "2.4",
+              "ciUpperLimit": "30.4"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants Achieving a ≥ 4-point Reduction From Baseline in Dermatology Life Quality Index (DLQI) at Week 16",
+          "description": "The Dermatology Life Quality Index (DLQI) is a simple, 10-question survey used to measure the impact of skin conditions on a patient's quality of life. It assesses how much a skin condition affects various aspects of daily life, including symptoms, feelings, daily activities, work or school, personal relationships, and treatment.\n\nThe DLQI is scored by summing the responses to its 10 questions. Each question is scored on a scale from 0 to 3:\n\n0 = Not at all\n\n1. = A little\n2. = A lot\n3. = Very much The total score ranges from 0 to 30, with higher scores indicating a greater impact on the patient's quality of life.",
+          "populationDescription": "Full Analysis Set: All Randomized Participants Full Analysis Set Sub-Population: All Randomized Participants with baseline static Physician Global Assessment ≥3 (s-PGA≥3)",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of Participants",
+          "timeFrame": "At Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "BMS-986165 6mg QD",
+              "description": "Participants received deucravacitinib at a dose of 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants received placebo daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "120"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "60"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Full Analysis Set",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "120"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "60"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72.5",
+                      "lowerLimit": "63.6",
+                      "upperLimit": "80.3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "53.3",
+                      "lowerLimit": "40.0",
+                      "upperLimit": "66.3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Full Analysis Set Sub-population",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "107"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "49"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "72.9",
+                      "lowerLimit": "63.4",
+                      "upperLimit": "81.0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "53.1",
+                      "lowerLimit": "38.3",
+                      "upperLimit": "67.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Full Analysis Set",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0107",
+              "statisticalMethod": "Stratified Cochran-Mantel-Haenszel (CMH)",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "2.3",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "1.2",
+              "ciUpperLimit": "4.4"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Full Analysis Set Sub-population",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0175",
+              "statisticalMethod": "Stratified Cochran-Mantel-Haenszel (CMH)",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "2.3",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "1.2",
+              "ciUpperLimit": "4.7"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Whole-body Itch Numerical Rating Scale (NRS) Score at Week 16",
+          "description": "The whole-body itch Numerical Rating Scale (NRS) is a survey that participants fill out themselves. It uses an 11-point scale from 0 to 10, where 0 means 'no itch' and 10 means 'worst itch imaginable.' Participants indicate the severity of their itching from psoriasis by selecting the number that best describes the worst level of itching they experienced in the past 24 hours. A lower score means better outcomes, indicating less severe itching.",
+          "populationDescription": "Full Analysis Set: Randomized Participants Full Analysis Set Sub-Population: Randomized Participants with baseline static Physician Global Assessment ≥3 (s-PGA≥3)",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Score on a Scale",
+          "timeFrame": "Baseline and at Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "BMS-986165 6mg QD",
+              "description": "Participants received deucravacitinib at a dose of 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants received placebo daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "120"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "59"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Full Analysis Set",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "120"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "59"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-3.8",
+                      "spread": "2.86"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-1.8",
+                      "spread": "2.78"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Full Analysis Set Sub-population",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "107"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "49"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-3.8",
+                      "spread": "2.73"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-1.8",
+                      "spread": "2.70"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Full Analysis Set",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Covariance model",
+              "paramType": "Adjusted Mean Difference",
+              "paramValue": "-2.0",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-2.9",
+              "ciUpperLimit": "-1.2"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Full Analysis Set Sub-population",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Covariance model",
+              "paramType": "Adjusted Mean Difference",
+              "paramValue": "-2.2",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-3.0",
+              "ciUpperLimit": "-1.3"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants With a Static Physician's Global Assessment (s-PGA) Score of 0 (Clear) or 1 (Almost Clear) With at Least a 2-point Reduction From Baseline at Week 16",
+          "description": "The Static Physician's Global Assessment (s-PGA) is a 5-point scale to evaluate the average severity of all psoriatic lesions based on redness, scaling, and thickness. The s-PGA measures psoriasis severity at a single point in time, without considering the initial condition. The scale rates the severity as clear (0), almost clear (1), mild (2), moderate (3), or severe (4). A lower score means better outcomes, indicating less severe psoriasis.",
+          "populationDescription": "All randomized participants with baseline static Physician Global Assessment ≥3 (s-PGA≥3)",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "Percentage of Participants",
+          "timeFrame": "At Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "BMS-986165 6mg QD",
+              "description": "Participants received deucravacitinib at a dose of 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants received placebo daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "107"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "49"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "35.5",
+                      "lowerLimit": "26.5",
+                      "upperLimit": "45.4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "8.2",
+                      "lowerLimit": "2.3",
+                      "upperLimit": "19.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Full Analysis Set Sub-population",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0004",
+              "statisticalMethod": "Stratified Cochran-Mantel-Haenszel (CMH)",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "5.9",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "2.0",
+              "ciUpperLimit": "17.4"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Treatment Emergent Adverse Events (AEs) From Week 0 to Week 16",
+          "description": "An adverse event (AE) is defined as any new untoward medical occurrence or worsening of a pre-existing medical condition in a clinical investigation participant administered study treatment that does not necessarily have a causal relationship with this treatment.",
+          "populationDescription": "As-treated Population",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From Week 0 through Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "BMS-986165 6mg QD",
+              "description": "Participants received deucravacitinib at a dose of 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants received placebo daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "119"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "59"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "63"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "25"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Treatment Emergent Serious Adverse Events (SAEs) From Week 0 to Week 16",
+          "description": "Serious Adverse Event (SAE) is defined as any untoward medical occurrence that, at any dose results in death, is life-threatening, and requires inpatient hospitalization or causes prolongation of existing hospitalization.",
+          "populationDescription": "As-treated Population",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From Week 0 through Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "BMS-986165 6mg QD",
+              "description": "Participants received deucravacitinib at a dose of 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants received placebo daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "119"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "59"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Laboratory Abnormalities in Potential Drug-Induced Liver Injury Tests From Week 0 to Week 16",
+          "description": "Number of participants with laboratory abnormalities in potential drug-induced liver injury tests.\n\nALT=Alanine aminotransferase AST=Aspartate aminotransferase ULN=Upper limit of normal",
+          "populationDescription": "As-treated Population",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From Week 0 through Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "BMS-986165 6mg QD",
+              "description": "Participants received deucravacitinib at a dose of 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants received placebo daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "119"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "59"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "ALT or AST > 3 X ULN",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "ALT or AST > 5 X ULN",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Total Bilirubin > 2 X ULN",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "ALT or AST > 3 X ULN and Total Bilirubin > 2 X ULN on the same day",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Grade 3/ Grade 4 Laboratory Abnormalities From Week 0 to Week 16",
+          "description": "Blood samples were collected to assess the abnormalities in laboratory parameters. The laboratory parameters were graded by Common Terminology Criteria for Adverse Events (CTCAE). Grade 3=Severe; Grade 4=Life-threatening.",
+          "populationDescription": "As-treated Population",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From Week 0 through Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "BMS-986165 6mg QD",
+              "description": "Participants received deucravacitinib at a dose of 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants received placebo daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "119"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "59"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Hematology: Leukocytes (Grade 3)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Hematology: Platelets (Grade 4)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Chemistry: Potassium (Grade 3)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Abnormalities in Vital Signs From Week 0 to Week 16",
+          "description": "Number of participants with abnormalities in vital signs including heart rate, systolic blood pressure, and diastolic blood pressure.",
+          "populationDescription": "As-treated Population",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From Week 0 through Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "BMS-986165 6mg QD",
+              "description": "Participants received deucravacitinib at a dose of 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants received placebo daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "118"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "58"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Heart Rate (Beats/Min): Value > 100 And Change From Baseline > 30",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Heart Rate (Beats/Min): Value < 55 And Change From Baseline < -15",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Heart Rate (Beats/Min): Not Reported",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Systolic Blood Pressure (Mmhg): Value > 140 And Change From Baseline > 20",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Systolic Blood Pressure (Mmhg): Value < 90 And Change From Baseline < -20",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Systolic Blood Pressure (Mmhg): Not Reported",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Diastolic Blood Pressure (Mmhg): Value > 90 And Change From Baseline > 10",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Diastolic Blood Pressure (Mmhg): Value < 55 And Change From Baseline < -10",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Diastolic Blood Pressure (Mmhg): Not Reported",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Clinically Significant Changes in Vital Signs From Week 0 to Week 16",
+          "description": "Vital Sign Measurements include: Body Temperature (C), Respiratory Rate (breaths/min), Seated Blood Pressure (mmHg) and Heart Rate (beats/min).\n\nClinically significant changes in these measurements may need medical attention as they could indicate a potential health concern.",
+          "populationDescription": "As-treated Population",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From Week 0 through Week 16",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "BMS-986165 6mg QD",
+              "description": "Participants received deucravacitinib at a dose of 6 mg daily (QD)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants received placebo daily (QD)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "119"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "59"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Participants were assessed for All-cause mortality, Serious adverse events and Other adverse events for up to approximately 20 months.",
+      "description": "All-cause mortality, serious adverse events (SAEs) and other adverse events were assessed in all-treated participants.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "BMS-986165 6mg QD",
+          "description": "Participants received deucravacitinib at a dose of 6 mg daily (QD)",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 119,
+          "seriousNumAffected": 3,
+          "seriousNumAtRisk": 119,
+          "otherNumAffected": 32,
+          "otherNumAtRisk": 119
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo",
+          "description": "Participants received placebo daily (QD)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 59,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 59,
+          "otherNumAffected": 12,
+          "otherNumAtRisk": 59
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Angina pectoris",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 119
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 59
+            }
+          ]
+        },
+        {
+          "term": "Vertigo positional",
+          "organSystem": "Ear and labyrinth disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 119
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 59
+            }
+          ]
+        },
+        {
+          "term": "Death",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 119
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 59
+            }
+          ]
+        },
+        {
+          "term": "Pyelonephritis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 119
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 59
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "COVID-19",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 7,
+              "numAtRisk": 119
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 59
+            }
+          ]
+        },
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 119
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 59
+            }
+          ]
+        },
+        {
+          "term": "Sinusitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 119
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 59
+            }
+          ]
+        },
+        {
+          "term": "Upper respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 119
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 59
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 119
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 59
+            }
+          ]
+        },
+        {
+          "term": "Nasal congestion",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 119
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 59
+            }
+          ]
+        },
+        {
+          "term": "Acne",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 27.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 9,
+              "numAtRisk": 119
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 59
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "Bristol-Myers Squibb Co. agreements with investigators vary; constant is our right to embargo communications regarding trial results prior to public release for a period ≤60 days from submittal for review. We will not prohibit investigators from publishing, but will prohibit the disclosure of previously undisclosed confidential information other than study results, and request postponement of single-center publications until after disclosure of the clinical trial's primary publication."
+      },
+      "pointOfContact": {
+        "title": "Bristol-Myers Squibb Study Director",
+        "organization": "Bristol-Myers Squibb",
+        "email": "Clinical.Trials@bms.com",
+        "phone": "Please email"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-05-25",
+          "uploadDate": "2025-08-01T11:05",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 2706481
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-08-19",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D011565",
+          "term": "Psoriasis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017444",
+          "term": "Skin Diseases, Papulosquamous"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000628674",
+          "term": "deucravacitinib"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

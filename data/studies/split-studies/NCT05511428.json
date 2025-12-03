@@ -1,0 +1,3725 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05511428",
+      "orgStudyIdInfo": {
+        "id": "22C.210"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "JT 19521",
+          "type": "OTHER",
+          "domain": "JeffTrial Number"
+        }
+      ],
+      "organization": {
+        "fullName": "Thomas Jefferson University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Home Based Daratumumab Administration for Patients With Multiple Myeloma",
+      "officialTitle": "Open Label Single Arm Study to Assess the Implementation of Home Based Daratumumab Administration in Patients Being Treated for Multiple Myeloma"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-11",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-11-08",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-05-22",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-05-22",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-08-19",
+      "studyFirstSubmitQcDate": "2022-08-19",
+      "studyFirstPostDateStruct": {
+        "date": "2022-08-23",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-08-18",
+      "resultsFirstSubmitQcDate": "2025-11-07",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-11-21",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-11-07",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-11-21",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Thomas Jefferson University",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Janssen Scientific Affairs, LLC",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This clinical trial tests the treatment effect of home based daratumumab administration in treating patients with multiple myeloma. Darzalex Faspro is a combination of two drugs (daratumumab and hyaluronidase) used to treat adults with multiple myeloma. Daratumumab is in a class of medications called monoclonal antibodies. It works by helping the body to slow or stop the growth of cancer cells. Hyaluronidase-fihj is an endoglycosidase. It helps to keep daratumumab in the body longer so that the medication will have a greater effect. Standard medical care requires Darzalex-Faspro treatment be administered during visits to the cancer center. Receiving medication in the home setting, may decrease cost and burden of care in patients with multiple myeloma.",
+      "detailedDescription": "PRIMARY OBJECTIVE:\n\nI. Evaluate treatment burden (using the Cancer Treatment Satisfaction Questionnaire \\[CTSQ\\]).\n\nSECONDARY OBJECTIVES:\n\nI. Determine adherence to home delivery of daratumumab and hyaluronidase-fihj (darzalex faspro).\n\nII. Evaluate quality of life (using European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire \\[EORTC QLQ-30\\]) based on site of care (home versus \\[vs.\\] infusion center).\n\nIII. Evaluate financial burden (using the COST survey) based on site of care (home vs. infusion center).\n\nIV. Evaluate Safety of home administration of darzalex-faspro. V. Evaluate barriers to home administration.\n\nEXPLORATORY OBJECTIVES:\n\nI. Evaluate patient perceptions of home administration of anti-neoplastic therapy.\n\nII. Evaluate opportunity cost based on site of care (home vs. infusion center) (using the Oncology Opportunity Cost Assessment Tool \\[OOCAT\\] survey).\n\nOUTLINE:\n\nPatients receive daratumumab and hyaluronidase-fihj subcutaneously (SC) over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nAfter completion of study treatment, patients are followed up at 2 months."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Plasma Cell Myeloma"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 20,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Treatment (daratumumab and hyaluronidase-fihj)",
+          "type": "EXPERIMENTAL",
+          "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.",
+          "interventionNames": [
+            "Drug: Daratumumab and Hyaluronidase-fihj",
+            "Other: Questionnaire Administration",
+            "Other: Quality-of-Life Assessment",
+            "Other: Interview"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Daratumumab and Hyaluronidase-fihj",
+          "description": "Given SC",
+          "armGroupLabels": [
+            "Treatment (daratumumab and hyaluronidase-fihj)"
+          ],
+          "otherNames": [
+            "DARA Co-formulated with rHuPH20",
+            "DARA/rHuPH20",
+            "Daratumumab + rHuPH20",
+            "Daratumumab with rHuPH20",
+            "Daratumumab-rHuPH20",
+            "Daratumumab/Hyaluronidase-fihj",
+            "Daratumumab/rHuPH20 Co-formulation",
+            "Darzalex Faspro",
+            "Darzalex/rHuPH20",
+            "HuMax-CD38-rHuPH20",
+            "Recombinant Human Hyaluronidase Mixed with Daratumumab"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Questionnaire Administration",
+          "description": "Ancillary studies",
+          "armGroupLabels": [
+            "Treatment (daratumumab and hyaluronidase-fihj)"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Quality-of-Life Assessment",
+          "description": "Ancillary studies",
+          "armGroupLabels": [
+            "Treatment (daratumumab and hyaluronidase-fihj)"
+          ],
+          "otherNames": [
+            "Quality of Life Assessment"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Interview",
+          "description": "Ancillary studies",
+          "armGroupLabels": [
+            "Treatment (daratumumab and hyaluronidase-fihj)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 1",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "timeFrame": "At Visit 1,Baseline"
+        },
+        {
+          "measure": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 2",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "timeFrame": "At Visit 2, Day29"
+        },
+        {
+          "measure": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 3",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "timeFrame": "At Visit 3, Day 57"
+        },
+        {
+          "measure": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 4",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "timeFrame": "At Visit 4, Day 85"
+        },
+        {
+          "measure": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 5",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "timeFrame": "At Visit 5, Day 113"
+        },
+        {
+          "measure": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 6",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "timeFrame": "At Visit 6, Day 141"
+        },
+        {
+          "measure": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 7",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "timeFrame": "At Visit 7, Day 169"
+        },
+        {
+          "measure": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 8",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "timeFrame": "At Visit 8, Day 197"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Participants With Medication Adherence in Home Setting During Cycle 3",
+          "description": "Adherence is defined as completing administration of medication in the home setting during cycles 3-6. Adherence will be measured for each dose given and failure would occur if the participant needs to go to the infusion center for administration for whatever reason. Based on previous studies of home based administration adherence rates over 75% would be needed to meet criteria for feasibility. The adherence at the home setting cycles will be analyzed in repeated measures logistic regression model with a random effect of patient and the fixed effect of the delivery mode (home vs. infusion center).",
+          "timeFrame": "At Visit 3,Day 57"
+        },
+        {
+          "measure": "Number of Participants With Medication Adherence in Home Setting During Cycle 4",
+          "description": "Adherence is defined as completing administration of medication in the home setting during cycles 3-6. Adherence will be measured for each dose given and failure would occur if the participant needs to go to the infusion center for administration for whatever reason. Based on previous studies of home based administration adherence rates over 75% would be needed to meet criteria for feasibility. The adherence at the home setting cycles will be analyzed in repeated measures logistic regression model with a random effect of patient and the fixed effect of the delivery mode (home vs. infusion center).",
+          "timeFrame": "At Visit 4,Day 85"
+        },
+        {
+          "measure": "Number of Participants With Medication Adherence in Home Setting During Cycle 5",
+          "description": "Adherence is defined as completing administration of medication in the home setting during cycles 3-6. Adherence will be measured for each dose given and failure would occur if the participant needs to go to the infusion center for administration for whatever reason. Based on previous studies of home based administration adherence rates over 75% would be needed to meet criteria for feasibility. The adherence at the home setting cycles will be analyzed in repeated measures logistic regression model with a random effect of patient and the fixed effect of the delivery mode (home vs. infusion center).",
+          "timeFrame": "At Visit 5,Day 113"
+        },
+        {
+          "measure": "Number of Participants With Medication Adherence in Home Setting During Cycle 6",
+          "description": "Adherence is defined as completing administration of medication in the home setting during cycles 3-6. Adherence will be measured for each dose given and failure would occur if the participant needs to go to the infusion center for administration for whatever reason. Based on previous studies of home based administration adherence rates over 75% would be needed to meet criteria for feasibility. The adherence at the home setting cycles will be analyzed in repeated measures logistic regression model with a random effect of patient and the fixed effect of the delivery mode (home vs. infusion center).",
+          "timeFrame": "At Visit 6,Day 141"
+        },
+        {
+          "measure": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 1",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "timeFrame": "At Visit 1, Baseline"
+        },
+        {
+          "measure": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 2",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "timeFrame": "At Visit 2, Day 29"
+        },
+        {
+          "measure": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 3",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "timeFrame": "At Visit 3, Day 57"
+        },
+        {
+          "measure": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 4",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "timeFrame": "At Visit 4, Day 85"
+        },
+        {
+          "measure": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 5",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "timeFrame": "At Visit 5, Day 113"
+        },
+        {
+          "measure": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 6",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "timeFrame": "At Visit 6, Day 141"
+        },
+        {
+          "measure": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 7",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "timeFrame": "At Visit 7, Day 169"
+        },
+        {
+          "measure": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 8",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "timeFrame": "At Visit 8, Day 197"
+        },
+        {
+          "measure": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "timeFrame": "At Visit 1, Baseline"
+        },
+        {
+          "measure": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "timeFrame": "At Visit 2, Day 29"
+        },
+        {
+          "measure": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "timeFrame": "At Visit 3, Day 57"
+        },
+        {
+          "measure": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "timeFrame": "At Visit 4, Day 85"
+        },
+        {
+          "measure": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "timeFrame": "At Visit 5, Day 113"
+        },
+        {
+          "measure": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "timeFrame": "At Visit 6, Day 141"
+        },
+        {
+          "measure": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "timeFrame": "At Visit 7, Day 169"
+        },
+        {
+          "measure": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "timeFrame": "At Visit 8, Day 197"
+        },
+        {
+          "measure": "Number of Adverse Events During Home Administration",
+          "description": "Safety will be evaluated through collection of adverse events. Total number of adverse events occurring more than 1% of the time that occured during cycle 3-6, when Darzalex-Faspro was administered at home.",
+          "timeFrame": "Cycle 3 through Cycle 6, days 57-169"
+        },
+        {
+          "measure": "Number of Adverse Events During Infusion Center Administration",
+          "description": "Safety will be evaluated through collection of adverse events. Total number of adverse events that occurred more than 1% of the time during cycles 1, 2, 7, and 8 when Darzalex-Faspro was administered at the infusion center.",
+          "timeFrame": "Cycle 1, Cycle 2, Cycle 7, and Cycle 8, days 1-57 and 169-197"
+        },
+        {
+          "measure": "Number of Patients Reporting Barriers to Home Administration At Cycle 3",
+          "description": "Barriers to receiving home administration were assessed using binary (yes/no) questionnaire administered at Cycle 3. Participants were asked whether they experienced any barriers to home infusion, including delays in treatment related to delivery of medication, arrival time of the infusion nurse, issues related to storage of medication, issues related to administration of the medication. The outcome reflects the total number of participants who responded, \"yes\" to any barriers to home based therapy, based on binary (yes/no) questionnaire.",
+          "timeFrame": "At Visit 3, Day 57"
+        },
+        {
+          "measure": "Number of Patients Reporting Barriers to Home Administration At Cycle 4",
+          "description": "Barriers to receiving home administration were assessed using binary (yes/no) questionnaire administered at Cycle 4. Participants were asked whether they experienced any barriers to home infusion, including delays in treatment related to delivery of medication, arrival time of the infusion nurse, issues related to storage of medication, issues related to administration of the medication. The outcome reflects the total number of participants who responded, \"yes\" to any barriers to home based therapy, based on binary (yes/no) questionnaire.",
+          "timeFrame": "At Visit 4, Day 85"
+        },
+        {
+          "measure": "Number of Patients Reporting Barriers to Home Administration At Cycle 5",
+          "description": "Barriers to receiving home administration were assessed using binary (yes/no) questionnaire administered at Cycle 5. Participants were asked whether they experienced any barriers to home infusion, including delays in treatment related to delivery of medication, arrival time of the infusion nurse, issues related to storage of medication, issues related to administration of the medication. The outcome reflects the total number of participants who responded, \"yes\" to any barriers to home based therapy, based on binary (yes/no) questionnaire.",
+          "timeFrame": "At Visit 5, Day 113"
+        },
+        {
+          "measure": "Number of Patients Reporting Barriers to Home Administration At Cycle 6",
+          "description": "Barriers to receiving home administration were assessed using binary (yes/no) questionnaire administered at Cycle 6. Participants were asked whether they experienced any barriers to home infusion, including delays in treatment related to delivery of medication, arrival time of the infusion nurse, issues related to storage of medication, issues related to administration of the medication. The outcome reflects the total number of participants who responded, \"yes\" to any barriers to home based therapy, based on binary (yes/no) questionnaire.",
+          "timeFrame": "At Visit 6, Day 141"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Patient Perceptions of Home Based Anti-neoplastic Therapy",
+          "description": "Patient perceptions of home based anti-neoplastic therapy will be measured through semi-structured interviews.",
+          "timeFrame": "Cycle 3 through Cycle 6, days 57-169"
+        },
+        {
+          "measure": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "timeFrame": "At Visit 1, Baseline"
+        },
+        {
+          "measure": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "timeFrame": "At Visit 2, Day 29"
+        },
+        {
+          "measure": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "timeFrame": "At Visit 3, Day 57"
+        },
+        {
+          "measure": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "timeFrame": "At Visit 4, Day 85"
+        },
+        {
+          "measure": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "timeFrame": "At Visit 5, Day 113"
+        },
+        {
+          "measure": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "timeFrame": "At Visit 6, Day 141"
+        },
+        {
+          "measure": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "timeFrame": "At Visit 7, Day 169"
+        },
+        {
+          "measure": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "timeFrame": "At Visit 8, Day 197"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Able to provide signed and dated informed consent form\n* Willing to comply with all study procedures and be available for the duration of the study\n* Male or female, aged greater than 18 years of age\n* Has a diagnosis of Multiple Myeloma\n* Is on the monthly phase of daratumumab (either intravenous \\[IV\\] or subcutaneous \\[SubQ\\]) based regimen (every 4 weeks) (either monotherapy or in combination with oral agents)\n* Is willing to receive daratumumab subcutaneous injections\n* Lives within the range of Jefferson Home Infusion Services\n* Patients are willing to allow home infusion company visit them and administer Darzalex-Faspro in the home\n* Women of reproductive potential must use highly effective contraception\n* Men of reproductive potential must use highly effective contraception\n* Absolute neutrophil count (ANC) \\> 1,000\n* Platelet count \\> 50,000\n* Aspartate aminotransferase (AST) / alanine transaminase (ALT) \\< 2.5 times upper limit of normal (ULN)\n* Bilirubin \\< 2 times ULN\n* Creatinine clearance (CrCl) \\>= 20 mL/min for single agent subcutaneous (SC) daratumumab. For combination studies: with lenalidomide \\>= 30 mL/min\n* English speaking\n\nExclusion Criteria:\n\n* Receiving daratumumab for an indication other than multiple myeloma\n* Receiving daratumumab in combination with other IV or subcutaneous therapy\n* Pregnancy or lactation\n* Known allergic reactions to components of the study product(s)\n* Uncontrolled human immunodeficiency virus (HIV)\n* Seropositive for hepatitis B (defined by a positive test for hepatitis B surface antigen \\[HBsAg\\]) who are not on hepatitis B prophylaxis. Subjects with resolved infection (ie, subjects who are HBsAg negative but positive for antibodies to hepatitis B core antigen \\[anti-HBc\\] and/or antibodies to hepatitis B surface antigen \\[anti-HBs\\]) must be screened using real-time polymerase chain reaction (PCR) measurement of hepatitis B virus (HBV) DNA levels. Those who are PCR positive and not on Hep B prophylaxis will be excluded. EXCEPTION: Subjects with serologic findings suggestive of HBV vaccination (anti-HBs positivity as the only serologic marker) AND a known history of prior HBV vaccination, do not need to be tested for HBV deoxyribonucleic acid (DNA) by PCR\n* Patients with reactivation of hepatitis B will be excluded\n* Seropositive for hepatitis C (except in the setting of a sustained virologic response \\[SVR\\], defined as a viremia at least 12 weeks after completion of antiviral therapy)\n* Chronic obstructive pulmonary disease (COPD) with a forced expiratory volume in 1 second (FEV1) \\< 50% of predicted normal. Note that FEV1 testing is required for participants suspected of having COPD and participants must be excluded if FEV1 is \\< 50% of predicted normal\n* Moderate or severe persistent asthma within the past 2 years, or uncontrolled asthma of any classification. Note that participants who currently have controlled intermittent asthma or controlled mild persistent asthma are allowed to participate\n* Clinically significant cardiac disease, including:\n\n  * Myocardial infarction within 6 months before randomization, or unstable or uncontrolled disease/condition related to or affection cardiac function (e.g., unstable angina, congestive heart failure, New York Heart Association Class III-IV)\n  * Uncontrolled cardiac arrhythmia\n  * Screening 12-lead electrocardiogram (ECG) showing a baseline QT interval as corrected by Fridericia's formula \\> 470 msec\n* Non-English Speaking",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Adam R Binder, MD",
+          "affiliation": "Thomas Jefferson University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Sidney Kimmel Cancer Center at Thomas Jefferson University",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19107",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95238,
+            "lon": -75.16362
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+          "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "18"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Treatment (Daratumumab and Hyaluronidase-fihj)",
+          "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "20"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 1",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the CTSQ at each time point. As a result, only the 19 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 1,Baseline",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "87.2",
+                      "spread": "10.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 2",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the CTSQ at each time point. As a result, only the 19 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 2, Day29",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "87.4",
+                      "spread": "7.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 3",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the CTSQ at each time point. As a result, only the 18 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 3, Day 57",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "18"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "89.3",
+                      "spread": "10.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 4",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the CTSQ at each time point. As a result, only the 19 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 4, Day 85",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "86.1",
+                      "spread": "10.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 5",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the CTSQ at each time point. As a result, only the 19 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 5, Day 113",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "88.2",
+                      "spread": "9.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 6",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the CTSQ at each time point. As a result, only the 18 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 6, Day 141",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "18"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "85.7",
+                      "spread": "14.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 7",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the CTSQ at each time point. As a result, only the 16 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 7, Day 169",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "16"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "89.7",
+                      "spread": "11.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Treatment Satisfaction Will be Measured Using the SWT Score From the Cancer Treatment Satisfaction Questionnaire (CTSQ) - Cycle 8",
+          "description": "Treatment satisfaction was assessed using the Satisfaction with Therapy (SWT) subscale of the Cancer Treatment Satisfaction Questionnaire (CTSQ). The Cancer Therapy Satisfaction Questionnaire (CTSQ) measures a patient's satisfaction with cancer treatment across several domains. The SWT score ranges from 0 to 100, where a higher score represents a better outcome, indicating greater satisfaction or fewer issues. Results are represented as the mean SWT score and the standard deviation (SD) at each specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the CTSQ at each time point. As a result, only the 17 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 8, Day 197",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "90.1",
+                      "spread": "12.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Medication Adherence in Home Setting During Cycle 3",
+          "description": "Adherence is defined as completing administration of medication in the home setting during cycles 3-6. Adherence will be measured for each dose given and failure would occur if the participant needs to go to the infusion center for administration for whatever reason. Based on previous studies of home based administration adherence rates over 75% would be needed to meet criteria for feasibility. The adherence at the home setting cycles will be analyzed in repeated measures logistic regression model with a random effect of patient and the fixed effect of the delivery mode (home vs. infusion center).",
+          "populationDescription": "Participants who received at least one dose in the home setting during cycle 3.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At Visit 3,Day 57",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Medication Adherence in Home Setting During Cycle 4",
+          "description": "Adherence is defined as completing administration of medication in the home setting during cycles 3-6. Adherence will be measured for each dose given and failure would occur if the participant needs to go to the infusion center for administration for whatever reason. Based on previous studies of home based administration adherence rates over 75% would be needed to meet criteria for feasibility. The adherence at the home setting cycles will be analyzed in repeated measures logistic regression model with a random effect of patient and the fixed effect of the delivery mode (home vs. infusion center).",
+          "populationDescription": "Participants who received at least one dose in the home setting during cycle 4.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At Visit 4,Day 85",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Medication Adherence in Home Setting During Cycle 5",
+          "description": "Adherence is defined as completing administration of medication in the home setting during cycles 3-6. Adherence will be measured for each dose given and failure would occur if the participant needs to go to the infusion center for administration for whatever reason. Based on previous studies of home based administration adherence rates over 75% would be needed to meet criteria for feasibility. The adherence at the home setting cycles will be analyzed in repeated measures logistic regression model with a random effect of patient and the fixed effect of the delivery mode (home vs. infusion center).",
+          "populationDescription": "Participants who received at least one dose in the home setting during cycle 5.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At Visit 5,Day 113",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Medication Adherence in Home Setting During Cycle 6",
+          "description": "Adherence is defined as completing administration of medication in the home setting during cycles 3-6. Adherence will be measured for each dose given and failure would occur if the participant needs to go to the infusion center for administration for whatever reason. Based on previous studies of home based administration adherence rates over 75% would be needed to meet criteria for feasibility. The adherence at the home setting cycles will be analyzed in repeated measures logistic regression model with a random effect of patient and the fixed effect of the delivery mode (home vs. infusion center).",
+          "populationDescription": "Participants who received at least one dose in the home setting during cycle 6.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At Visit 6,Day 141",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 1",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 1, Baseline",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "20"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64.2",
+                      "spread": "21.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 2",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the EORTC QLQ-30 at each time point. As a result, only the 19 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 2, Day 29",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "69.3",
+                      "spread": "17.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 3",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the EORTC QLQ-30 at each time point. As a result, only the 18 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 3, Day 57",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "18"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64.4",
+                      "spread": "15.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 4",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the EORTC QLQ-30 at each time point. As a result, only the 19 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 4, Day 85",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65.8",
+                      "spread": "19.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 5",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the EORTC QLQ-30 at each time point. As a result, only the 19 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 5, Day 113",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "57.5",
+                      "spread": "18.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 6",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the EORTC QLQ-30 at each time point. As a result, only the 17 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 6, Day 141",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "69.1",
+                      "spread": "20.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 7",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the EORTC QLQ-30 at each time point. As a result, only the 16 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 7, Day 169",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "16"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "69.3",
+                      "spread": "18.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Global Health Status/Quality of Life Score (EORTC QLQ-30) At Cycle 8",
+          "description": "Global Health Status was assessed using the Global Health Status/QoL subscale of the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-30). Scores range from 0-100, with higher scores indicating better global health status and quality of life. Results represent the mean Global Health Status/QoL score and standard deviation (SD) for each arm at the specified cycle.",
+          "populationDescription": "Although 20 participants were enrolled in the study, not all participants completed the EORTC QLQ-30 at each time point. As a result, only the 17 participants who provided complete and analyzable responses were included in the analysis for this outcome.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-100)",
+          "timeFrame": "At Visit 8, Day 197",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "62.3",
+                      "spread": "18.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-44)",
+          "timeFrame": "At Visit 1, Baseline",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "27.0",
+                      "spread": "7.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-44)",
+          "timeFrame": "At Visit 2, Day 29",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "28.5",
+                      "spread": "9.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-44)",
+          "timeFrame": "At Visit 3, Day 57",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "18"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "24.8",
+                      "spread": "9.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-44)",
+          "timeFrame": "At Visit 4, Day 85",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "28",
+                      "spread": "9.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-44)",
+          "timeFrame": "At Visit 5, Day 113",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "26.8",
+                      "spread": "10.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-44)",
+          "timeFrame": "At Visit 6, Day 141",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "26.6",
+                      "spread": "10.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-44)",
+          "timeFrame": "At Visit 7, Day 169",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "16"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "24.7",
+                      "spread": "9.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Financial Toxicity",
+          "description": "Financial toxicity will be measured using the COST survey. FACIT-COST (v2) score (range: 0-44). A lower score indicates higher financial toxicity, while a higher score implies better financial well-being.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale (0-44)",
+          "timeFrame": "At Visit 8, Day 197",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "27.7",
+                      "spread": "9.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Adverse Events During Home Administration",
+          "description": "Safety will be evaluated through collection of adverse events. Total number of adverse events occurring more than 1% of the time that occured during cycle 3-6, when Darzalex-Faspro was administered at home.",
+          "populationDescription": "All participants who received Darzalex-Faspro during specified cycles.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "adverse events",
+          "timeFrame": "Cycle 3 through Cycle 6, days 57-169",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "69"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Adverse Events During Infusion Center Administration",
+          "description": "Safety will be evaluated through collection of adverse events. Total number of adverse events that occurred more than 1% of the time during cycles 1, 2, 7, and 8 when Darzalex-Faspro was administered at the infusion center.",
+          "populationDescription": "All participants who received Darzalex-Faspro during specified cycles.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "adverse events",
+          "timeFrame": "Cycle 1, Cycle 2, Cycle 7, and Cycle 8, days 1-57 and 169-197",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients Reporting Barriers to Home Administration At Cycle 3",
+          "description": "Barriers to receiving home administration were assessed using binary (yes/no) questionnaire administered at Cycle 3. Participants were asked whether they experienced any barriers to home infusion, including delays in treatment related to delivery of medication, arrival time of the infusion nurse, issues related to storage of medication, issues related to administration of the medication. The outcome reflects the total number of participants who responded, \"yes\" to any barriers to home based therapy, based on binary (yes/no) questionnaire.",
+          "populationDescription": "All participants who received Darzalex-Faspro in the home setting during cycles 3-6.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At Visit 3, Day 57",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients Reporting Barriers to Home Administration At Cycle 4",
+          "description": "Barriers to receiving home administration were assessed using binary (yes/no) questionnaire administered at Cycle 4. Participants were asked whether they experienced any barriers to home infusion, including delays in treatment related to delivery of medication, arrival time of the infusion nurse, issues related to storage of medication, issues related to administration of the medication. The outcome reflects the total number of participants who responded, \"yes\" to any barriers to home based therapy, based on binary (yes/no) questionnaire.",
+          "populationDescription": "All participants who received Darzalex-Faspro in the home setting during cycles 3-6.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At Visit 4, Day 85",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients Reporting Barriers to Home Administration At Cycle 5",
+          "description": "Barriers to receiving home administration were assessed using binary (yes/no) questionnaire administered at Cycle 5. Participants were asked whether they experienced any barriers to home infusion, including delays in treatment related to delivery of medication, arrival time of the infusion nurse, issues related to storage of medication, issues related to administration of the medication. The outcome reflects the total number of participants who responded, \"yes\" to any barriers to home based therapy, based on binary (yes/no) questionnaire.",
+          "populationDescription": "All participants who received Darzalex-Faspro in the home setting during cycles 3-6.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At Visit 5, Day 113",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients Reporting Barriers to Home Administration At Cycle 6",
+          "description": "Barriers to receiving home administration were assessed using binary (yes/no) questionnaire administered at Cycle 6. Participants were asked whether they experienced any barriers to home infusion, including delays in treatment related to delivery of medication, arrival time of the infusion nurse, issues related to storage of medication, issues related to administration of the medication. The outcome reflects the total number of participants who responded, \"yes\" to any barriers to home based therapy, based on binary (yes/no) questionnaire.",
+          "populationDescription": "All participants who received Darzalex-Faspro in the home setting during cycles 3-6. No barriers were identified.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At Visit 6, Day 141",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Patient Perceptions of Home Based Anti-neoplastic Therapy",
+          "description": "Patient perceptions of home based anti-neoplastic therapy will be measured through semi-structured interviews.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Cycle 3 through Cycle 6, days 57-169",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "19"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Positive : Familiarity",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Positive : Overall Comfort",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Positive : Ability to Rest After Treatment",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Positive : More Time in the Day for Work/Other Activities",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Positive : Eliminated Travel Inconveniences",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Positive : Acceptability of Home Blood Draws",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Positive : Satisfaction with Home Infusion Staff",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Negative : Wait Times",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "populationDescription": "Surveys were collected using the Oncology Opportunity Cost Assessment Tool (OOCAT) during the home administration period. However, the data could not be analyzed due to incorrectly completed responses. As a result, no summary statistics or conclusions could be drawn from the opportunity cost data.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "At Visit 1, Baseline",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "populationDescription": "Surveys were collected using the Oncology Opportunity Cost Assessment Tool (OOCAT) during the home administration period. However, the data could not be analyzed due to incorrectly completed responses. As a result, no summary statistics or conclusions could be drawn from the opportunity cost data.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "At Visit 2, Day 29",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "populationDescription": "Surveys were collected using the Oncology Opportunity Cost Assessment Tool (OOCAT) during the home administration period. However, the data could not be analyzed due to incorrectly completed responses. As a result, no summary statistics or conclusions could be drawn from the opportunity cost data.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "At Visit 3, Day 57",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "populationDescription": "Surveys were collected using the Oncology Opportunity Cost Assessment Tool (OOCAT) during the home administration period. However, the data could not be analyzed due to incorrectly completed responses. As a result, no summary statistics or conclusions could be drawn from the opportunity cost data.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "At Visit 4, Day 85",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "populationDescription": "Surveys were collected using the Oncology Opportunity Cost Assessment Tool (OOCAT) during the home administration period. However, the data could not be analyzed due to incorrectly completed responses. As a result, no summary statistics or conclusions could be drawn from the opportunity cost data.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "At Visit 5, Day 113",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "populationDescription": "Surveys were collected using the Oncology Opportunity Cost Assessment Tool (OOCAT) during the home administration period. However, the data could not be analyzed due to incorrectly completed responses. As a result, no summary statistics or conclusions could be drawn from the opportunity cost data.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "At Visit 6, Day 141",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "populationDescription": "Surveys were collected using the Oncology Opportunity Cost Assessment Tool (OOCAT) during the home administration period. However, the data could not be analyzed due to incorrectly completed responses. As a result, no summary statistics or conclusions could be drawn from the opportunity cost data.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "At Visit 7, Day 169",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Opportunity Cost",
+          "description": "Opportunity cost will be measured through the Oncology Opportunity Cost Assessment Tool (OOCAT) survey.",
+          "populationDescription": "Surveys were collected using the Oncology Opportunity Cost Assessment Tool (OOCAT) during the home administration period. However, the data could not be analyzed due to incorrectly completed responses. As a result, no summary statistics or conclusions could be drawn from the opportunity cost data.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "At Visit 8, Day 197",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+              "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "The PI will follow adverse events with start dates occurring any time after informed consent is obtained until 7 (for non-serious AEs) or 30 days (for SAEs) after the last day of study participation, an average of 8 months. At each study visit, the investigator (or designee) will inquire about the occurrence of AE/SAEs since the last visit. Events will be followed for outcome information until resolution or stabilization.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Treatment (daratumumab and hyaluronidase-fihj)",
+          "description": "Patients receive daratumumab and hyaluronidase-fihj SC over 3-5 minutes in the infusion center on day 1 of cycles 1, 2, 7, and 8 and at home on day 1 of cycles 3, 4, 5, and 6. Cycles repeat every 28 days for 8 cycles in the absence of disease progression or unacceptable toxicity.\n\nDaratumumab and Hyaluronidase-fihj: Given SC\n\nQuestionnaire Administration: Ancillary studies\n\nQuality-of-Life Assessment: Ancillary studies\n\nInterview: Ancillary studies",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 20,
+          "seriousNumAffected": 3,
+          "seriousNumAtRisk": 20,
+          "otherNumAffected": 18,
+          "otherNumAtRisk": 20
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Lung infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Sepsis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "stomach pain",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Allergic rhinitis",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Anorexia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Arthralgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Arthritis",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Back Pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 3,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Bone Pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Cough",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 3,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Dehydration",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Dental carriers",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Diarrhea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 8,
+              "numAffected": 6,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Dry Skin",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Dyspepsia",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Dyspnea",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Dysuria",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Ear Pain",
+          "organSystem": "Ear and labyrinth disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Edema- limbs",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Epistaxis",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Erectile dysfunction",
+          "organSystem": "Reproductive system and breast disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Fall",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Fatigue",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 9,
+              "numAffected": 8,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Fever",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Flue like symptoms",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Fracture",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "gastritis",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Gastroesophageal reflux disease",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Gastrointestinal disorders- other",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "blood in vomit",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Hiccups",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Hyperglycemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Hypokalemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "infections and infestations- other",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "vertebral osteomyelitis discitis with epidural abscess",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "infusion related reaction (zometa)",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Injection site reaction",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Lung infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Metabolism and nutrition disorders- other",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Vitamin B-12 deficiency",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "mucositis- oral",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "muscle cramp",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "muscle weakness- lower limbs",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "myalgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Nasal congestion",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Neck Pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Neoplasms benign, malignant and unspecified- other",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Benign prostatic hyperplasia",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Neoplasms benign, malignant and unspecified- other",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "bladder mass",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "non-cardiac chest pain",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Oral pain (pain in lower jaw)",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "pain in extremity",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 9,
+              "numAffected": 5,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Paresthesia",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Gastrointestinal disorders - Other, specify",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "Teeth grinding",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Peripheral sensory neuropathy",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Postnasal drip",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Pruritus",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Rash Maculopapular",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "rectal ulcer",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "sinusitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Skin and subcutaneous disorders- other",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "rash over leg, seems like bruising from seam of pants",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Skin and subcutaneous disorders- other",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "rash, drug eruption",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "Skin and subcutaneous disorders- other",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "bilateral atopic dermatitis of the ear",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "skin hyperpigmentation",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "skin infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "stomach pain",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "syncope",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "upper respiratory infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "urinary frequency",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "urinary tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "vascular disorders- other",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "notes": "abnormal vision, floaters in the left eye, thinning of blood vessels",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "viremia",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "vision decreased",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 20
+            }
+          ]
+        },
+        {
+          "term": "wheezing",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "CTCAE (5.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 20
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Adam Binder, MD",
+        "organization": "Thomas Jefferson University",
+        "email": "Adam.binder@jefferson.edu",
+        "phone": "215-955-8874"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-01-03",
+          "uploadDate": "2025-08-07T18:07",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 1082853
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-09-10",
+            "type": "ESTIMATED"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D009101",
+          "term": "Multiple Myeloma"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D054219",
+          "term": "Neoplasms, Plasma Cell"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D020141",
+          "term": "Hemostatic Disorders"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D010265",
+          "term": "Paraproteinemias"
+        },
+        {
+          "id": "D001796",
+          "term": "Blood Protein Disorders"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D006474",
+          "term": "Hemorrhagic Disorders"
+        },
+        {
+          "id": "D008232",
+          "term": "Lymphoproliferative Disorders"
+        },
+        {
+          "id": "D007160",
+          "term": "Immunoproliferative Disorders"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C556306",
+          "term": "daratumumab"
+        },
+        {
+          "id": "D007407",
+          "term": "Interviews as Topic"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003625",
+          "term": "Data Collection"
+        },
+        {
+          "id": "D004812",
+          "term": "Epidemiologic Methods"
+        },
+        {
+          "id": "D008919",
+          "term": "Investigative Techniques"
+        },
+        {
+          "id": "D017531",
+          "term": "Health Care Evaluation Mechanisms"
+        },
+        {
+          "id": "D011787",
+          "term": "Quality of Health Care"
+        },
+        {
+          "id": "D017530",
+          "term": "Health Care Quality, Access, and Evaluation"
+        },
+        {
+          "id": "D011634",
+          "term": "Public Health"
+        },
+        {
+          "id": "D004778",
+          "term": "Environment and Public Health"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

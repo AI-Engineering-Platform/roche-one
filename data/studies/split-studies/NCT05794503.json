@@ -1,0 +1,733 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05794503",
+      "orgStudyIdInfo": {
+        "id": "STU-2022-1201"
+      },
+      "organization": {
+        "fullName": "University of Texas Southwestern Medical Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "Postoperative Urinary Retention After Reversal of Neuromuscular Block by Neostigmine Versus Sugammadex",
+      "officialTitle": "Postoperative Urinary Retention After Reversal of Neuromuscular Block by Neostigmine Versus Sugammadex in Patients Undergoing Laparoscopic Cholecystectomy: A Randomized Controlled Trial"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-09-11",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-06-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-06-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-03-20",
+      "studyFirstSubmitQcDate": "2023-03-20",
+      "studyFirstPostDateStruct": {
+        "date": "2023-04-03",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-07-19",
+      "resultsFirstSubmitQcDate": "2024-09-30",
+      "resultsFirstPostDateStruct": {
+        "date": "2024-10-09",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-09-30",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-10-09",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Tiffany B Moon",
+        "investigatorTitle": "Associate Professor",
+        "investigatorAffiliation": "University of Texas Southwestern Medical Center"
+      },
+      "leadSponsor": {
+        "name": "University of Texas Southwestern Medical Center",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This study is intended to be a single-site, prospective, randomized, controlled study that intends to enroll a total of 230 patients undergoing laparoscopic cholecystectomy at Parkland Hospital. Patients will be randomized to receive either neostigmine or sugammadex for reversal of rocuronium-induced neuromuscular blockade. A standardized anesthetic protocol that is usual and customary for the type of operation the patient is having will be provided to the anesthesia teams of enrolled subjects. The remainder of the anesthetic care of the subject will not deviate from the standard of care. To account for protocol deviations and patient dropout, up to 250 randomization envelopes will be made and enrollment will continue until there are 230 completed enrollments.",
+      "detailedDescription": "Objective:\n\nTo determine the incidence of postoperative urinary retention after reversal of rocuronium-induced neuromuscular blockade by neostigmine versus sugammadex in patients undergoing laparoscopic cholecystectomy.\n\nHypothesis:\n\nSubjects who are reversed with sugammadex will have less postoperative urinary retention compared to subjects who are reversed with neostigmine."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Urinary Retention Postoperative",
+        "Laparoscopic Cholecystectomy",
+        "Neuromuscular Blockade",
+        "Sugammadex",
+        "Neostigmine",
+        "Neuromuscular Blocking Agents",
+        "Physiological Effects of Drugs"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Single site, randomized, controlled",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "maskingDescription": "Blinded",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 235,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Neostigmine",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "One type of Neuromuscular Blockade Reversal Drug",
+          "interventionNames": [
+            "Drug: Neostigmine"
+          ]
+        },
+        {
+          "label": "Sugammadex",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "One type of Neuromuscular Blockade Reversal Drug",
+          "interventionNames": [
+            "Drug: Sugammadex"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Neostigmine",
+          "description": "Maintenance neuromuscular blockade with boluses of rocuronium. For reversal, neostigmine.",
+          "armGroupLabels": [
+            "Neostigmine"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Sugammadex",
+          "description": "Maintenance neuromuscular blockade with boluses of rocuronium. For reversal, sugammadex",
+          "armGroupLabels": [
+            "Sugammadex"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants With Postoperative Urinary Retention (POUR) of Sugammadex and Neostigmine Groups",
+          "description": "Measure pre- and post-void bladder volumes, void volume, and the time to void after operation.\n\nThe count of participants with Postoperative Urinary Retention (POUR) of Sugammadex and Neostigmine Groups is being reported.\n\nPOUR will be defined as:\n\n1. Inability to spontaneously urinate and a bladder volume ≥ 300 mL\n2. Postvoid residual \\> 150 mL\n3. Need for insertion of Foley catheter or straight catheter",
+          "timeFrame": "In the post-operative anesthesia care unit, bladder volumes and time to void were measured, assessed up to 24 hours or patient discharge."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* 18-80 years old\n* Undergoing laparoscopic cholecystectomy\n* Anticipated surgical duration \\<2 hours\n* ASA physical status classification 1-3\n* Willing and able to consent in English or Spanish\n* No personal history of neuromuscular disease\n\nExclusion Criteria:\n\n* Preoperative urinary catheter\n* History of problems with urination\n* Current use of anticholinergic medications (e.g., antihistamines, phenothiazines, antidepressants, antipsychotics)\n* Current UTI or urogenital problem (incontinence, known bladder retention, prostate hypertrophy)\n* Planned intraoperative insertion of a urinary catheter\n* ESRD (GRF \\<30 mL/min)\n* ESLD (AST or ALT \\> 3x reference range)\n* Planned postoperative intubation/ventilation or admission to ICU\n* Allergy to sugammadex, neostigmine, glycopyrrolate, or rocuronium\n* Pregnant or nursing women\n* \"Stat\" (emergent) cases\n* Known or suspected neurological condition (e.g., Alzheimer's, h/o of stroke, multiple sclerosis, Parkinson's)\n* Patients on toremifene (a selective estrogen receptor modulator)\n* Women on oral contraceptives who do not wish to use a non-hormonal method of contraception for 7 days following surgery",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Tiffany Moon, MD",
+          "affiliation": "UT Southwestern Medical Center",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "UT Southwestern Medical Center",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75390-9068",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.78306,
+            "lon": -96.80667
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Neostigmine",
+          "description": "One type of Neuromuscular Blockade Reversal Drug\n\nNeostigmine: Maintenance neuromuscular blockade with boluses of rocuronium. For reversal, neostigmine."
+        },
+        {
+          "id": "FG001",
+          "title": "Sugammadex",
+          "description": "One type of Neuromuscular Blockade Reversal Drug\n\nSugammadex: Maintenance neuromuscular blockade with boluses of rocuronium. For reversal, sugammadex"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "117"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "118"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "112"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "118"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Operation Cancelled",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Received Neostigmine + Sugammadex",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Protocol Violation",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Neostigmine",
+          "description": "One type of Neuromuscular Blockade Reversal Drug\n\nNeostigmine: Maintenance neuromuscular blockade with boluses of rocuronium. For reversal, neostigmine."
+        },
+        {
+          "id": "BG001",
+          "title": "Sugammadex",
+          "description": "One type of Neuromuscular Blockade Reversal Drug\n\nSugammadex: Maintenance neuromuscular blockade with boluses of rocuronium. For reversal, sugammadex"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "112"
+            },
+            {
+              "groupId": "BG001",
+              "value": "118"
+            },
+            {
+              "groupId": "BG002",
+              "value": "230"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "106"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "106"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "212"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "87"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "89"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "176"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "54"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "103"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "99"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "202"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "28"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "112"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "118"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "230"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Postoperative Urinary Retention (POUR) of Sugammadex and Neostigmine Groups",
+          "description": "Measure pre- and post-void bladder volumes, void volume, and the time to void after operation.\n\nThe count of participants with Postoperative Urinary Retention (POUR) of Sugammadex and Neostigmine Groups is being reported.\n\nPOUR will be defined as:\n\n1. Inability to spontaneously urinate and a bladder volume ≥ 300 mL\n2. Postvoid residual \\> 150 mL\n3. Need for insertion of Foley catheter or straight catheter",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "In the post-operative anesthesia care unit, bladder volumes and time to void were measured, assessed up to 24 hours or patient discharge.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Neostigmine",
+              "description": "One type of Neuromuscular Blockade Reversal Drug\n\nNeostigmine: Maintenance neuromuscular blockade with boluses of rocuronium. For reversal, neostigmine."
+            },
+            {
+              "id": "OG001",
+              "title": "Sugammadex",
+              "description": "One type of Neuromuscular Blockade Reversal Drug\n\nSugammadex: Maintenance neuromuscular blockade with boluses of rocuronium. For reversal, sugammadex"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "112"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "118"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Up to post operative day 30",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Neostigmine",
+          "description": "One type of Neuromuscular Blockade Reversal Drug\n\nNeostigmine: Maintenance neuromuscular blockade with boluses of rocuronium. For reversal, neostigmine.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 112,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 112,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 112
+        },
+        {
+          "id": "EG001",
+          "title": "Sugammadex",
+          "description": "One type of Neuromuscular Blockade Reversal Drug\n\nSugammadex: Maintenance neuromuscular blockade with boluses of rocuronium. For reversal, sugammadex",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 118,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 118,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 118
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Tiffany Moon, MD",
+        "organization": "UT Southwestern Medical Center",
+        "email": "tiffany.moon@utsouthwestern.edu",
+        "phone": "(214) 648-6400"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-08-05",
+          "uploadDate": "2024-09-30T10:45",
+          "filename": "Prot_SAP_001.pdf",
+          "size": 627119
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2024-08-14",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D009388",
+          "term": "Neostigmine"
+        },
+        {
+          "id": "D000077122",
+          "term": "Sugammadex"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D050338",
+          "term": "Phenylammonium Compounds"
+        },
+        {
+          "id": "D000644",
+          "term": "Quaternary Ammonium Compounds"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D009861",
+          "term": "Onium Compounds"
+        },
+        {
+          "id": "D047408",
+          "term": "gamma-Cyclodextrins"
+        },
+        {
+          "id": "D003505",
+          "term": "Cyclodextrins"
+        },
+        {
+          "id": "D047028",
+          "term": "Macrocyclic Compounds"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D003912",
+          "term": "Dextrins"
+        },
+        {
+          "id": "D013213",
+          "term": "Starch"
+        },
+        {
+          "id": "D005936",
+          "term": "Glucans"
+        },
+        {
+          "id": "D011134",
+          "term": "Polysaccharides"
+        },
+        {
+          "id": "D002241",
+          "term": "Carbohydrates"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

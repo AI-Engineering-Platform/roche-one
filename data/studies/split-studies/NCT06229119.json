@@ -1,0 +1,557 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06229119",
+      "orgStudyIdInfo": {
+        "id": "CEP 23-003"
+      },
+      "organization": {
+        "fullName": "Carolina Eyecare Physicians, LLC",
+        "class": "OTHER"
+      },
+      "briefTitle": "Vault Evaluation After ICL Implantation",
+      "officialTitle": "Vault Evaluation After Implantation of an Implantable Collamer Lens"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-01-29",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-08-23",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-08-23",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-01-19",
+      "studyFirstSubmitQcDate": "2024-01-19",
+      "studyFirstPostDateStruct": {
+        "date": "2024-01-29",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-01-23",
+      "resultsFirstSubmitQcDate": "2025-02-25",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-03-04",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-02-25",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-03-04",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Carolina Eyecare Physicians, LLC",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Science in Vision",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": true,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to evaluate the lens vault after implantation of an implantable collamer lens (ICL). The ICL is designed to be implanted in front of the eye, without removing the natural lens. Because of this, it is also known as a phakic IOL. The ICL has already been approved by the U.S. Food and Drug Administration (FDA) to treat mid to high degrees of refractive errors such nearsightedness (also called myopia) with or without astigmatism. Once the artificial lens is implanted, a space between the ICL and the crystalline lens is created, which is called vault.",
+      "detailedDescription": "The ICL will be implanted in both eyes of study subjects. Diagnostic instrumentation will be used to measure the vault between the ICL and the crystalline lens."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Nearsightedness"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "interventionModelDescription": "All subjects were implanted with the EVO ICL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 20,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "ICL",
+          "type": "OTHER",
+          "description": "ICL implantation",
+          "interventionNames": [
+            "Device: Implantable Collamer Lens"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Implantable Collamer Lens",
+          "description": "The EVO ICL lens is intended to be placed entirely within the posterior chamber directly behind the iris and in front of the anterior capsule of the human crystalline lens. When correctly positioned, the EVO ICL lens functions as a refractive element to optically reduce moderate to high myopia with or without astigmatism.",
+          "armGroupLabels": [
+            "ICL"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Mean Difference Between Predicted and Actual Central Vault at 1-month After ICL Implantation",
+          "description": "Difference between the predicted vault at the preoperative visit and the actual vault measured at the 1-month visit",
+          "timeFrame": "1-month"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Gender: Males and Females.\n* Age: 21 to 45 years of age\n* Willing and able to provide written informed consent for participation in the study\n* Willing and able to comply with scheduled visits and other study procedures.\n* Scheduled to undergo ICL implantation in both eyes within 1 to 30 days between surgeries.\n* Subjects who require an ICL power in the range of -3.00 to -15.00 D.\n\nExclusion Criteria:\n\n* Patients who do not qualify for an ICL according to the Direction For Use (DFU)\n* Unstable or worsening myopia\n* Use of any systemic or topical drug known to interfere with visual performance.\n* Irregular astigmatism.\n* History of retinal detachment.\n* Pseudoexfoliation syndrome or any other condition that has the potential to weaken the zonules.\n* Pigment dispersion\n* Previous intraocular surgery.\n* Previous refractive surgery.\n* Previous keratoplasty\n* Pupil abnormalities\n* Any clinically significant, serious or severe medical or psychiatric condition that may increase the risk associated with study participation or may interfere with the interpretation of study results.\n* Participation in (or current participation) any ophthalmic investigational drug or ophthalmic device trial within the previous 30 days prior to the start date of this trial.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "21 Years",
+      "maximumAge": "45 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Kerry Solomon, MD",
+          "affiliation": "Carolina Eyecare Physicians",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Helga Sandoval",
+          "city": "Mt. Pleasant",
+          "state": "South Carolina",
+          "zip": "29464",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.79407,
+            "lon": -79.86259
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Enrollment was expected to be 33 per the protocol, but enrollment proved difficult. 21 subjects were screened, with one screen failure. Twenty subjects started and completed the study.",
+      "typeUnitsAnalyzed": "Eyes",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "ICL Implantation Group",
+          "description": "ICL implantation\n\nImplantable Collamer Lens: The EVO ICL lens is intended to be placed entirely within the posterior chamber directly behind the iris and in front of the anterior capsule of the human crystalline lens. When correctly positioned, the EVO ICL lens functions as a refractive element to optically reduce moderate to high myopia with or without astigmatism."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20",
+                  "numUnits": "40"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20",
+                  "numUnits": "40"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "ICL Implantation Group",
+          "description": "ICL implantation\n\nImplantable Collamer Lens: The EVO ICL lens is intended to be placed entirely within the posterior chamber directly behind the iris and in front of the anterior capsule of the human crystalline lens. When correctly positioned, the EVO ICL lens functions as a refractive element to optically reduce moderate to high myopia with or without astigmatism."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "20"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "32.5",
+                      "spread": "5.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Mean Difference Between Predicted and Actual Central Vault at 1-month After ICL Implantation",
+          "description": "Difference between the predicted vault at the preoperative visit and the actual vault measured at the 1-month visit",
+          "populationDescription": "Patients with ICL placed horizontally were included in the analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Milimeters",
+          "timeFrame": "1-month",
+          "typeUnitsAnalyzed": "eyes",
+          "denomUnitsSelected": "eyes",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "ICL Implantation Group",
+              "description": "ICL implantation\n\nImplantable Collamer Lens: The EVO ICL lens is intended to be placed entirely within the posterior chamber directly behind the iris and in front of the anterior capsule of the human crystalline lens. When correctly positioned, the EVO ICL lens functions as a refractive element to optically reduce moderate to high myopia with or without astigmatism."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "15"
+                }
+              ]
+            },
+            {
+              "units": "eyes",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "30"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.170",
+                      "spread": "0.137"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "1 month",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "ICL Implantation Group",
+          "description": "ICL implantation\n\nImplantable Collamer Lens: The EVO ICL lens is intended to be placed entirely within the posterior chamber directly behind the iris and in front of the anterior capsule of the human crystalline lens. When correctly positioned, the EVO ICL lens functions as a refractive element to optically reduce moderate to high myopia with or without astigmatism.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 20,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 20,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 20
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Director of Clinical Research",
+        "organization": "Carolina Eyecare Physicians, LLC",
+        "email": "hsandoval@cepmd.com",
+        "phone": "8438813937"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2023-12-19",
+          "uploadDate": "2025-01-23T14:53",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 233535
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-02-12",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D009216",
+          "term": "Myopia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012030",
+          "term": "Refractive Errors"
+        },
+        {
+          "id": "D005128",
+          "term": "Eye Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

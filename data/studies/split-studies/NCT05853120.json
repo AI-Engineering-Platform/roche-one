@@ -1,0 +1,1205 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05853120",
+      "orgStudyIdInfo": {
+        "id": "STUDY00005552"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "75D30122C14484",
+          "type": "OTHER_GRANT",
+          "domain": "Centers for Disease Control and Prevention"
+        }
+      ],
+      "organization": {
+        "fullName": "Emory University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Doxy-Post-exposure Prophylaxis",
+      "officialTitle": "Doxy-PEP: Dose-Ranging Study of Persons Receiving Doxycycline",
+      "acronym": "DOXY-PEP"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-05-31",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-09-25",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-12-24",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-05-02",
+      "studyFirstSubmitQcDate": "2023-05-02",
+      "studyFirstPostDateStruct": {
+        "date": "2023-05-10",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-08-20",
+      "resultsFirstSubmitQcDate": "2025-09-09",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-09-11",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-09-09",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-11",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Colleen Kelley",
+        "investigatorTitle": "Associate Professor",
+        "investigatorAffiliation": "Emory University"
+      },
+      "leadSponsor": {
+        "name": "Emory University",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Centers for Disease Control and Prevention",
+          "class": "FED"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The goal of this project is to collect data regarding the ability of various oral doses of doxycycline to penetrate mucosal tissues in men and women to inform the combination of doxycycline with antiretrovirals (ARVs) for the development of single-dose event-driven multipurpose prevention strategies to protect against HIV and sexually transmitted infections (STIs).\n\nThis study is of importance in the field of research because it allows the exploration of new dosing strategies that would permit a single event-driven oral dose of medications that could provide protection from HIV as well as other STIs.\n\nThe study population that this study seeks to enroll are healthy people assigned male or female sex at birth and not using gender-affirming hormone therapy and are willing to undergo study procedures.\n\nRecruitment: Both face-to-face and online engagements will be conducted to recruit study participants. Face-to-face locations include bars and nightclubs, community organizations serving study populations, sports events, and community venues, and online engagements include dating sites, social networks, and craigslist, amongst other social medial platforms.",
+      "detailedDescription": "The incidence of bacterial STIs is increasing and studies have recently shown that Doxy-PEP can reduce the incidence of bacterial STIs among men who have sex with men (MSM) and Doxy-PEP is being explored for STI prevention among women.\n\nA better understanding of mucosal drug penetration of doxycycline will inform the design of future studies to prevent STIs in various populations. The purpose of this study is to understand how well doxycycline taken by mouth gets to the tissues of the rectum and vagina. Researchers think doxycycline could be used to treat sexually transmitted infections (STIs) caused by bacteria. To understand better, they want to see how well doxycycline reaches the tissues affected by STIs.\n\nThe study procedures include the collection of past and present medical history, and biological specimen sampling such as blood, rectal and vaginal fluids, tissue biopsies, and urine. Study participants will also be administered an investigational agent (doxycycline not yet approved for this indication).\n\nThe duration of this clinical trial for study participants will be approximately 8 weeks."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Sexually Transmitted Diseases"
+      ],
+      "keywords": [
+        "Prevention",
+        "STI",
+        "Post-exposure prophylaxis",
+        "HIV",
+        "PEP"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 45,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Doxycycline 100 mg",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Doxycycline 100mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 10.",
+          "interventionNames": [
+            "Drug: Doxycycline"
+          ]
+        },
+        {
+          "label": "Doxycycline 200 mg",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Doxycycline - 200 mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 10",
+          "interventionNames": [
+            "Drug: Doxycycline"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Doxycycline",
+          "description": "Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses.",
+          "armGroupLabels": [
+            "Doxycycline 100 mg",
+            "Doxycycline 200 mg"
+          ],
+          "otherNames": [
+            "DOX"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Doxycycline Concentrations in Rectal Tissues",
+          "description": "Rectal biopsies were collected 24 hours after administration of the initial dose of doxycycline",
+          "timeFrame": "Day 2"
+        },
+        {
+          "measure": "Doxycycline Concentrations in Vaginal Tissues",
+          "description": "Vaginal biopsies collected 24 hours after administration of the initial dose of doxycycline",
+          "timeFrame": "Day 2"
+        },
+        {
+          "measure": "Doxycycline Concentrations in Rectal Tissues After the Fifth Dose of Doxycycline",
+          "description": "Self-collected swabs and rectal biopsies were collected 24 hours after administration of the fifth dose of doxycycline",
+          "timeFrame": "Day 15"
+        },
+        {
+          "measure": "Doxycycline Concentrations in Vaginal Tissues Collected 24 Hours After the Fifth Dose of Doxycycline",
+          "description": "Self-collected swabs and vaginal biopsies were collected 24 hours after administration of the fifth dose of doxycycline",
+          "timeFrame": "Day 15"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Changes in Blood Doxycycline Concentrations in Participants Taking 5 Doses of Doxycycline.",
+          "description": "Blood samples will be taken at each in person visit",
+          "timeFrame": "Throughout study up to 3 months after fifth dose"
+        },
+        {
+          "measure": "Changes in Urine Doxycycline Concentrations in Participants Taking 5 Doses of Doxycycline.",
+          "description": "Urine samples will be taken at each in person visit",
+          "timeFrame": "Throughout study up to 3 months after fifth dose"
+        },
+        {
+          "measure": "Changes in Doxycycline Concentrations in Throat Secretions in Participants Taking 5 Doses of Doxycycline.",
+          "description": "Self-collected swab samples will be collected 24 hours after administration of the first dose.",
+          "timeFrame": "Throughout study up to 3 months after fifth dose"
+        },
+        {
+          "measure": "Changes in Doxycycline Concentrations in Vaginal Secretions in Participants Taking 5 Doses of Doxycycline.",
+          "description": "Self-collected vaginal swabs will be collected at each in person visit",
+          "timeFrame": "Throughout study up to 3 months after fifth dose"
+        },
+        {
+          "measure": "Changes in Doxycycline Concentrations in Rectal Secretions in Participants Taking 5 Doses of Doxycycline.",
+          "description": "Self-collected and staff assisted vaginal swabs will be collected at each in person visit",
+          "timeFrame": "Throughout study up to 3 months after fifth dose"
+        },
+        {
+          "measure": "Changes in Doxycycline Concentrations in Penile Secretions in Participants Taking 5 Doses of Doxycycline.",
+          "description": "Staff-Assisted urethral and glans swabs will be collected",
+          "timeFrame": "Throughout study up to 3 months after fifth dose"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged 18-59 years\n* Assigned male sex or female sex at birth\n* In good general health\n* Not currently taking doxycycline or other tetracycline-derived antibiotics and no plans to initiate during the study\n* For HIV-positive people, on stable antiretroviral therapy with an undetectable viral load and CD4 count\\> 300ul/ml\n* Willing to use condoms consistently for the duration of the study\n* Able to provide informed consent\n* No plans for relocation in the next 4 months\n* Not pregnant and does not plan on getting pregnant for the duration of the study\n* Willing to undergo peripheral blood, urine, rectal or vaginal secretion collection, and a rectal or vaginal and cervical biopsy procedure\n* Willing to use study products as directed\n\nExclusion Criteria:\n\n* Current or chronic history of liver disease\n* Continued need for, or use during the 90 days before enrollment, of the following medications:\n\n  1. Systemic immunomodulatory agents\n  2. Supraphysiologic doses of steroids (short course steroids less than 7 days duration, allowable at the discretion of the investigators)\n  3. Chemotherapy or radiation for treatment of malignancy\n  4. Experimental medications, vaccines, or biologicals\n* Intent to use doxycycline or other tetracycline-derived antibiotics during the study, outside of the study procedures\n* Any other clinical condition or prior therapy that, in the opinion of the investigator, would make the patient unsuitable for the study or unable to comply with the study requirements\n* Known allergic reaction to study drugs.\n* Significant laboratory abnormalities at baseline visit for rectal biopsies, including but not limited to:\n\n  1. Hgb ≤ 10 g/dL\n  2. PTT \\> 1.5x ULN or INR \\> 1.5x ULN\n  3. Platelet count \\<100,000",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "59 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Colleen Kelley, MD, MPH",
+          "affiliation": "Emory University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Hope Clinic",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30322",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Individual participant data that underlie the results published for this study (including text, tables, figures, and appendices), will be made available for sharing, after de-identification.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP"
+      ],
+      "timeFrame": "The research team will share de-identified participant data after the primary manuscript publication.",
+      "accessCriteria": "Interested investigators can request deidentified data by email for secondary data analyses and/or meta-analyses."
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "recruitmentDetails": "Participants were recruited from Emory Healthcare System in Atlanta, Georgia, USA. Participant enrollment began May 31, 2023, and all follow-up was completed by December 24, 2024.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Doxycycline 100 mg",
+          "description": "Doxycycline 100mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 1\n\nDoxycycline: Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses."
+        },
+        {
+          "id": "FG001",
+          "title": "Doxycycline 200 mg",
+          "description": "Doxycycline - 200 mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 10\n\nDoxycycline: Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "26"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "19"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "14"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "13"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "12"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "6"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                }
+              ]
+            },
+            {
+              "type": "Physician Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Doxycycline 100 mg",
+          "description": "Doxycycline 100mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 1\n\nDoxycycline: Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses."
+        },
+        {
+          "id": "BG001",
+          "title": "Doxycycline 200 mg",
+          "description": "Doxycycline - 200 mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 10\n\nDoxycycline: Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "26"
+            },
+            {
+              "groupId": "BG001",
+              "value": "19"
+            },
+            {
+              "groupId": "BG002",
+              "value": "45"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "40.7",
+                      "spread": "12.1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "35.4",
+                      "spread": "9.2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "38.5",
+                      "spread": "11.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "17"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "28"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "43"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "22"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Doxycycline Concentrations in Rectal Tissues",
+          "description": "Rectal biopsies were collected 24 hours after administration of the initial dose of doxycycline",
+          "populationDescription": "Participants who completed the corresponding study visit and provided samples for processing.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "µg/g",
+          "timeFrame": "Day 2",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Doxycycline 100 mg",
+              "description": "Doxycycline 100mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 1\n\nDoxycycline: Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses."
+            },
+            {
+              "id": "OG001",
+              "title": "Doxycycline 200 mg",
+              "description": "Doxycycline - 200 mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 10\n\nDoxycycline: Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "16"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "11"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.863",
+                      "lowerLimit": "0.400",
+                      "upperLimit": "7.459"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.193",
+                      "lowerLimit": "1.283",
+                      "upperLimit": "3.766"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Doxycycline Concentrations in Vaginal Tissues",
+          "description": "Vaginal biopsies collected 24 hours after administration of the initial dose of doxycycline",
+          "populationDescription": "Participants who completed the corresponding study visit and provided samples for processing",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "µg/g",
+          "timeFrame": "Day 2",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Doxycycline 100 mg",
+              "description": "Doxycycline 100mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 1\n\nDoxycycline: Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses."
+            },
+            {
+              "id": "OG001",
+              "title": "Doxycycline 200 mg",
+              "description": "Doxycycline - 200 mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 10\n\nDoxycycline: Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "5"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.592",
+                      "lowerLimit": "0.204",
+                      "upperLimit": "0.662"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.214",
+                      "lowerLimit": "0.616",
+                      "upperLimit": "1.585"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Doxycycline Concentrations in Rectal Tissues After the Fifth Dose of Doxycycline",
+          "description": "Self-collected swabs and rectal biopsies were collected 24 hours after administration of the fifth dose of doxycycline",
+          "populationDescription": "Participants who completed the corresponding study visit and provided samples for processing.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "µg/g",
+          "timeFrame": "Day 15",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Doxycycline 100 mg",
+              "description": "Doxycycline 100mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 1\n\nDoxycycline: Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses."
+            },
+            {
+              "id": "OG001",
+              "title": "Doxycycline 200 mg",
+              "description": "Doxycycline - 200 mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 10\n\nDoxycycline: Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "14"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "6"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.951",
+                      "lowerLimit": "0.359",
+                      "upperLimit": "7.429"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.612",
+                      "lowerLimit": "1.222",
+                      "upperLimit": "3.517"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Doxycycline Concentrations in Vaginal Tissues Collected 24 Hours After the Fifth Dose of Doxycycline",
+          "description": "Self-collected swabs and vaginal biopsies were collected 24 hours after administration of the fifth dose of doxycycline",
+          "populationDescription": "Participants who completed the corresponding study visit and provided samples for processing.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "µg/g",
+          "timeFrame": "Day 15",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Doxycycline 100 mg",
+              "description": "Doxycycline 100mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 1\n\nDoxycycline: Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses."
+            },
+            {
+              "id": "OG001",
+              "title": "Doxycycline 200 mg",
+              "description": "Doxycycline - 200 mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 10\n\nDoxycycline: Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "4"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.590",
+                      "lowerLimit": "0.106",
+                      "upperLimit": "1.119"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.534",
+                      "lowerLimit": "1.528",
+                      "upperLimit": "1.540"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Changes in Blood Doxycycline Concentrations in Participants Taking 5 Doses of Doxycycline.",
+          "description": "Blood samples will be taken at each in person visit",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Throughout study up to 3 months after fifth dose",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Changes in Urine Doxycycline Concentrations in Participants Taking 5 Doses of Doxycycline.",
+          "description": "Urine samples will be taken at each in person visit",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Throughout study up to 3 months after fifth dose",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Changes in Doxycycline Concentrations in Throat Secretions in Participants Taking 5 Doses of Doxycycline.",
+          "description": "Self-collected swab samples will be collected 24 hours after administration of the first dose.",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Throughout study up to 3 months after fifth dose",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Changes in Doxycycline Concentrations in Vaginal Secretions in Participants Taking 5 Doses of Doxycycline.",
+          "description": "Self-collected vaginal swabs will be collected at each in person visit",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Throughout study up to 3 months after fifth dose",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Changes in Doxycycline Concentrations in Rectal Secretions in Participants Taking 5 Doses of Doxycycline.",
+          "description": "Self-collected and staff assisted vaginal swabs will be collected at each in person visit",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Throughout study up to 3 months after fifth dose",
+          "denomUnitsSelected": "Participants"
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Changes in Doxycycline Concentrations in Penile Secretions in Participants Taking 5 Doses of Doxycycline.",
+          "description": "Staff-Assisted urethral and glans swabs will be collected",
+          "reportingStatus": "NOT_POSTED",
+          "timeFrame": "Throughout study up to 3 months after fifth dose",
+          "denomUnitsSelected": "Participants"
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Information on adverse events was collected from the time consent to participate in the study was given through 3 months after the fifth dose of the study intervention, for a total duration of approximately 3.5 months.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Doxycycline 100 mg",
+          "description": "Doxycycline 100mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 1\n\nDoxycycline: Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 26,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 26,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 26
+        },
+        {
+          "id": "EG001",
+          "title": "Doxycycline 200 mg",
+          "description": "Doxycycline - 200 mg Participants will receive the first assigned dose of Doxycycline at the clinic on days 0 and 3 at the clinic. The other three doses of the medication will be taken at home on days 7 and 10\n\nDoxycycline: Doxycycline is used to treat or prevent infections that are strongly suspected to be caused by bacteria; it is an antimicrobial drug indicated for bacterial infections such as sexually transmitted infections. Doxycycline (DOX) will be given orally at 100 and 200 mg doses.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 19,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 19,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 19
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Colleen Kelley",
+        "organization": "Emory University",
+        "email": "scolleen.kelley@emory.edu",
+        "phone": "404-712-1823"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-07-03",
+          "uploadDate": "2025-08-20T15:11",
+          "filename": "Prot_SAP_001.pdf",
+          "size": 467092
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2024-02-21",
+          "uploadDate": "2025-02-11T13:04",
+          "filename": "ICF_000.pdf",
+          "size": 316218
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-09-09",
+            "type": "ESTIMATED"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D012749",
+          "term": "Sexually Transmitted Diseases"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003141",
+          "term": "Communicable Diseases"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D000091662",
+          "term": "Genital Diseases"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D004318",
+          "term": "Doxycycline"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013754",
+          "term": "Tetracyclines"
+        },
+        {
+          "id": "D009279",
+          "term": "Naphthacenes"
+        },
+        {
+          "id": "D011084",
+          "term": "Polycyclic Aromatic Hydrocarbons"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

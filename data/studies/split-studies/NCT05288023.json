@@ -1,0 +1,872 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05288023",
+      "orgStudyIdInfo": {
+        "id": "19-28387C"
+      },
+      "organization": {
+        "fullName": "University of California, San Francisco",
+        "class": "OTHER"
+      },
+      "briefTitle": "Azithromycin for Child Survival in Niger: Programmatic Trial (AVENIR)",
+      "officialTitle": "Azithromycine Pour la Vie Des Enfants au Niger - Implémentation et Recherche: Essai mortalité et résistance (Azithromycin for Child Survival in Niger: Programmatic Trial)",
+      "acronym": "AVENIR"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-03",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "AVENIR I demonstrated efficacy of azithromycin MDA targeted to children 1-59 over 1-11 months in July 2023, thus this trial was stopped before outcomes were collected so Niger could expand the program nationally to include children 1-59 months.",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-12-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-01-15",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-01-15",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2022-02-23",
+      "studyFirstSubmitQcDate": "2022-03-15",
+      "studyFirstPostDateStruct": {
+        "date": "2022-03-18",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-11-04",
+      "resultsFirstSubmitQcDate": "2025-03-12",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-03-28",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-03-12",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-03-28",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of California, San Francisco",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Bill and Melinda Gates Foundation",
+          "class": "OTHER"
+        },
+        {
+          "name": "Ministry of Health, Niger",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The MORDOR trial found that biannual distribution of azithromycin to children 1-59 months old reduced child mortality. The World Health Organization (WHO) released conditional guidelines for this intervention, which include targeting azithromycin distributions to children 1-11 months of age in high mortality settings. The proposed trial aims to demonstrate and evaluate large-scale implementation of azithromycin to children aged 1-11 months old in the context of a programmatic setting while monitoring mortality and resistance antimicrobial resistance.",
+      "detailedDescription": "In the Programmatic Trial, community health centers (also known as \"CSIs\" or \"Centres de Santé Intégrés\") will be randomized to one of two arms: 1) programmatic azithro 1-11: biannual oral azithromycin administration to children aged 1-11 months distributed by community health workers or 2) no intervention: no distribution of azithromycin. A total of 2,490 communities within selected CSIs will be included .\n\nAll communities in both arms receive routine health services offered by community health workers working for the Niger Ministry of Health's community health program.\n\nMortality will be monitored through birth histories. Mortality and morbidity will also be monitored using routinely collected community and clinic visit data. Antimicrobial resistance will be monitored in a subset of eligible CSIs."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Resistance Bacterial",
+        "Morality",
+        "Child Health",
+        "Implementation"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Cluster-randomized trial with response adaptive allocation",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE",
+          "maskingDescription": "Participants, investigators, and program implementers will not be actively masked from the study arm allocation given that no placebo will be used. Outcome assessors and data analysts will be masked."
+        }
+      },
+      "enrollmentInfo": {
+        "count": 169707,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Programmatic azithro 1-11",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Biannual oral azithromycin administration to children aged 1-11 months distributed by community health workers",
+          "interventionNames": [
+            "Drug: Azithromycin for Oral Suspension"
+          ]
+        },
+        {
+          "label": "no intervention",
+          "type": "NO_INTERVENTION",
+          "description": "No additional intervention."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Azithromycin for Oral Suspension",
+          "description": "Azithromycin will be administered as a single dose in oral suspension form for children (up to the maximum adult dose of 1g).\n\nDosage will be calculated by age for children aged 1-5 months. For children 6-59 months of age, height-based dosing will be used via height-stick approximation as currently performed by Niger's trachoma program.",
+          "armGroupLabels": [
+            "Programmatic azithro 1-11"
+          ],
+          "otherNames": [
+            "Zithromax"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Prevalence of Genetic Determinants of Macrolide Resistance From Population-based Samples",
+          "description": "Prevalence of genetic determinants of macrolide resistance including those determinants known to be found in Streptococcus pneumoniae, Streptococcus pyogenes, and Staphylococcus aureus in nasopharyngeal swabs in children aged 1-59 months from population-based samples after 1 year of distribution",
+          "timeFrame": "2 years"
+        },
+        {
+          "measure": "Load of Genetic Determinants of Macrolide Resistance From Population-based Samples",
+          "description": "Load of genetic determinants of resistance to macrolides including those determinants known to be found in Campylobacter spp, Salmonella spp, Shigella spp, and Escherichia coli from rectal swabs in children 1-59 months old from population-based samples, defined as read number per million base pairs, using DNA-seq (metagenomic deep sequencing).",
+          "timeFrame": "2 years"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Prevalence of Genetic Determinants of Macrolide Resistance From Clinic-based Samples",
+          "description": "Prevalence of resistance to macrolides including those determinants known to be found in Streptococcus pneumoniae, Streptococcus pyogenes, and Staphylococcus aureus from nasopharyngeal swabs in children 1-59 months old.",
+          "timeFrame": "2 years"
+        },
+        {
+          "measure": "Load of Genetic Determinants of Macrolide Resistance From Clinic-based Samples",
+          "description": "Load of genetic determinants of resistance to macrolides including those determinants known to be found in Campylobacter spp, Salmonella spp, Shigella spp, and Escherichia coli from rectal swabs in children 1-59 months old, defined as read number per million base pairs, using DNA-seq (metagenomic deep sequencing).",
+          "timeFrame": "2 years"
+        },
+        {
+          "measure": "Number of All-cause Clinic Visits",
+          "description": "Number of all-cause clinic visits per month for children aged 1-59 months over 1 year",
+          "timeFrame": "2 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Intervention\n\nAt the community-level, eligibility includes:\n\nInclusion Criteria:\n\n* Location in Dosso, Tahoua, Maradi, Zinder, or Tillabéri regions\n* Distinguishable from neighboring communities\n* Verbal consent of community leader(s)\n\nExclusion criteria:\n\n* Inaccessible or unsafe for study team\n* \"Quartier\" designation on national census\n\nAt the individual-level, eligibility includes:\n\nInclusion criteria:\n\n* Age 1-11 months\n* Primary residence in a study community\n* Verbal consent of caregiver/guardian for study participation\n\nExclusion criteria:\n\n* Known allergy to macrolides\n\nPopulation-based sample collections\n\nAt the community-level, eligibility includes:\n\nInclusion criteria:\n\n* Location in study region\n* Distinguishable from neighboring communities\n* Verbal consent of community leader(s)\n\nExclusion criteria:\n\n* Inaccessible or unsafe for study team\n* Included in MORDOR trials\n* Not randomly selected\n\nAt the individual-level, eligibility includes:\n\nInclusion criteria:\n\n* Age 1-59 months or 7-12 years or caregiver/guardian of a child eligible for treatment\n* Primary residence in a study community selected for sample collections\n* Verbal consent of caregiver/guardian for study participation\n\nExclusion criteria:\n\n* Not on list of randomly selected participants from the census",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "1 Month",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Kieran O'Brien, PhD, MPH",
+          "affiliation": "University of California, San Francisco",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Tom Lietman, MD",
+          "affiliation": "University of California, San Francisco",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Proctor foundation",
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.77493,
+            "lon": -122.41942
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "32924384",
+          "type": "BACKGROUND",
+          "citation": "WHO Guideline on Mass Drug Administration of Azithromycin to Children under Five Years of Age to Promote Child Survival [Internet]. Geneva: World Health Organization; 2020. No abstract available. Available from http://www.ncbi.nlm.nih.gov/books/NBK561641/"
+        },
+        {
+          "pmid": "29694816",
+          "type": "BACKGROUND",
+          "citation": "Keenan JD, Bailey RL, West SK, Arzika AM, Hart J, Weaver J, Kalua K, Mrango Z, Ray KJ, Cook C, Lebas E, O'Brien KS, Emerson PM, Porco TC, Lietman TM; MORDOR Study Group. Azithromycin to Reduce Childhood Mortality in Sub-Saharan Africa. N Engl J Med. 2018 Apr 26;378(17):1583-1592. doi: 10.1056/NEJMoa1715474."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "De-identified data underlying outcomes publications will be made publicly available.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP",
+        "ICF"
+      ],
+      "timeFrame": "Individual participant data will be made available after publication of the outcomes and will be made available indefinitely.",
+      "accessCriteria": "Once made available, the data will be open access."
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "typeUnitsAnalyzed": "Health Center",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Programmatic Azithro 1-11",
+          "description": "Biannual oral azithromycin administration to children aged 1-11 months distributed by community health workers\n\nAzithromycin for Oral Suspension: Azithromycin will be administered as a single dose in oral suspension form for children (up to the maximum adult dose of 1g).\n\nDosage will be calculated by age for children aged 1-5 months. For children 6-59 months of age, height-based dosing will be used via height-stick approximation as currently performed by Niger's trachoma program."
+        },
+        {
+          "id": "FG001",
+          "title": "no Intervention",
+          "description": "No additional intervention."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "135754",
+                  "numUnits": "110"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "33953",
+                  "numUnits": "56"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "135754",
+                  "numUnits": "110"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "33953",
+                  "numUnits": "56"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0",
+                  "numUnits": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Inclusion criteria includes: age 1-59 months, primary residence in a study community, verbal consent of caregiver/guardian of children for study participation, weight ≥ 3.0 kg.\n\nChildren were enrolled for participation. not guardians.\n\nThe No Intervention arm data was not collected given the pragmatic design of the trial; therefore, the Programmatic Azithro 1-11 data was used to estimate the No Intervention population (33,953).",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Programmatic Azithro 1-11",
+          "description": "Biannual oral azithromycin administration to children aged 1-11 months distributed by community health workers\n\nAzithromycin for Oral Suspension: Azithromycin will be administered as a single dose in oral suspension form for children (up to the maximum adult dose of 1g).\n\nDosage will be calculated by age for children aged 1-5 months. For children 6-59 months of age, height-based dosing will be used via height-stick approximation as currently performed by Niger's trachoma program."
+        },
+        {
+          "id": "BG001",
+          "title": "No Intervention",
+          "description": "No additional intervention."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "135,754"
+            },
+            {
+              "groupId": "BG001",
+              "value": "33,953"
+            },
+            {
+              "groupId": "BG002",
+              "value": "169707"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "135,754"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "33,953"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "169707"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "135,754"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "33,953"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "169707"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "populationDescription": "Sex was not recorded",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Niger",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "135,754"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "33,953"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "169707"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "135,754"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "33,953"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "169707"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Prevalence of Genetic Determinants of Macrolide Resistance From Population-based Samples",
+          "description": "Prevalence of genetic determinants of macrolide resistance including those determinants known to be found in Streptococcus pneumoniae, Streptococcus pyogenes, and Staphylococcus aureus in nasopharyngeal swabs in children aged 1-59 months from population-based samples after 1 year of distribution",
+          "populationDescription": "The study stopped prior to the collection of outcome measures.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "2 years",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Programmatic Azithro 1-11",
+              "description": "Biannual oral azithromycin administration to children aged 1-11 months distributed by community health workers\n\nAzithromycin for Oral Suspension: Azithromycin will be administered as a single dose in oral suspension form for children (up to the maximum adult dose of 1g).\n\nDosage will be calculated by age for children aged 1-5 months. For children 6-59 months of age, height-based dosing will be used via height-stick approximation as currently performed by Niger's trachoma program."
+            },
+            {
+              "id": "OG001",
+              "title": "no Intervention",
+              "description": "No additional intervention."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Load of Genetic Determinants of Macrolide Resistance From Population-based Samples",
+          "description": "Load of genetic determinants of resistance to macrolides including those determinants known to be found in Campylobacter spp, Salmonella spp, Shigella spp, and Escherichia coli from rectal swabs in children 1-59 months old from population-based samples, defined as read number per million base pairs, using DNA-seq (metagenomic deep sequencing).",
+          "populationDescription": "The study stopped prior to the collection of outcome measures.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "2 years",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Programmatic Azithro 1-11",
+              "description": "Biannual oral azithromycin administration to children aged 1-11 months distributed by community health workers\n\nAzithromycin for Oral Suspension: Azithromycin will be administered as a single dose in oral suspension form for children (up to the maximum adult dose of 1g).\n\nDosage will be calculated by age for children aged 1-5 months. For children 6-59 months of age, height-based dosing will be used via height-stick approximation as currently performed by Niger's trachoma program."
+            },
+            {
+              "id": "OG001",
+              "title": "no Intervention",
+              "description": "No additional intervention."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Prevalence of Genetic Determinants of Macrolide Resistance From Clinic-based Samples",
+          "description": "Prevalence of resistance to macrolides including those determinants known to be found in Streptococcus pneumoniae, Streptococcus pyogenes, and Staphylococcus aureus from nasopharyngeal swabs in children 1-59 months old.",
+          "populationDescription": "The study stopped prior to the collection of outcome measures.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "2 years",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Programmatic Azithro 1-11",
+              "description": "Biannual oral azithromycin administration to children aged 1-11 months distributed by community health workers\n\nAzithromycin for Oral Suspension: Azithromycin will be administered as a single dose in oral suspension form for children (up to the maximum adult dose of 1g).\n\nDosage will be calculated by age for children aged 1-5 months. For children 6-59 months of age, height-based dosing will be used via height-stick approximation as currently performed by Niger's trachoma program."
+            },
+            {
+              "id": "OG001",
+              "title": "no Intervention",
+              "description": "No additional intervention."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Load of Genetic Determinants of Macrolide Resistance From Clinic-based Samples",
+          "description": "Load of genetic determinants of resistance to macrolides including those determinants known to be found in Campylobacter spp, Salmonella spp, Shigella spp, and Escherichia coli from rectal swabs in children 1-59 months old, defined as read number per million base pairs, using DNA-seq (metagenomic deep sequencing).",
+          "populationDescription": "The study stopped prior to the collection of outcome measures.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "2 years",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Programmatic Azithro 1-11",
+              "description": "Biannual oral azithromycin administration to children aged 1-11 months distributed by community health workers\n\nAzithromycin for Oral Suspension: Azithromycin will be administered as a single dose in oral suspension form for children (up to the maximum adult dose of 1g).\n\nDosage will be calculated by age for children aged 1-5 months. For children 6-59 months of age, height-based dosing will be used via height-stick approximation as currently performed by Niger's trachoma program."
+            },
+            {
+              "id": "OG001",
+              "title": "no Intervention",
+              "description": "No additional intervention."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of All-cause Clinic Visits",
+          "description": "Number of all-cause clinic visits per month for children aged 1-59 months over 1 year",
+          "populationDescription": "The study stopped prior to the collection of outcome measures.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "2 years",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Programmatic Azithro 1-11",
+              "description": "Biannual oral azithromycin administration to children aged 1-11 months distributed by community health workers\n\nAzithromycin for Oral Suspension: Azithromycin will be administered as a single dose in oral suspension form for children (up to the maximum adult dose of 1g).\n\nDosage will be calculated by age for children aged 1-5 months. For children 6-59 months of age, height-based dosing will be used via height-stick approximation as currently performed by Niger's trachoma program."
+            },
+            {
+              "id": "OG001",
+              "title": "no Intervention",
+              "description": "No additional intervention."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Reporting adverse event data began with the first round of treatment through the last round of treatment. If a child experiences an adverse event within 28 days of treatment, it was reported. time frame for reporting was 12 months",
+      "description": "According to Pfizer, a serious adverse event (SAE) is any adverse event that: results in death, Is life-threatening (i.e., causes an immediate risk of death), requires inpatient hospitalization or prolongation of existing hospitalization, results in persistent or significant disability or incapacity. Or that is considered to be: an important medical event.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Programmatic Azithro 1-11",
+          "description": "Biannual oral azithromycin administration to children aged 1-11 months distributed by community health workers\n\nAzithromycin for Oral Suspension: Azithromycin will be administered as a single dose in oral suspension form for children (up to the maximum adult dose of 1g).\n\nDosage will be calculated by age for children aged 1-5 months. For children 6-59 months of age, height-based dosing will be used via height-stick approximation as currently performed by Niger's trachoma program.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 135754,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 135754,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 135754
+        },
+        {
+          "id": "EG001",
+          "title": "No Intervention",
+          "description": "No additional intervention.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 33953,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 33953,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 33953
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Kieran O'Brien",
+        "organization": "University of California San Francisco",
+        "email": "kieran.obrien@ucsf.edu",
+        "phone": "(415) 476-1442"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2024-09-30",
+          "uploadDate": "2024-10-30T15:33",
+          "filename": "Prot_000.pdf",
+          "size": 969672
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-09-25",
+          "uploadDate": "2024-10-30T15:34",
+          "filename": "SAP_001.pdf",
+          "size": 701278
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2024-11-29",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D017963",
+          "term": "Azithromycin"
+        },
+        {
+          "id": "D013535",
+          "term": "Suspensions"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D004917",
+          "term": "Erythromycin"
+        },
+        {
+          "id": "D018942",
+          "term": "Macrolides"
+        },
+        {
+          "id": "D061065",
+          "term": "Polyketides"
+        },
+        {
+          "id": "D007783",
+          "term": "Lactones"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D003102",
+          "term": "Colloids"
+        },
+        {
+          "id": "D045424",
+          "term": "Complex Mixtures"
+        },
+        {
+          "id": "D004304",
+          "term": "Dosage Forms"
+        },
+        {
+          "id": "D004364",
+          "term": "Pharmaceutical Preparations"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

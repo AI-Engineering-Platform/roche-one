@@ -1,0 +1,970 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05338671",
+      "orgStudyIdInfo": {
+        "id": "STUDY00013406"
+      },
+      "organization": {
+        "fullName": "University of Washington",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effect of Post-Operative Anesthetics on Post-Operative Pain in Patients Receiving Endodontic Treatment",
+      "officialTitle": "Effect of Post-Operative Anesthetics on Post-Operative Pain in Patients Receiving Endodontic Treatment"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-05",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-09-29",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-06-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-06-01",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-06-19",
+      "studyFirstSubmitQcDate": "2022-04-15",
+      "studyFirstPostDateStruct": {
+        "date": "2022-04-21",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-05-06",
+      "resultsFirstSubmitQcDate": "2025-05-23",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-05-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-05-23",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-05-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Avina Paranjpe",
+        "investigatorTitle": "Professor: School of Dentistry",
+        "investigatorAffiliation": "University of Washington"
+      },
+      "leadSponsor": {
+        "name": "University of Washington",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This study will assess the efficacy of two local anesthetics (2% lidocaine 1:100,000 epinephrine and 0.5% bupivicaine 1:200,000 epinephrine) in reducing post-operative pain in patients receiving endodontic treatment.",
+      "detailedDescription": "The goal of this study is to assess the efficacy of 2% lidocaine 1:100,000 epinephrine and 0.5% bupivicaine 1:200,000 epinephrine in reducing post-operative pain in patients with symptomatic irreversible pulpitis on a mandibular tooth that receive endodontic treatment. Participants of this study will include patients that present to the University of Washington Endodontic clinic and fit the inclusion criteria of being \\>18 years old, healthy (ASA I or II) and having a diagnosis of symptomatic irreversible pulpitis on a mandibular tooth, that is willing to undergo endodontic treatment in two visits. Upon diagnosis, and informed consent, patients will be asked to participate in this study. If enrolled in the study, participants will receive standard endodontic treatment with temporary placement of Calcium Hydroxide medicament within the canals of the tooth and placement of a temporary filling. They will then be randomized to receive an inferior alveolar nerve block with 1 cartridge (1.8mL) of either 2% lidocaine 1:100,000 epinephrine or 0.5% bupivicaine 1:200,000 epinephrine. Patients will be given a form to track their pain levels for the next 72 hours, that they will return at a follow up visit. This form will use the Heft-Parker visual analog pain scale to track pain levels as well as ask participants to track their use of over the counter analgesics, in particular, Advil/ibuprofen. The pain tracking form will be returned to the clinic and root canal will be completed also at this follow up visit."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Endodontic Disease",
+        "Post Operative Pain",
+        "Symptomatic Irreversible Pulpitis"
+      ],
+      "keywords": [
+        "endodontics",
+        "root canal",
+        "lidocaine",
+        "bupivicaine",
+        "ibuprofen",
+        "symptomatic irreversible pulpitis",
+        "post operative pain",
+        "heft parker visual analog scale"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Two different arms each receiving an inferior alveolar nerve block with two different local anesthetics",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "PARTICIPANT"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 35,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "2% Lidocaine 1:100,000 epinephrine",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 2% Lidocaine 1:100,000 epinephrine following endodontic treatment.",
+          "interventionNames": [
+            "Drug: Local anesthetic"
+          ]
+        },
+        {
+          "label": "0.5% bupivicaine 1:200,000 epinephrine",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 0.5% bupivicaine 1:200,000 epinephrine following endodontic treatment.",
+          "interventionNames": [
+            "Drug: Local anesthetic"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Local anesthetic",
+          "description": "Patients will receive inferior alveolar nerve block injection following endodontic treatment.",
+          "armGroupLabels": [
+            "0.5% bupivicaine 1:200,000 epinephrine",
+            "2% Lidocaine 1:100,000 epinephrine"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Post-operative Pain Level 6 Hours on a Visual Analog Scale",
+          "description": "Participants will be asked to track the amount of pain they have following their endodontic treatment using the Heft-Parker visual analog scale with scores ranging from 0-170 with higher scores signifying more pain.",
+          "timeFrame": "Patients will be asked to track pain levels at 6 post-operatively on a visual analog scale"
+        },
+        {
+          "measure": "Post-operative Pain Level 12 Hours on a Visual Analog Scale",
+          "description": "Participants will be asked to track the amount of pain they have following their endodontic treatment using the Heft-Parker visual analog scale with scores ranging from 0-170 with higher scores signifying more pain.",
+          "timeFrame": "Patients will be asked to track pain level at 12 hours post-operatively on a visual analog scale"
+        },
+        {
+          "measure": "Post-operative Pain Level 24 Hours on a Visual Analog Scale",
+          "description": "Participants will be asked to track the amount of pain they have following their endodontic treatment using the Heft-Parker visual analog scale with scores ranging from 0-170 with higher scores signifying more pain.",
+          "timeFrame": "Patients will be asked to track pain level at 24 hours post-operatively on a visual analog scale"
+        },
+        {
+          "measure": "Post-operative Pain Level 48 Hours on a Visual Analog Scale",
+          "description": "Participants will be asked to track the amount of pain they have following their endodontic treatment using the Heft-Parker visual analog scale with scores ranging from 0-170 with higher scores signifying more pain.",
+          "timeFrame": "Patients will be asked to track pain level at 48 hours post-operatively on a visual analog scale"
+        },
+        {
+          "measure": "Post-operative Pain Level 72 Hours on a Visual Analog Scale",
+          "description": "Participants will be asked to track the amount of pain they have following their endodontic treatment using the Heft-Parker visual analog scale with scores ranging from 0-170 with higher scores signifying more pain.",
+          "timeFrame": "Patients will be asked to track pain level at 72 hours post-operatively on a visual analog scale"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of symptomatic irreversible pulpitis on mandibular, posterior tooth\n* ASA I or II\n* \\>18 years old\n\nExclusion Criteria:\n\n* Maxillary or mandibular anterior tooth\n* Diagnosis of pulp necrosis or reversible pulpitis\n* Tooth deemed non-restorable\n* \\<18 years old\n* ASA III, IV, or V\n* Patients who are contraindicated to take ibuprofen\n* Patients with allergies to any medications being assessed in this study",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Avina Paranjpe",
+          "affiliation": "University of Washington",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Washington- School of Dentistry",
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98112",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 47.60621,
+            "lon": -122.33207
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "24493972",
+          "type": "BACKGROUND",
+          "citation": "Al-Kahtani A. Effect of long acting local anesthetic on postoperative pain in teeth with irreversible pulpitis: Randomized clinical trial. Saudi Pharm J. 2014 Jan;22(1):39-42. doi: 10.1016/j.jsps.2013.01.004. Epub 2013 Jan 26."
+        },
+        {
+          "pmid": "6387029",
+          "type": "BACKGROUND",
+          "citation": "Dunsky JL, Moore PA. Long-acting local anesthetics: a comparison of bupivacaine and etidocaine in endodontics. J Endod. 1984 Sep;10(9):457-60. doi: 10.1016/S0099-2399(84)80270-8. No abstract available."
+        },
+        {
+          "pmid": "24778680",
+          "type": "BACKGROUND",
+          "citation": "Moradi S, Naghavi N. Comparison of bupivacaine and lidocaine use for postoperative pain control in endodontics. Iran Endod J. 2010 Winter;5(1):31-5. Epub 2010 Feb 20."
+        },
+        {
+          "pmid": "22794202",
+          "type": "BACKGROUND",
+          "citation": "Parirokh M, Yosefi MH, Nakhaee N, Manochehrifar H, Abbott PV, Reza Forghani F. Effect of bupivacaine on postoperative pain for inferior alveolar nerve block anesthesia after single-visit root canal treatment in teeth with irreversible pulpitis. J Endod. 2012 Aug;38(8):1035-9. doi: 10.1016/j.joen.2012.04.012. Epub 2012 May 30."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "2% Lidocaine 1:100,000 Epinephrine",
+          "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 2% Lidocaine 1:100,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment."
+        },
+        {
+          "id": "FG001",
+          "title": "0.5% Bupivicaine 1:200,000 Epinephrine",
+          "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 0.5% bupivicaine 1:200,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "18"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "17"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "15"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "15"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Root canal completed in a single visit",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "2% Lidocaine 1:100,000 Epinephrine",
+          "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 2% Lidocaine 1:100,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment."
+        },
+        {
+          "id": "BG001",
+          "title": "0.5% Bupivicaine 1:200,000 Epinephrine",
+          "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 0.5% bupivicaine 1:200,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "15"
+            },
+            {
+              "groupId": "BG001",
+              "value": "15"
+            },
+            {
+              "groupId": "BG002",
+              "value": "30"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "30"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "39.2",
+                      "spread": "12.1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "37.2",
+                      "spread": "17.2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "38.2",
+                      "spread": "14.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "30"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Post-operative Pain Level 6 Hours on a Visual Analog Scale",
+          "description": "Participants will be asked to track the amount of pain they have following their endodontic treatment using the Heft-Parker visual analog scale with scores ranging from 0-170 with higher scores signifying more pain.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Patients will be asked to track pain levels at 6 post-operatively on a visual analog scale",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "2% Lidocaine 1:100,000 Epinephrine",
+              "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 2% Lidocaine 1:100,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "0.5% Bupivicaine 1:200,000 Epinephrine",
+              "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 0.5% bupivicaine 1:200,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "15"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "64.2",
+                      "spread": "43.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "43.1",
+                      "spread": "43.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Post-operative Pain Level 12 Hours on a Visual Analog Scale",
+          "description": "Participants will be asked to track the amount of pain they have following their endodontic treatment using the Heft-Parker visual analog scale with scores ranging from 0-170 with higher scores signifying more pain.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Patients will be asked to track pain level at 12 hours post-operatively on a visual analog scale",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "2% Lidocaine 1:100,000 Epinephrine",
+              "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 2% Lidocaine 1:100,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "0.5% Bupivicaine 1:200,000 Epinephrine",
+              "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 0.5% bupivicaine 1:200,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "15"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "67.4",
+                      "spread": "44.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "45.1",
+                      "spread": "34.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Post-operative Pain Level 24 Hours on a Visual Analog Scale",
+          "description": "Participants will be asked to track the amount of pain they have following their endodontic treatment using the Heft-Parker visual analog scale with scores ranging from 0-170 with higher scores signifying more pain.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Patients will be asked to track pain level at 24 hours post-operatively on a visual analog scale",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "2% Lidocaine 1:100,000 Epinephrine",
+              "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 2% Lidocaine 1:100,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "0.5% Bupivicaine 1:200,000 Epinephrine",
+              "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 0.5% bupivicaine 1:200,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "15"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "48.9",
+                      "spread": "27.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "36.5",
+                      "spread": "32.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Post-operative Pain Level 48 Hours on a Visual Analog Scale",
+          "description": "Participants will be asked to track the amount of pain they have following their endodontic treatment using the Heft-Parker visual analog scale with scores ranging from 0-170 with higher scores signifying more pain.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Patients will be asked to track pain level at 48 hours post-operatively on a visual analog scale",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "2% Lidocaine 1:100,000 Epinephrine",
+              "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 2% Lidocaine 1:100,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "0.5% Bupivicaine 1:200,000 Epinephrine",
+              "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 0.5% bupivicaine 1:200,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "15"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "45.3",
+                      "spread": "34.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "30.1",
+                      "spread": "34.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Post-operative Pain Level 72 Hours on a Visual Analog Scale",
+          "description": "Participants will be asked to track the amount of pain they have following their endodontic treatment using the Heft-Parker visual analog scale with scores ranging from 0-170 with higher scores signifying more pain.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "units on a scale",
+          "timeFrame": "Patients will be asked to track pain level at 72 hours post-operatively on a visual analog scale",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "2% Lidocaine 1:100,000 Epinephrine",
+              "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 2% Lidocaine 1:100,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "0.5% Bupivicaine 1:200,000 Epinephrine",
+              "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 0.5% bupivicaine 1:200,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "15"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "15"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "35.5",
+                      "spread": "41.6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "21.9",
+                      "spread": "26.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Patients were followed up for 72 hours to check for any adverse reactions",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "2% Lidocaine 1:100,000 Epinephrine",
+          "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 2% Lidocaine 1:100,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 18,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 18,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 18
+        },
+        {
+          "id": "EG001",
+          "title": "0.5% Bupivicaine 1:200,000 Epinephrine",
+          "description": "Participants in this arm will receive an inferior alveolar nerve block with 1 cartridge (1.8 mL) of 0.5% bupivicaine 1:200,000 epinephrine following endodontic treatment.\n\nLocal anesthetic: Patients will receive inferior alveolar nerve block injection following endodontic treatment.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 17,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 17,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 17
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "Limitations/future direction\n\n* Sample size\n* Lack of a control group: Inferior alveolar nerve block with saline solution\n* Lack of inclusion of other pre-operative pulpal diagnoses: Pulp Necrosis, Previously Initiated Therapy, Previously Treated\n* Lack of inclusion of maxillary posterior teeth\n* We could have tracked patients for longer periods of time to examine persistent pain"
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Avina Paranjpe",
+        "organization": "University of Washington",
+        "email": "avina@uw.edu",
+        "phone": "206-543-5044"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2025-04-08",
+          "uploadDate": "2025-04-08T15:49",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 128781
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2025-05-20",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003788",
+          "term": "Dental Pulp Diseases"
+        },
+        {
+          "id": "D010149",
+          "term": "Pain, Postoperative"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014076",
+          "term": "Tooth Diseases"
+        },
+        {
+          "id": "D009057",
+          "term": "Stomatognathic Diseases"
+        },
+        {
+          "id": "D011183",
+          "term": "Postoperative Complications"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D010146",
+          "term": "Pain"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000779",
+          "term": "Anesthetics, Local"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000777",
+          "term": "Anesthetics"
+        },
+        {
+          "id": "D002492",
+          "term": "Central Nervous System Depressants"
+        },
+        {
+          "id": "D045505",
+          "term": "Physiological Effects of Drugs"
+        },
+        {
+          "id": "D020228",
+          "term": "Pharmacologic Actions"
+        },
+        {
+          "id": "D020164",
+          "term": "Chemical Actions and Uses"
+        },
+        {
+          "id": "D018689",
+          "term": "Sensory System Agents"
+        },
+        {
+          "id": "D018373",
+          "term": "Peripheral Nervous System Agents"
+        },
+        {
+          "id": "D002491",
+          "term": "Central Nervous System Agents"
+        },
+        {
+          "id": "D045506",
+          "term": "Therapeutic Uses"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

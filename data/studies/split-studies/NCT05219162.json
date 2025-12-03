@@ -1,0 +1,1033 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05219162",
+      "orgStudyIdInfo": {
+        "id": "D5161R00037"
+      },
+      "organization": {
+        "fullName": "AstraZeneca",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Real-World Study on Gene Profile in Patients With Advanced NSCLC Who Progressed on First-Line Osimertinib Therapy(GPS).",
+      "officialTitle": "Gene Profile in EGFRm Locally Advanced or Metastatic NSCLC Patients Post Osimertinib 1L Treatment Failure: A Real-world, Multi-center Study (GPS)",
+      "acronym": "GPS"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-08",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-02-25",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-04-29",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-04-29",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-12-21",
+      "studyFirstSubmitQcDate": "2022-01-20",
+      "studyFirstPostDateStruct": {
+        "date": "2022-02-01",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-04-15",
+      "resultsFirstSubmitQcDate": "2025-08-26",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-09-11",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-08-26",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-11",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "AstraZeneca",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Although some small sample studies have reported the possible resistance mechanisms of Osimertinib in the first-line treatment, it is still an urgent need to explore the whole gene profile in EGFRm advanced NSCLC patients post Osimertinib 1L treatment by paired tissue and plasma to guide subsequent treatment strategy. Thus, the gene profile post Osimertinib 1L treatment in tissue and plasma may help to guide the following treatment.\n\nParticipants will be required to provide paired tissue and whole blood after disease progression following 1L Osimertinib. 200 tissue samples and 200 whole blood samples will be used to detect gene alteration by NGS, respectively. 200 tissue samples will be used to detect pathological transformation by IHC. Approximately 80-100 tissue samples will be used to test MET overexpression by MET IHC and MET amplification by FISH respectively. Approximately 80-100 whole blood samples will be used to test MET amplification by ddPCR.",
+      "detailedDescription": "\"Tumor tissue samples will be obtained by biopsy.\""
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Advanced NSCLC"
+      ],
+      "keywords": [
+        "Advanced or metastatic non-small cell lung cancer"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "interventionModelDescription": "Participants will be required to provide paired tissue and whole blood after disease progression following 1L Osimertinib. 200 tissue samples and 200 whole blood samples will be used to detect gene alteration by NGS, respectively. 200 tissue samples will be used to detect pathological transformation by IHC. Approximately 80-100 tissue samples will be used to test MET overexpression by MET IHC and MET amplification by FISH respectively. Approximately 80-100 whole blood samples will be used to test MET amplification by ddPCR.",
+        "primaryPurpose": "DIAGNOSTIC",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 182,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "EGFRm Locally Advanced or Metastatic NSCLC patients post Osimertinib 1L treatment failure",
+          "type": "OTHER",
+          "description": "participants with advanced or metastatic non-small cell lung cancer, who have already taken osimertinib as a first treatment option, but their cancer has continued to get worse",
+          "interventionNames": [
+            "Genetic: Gene Profile explore"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "GENETIC",
+          "name": "Gene Profile explore",
+          "description": "The tissue and blood sample for this genetic research will be obtained from the participants at baseline(disease progression after 1L Osimertinib). Paired tissue and whole blood sample should be collected per participant for genetics during the study.",
+          "armGroupLabels": [
+            "EGFRm Locally Advanced or Metastatic NSCLC patients post Osimertinib 1L treatment failure"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Percentage of Participants With Gene Alterations inTissue Detected by NGS",
+          "description": "The Percentage of gene alteration detected by NGS(%) = (number of patients with gene alteration detected by NGS)/(total number of patients in the FAS)×100%.",
+          "timeFrame": "At enrollment"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Percentage of Participants With Gene Alterations in Plasma Detected by NGS",
+          "description": "The percentage of gene alteration detected by NGS(%) = (number of patients with gene alteration detected by NGS)/(total number of patients in the FAS)×100%.",
+          "timeFrame": "At enrollment"
+        },
+        {
+          "measure": "EGFR Sensitivity of Plasma and Tissue",
+          "description": "Tissue sample was the reference standard.\n\n-sensitivity=(number of patients with positive result in both plasma and tissue)/(total number of patients with positive result in tissue samples)×100%",
+          "timeFrame": "At enrollment"
+        },
+        {
+          "measure": "EGFR Specificity of Plasma and Tissue",
+          "description": "Tissue sample was the reference standard.\n\n\\- specificity=(number of patients with negative result in both plasma and tissue)/(total number of patients with negative result in tissue samples)×100%.",
+          "timeFrame": "At enrollment"
+        },
+        {
+          "measure": "EGFR PPV of Plasma and Tissue",
+          "description": "Tissue sample was the reference standard. PPV (%)=(number of patients with positive result in both plasma and tissue)/(total number of patients with positive result in plasma samples)×100%",
+          "timeFrame": "At enrollment"
+        },
+        {
+          "measure": "EGFR NPV of Plasma and Tissue",
+          "description": "Tissue sample was the reference standard.\n\n\\- NPV (%)=(number of patients with negative result in both plasma and tissue)/(total number of patients with negative result in plasma samples)×100%.",
+          "timeFrame": "At enrollment"
+        },
+        {
+          "measure": "The Percentage of Pathology Transformation",
+          "description": "Pathology transformation was defined as those transformation from non-small-cell lung cancer to small-cell lung cancer or from adenocarcinoma to squamous carcinoma, can be observed by IHC Proportion of pathology transformation(%) = (number of patients with pathology transformation)/(total number of patients in the FAS)×100%.",
+          "timeFrame": "At enrollment"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria\n\nParticipants are eligible to be included in the study only if all of the following criteria apply:\n\nInformed Consent\n\n1. Capable of giving signed informed consent, which includes compliance with the requirements and restrictions listed in the informed consent form (ICF) and in this protocol.\n2. Provision of signed and dated, written informed consent form prior to any mandatory study-specific procedures, sampling, and analyses.\n\n   The ICF process is described in Appendix A3., Sex and Age\n3. Male or female, age at least 18 years. Type of Participant and Disease Characteristics\n4. Pathologically confirmed non-small cell lung cancer (NSCLC) with documented EGFR sensitive mutation (EGFR 19del and L858R) positive before Osimertinib 1L.\n5. Locally advanced (clinical stage IIIB, IIIC) or metastatic NSCLC(clinical stage IVA or IVB) or recurrent NSCLC (per Version 8 of the International Association for the Study of Lung Cancer \\[IASLC\\] Staging Manual in Thoracic Oncology), not amenable to curative or radiotherapy (e.g., this may occur as systemic recurrence after prior surgery for early stage disease or patients may be newly diagnosed with stage IIIB/IV disease, which is at the start of Osimertinib therapy).\n6. Patients must have been treated with Osimertinib as first line therapy until disease progression. Evidence of disease progression following 1L Osimertinib can be confirmed by investigators with criteria in Response Evaluation Criteria in Solid Tumours (RECIST) Version 1.1.\n7. Agree to provide adequate tissue and whole blood for testing after disease progression following 1L Osimertinib.\n\n   Reproduction\n8. Female participants who are not abstinent (in line with the preferred and usual lifestyle choice of the participant) and intend to be sexually active with a male partner must be using highly effective contraceptive measures, must not be breast feeding, and must have a negative pregnancy test prior to the enrolment or must have evidence of non-child-bearing potential by fulfilling 1 of the following criteria at screening:\n\n   * Post-menopausal, defined as more than 50 years of age and amenorrhoeic for at least 12 months following cessation of all exogenous hormonal treatments\n   * Women under 50 years old would be considered as postmenopausal if they have been amenorrhoeic for 12 months or more following cessation of exogenous hormonal treatments and have luteinizing hormone (LH) and follicle-stimulating hormone (FSH) levels in the post-menopausal range for the institution\n   * Documentation of irreversible surgical sterilization by hysterectomy, bilateral oophorectomy or bilateral salpingectomy but not tubal ligation.\n\n   Further information is available in Appendix E (Definition of Women of Childbearing Potential and Acceptable Contraceptive Methods).\n9. Male participants must be willing to use barrier contraception. Exclusion Criteria\n\nParticipants are excluded from the study if any of the following criteria apply:\n\nMedical Conditions\n\n1. Any concurrent and/or other active malignancy that may affect tissue or whole blood testing results.\n2. As judged by the investigator, any evidence of severe or uncontrolled systemic diseases, which in the investigator's opinion, makes it undesirable for the participant to participate in the study or that would jeopardise compliance with the protocol,. Screening for chronic conditions is not required.\n\n   Prior/Concomitant Therapy\n3. Any concurrent anticancer treatment except local radiotherapy and radiotherapy for CNS metastasis. Concurrent use of hormonal therapy for non cancer related conditions (eg, hormone replacement therapy) is allowed.\n\nPrior/Concurrent Clinical Study Experience 5 Judgment by the investigator that the patient should not participate in the study if the patient is unlikely to comply with study procedures, restrictions and requirements.\n\nOther Exclusions 6 Involvement in the planning and/or conduct of the study (applies to both AstraZeneca staff and/or staff at the study site).\n\n7 In addition, the following are considered criteria for exclusion from the exploratory genetic research:\n\n* Prior allogeneic bone marrow transplant\n* Non-leukocyte depleted whole blood transfusion within 120 days of genetic sample collection.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "86 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Yuankai Shi, PhD",
+          "affiliation": "Department of Medical Oncology, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Research Site",
+          "city": "Beijing",
+          "zip": "100210",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Changsha",
+          "zip": "410013",
+          "country": "China",
+          "geoPoint": {
+            "lat": 28.19874,
+            "lon": 112.97087
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Chengdu",
+          "zip": "610014",
+          "country": "China",
+          "geoPoint": {
+            "lat": 30.66667,
+            "lon": 104.06667
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Dalian",
+          "zip": "116023",
+          "country": "China",
+          "geoPoint": {
+            "lat": 38.91222,
+            "lon": 121.60222
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Foshan",
+          "zip": "528000",
+          "country": "China",
+          "geoPoint": {
+            "lat": 23.02677,
+            "lon": 113.13148
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Fuzhou",
+          "zip": "350014",
+          "country": "China",
+          "geoPoint": {
+            "lat": 26.06139,
+            "lon": 119.30611
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Harbin",
+          "zip": "150081",
+          "country": "China",
+          "geoPoint": {
+            "lat": 45.75,
+            "lon": 126.65
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Hefei",
+          "zip": "230001",
+          "country": "China",
+          "geoPoint": {
+            "lat": 31.86389,
+            "lon": 117.28083
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Hefei",
+          "zip": "230601",
+          "country": "China",
+          "geoPoint": {
+            "lat": 31.86389,
+            "lon": 117.28083
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Linhai",
+          "zip": "317000",
+          "country": "China",
+          "geoPoint": {
+            "lat": 22.8836,
+            "lon": 107.264
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Luoyang",
+          "zip": "471003",
+          "country": "China",
+          "geoPoint": {
+            "lat": 34.67345,
+            "lon": 112.43684
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Rizhao",
+          "zip": "276826",
+          "country": "China",
+          "geoPoint": {
+            "lat": 35.41414,
+            "lon": 119.52908
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Shanghai",
+          "zip": "200032",
+          "country": "China",
+          "geoPoint": {
+            "lat": 31.22222,
+            "lon": 121.45806
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Taizhou",
+          "zip": "225300",
+          "country": "China",
+          "geoPoint": {
+            "lat": 32.49069,
+            "lon": 119.90812
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Tianjin",
+          "zip": "300060",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.14222,
+            "lon": 117.17667
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Zhengzhou",
+          "zip": "450000",
+          "country": "China",
+          "geoPoint": {
+            "lat": 34.75778,
+            "lon": 113.64861
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "Redacted CSP",
+          "url": "https://filehosting-v2.pharmacm.com/api/Attachment/Download?tenantId=80217111&amp;parentIdentifier=D5161R00037&amp;attachmentIdentifier=f53a22e1-2ae2-45fe-b4f9-2e7c53b188de&amp;fileName=D5161R00037__protocol_redacted.pdf&amp;versionIdentifier="
+        },
+        {
+          "label": "Redacted SAP",
+          "url": "https://filehosting-v2.pharmacm.com/api/Attachment/Download?tenantId=80217111&amp;parentIdentifier=D5161R00037&amp;attachmentIdentifier=37af5883-ac7e-4fe3-8d46-1f83d7d102b8&amp;fileName=D5161R00037_SAP_V2_redacted.pdf&amp;versionIdentifier="
+        },
+        {
+          "label": "Redacted CSR synopsis",
+          "url": "https://filehosting-v2.pharmacm.com/api/Attachment/Download?tenantId=80217111&amp;parentIdentifier=D5161R00037&amp;attachmentIdentifier=8d96fd80-677d-497e-a882-6a883d038c6f&amp;fileName=D5161R00037-CSR_Synopsis.pdf&amp;versionIdentifier="
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Qualified researchers can request access to anonymized individual patient-level data from AstraZeneca group of companies sponsored clinical trials via the request portal.\n\nAll request will be evaluated as per the AZ disclosure commitment:\n\nhttps://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure. Yes, indicates that AZ are accepting requests for IPD, but this does not mean all requests will be shared.",
+      "timeFrame": "AstraZeneca will meet or exceed data availability as per the commitments made to the EFPIA Pharma Data Sharing Principles. For details of our timelines, please rerefer to our disclosure commitment at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure",
+      "accessCriteria": "When a request has been approved AstraZeneca will provide access to the deidentified individual patient-level data in an approved sponsored tool . Signed Data Sharing Agreement (non-negotiable contract for data accessors) must be in place before accessing requested information. Additionally, all users will need to accept the terms and conditions of the SAS MSE to gain access. For additional details, please review the Disclosure Statements at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.",
+      "url": "https://astrazenecagroup-dt.pharmacm.com/DT/Home"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Among the 183 screened (signed ICF) participants, 182 of them (99.5%) successfully enrolled in the study (fulfilled eligibility criteria at screening), while only 1 participant (0.5%) did not meet the inclusion criteria. A total of 149 subjects who had valid gene data from both plasma and tissue were included in the Full Analysis Set (FAS), which will be the primary analysis set for all analyses.",
+      "recruitmentDetails": "The study screened the first participant on 25 February 2022 and the last participant's last visit was completed on 29 April 2024. A total of 183 participants were screened (signed ICF), among which, 182 participants (99.5%) were successfully enrolled into the study from 16 study sites in China",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Patients With EGFR Negative Result in Plasma Samples",
+          "description": "patients with EGFR negative result in plasma samples"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "comment": "25 February 2022",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "182"
+                }
+              ]
+            },
+            {
+              "type": "Full Analysis Set",
+              "comment": "29 April 2024",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "comment": "Full Analysis Set",
+                  "numSubjects": "149"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "comment": "29 April 2024",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "153"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "29"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Meet exclusion criterion or did not meet inclusion criteria",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "6"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "23"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "149 subjects who had valid gene data from both plasma and tissue were included in baseline analysis population",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Patients With EGFR Negative Result in Plasma Samples",
+          "description": "patients with EGFR negative result in plasma samples"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "149"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "title": "Age(years)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "62.3",
+                      "spread": "9.98"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Sex",
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "84"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "65"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "149"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Participants With Gene Alterations inTissue Detected by NGS",
+          "description": "The Percentage of gene alteration detected by NGS(%) = (number of patients with gene alteration detected by NGS)/(total number of patients in the FAS)×100%.",
+          "populationDescription": "149 subjects who had valid gene data from both plasma and tissue were included in the analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At enrollment",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Post Osimertinib 1L Treatment",
+              "description": "Post Osimertinib first-line (1L) treatment"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "149"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "EGFR",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "139"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "TP53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "106"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "MET",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "47"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants With Gene Alterations in Plasma Detected by NGS",
+          "description": "The percentage of gene alteration detected by NGS(%) = (number of patients with gene alteration detected by NGS)/(total number of patients in the FAS)×100%.",
+          "populationDescription": "149 subjects who had valid gene data from both plasma and tissue were included in the analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At enrollment",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Post Osimertinib 1L Treatment",
+              "description": "Post Osimertinib first-line (1L) treatment"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "149"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "EGFR",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "115"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "TP53",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "65"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "MET",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "EGFR Sensitivity of Plasma and Tissue",
+          "description": "Tissue sample was the reference standard.\n\n-sensitivity=(number of patients with positive result in both plasma and tissue)/(total number of patients with positive result in tissue samples)×100%",
+          "populationDescription": "139 Patients with EGFR positive in tissue",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At enrollment",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients With EGFR Positive in Tissue",
+              "description": "Patients with EGFR positive in tissue"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "139"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "113"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "EGFR Specificity of Plasma and Tissue",
+          "description": "Tissue sample was the reference standard.\n\n\\- specificity=(number of patients with negative result in both plasma and tissue)/(total number of patients with negative result in tissue samples)×100%.",
+          "populationDescription": "10 patients with negative result in tissue samples",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At enrollment",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients With EGFR Negative Result in Tissue Samples",
+              "description": "patients with EGFR negative result in tissue samples"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "10"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "EGFR PPV of Plasma and Tissue",
+          "description": "Tissue sample was the reference standard. PPV (%)=(number of patients with positive result in both plasma and tissue)/(total number of patients with positive result in plasma samples)×100%",
+          "populationDescription": "115 patients with positive result in plasma samples",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At enrollment",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients With EGFR Positive Result in Plasma Samples",
+              "description": "patients with EGFR positive result in plasma samples"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "115"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "113"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "EGFR NPV of Plasma and Tissue",
+          "description": "Tissue sample was the reference standard.\n\n\\- NPV (%)=(number of patients with negative result in both plasma and tissue)/(total number of patients with negative result in plasma samples)×100%.",
+          "populationDescription": "34 patients with negative result in plasma samples",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At enrollment",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Patients With EGFR Negative Result in Plasma Samples",
+              "description": "patients with EGFR negative result in plasma samples"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "The Percentage of Pathology Transformation",
+          "description": "Pathology transformation was defined as those transformation from non-small-cell lung cancer to small-cell lung cancer or from adenocarcinoma to squamous carcinoma, can be observed by IHC Proportion of pathology transformation(%) = (number of patients with pathology transformation)/(total number of patients in the FAS)×100%.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "At enrollment",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Post Osimertinib 1L Treatment",
+              "description": "Post Osimertinib first-line (1L) treatment"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "149"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Non-small-cell lung cancer to small-cell lung cancer",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Adenocarcinoma to squamous carcinoma",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "description": "All-Cause Mortality, Serious, and Other (Not Including Serious) Adverse Events were not monitored/assessed.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Patients With EGFR Negative Result in Plasma Samples",
+          "description": "patients with EGFR negative result in plasma samples",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 0,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 0,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 0
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Global Clinical Lead",
+        "organization": "AstraZeneca",
+        "email": "information.center@astrazeneca.com",
+        "phone": "1-877-240-9479"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2023-01-20",
+          "uploadDate": "2025-04-15T06:26",
+          "filename": "Prot_000.pdf",
+          "size": 2709361
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-05-17",
+          "uploadDate": "2025-04-15T06:26",
+          "filename": "SAP_001.pdf",
+          "size": 2006191
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2025-12-02"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D002289",
+          "term": "Carcinoma, Non-Small-Cell Lung"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002283",
+          "term": "Carcinoma, Bronchogenic"
+        },
+        {
+          "id": "D001984",
+          "term": "Bronchial Neoplasms"
+        },
+        {
+          "id": "D008175",
+          "term": "Lung Neoplasms"
+        },
+        {
+          "id": "D012142",
+          "term": "Respiratory Tract Neoplasms"
+        },
+        {
+          "id": "D013899",
+          "term": "Thoracic Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}
