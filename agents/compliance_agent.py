@@ -3,8 +3,6 @@
 from typing import Tuple, Optional
 import re
 
-from langfuse.openai import OpenAI
-
 from config import (
     OPENAI_MODEL,
     GENERATED_CSR_PATH,
@@ -12,9 +10,9 @@ from config import (
 )
 from utils.file_utils import read_docx_text, write_docx_text
 from utils.logging_utils import setup_logger
+from utils.agent_utils import create_chat
 
 logger = setup_logger("ComplianceAgent")
-client = OpenAI()
 
 
 def _parse_score_from_text(text: str) -> float:
@@ -74,7 +72,7 @@ class ComplianceAgent:
         user_prompt = f"CSR TEXT:\n{csr_text}\n\nPlease perform the compliance review as requested."
 
         logger.info("[ComplianceAgent] Calling LLM for compliance check...")
-        response = client.chat.completions.create(
+        response = create_chat(
             model=OPENAI_MODEL,
             messages=[
                 {"role": "system", "content": system_prompt},

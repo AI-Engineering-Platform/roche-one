@@ -3,14 +3,12 @@
 from typing import Tuple, Optional
 import re
 
-from langfuse.openai import OpenAI  # Langfuse-wrapped OpenAI client
-
 from config import OPENAI_MODEL, GENERATED_CSR_PATH, REVIEW_REPORT_PATH
 from utils.file_utils import read_docx_text, write_docx_text
 from utils.logging_utils import setup_logger
+from utils.agent_utils import create_chat
 
 logger = setup_logger("ReviewerAgent")
-client = OpenAI()
 
 
 def _parse_score_from_text(text: str) -> float:
@@ -72,7 +70,7 @@ class ReviewerAgent:
         user_prompt = f"CSR TEXT:\n{csr_text}\n\nPlease perform the completeness review as requested."
 
         logger.info("[ReviewerAgent] Calling LLM for completeness review...")
-        response = client.chat.completions.create(
+        response = create_chat(
             model=OPENAI_MODEL,
             messages=[
                 {"role": "system", "content": system_prompt},

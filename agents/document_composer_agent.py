@@ -1,8 +1,6 @@
 # agents/document_composer_agent.py
 
 from typing import Dict, Any
-from openai import OpenAI
-from langfuse.openai import OpenAI
 
 from config import (
     OPENAI_MODEL,
@@ -11,14 +9,14 @@ from config import (
 )
 from utils.file_utils import read_docx_text, write_docx_text
 from utils.logging_utils import setup_logger
+from utils.agent_utils import create_chat
 
 logger = setup_logger("DocumentComposerAgent")
-client = OpenAI()
 
 
 def _call_llm(system_prompt: str, user_prompt: str) -> str:
     logger.info("[DocumentComposerAgent] Calling OpenAI (Langfuse-wrapped)")
-    response = client.chat.completions.create(
+    response = create_chat(
         model=OPENAI_MODEL,
         messages=[
             {"role": "system", "content": system_prompt},
