@@ -7,7 +7,7 @@ client = OpenAI()
 
 
 def create_chat(
-        model: str,
+    model: str,
     messages: list[dict],
     **kwargs,
 ) -> "OpenAI.chat.completions.CreateResponse":
@@ -19,9 +19,9 @@ def create_chat(
     with propagate_attributes(
         user_id=USER_ID,
         session_id=SESSION_ID,
-            ):
+    ):
         return client.chat.completions.create(
-                    model=model,
+            model=model,
             messages=messages,
             **kwargs,
-            )
+        )
