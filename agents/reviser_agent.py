@@ -13,9 +13,9 @@ from config import (
 )
 from utils.file_utils import read_docx_text, write_docx_text
 from utils.logging_utils import setup_logger
+from utils.agent_utils import client
 
 logger = setup_logger("ReviserAgent")
-client = OpenAI()
 
 
 class ReviserAgent:

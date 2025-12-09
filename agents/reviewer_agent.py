@@ -8,9 +8,9 @@ from langfuse.openai import OpenAI  # Langfuse-wrapped OpenAI client
 from config import OPENAI_MODEL, GENERATED_CSR_PATH, REVIEW_REPORT_PATH
 from utils.file_utils import read_docx_text, write_docx_text
 from utils.logging_utils import setup_logger
+from utils.agent_utils import client
 
 logger = setup_logger("ReviewerAgent")
-client = OpenAI()
 
 
 def _parse_score_from_text(text: str) -> float:

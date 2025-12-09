@@ -11,9 +11,9 @@ from config import (
 )
 from utils.file_utils import read_docx_text, write_docx_text
 from utils.logging_utils import setup_logger
+from utils.agent_utils import client
 
 logger = setup_logger("DocumentComposerAgent")
-client = OpenAI()
 
 
 def _call_llm(system_prompt: str, user_prompt: str) -> str:

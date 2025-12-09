@@ -10,11 +10,8 @@ from config import (
 )
 from utils.file_utils import read_json, read_docx_text
 from utils.logging_utils import setup_logger
-
+from utils.agent_utils import client
 logger = setup_logger("KnowledgeAgent")
-
-# Client reads OPENAI_API_KEY from environment / .env
-client = OpenAI()
 
 
 def _call_llm(system_prompt: str, user_prompt: str) -> str:
