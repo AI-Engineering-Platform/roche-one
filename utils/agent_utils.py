@@ -1,9 +1,9 @@
-from langfuse.openai import OpenAI
+from langfuse.openai import AsyncOpenAI, OpenAI
 from langfuse import propagate_attributes
-
 from config import SESSION_ID, USER_ID
 
 client = OpenAI()
+async_openai_client = AsyncOpenAI()
 
 
 def create_chat(
