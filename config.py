@@ -18,3 +18,7 @@ MAX_ITERATIONS=os.getenv("MAX_ITERATIONS")
 
 SESSION_ID = os.getenv("SESSION_ID", f"session_{secrets.token_hex(3)}")
 USER_ID = os.getenv("USER_ID", "default_user")
+
+GEMINI_API_BASE = os.getenv("GEMINI_API_BASE")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL")
