@@ -15,7 +15,8 @@ logger = setup_logger("MainPipeline")
 from config import (
     CONFIDENCE_THRESHOLD,
     MAX_ITERATIONS,
-    
+    SESSION_ID,
+    USER_ID,
 )
 def improve_csr_until_confident(
     initial_csr_path: str,
@@ -123,6 +124,7 @@ def run_pipeline():
     2) DocumentComposerAgent – initial CSR (v0)
     3) Reviewer + Compliance + Reviser loop until score >= 80% or max iterations
     """
+    logger.info(f"Session ID: {SESSION_ID}, User ID: {USER_ID}")
     logger.info("Starting CSR multi-agent pipeline (with improvement loop)...")
 
     # 1) Knowledge Agent

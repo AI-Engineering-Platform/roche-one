@@ -1,7 +1,6 @@
 # agents/knowledge_agent.py
 
 from typing import Dict, Any
-from openai import OpenAI
 
 from config import (
     OPENAI_MODEL,
@@ -10,7 +9,7 @@ from config import (
 )
 from utils.file_utils import read_json, read_docx_text
 from utils.logging_utils import setup_logger
-from utils.agent_utils import client
+from utils.agent_utils import create_chat
 logger = setup_logger("KnowledgeAgent")
 
 
@@ -19,7 +18,7 @@ def _call_llm(system_prompt: str, user_prompt: str) -> str:
     Simple wrapper around OpenAI chat completions.
     Make sure OPENAI_MODEL is a chat-compatible model (e.g., gpt-4o-mini).
     """
-    response = client.chat.completions.create(
+    response = create_chat(
         model=OPENAI_MODEL,
         messages=[
             {"role": "system", "content": system_prompt},
