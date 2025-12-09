@@ -3,12 +3,40 @@
 from typing import Tuple, Optional
 import re
 
-from config import OPENAI_MODEL, GENERATED_CSR_PATH, REVIEW_REPORT_PATH
+from openai import OpenAI as RawOpenAI           # for Gemini-compatible endpoint
+from langfuse.openai import OpenAI as LFOpenAI   # default OpenAI with Langfuse
+
+from config import (
+    OPENAI_MODEL,
+    GENERATED_CSR_PATH,
+    REVIEW_REPORT_PATH,
+    GEMINI_API_BASE,
+    GEMINI_API_KEY,
+    GEMINI_MODEL
+    )
 from utils.file_utils import read_docx_text, write_docx_text
 from utils.logging_utils import setup_logger
-from utils.agent_utils import create_chat
 
 logger = setup_logger("ReviewerAgent")
+
+
+def _get_client():
+    """
+    Returns an OpenAI-compatible client.
+    If GEMINI_API_BASE and GEMINI_API_KEY are set, use that endpoint (Gemini gateway).
+    Otherwise, fall back to the standard Langfuse-wrapped OpenAI client.
+    """
+    if GEMINI_API_BASE and GEMINI_API_KEY:
+        logger.info(
+            f"[ReviewerAgent] Using Gemini-compatible OpenAI endpoint at {GEMINI_API_BASE}"
+        )
+        return RawOpenAI(
+            base_url=GEMINI_API_BASE,
+            api_key=GEMINI_API_KEY,
+        )
+    else:
+        logger.info("[ReviewerAgent] Using default OpenAI client (Langfuse-wrapped).")
+        return LFOpenAI()
 
 
 def _parse_score_from_text(text: str) -> float:
@@ -34,6 +62,7 @@ class ReviewerAgent:
     def __init__(self):
         self.csr_path = GENERATED_CSR_PATH
         self.output_path = REVIEW_REPORT_PATH
+        self.client = _get_client()
 
     def review_document(
         self,
@@ -70,8 +99,8 @@ class ReviewerAgent:
         user_prompt = f"CSR TEXT:\n{csr_text}\n\nPlease perform the completeness review as requested."
 
         logger.info("[ReviewerAgent] Calling LLM for completeness review...")
-        response = create_chat(
-            model=OPENAI_MODEL,
+        response = self.client.chat.completions.create(
+            model=GEMINI_MODEL if (GEMINI_API_BASE and GEMINI_API_KEY) else OPENAI_MODEL,
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
