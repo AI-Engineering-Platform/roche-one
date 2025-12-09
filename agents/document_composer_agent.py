@@ -2,6 +2,7 @@
 
 from typing import Dict, Any
 from openai import OpenAI
+from langfuse.openai import OpenAI
 
 from config import (
     OPENAI_MODEL,
@@ -16,6 +17,7 @@ client = OpenAI()
 
 
 def _call_llm(system_prompt: str, user_prompt: str) -> str:
+    logger.info("[DocumentComposerAgent] Calling OpenAI (Langfuse-wrapped)")
     response = client.chat.completions.create(
         model=OPENAI_MODEL,
         messages=[
@@ -46,6 +48,7 @@ class DocumentComposerAgent:
             "You are a medical writer generating a Clinical Study Report (CSR).\n"
             "You receive:\n"
             "- A CSR template with sections and structure.\n"
+            "- Ensure you follow the template structure strictly.\n"
             "- Extracted content for each section (possibly in raw text form).\n\n"
             "Your job is to produce a clean, well-structured CSR document that "
             "follows the template headings and uses the extracted content where relevant."

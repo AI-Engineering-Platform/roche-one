@@ -1,6 +1,8 @@
 # agents/reviser_agent.py
 
-from openai import OpenAI
+from typing import Optional
+
+from langfuse.openai import OpenAI
 
 from config import (
     OPENAI_MODEL,
@@ -16,61 +18,74 @@ logger = setup_logger("ReviserAgent")
 client = OpenAI()
 
 
-def _call_llm(system_prompt: str, user_prompt: str) -> str:
-    response = client.chat.completions.create(
-        model=OPENAI_MODEL,
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt},
-        ],
-    )
-    return response.choices[0].message.content
-
-
 class ReviserAgent:
     """
-    Uses the original CSR, review report, and compliance report to generate
-    a revised CSR document.
+    Takes the current CSR + review report + compliance report,
+    and produces an improved CSR.
     """
 
     def __init__(self):
-        self.original_csr_path = GENERATED_CSR_PATH
-        self.review_report_path = REVIEW_REPORT_PATH
-        self.compliance_report_path = COMPLIANCE_REPORT_PATH
+        self.csr_path = GENERATED_CSR_PATH
+        self.review_path = REVIEW_REPORT_PATH
+        self.compliance_path = COMPLIANCE_REPORT_PATH
         self.output_path = REVISED_CSR_PATH
 
-    def revise_document(self) -> str:
-        logger.info(f"Reading original CSR from: {self.original_csr_path}")
-        original_csr = read_docx_text(self.original_csr_path)
+    def revise_document(
+        self,
+        csr_path: Optional[str] = None,
+        review_path: Optional[str] = None,
+        compliance_path: Optional[str] = None,
+        output_path: Optional[str] = None,
+    ) -> str:
+        """
+        Revise the CSR and write to output_path (or config default if not provided).
+        Returns the path to the revised CSR.
+        """
+        if csr_path:
+            self.csr_path = csr_path
+        if review_path:
+            self.review_path = review_path
+        if compliance_path:
+            self.compliance_path = compliance_path
+        if output_path:
+            self.output_path = output_path
 
-        logger.info(f"Reading review report from: {self.review_report_path}")
-        review_text = read_docx_text(self.review_report_path)
-
-        logger.info(f"Reading compliance report from: {self.compliance_report_path}")
-        compliance_text = read_docx_text(self.compliance_report_path)
+        logger.info("[ReviserAgent] Reading CSR, review report, and compliance report...")
+        csr_text = read_docx_text(self.csr_path)
+        review_text = read_docx_text(self.review_path)
+        compliance_text = read_docx_text(self.compliance_path)
 
         system_prompt = (
-            "You are a senior medical writer revising a Clinical Study Report (CSR).\n"
-            "You receive:\n"
-            "- The current CSR draft\n"
-            "- A review report with completeness scores\n"
-            "- A compliance report with regulatory alignment feedback\n\n"
-            "Your job is to create a revised CSR that addresses the comments and "
-            "improves structure, clarity, and compliance while NOT inventing any new data."
+            "You are a senior medical writer tasked with revising a Clinical Study Report (CSR) "
+            "based on feedback from:\n"
+            "- A completeness review report\n"
+            "- A regulatory compliance report\n\n"
+            "Your goal is to generate an improved version of the CSR that:\n"
+            "- Addresses completeness gaps\n"
+            "- Addresses regulatory compliance issues\n"
+            "- Improves clarity and structure\n\n"
+            "- Retains all sections and data from the original CSR that are not flagged as needing change"
+            "Do NOT invent new numerical results or patients; refine only the narrative, structure, and coverage."
         )
 
         user_prompt = (
-            f"Original CSR:\n{original_csr}\n\n"
-            f"Review Report:\n{review_text}\n\n"
-            f"Compliance Report:\n{compliance_text}\n\n"
-            "Produce the full revised CSR text. Do not include extra commentary, "
-            "only the revised CSR."
+            f"CURRENT CSR:\n{csr_text}\n\n"
+            f"COMPLETENESS REVIEW REPORT:\n{review_text}\n\n"
+            f"COMPLIANCE REPORT:\n{compliance_text}\n\n"
+            "Please produce an improved CSR version that addresses the identified issues."
         )
 
-        logger.info("Calling LLM from ReviserAgent...")
-        revised_csr_text = _call_llm(system_prompt, user_prompt)
+        logger.info("[ReviserAgent] Calling LLM to revise CSR...")
+        response = client.chat.completions.create(
+            model=OPENAI_MODEL,
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ],
+        )
+        revised_text = response.choices[0].message.content
 
-        logger.info(f"Writing revised CSR to: {self.output_path}")
-        write_docx_text(self.output_path, revised_csr_text)
+        logger.info(f"[ReviserAgent] Writing revised CSR to: {self.output_path}")
+        write_docx_text(self.output_path, revised_text)
 
         return self.output_path
