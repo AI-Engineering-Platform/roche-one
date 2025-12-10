@@ -34,7 +34,7 @@ def _main():
                                    f"Create a CSR from the provided clinical study data with a confidence score of {CONFIDENCE_THRESHOLD} using a maximum number of iterations {MAX_ITERATIONS}:\n\n" +
                                    open(INPUT_DATA_JSON).read())
         
-        return result
+        return result.final_output
 
 if __name__ == "__main__":
     result = _main()
