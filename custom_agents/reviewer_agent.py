@@ -2,8 +2,9 @@
 
 import agents
 
-from config import AGENT_LLM_NAMES
+from config import AGENT_LLM_NAMES, CSR_SAMPLE_REPORT_PATH
 from utils.agent_utils import async_openai_client
+from utils.file_utils import read_pdf_text
 from custom_agents.types import ReviewerContent
 
 
@@ -20,6 +21,10 @@ Your output MUST contain:
    OVERALL_COMPLETENESS_SCORE: <number>
 
 Do not invent clinical results; only judge structure, clarity, and coverage.
+
+Here's an example report, although it was generated from another template:
+
+{read_pdf_text(CSR_SAMPLE_REPORT_PATH)}
 """,
     tools=[],
     model=agents.OpenAIChatCompletionsModel(

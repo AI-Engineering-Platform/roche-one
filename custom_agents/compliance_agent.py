@@ -4,6 +4,7 @@ import agents
 
 from config import AGENT_LLM_NAMES
 from utils.agent_utils import async_openai_client
+from utils.file_utils import read_pdf_text
 from custom_agents.types import ReviewerContent
 
 
@@ -20,6 +21,10 @@ Your output MUST contain:
    OVERALL_COMPLIANCE_SCORE: <number>
 
 Do not invent clinical results; only assess structure, content completeness, and regulatory expectations.
+
+The ICH guidelines are included below:
+
+{read_pdf_text("data/input/E3_Guideline.pdf")}
 """,
     tools=[],
     model=agents.OpenAIChatCompletionsModel(
