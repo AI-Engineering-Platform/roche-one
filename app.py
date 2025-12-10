@@ -493,7 +493,7 @@ def run_full_pipeline_stream():
             langfuse_info,
         )
 
-    log(f"🚀 Starting CSR pipeline (target={target_confidence}, max_iter={max_iterations}, model={model_choice})")
+    log(f"🚀 Starting CSR pipeline (target={target_confidence}, max_iter={max_iterations})")
     # initial state
     yield make_yield(status="Starting...", progress=0.0)
 
