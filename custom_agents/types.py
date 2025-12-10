@@ -42,15 +42,10 @@ class ReviewerContent:
 
 
 @dataclass
-class ComplianceContent:
-    score: int
-    content_by_section: dict[str, str]
-
-@dataclass
 class SupervisorContent:
     initial_csr_document: CsrDocument
     reviewer_report: ReviewerContent
-    compliance_report: ComplianceContent
+    compliance_report: ReviewerContent
     final_csr_document: CsrDocument
     initial_score: int
     final_score: int
