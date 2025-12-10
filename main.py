@@ -1,14 +1,17 @@
 # main.py
 
+import agents
+
 from pathlib import Path
 
 from utils.logging_utils import setup_logger
+from utils.file_utils import read_json
 
-from agents.knowledge_agent import KnowledgeAgent
-from agents.document_composer_agent import DocumentComposerAgent
-from agents.reviewer_agent import ReviewerAgent
-from agents.compliance_agent import ComplianceAgent
-from agents.reviser_agent import ReviserAgent
+from langfuse import propagate_attributes
+from utils.agent_utils import async_openai_client
+
+from custom_agents.knowledge_agent import knowledge_tool
+from custom_agents.document_composer_agent import composer_tool
 
 logger = setup_logger("MainPipeline")
 
@@ -17,6 +20,8 @@ from config import (
     MAX_ITERATIONS,
     SESSION_ID,
     USER_ID,
+    AGENT_LLM_NAMES,
+    INPUT_DATA_JSON,
 )
 def improve_csr_until_confident(
     initial_csr_path: str,
@@ -117,42 +122,34 @@ def improve_csr_until_confident(
     }
 
 
-def run_pipeline():
-    """
-    Full pipeline (no Gradio changes):
-    1) KnowledgeAgent – extract sections
-    2) DocumentComposerAgent – initial CSR (v0)
-    3) Reviewer + Compliance + Reviser loop until score >= 80% or max iterations
-    """
-    logger.info(f"Session ID: {SESSION_ID}, User ID: {USER_ID}")
-    logger.info("Starting CSR multi-agent pipeline (with improvement loop)...")
+main_agent = agents.Agent(
+    name="SupervisorAgent",
+    instructions="""
+You are the supervisor agent coordinating the CSR generation pipeline.
 
-    # 1) Knowledge Agent
-    knowledge_agent = KnowledgeAgent()
-    extracted_sections = knowledge_agent.extract_sections()
-    logger.info("KnowledgeAgent completed.")
+Your tasks are to orchestrate the following steps:
+1) Use the KnowledgeExtractionTool to extract structured content from clinical study data.
+2) Use the DocumentComposerTool to generate an initial CSR draft (v0) from the extracted content.
+""",
+    tools=[knowledge_tool, composer_tool],
+    model=agents.OpenAIChatCompletionsModel(
+        model=AGENT_LLM_NAMES["supervisor"],
+        openai_client=async_openai_client
+    ),
+)
 
-    # 2) Document Composer Agent
-    composer_agent = DocumentComposerAgent()
-    initial_csr_path = composer_agent.compose_document(extracted_sections)
-    logger.info(f"Initial CSR generated at: {initial_csr_path} (treated as v0)")
-
-    # 3) Improvement loop
-    result = improve_csr_until_confident(
-        initial_csr_path=initial_csr_path,
-        target_score=80.0,
-        max_iterations=3,
-    )
-
-    logger.info("Pipeline completed.")
-    logger.info(f"Final CSR path: {result['final_csr_path']}")
-    logger.info(f"Final score: {result['final_score']}")
-    logger.info(f"Iterations: {result['iterations']}")
-    logger.info(f"Review report path: {result['review_report_path']}")
-    logger.info(f"Compliance report path: {result['compliance_report_path']}")
-
-    return result
-
+def _main():
+    with propagate_attributes(
+        user_id=USER_ID,
+        session_id=SESSION_ID,
+    ):
+        logger.info(f"Running main CSR generation pipeline as User ID: {USER_ID}, Session ID: {SESSION_ID}")
+        result = agents.Runner.run_sync(main_agent,
+                                   "Create a CSR from the provided clinical study data:\n\n" +
+                                   open(INPUT_DATA_JSON).read())
+        
+        return result
 
 if __name__ == "__main__":
-    run_pipeline()
+    result = _main()
+    logger.info(result)

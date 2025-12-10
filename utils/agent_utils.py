@@ -2,7 +2,7 @@ from langfuse.openai import AsyncOpenAI, OpenAI
 from langfuse import propagate_attributes
 from config import SESSION_ID, USER_ID
 
-client = OpenAI()
+openai_client = OpenAI()
 async_openai_client = AsyncOpenAI()
 
 
@@ -20,7 +20,7 @@ def create_chat(
         user_id=USER_ID,
         session_id=SESSION_ID,
     ):
-        return client.chat.completions.create(
+        return openai_client.chat.completions.create(
             model=model,
             messages=messages,
             **kwargs,

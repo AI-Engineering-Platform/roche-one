@@ -20,6 +20,6 @@ SESSION_ID = os.getenv("SESSION_ID", f"session_{secrets.token_hex(3)}")
 USER_ID = os.getenv("USER_ID", "default_user")
 
 AGENT_LLM_NAMES = {
-    "worker": "gemini-2.5-flash",  # less expensive,
-    "planner": "gemini-2.5-pro",  # more expensive, better at reasoning and planning
+    "worker": OPENAI_MODEL,  # less expensive,
+    "supervisor": OPENAI_MODEL,  # more expensive, better at reasoning and planning
 }

@@ -3,25 +3,22 @@
 import agents
 
 from config import (
-    INPUT_DATA_JSON,
     CSR_TEMPLATE_PATH,
     AGENT_LLM_NAMES,
 )
-from utils.file_utils import read_json, read_docx_text
-from utils.logging_utils import setup_logger
-from utils.agent_utils import async_openai_client
+from utils.file_utils import read_docx_text
+from utils.agent_utils import openai_client
+from custom_agents.types import KnowledgeContent
 
 
-logger = setup_logger("KnowledgeAgent")
-
-
-# Ideally, the supervisor would call this agent with the clinical study data
 knowledge_agent = agents.Agent(
     name="KnowledgeAgent",
     instructions=f"""
 You are a clinical documentation assistant.
 
-Using the clinical study data and the CSR template, extract and organize 
+You are provided clinical study data in JSON format.
+
+Using the clinical study data and the CSR template (below), extract and organize 
 relevant content for ALL sections implied by the template.
 
 Return the output as well-structured plain text, clearly separated by
@@ -35,14 +32,16 @@ following the template structure as much as possible.
 CSR Template
 ------------
 {read_docx_text(CSR_TEMPLATE_PATH)}
-
-Clinical Study Data (JSON-like)
--------------------------------
-{read_json(INPUT_DATA_JSON)}
 """,
     tools=[],
     model=agents.OpenAIChatCompletionsModel(
-        model=AGENT_LLM_NAMES["worker"], openai_client=async_openai_client
+        model=AGENT_LLM_NAMES["worker"],
+        openai_client=openai_client
     ),
-    output_type=str,
+    output_type=KnowledgeContent,
+)
+
+knowledge_tool = knowledge_agent.as_tool(
+    tool_name="KnowledgeExtractionTool",
+    tool_description="This tool takes a clinical study data (json-like) and returns content for each section of the CSR",
 )

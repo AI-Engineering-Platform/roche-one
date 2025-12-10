@@ -1,5 +1,12 @@
+import os
 from dataclasses import dataclass
-from utils.docx_utils import read_docx_text, write_docx_text
+from utils.file_utils import read_docx_text, write_docx_text
+
+
+@dataclass
+class KnowledgeContent:
+    nct_id: str
+    content_by_section: dict[str, str]
 
 
 @dataclass
@@ -14,4 +21,4 @@ class CsrDocument:
         if self.content.strip() == "":
             read_docx_text(self.filename)
         else:
-            write_docx_text(self.filename, self.content)
+            write_docx_text(os.path.join("data/output/", self.filename), self.content)
