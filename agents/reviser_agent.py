@@ -59,10 +59,11 @@ class ReviserAgent:
             "- A completeness review report\n"
             "- A regulatory compliance report\n\n"
             "Your goal is to generate an improved version of the CSR that:\n"
+            "Ensure you follow the table of contents of the orginal CSR with the same numbering and header names For e.g. 3.1.2 Changes in Study Conduct, do not alter the numbering or header text or include any special characters like *\n"
             "- Addresses completeness gaps\n"
             "- Addresses regulatory compliance issues\n"
             "- Improves clarity and structure\n\n"
-            "- Retains all sections and data from the original CSR that are not flagged as needing change"
+            "- Retains and populates all sections and data from the original CSR that are not not available in the new CSR "
             "Do NOT invent new numerical results or patients; refine only the narrative, structure, and coverage."
         )
 
