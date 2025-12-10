@@ -8,7 +8,7 @@ from config import (
 )
 from custom_agents.types import CsrDocument
 from utils.file_utils import read_docx_text
-from utils.agent_utils import openai_client
+from utils.agent_utils import async_openai_client
 
 
 composer_agent = agents.Agent(
@@ -22,7 +22,7 @@ Using the template provided below, you will compose a well-structured CSR docume
 
 Your job is to produce a clean, well-structured CSR document that follows the template headings and uses the extracted content where relevant.
 
-The document filename should be "CSR_<nct_id>.docx", where <nct_id> is the NCT ID extracted from the clinical study data.
+The document filename should be "CSR_<nct_id>_v0.docx", where <nct_id> is the NCT ID extracted from the clinical study data.
 
 CSR Template
 ------------
@@ -31,7 +31,7 @@ CSR Template
     tools=[],
     model=agents.OpenAIChatCompletionsModel(
         model=AGENT_LLM_NAMES["worker"],
-        openai_client=openai_client
+        openai_client=async_openai_client
     ),
     output_type=CsrDocument,
 )

@@ -1,89 +1,36 @@
 # agents/reviser_agent.py
 
-from typing import Optional
+import agents
 
-from config import (
-    OPENAI_MODEL,
-    GENERATED_CSR_PATH,
-    REVIEW_REPORT_PATH,
-    COMPLIANCE_REPORT_PATH,
-    REVISED_CSR_PATH,
+from config import AGENT_LLM_NAMES
+from utils.agent_utils import async_openai_client
+from custom_agents.types import CsrDocument
+
+
+reviser_agent = agents.Agent(
+    name="ReviserAgent",
+    instructions=f"""
+You are a senior medical writer tasked with revising a Clinical Study Report (CSR) based on feedback from:
+- A completeness review report
+- A regulatory compliance report
+
+Your goal is to generate an improved version of the CSR that:
+- Addresses completeness gaps
+- Addresses regulatory compliance issues
+- Improves clarity and structure
+- Retains all sections and data from the original CSR that are not flagged as needing changeDo NOT invent new numerical results or patients; refine only the narrative, structure, and coverage.
+
+The filename generated should be similar to the input but append a version number (e.g., if input is CSR_v0.docx, output should be CSR_v1.docx).
+""",
+    tools=[],
+    model=agents.OpenAIChatCompletionsModel(
+        model=AGENT_LLM_NAMES["worker"],
+        openai_client=async_openai_client
+    ),
+    output_type=CsrDocument,
 )
-from utils.file_utils import read_docx_text, write_docx_text
-from utils.logging_utils import setup_logger
-from utils.agent_utils import create_chat
 
-logger = setup_logger("ReviserAgent")
-
-
-class ReviserAgent:
-    """
-    Takes the current CSR + review report + compliance report,
-    and produces an improved CSR.
-    """
-
-    def __init__(self):
-        self.csr_path = GENERATED_CSR_PATH
-        self.review_path = REVIEW_REPORT_PATH
-        self.compliance_path = COMPLIANCE_REPORT_PATH
-        self.output_path = REVISED_CSR_PATH
-
-    def revise_document(
-        self,
-        csr_path: Optional[str] = None,
-        review_path: Optional[str] = None,
-        compliance_path: Optional[str] = None,
-        output_path: Optional[str] = None,
-    ) -> str:
-        """
-        Revise the CSR and write to output_path (or config default if not provided).
-        Returns the path to the revised CSR.
-        """
-        if csr_path:
-            self.csr_path = csr_path
-        if review_path:
-            self.review_path = review_path
-        if compliance_path:
-            self.compliance_path = compliance_path
-        if output_path:
-            self.output_path = output_path
-
-        logger.info("[ReviserAgent] Reading CSR, review report, and compliance report...")
-        csr_text = read_docx_text(self.csr_path)
-        review_text = read_docx_text(self.review_path)
-        compliance_text = read_docx_text(self.compliance_path)
-
-        system_prompt = (
-            "You are a senior medical writer tasked with revising a Clinical Study Report (CSR) "
-            "based on feedback from:\n"
-            "- A completeness review report\n"
-            "- A regulatory compliance report\n\n"
-            "Your goal is to generate an improved version of the CSR that:\n"
-            "- Addresses completeness gaps\n"
-            "- Addresses regulatory compliance issues\n"
-            "- Improves clarity and structure\n\n"
-            "- Retains all sections and data from the original CSR that are not flagged as needing change"
-            "Do NOT invent new numerical results or patients; refine only the narrative, structure, and coverage."
-        )
-
-        user_prompt = (
-            f"CURRENT CSR:\n{csr_text}\n\n"
-            f"COMPLETENESS REVIEW REPORT:\n{review_text}\n\n"
-            f"COMPLIANCE REPORT:\n{compliance_text}\n\n"
-            "Please produce an improved CSR version that addresses the identified issues."
-        )
-
-        logger.info("[ReviserAgent] Calling LLM to revise CSR...")
-        response = create_chat(
-            model=OPENAI_MODEL,
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt},
-            ],
-        )
-        revised_text = response.choices[0].message.content
-
-        logger.info(f"[ReviserAgent] Writing revised CSR to: {self.output_path}")
-        write_docx_text(self.output_path, revised_text)
-
-        return self.output_path
+reviser_tool = reviser_agent.as_tool(
+    tool_name="ReviserTool",
+    tool_description="This tool takes a CSR document, a completeness review report, and a compliance report as inputs and produces a revised CSR document that addresses the identified issues.",
+)

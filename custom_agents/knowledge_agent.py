@@ -7,7 +7,7 @@ from config import (
     AGENT_LLM_NAMES,
 )
 from utils.file_utils import read_docx_text
-from utils.agent_utils import openai_client
+from utils.agent_utils import async_openai_client
 from custom_agents.types import KnowledgeContent
 
 
@@ -36,7 +36,7 @@ CSR Template
     tools=[],
     model=agents.OpenAIChatCompletionsModel(
         model=AGENT_LLM_NAMES["worker"],
-        openai_client=openai_client
+        openai_client=async_openai_client
     ),
     output_type=KnowledgeContent,
 )
