@@ -22,7 +22,7 @@ Using the template provided below, you will compose a well-structured CSR docume
 
 Your job is to produce a clean, well-structured CSR document that follows the template headings and uses the extracted content where relevant.
 
-The document filename should be "CSR_<nct_id>_v0.docx", where <nct_id> is the NCT ID extracted from the clinical study data.
+The output should contain the NCT ID the NCT ID extracted from the clinical study data and the markdown content
 
 CSR Template
 ------------

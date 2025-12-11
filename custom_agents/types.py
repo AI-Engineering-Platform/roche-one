@@ -13,19 +13,22 @@ class KnowledgeContent:
 
 @dataclass
 class CsrDocument:
-    filename: str
-    content: str
+    nct_id: str
+    markdown: str
+    version: int = 0
 
     def __post_init__(self):
         logger.info("Created CsrDocument instance")
-        if not self.filename.endswith(".docx"):
-            raise ValueError("Filename must end with .docx")
         
-        if self.content.strip() == "":
+        if self.markdown.strip() == "":
             raise ValueError("Content cannot be empty")
 
         logger.info(f"   Writing CSR document to file system ({self.filename})")
-        write_docx_text(os.path.join("data/output/", self.filename), self.content)
+        write_docx_text(os.path.join("data/output/", self.filename), self.markdown)
+
+    @property
+    def filename(self):
+        return f"CSR_{self.nct_id}_v{self.version}.docx"
 
 
 @dataclass

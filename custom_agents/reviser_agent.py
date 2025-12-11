@@ -20,7 +20,7 @@ Your goal is to generate an improved version of the CSR that:
 - Improves clarity and structure
 - Retains all sections and data from the original CSR that are not flagged as needing changeDo NOT invent new numerical results or patients; refine only the narrative, structure, and coverage.
 
-The filename generated should be similar to the input but append a version number (e.g., if input is CSR_v0.docx, output should be CSR_v1.docx).
+The output nct_id should be the same as the input file, but the version number should be incremented by 1. The output should also contain the revised markdown content
 """,
     tools=[],
     model=agents.OpenAIChatCompletionsModel(
