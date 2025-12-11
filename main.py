@@ -3,10 +3,9 @@
 import agents
 
 from utils.logging_utils import setup_logger
-from utils.file_utils import read_json
 
 from langfuse import propagate_attributes
-from utils.agent_utils import async_openai_client
+from utils.agent_utils import async_openai_client, langfuse_client
 
 
 from custom_agents.supervisor_agent import supervisor_agent
@@ -25,16 +24,17 @@ from config import (
 
 
 def _main():
-    with propagate_attributes(
-        user_id=USER_ID,
-        session_id=SESSION_ID,
-    ):
-        logger.info(f"Running main CSR generation pipeline as User ID: {USER_ID}, Session ID: {SESSION_ID}")
-        result = agents.Runner.run_sync(supervisor_agent,
-                                   f"Create a CSR from the provided clinical study data with a confidence score of {CONFIDENCE_THRESHOLD} using a maximum number of iterations {MAX_ITERATIONS}:\n\n" +
-                                   open(INPUT_DATA_JSON).read())
-        
-        return result.final_output
+    with langfuse_client.start_as_current_observation(as_type="span", name="process-request") as span:
+        with propagate_attributes(
+            user_id=USER_ID,
+            session_id=SESSION_ID,
+        ):
+            logger.info(f"Running main CSR generation pipeline as User ID: {USER_ID}, Session ID: {SESSION_ID}")
+            result = agents.Runner.run_sync(supervisor_agent,
+                                    f"Create a CSR from the provided clinical study data with a confidence score of {CONFIDENCE_THRESHOLD} using a maximum number of iterations {MAX_ITERATIONS}:\n\n" +
+                                    open(INPUT_DATA_JSON).read())
+            
+            return result.final_output
 
 if __name__ == "__main__":
     result = _main()
