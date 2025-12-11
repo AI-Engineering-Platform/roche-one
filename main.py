@@ -44,6 +44,4 @@ if __name__ == "__main__":
 Initial Score: {result.initial_score}
 Final Score: {result.final_score}
 Iterations: {result.iterations}
-Initial CSR Document: {result.initial_csr_document.filename}
-Final CSR Document: {result.final_csr_document.filename}
 """)
