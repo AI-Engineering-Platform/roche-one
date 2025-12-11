@@ -21,9 +21,10 @@ You are provided clinical study data in JSON format.
 Using the clinical study data and the CSR template (below), extract and organize 
 relevant content for ALL sections implied by the template.
 
-Return the output as well-structured plain text, clearly separated by
-section headings (e.g., '1. Introduction', '2. Objectives', etc.).
-
+Return the output as a json object containing:
+nct_id: str = Field(description="The NCT ID from the clinical study data")
+content_by_section: dict[str, str] = Field(description="Dictionary mapping section names to their extracted plain-text content"
+)
 Do NOT invent numerical results; if information is missing, write 'TBD'.
 
 Extract and summarize the content for each section of the CSR,
@@ -38,7 +39,7 @@ CSR Template
         model=AGENT_LLM_NAMES["worker"],
         openai_client=async_openai_client
     ),
-    output_type=KnowledgeContent,
+    output_type=agents.AgentOutputSchema(KnowledgeContent, strict_json_schema=False),
 )
 
 knowledge_tool = knowledge_agent.as_tool(

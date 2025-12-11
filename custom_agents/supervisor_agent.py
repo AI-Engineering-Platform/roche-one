@@ -17,13 +17,31 @@ supervisor_agent = agents.Agent(
     instructions="""
 You are the supervisor agent coordinating the CSR generation pipeline.
 
+**IMPORTANT: You will receive clinical study data in the user message. Extract this data and pass it to the KnowledgeExtractionTool.**
+
 Your tasks are to orchestrate the following steps:
-1) Use the KnowledgeExtractionTool to extract structured content from clinical study data.
-2) Use the DocumentComposerTool to generate an initial CSR draft (v0) from the extracted content.
-3) Iteratively improve the CSR draft to a target score, which involves:
-   - Running the ReviewerAgent to assess completeness.
-   - Running the ComplianceAgent to assess regulatory compliance.
-   - Running the ReviserAgent to revise the CSR based on feedback.
+
+1) **FIRST**: Extract the clinical study data from the user message and pass it to the KnowledgeExtractionTool.
+   - The clinical study data will be provided as JSON-like text in the user message.
+   - Call the KnowledgeExtractionTool with the full clinical study data as input.
+   - This tool will return structured content organized by CSR section.
+
+2) Use the DocumentComposerTool to generate an initial CSR draft (v0) from the extracted content returned by the KnowledgeExtractionTool.
+
+3) Iteratively improve the CSR draft to reach the target confidence score:
+   - Use the ReviewerTool to assess completeness of the current CSR.
+   - Use the ComplianceTool to assess regulatory compliance with respect to ICH E3 guidelines.
+   - Use the ReviserTool to revise the CSR based on feedback from the reviewer and compliance assessments.
+   - Repeat this cycle until reaching the target confidence score or maximum iterations.
+
+4) Return the final results including:
+   - initial_csr_document: The first generated CSR
+   - reviewer_report: Final completeness assessment
+   - compliance_report: Final compliance assessment
+   - final_csr_document: The final revised CSR
+   - initial_score: The score of the initial CSR
+   - final_score: The score of the final CSR
+   - iterations: Number of revision cycles performed
 """,
     tools=[knowledge_tool, composer_tool, reviewer_tool, compliance_tool, reviser_tool],
     model=agents.OpenAIChatCompletionsModel(

@@ -1,23 +1,37 @@
 import os
-from dataclasses import dataclass
-from utils.file_utils import read_docx_text, write_docx_text
+from utils.file_utils import write_docx_text
 from utils.logging_utils import setup_logger
 
 logger = setup_logger("CustomAgentsTypes")
 
-@dataclass
-class KnowledgeContent:
-    nct_id: str
-    content_by_section: dict[str, str]
+from pydantic import BaseModel, Field, model_validator
 
 
-@dataclass
-class CsrDocument:
-    nct_id: str
-    markdown: str
-    version: int = 0
+class KnowledgeContent(BaseModel):
+    nct_id: str = Field(description="The NCT ID from the clinical study data")
+    content_by_section: dict[str, str] = Field(
+        description="Dictionary mapping section names to their extracted content"
+    )
+    
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "nct_id": "NCT00000001",
+                "content_by_section": {
+                    "1. Introduction": "Study background...",
+                    "2. Objectives": "Primary and secondary objectives..."
+                }
+            }
+        }
 
-    def __post_init__(self):
+
+class CsrDocument(BaseModel):
+    nct_id: str = Field(description="The NCT ID of the clinical study")
+    markdown: str = Field(description="The CSR content in markdown format")
+    version: int = Field(default=0, description="Version number of the CSR")
+    
+    @model_validator(mode='after')
+    def write_to_file(self):
         logger.info("Created CsrDocument instance")
         
         if self.markdown.strip() == "":
@@ -31,25 +45,24 @@ class CsrDocument:
         return f"CSR_{self.nct_id}_v{self.version}.docx"
 
 
-@dataclass
-class SectionContent:
-    score: int
-    rationale: str
-    gaps: str
+class SectionContent(BaseModel):
+    score: int = Field(description="Compliance score for this section")
+    rationale: str = Field(description="Rationale for the score")
+    gaps: str = Field(description="Identified gaps in this section")
 
 
-@dataclass
-class ReviewerContent:
-    overall_score: int
-    section_content: dict[str, SectionContent]
+class ReviewerContent(BaseModel):
+    overall_score: int = Field(description="Overall review score")
+    section_content: dict[str, SectionContent] = Field(
+        description="Review scores and feedback for each section"
+    )
 
 
-@dataclass
-class SupervisorContent:
-    initial_csr_document: CsrDocument
-    reviewer_report: ReviewerContent
-    compliance_report: ReviewerContent
-    final_csr_document: CsrDocument
-    initial_score: int
-    final_score: int
-    iterations: int
+class SupervisorContent(BaseModel):
+    initial_csr_document: CsrDocument = Field(description="Initial generated CSR document")
+    reviewer_report: ReviewerContent = Field(description="Reviewer's assessment report")
+    compliance_report: ReviewerContent = Field(description="Compliance assessment report")
+    final_csr_document: CsrDocument = Field(description="Final revised CSR document")
+    initial_score: int = Field(description="Initial document score")
+    final_score: int = Field(description="Final document score")
+    iterations: int = Field(description="Number of revision iterations performed")

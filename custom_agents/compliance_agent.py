@@ -1,6 +1,7 @@
 # agents/compliance_agent.py
 
 import agents
+from agents import AgentOutputSchema
 
 from config import AGENT_LLM_NAMES
 from utils.agent_utils import async_openai_client
@@ -31,7 +32,7 @@ The ICH guidelines are included below:
         model=AGENT_LLM_NAMES["worker"],
         openai_client=async_openai_client
     ),
-    output_type=ReviewerContent,
+    output_type=AgentOutputSchema(ReviewerContent, strict_json_schema=False),
 )
 
 compliance_tool = compliance_agent.as_tool(

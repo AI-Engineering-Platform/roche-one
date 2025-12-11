@@ -1,6 +1,7 @@
 # agents/reviewer_agent.py
 
 import agents
+from agents import AgentOutputSchema
 
 from config import AGENT_LLM_NAMES, CSR_SAMPLE_REPORT_PATH
 from utils.agent_utils import async_openai_client
@@ -31,7 +32,7 @@ Here's an example report, although it was generated from another template:
         model=AGENT_LLM_NAMES["worker"],
         openai_client=async_openai_client
     ),
-    output_type=ReviewerContent,
+    output_type=AgentOutputSchema(ReviewerContent, strict_json_schema=False),
 )
 
 reviewer_tool = reviewer_agent.as_tool(
